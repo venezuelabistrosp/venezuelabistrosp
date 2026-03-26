@@ -169,20 +169,24 @@
             background-size: cover;
             background-position: center;
             background-repeat: no-repeat;
-            flex: 1;
+            flex-grow: 1;
+            flex-shrink: 1;
+            flex-basis: 0%;
             margin: 2px;
             border-radius: 0.75rem;
-            transition: all 0.6s cubic-bezier(0.25, 0.46, 0.45, 0.94);
+            transition: flex-grow 0.6s cubic-bezier(0.25, 0.46, 0.45, 0.94);
             cursor: pointer;
             overflow: hidden;
-            min-height: 60px;
+            min-height: 80px; /* Safer for touch */
+            display: flex;
+            align-items: flex-end;
         }
         
         @media (hover: hover) {
-            .history-panel:hover { flex: 4; }
+            .history-panel:hover { flex-grow: 4; }
             .history-panel:hover .history-panel-overlay { opacity: 1; transform: translateY(0); }
         }
-        .history-panel.active { flex: 4; }
+        .history-panel.active { flex-grow: 5; }
         .history-panel-overlay {
             position: absolute;
             bottom: 0; left: 0; right: 0;
@@ -349,19 +353,19 @@
                     <div class="absolute bottom-0 right-0 w-16 h-16 border-b-4 border-r-4 border-ven-red -mb-3 -mr-3 z-0"></div>
                    
                     <div class="history-accordion relative z-10 w-[95%] mx-auto md:w-full">
-                        <div class="history-panel active" onclick="activateHistoryPanel(this)" style="background-image: url('historia.jpg');">
+                        <div class="history-panel active" style="background-image: url('historia.jpg');">
                             <div class="history-panel-overlay">
                                 <h4 class="font-bold text-lg mb-1 drop-shadow-md" data-i18n="hist_acc_1_title">Tradição</h4>
                                 <p class="text-xs text-gray-200" data-i18n="hist_acc_1_desc">Massa feita à mão todos os dias.</p>
                             </div>
                         </div>
-                        <div class="history-panel" onclick="activateHistoryPanel(this)" style="background-image: url('reina_historia.jpg');">
+                        <div class="history-panel" style="background-image: url('reina_historia.jpg');">
                             <div class="history-panel-overlay">
                                 <h4 class="font-bold text-lg mb-1 drop-shadow-md" data-i18n="hist_acc_2_title">Reina Pepeada</h4>
                                 <p class="text-xs text-gray-200" data-i18n="hist_acc_2_desc">A nossa arepa mais famosa.</p>
                             </div>
                         </div>
-                        <div class="history-panel" onclick="activateHistoryPanel(this)" style="background-image: url('historia_3.jpg');">
+                        <div class="history-panel" style="background-image: url('historia_3.jpg');">
                             <div class="history-panel-overlay">
                                 <h4 class="font-bold text-lg mb-1 drop-shadow-md" data-i18n="hist_acc_3_title">Bem-vindo</h4>
                                 <p class="text-xs text-gray-200" data-i18n="hist_acc_3_desc">Seu cantinho venezuelano em SP.</p>
