@@ -36,8 +36,6 @@
             --venezuela-yellow: #FFCC00;
             --venezuela-blue: #00247D;
             --venezuela-red: #CF142B;
-            --whatsapp-green: #25D366;
-            --whatsapp-dark: #128C7E;
         }
        
         body {
@@ -132,9 +130,12 @@
         .hero-background {
             background-image: url('Cover.jpg');
             background-size: cover;
-            background-position: center center;
+            background-position: 70% center; /* Optimizado para móvil */
             background-repeat: no-repeat;
             background-color: var(--venezuela-blue);
+        }
+        @media (min-width: 768px) {
+            .hero-background { background-position: center center; }
         }
         .hero-overlay { background: linear-gradient(to right, rgba(0,0,0,0.8) 0%, rgba(0,0,0,0.4) 100%); }
 
@@ -148,14 +149,19 @@
             background-color: rgba(255, 255, 255, 0.98);
         }
 
+        /* Acordeón optimizado para móvil y touch */
         .history-accordion {
             display: flex;
             width: 100%;
-            height: 400px;
+            height: 500px;
             overflow: hidden;
             border-radius: 1rem;
             box-shadow: 0 25px 50px -12px rgba(0, 0, 0, 0.25);
             background-color: #f3f4f6;
+            flex-direction: column;
+        }
+        @media (min-width: 768px) {
+            .history-accordion { flex-direction: row; height: 400px; }
         }
         .history-panel {
             position: relative;
@@ -168,6 +174,7 @@
             transition: all 0.6s cubic-bezier(0.25, 0.46, 0.45, 0.94);
             cursor: pointer;
             overflow: hidden;
+            height: 100%;
         }
         
         @media (hover: hover) {
@@ -179,19 +186,17 @@
             position: absolute;
             bottom: 0; left: 0; right: 0;
             background: linear-gradient(to top, rgba(0,0,0,0.9) 0%, rgba(0,0,0,0.5) 50%, transparent 100%);
-            padding: 30px 20px 20px;
+            padding: 20px 15px;
             opacity: 0;
             transform: translateY(20px);
             transition: all 0.5s ease-in-out 0.1s;
             color: white;
-            white-space: nowrap;
+            white-space: normal;
+        }
+        @media (min-width: 768px) {
+            .history-panel-overlay { padding: 30px 20px 20px; white-space: nowrap; }
         }
         .history-panel.active .history-panel-overlay { opacity: 1; transform: translateY(0); }
-        @media (max-width: 768px) {
-            .history-accordion { flex-direction: column; height: 500px; }
-            .history-panel { margin: 2px 0; }
-            .history-panel-overlay { white-space: normal; }
-        }
         
         .portion-tag {
             display: inline-block;
@@ -279,23 +284,23 @@
                 Arepas, empanadas, cachapas e mais. Feitas à mão com amor e tradição.
             </p>
            
-            <div class="flex flex-col sm:flex-row items-start sm:items-center gap-4">
-                <button onclick="document.getElementById('promos-section').scrollIntoView({behavior: 'smooth'})" class="btn-primary text-white font-bold py-3 px-8 rounded-full shadow-lg transform transition hover:scale-105 flex items-center justify-center gap-2 text-sm md:text-base">
+            <div class="flex flex-col sm:flex-row items-start sm:items-center gap-4 w-full sm:w-auto">
+                <button onclick="document.getElementById('promos-section').scrollIntoView({behavior: 'smooth'})" class="btn-primary text-white font-bold py-3 px-8 rounded-full shadow-lg transform transition hover:scale-105 flex items-center justify-center gap-2 text-sm md:text-base w-full sm:w-auto">
                     <span data-i18n="btn_view_menu">Ver Cardápio</span> 
                     <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="w-5 h-5"><path d="M3 2v7c0 1.1.9 2 2 2h4a2 2 0 0 0 2-2V2"/><path d="M7 2v20"/><path d="M21 15V2a5 5 0 0 0-5 5v6c0 1.1.9 2 2 2h3Zm0 0v7"/><path d="m15 17 6-6"/></svg>
                 </button>
                 
-                <div class="flex flex-wrap items-center gap-2 sm:gap-3 bg-white/10 p-1.5 rounded-full backdrop-blur-sm border border-white/20 w-fit">
-                    <a href="https://www.ifood.com.br/delivery/sao-paulo-sp/venezuela-bistro-sp-pirituba/d92a890e-00b0-4a0e-8f6e-801d405af09c" target="_blank" class="bg-white text-gray-900 font-bold py-2.5 px-5 rounded-full shadow-md hover:bg-gray-100 transition flex items-center justify-center gap-2 text-sm transform hover:scale-105">
-                        <img src="logo-ifood.png" onerror="this.onerror=null; this.src='logo-ifood.jpg';" alt="iFood" class="h-5 w-auto object-contain">
+                <div class="flex flex-wrap items-center gap-2 bg-white/10 p-1.5 rounded-full backdrop-blur-sm border border-white/20 w-full sm:w-fit justify-center sm:justify-start">
+                    <a href="https://www.ifood.com.br/delivery/sao-paulo-sp/venezuela-bistro-sp-pirituba/d92a890e-00b0-4a0e-8f6e-801d405af09c" target="_blank" class="bg-white text-gray-900 font-bold py-2.5 px-4 rounded-full shadow-md hover:bg-gray-100 transition flex items-center justify-center gap-2 text-xs transform hover:scale-105 flex-shrink-0">
+                        <img src="logo-ifood.png" onerror="this.onerror=null; this.src='logo-ifood.jpg';" alt="iFood" class="h-4 w-auto object-contain">
                         ifood
                     </a>
-                    <a href="https://oia.99app.com/dlp9/d7J7t5?share_media=WHATSAPP" target="_blank" class="bg-white text-gray-900 font-bold py-2.5 px-5 rounded-full shadow-md hover:bg-gray-100 transition flex items-center justify-center gap-1.5 text-sm transform hover:scale-105">
-                        <img src="logo-99.png" onerror="this.onerror=null; this.src='logo-99.jpg';" alt="99" class="h-5 w-auto object-contain rounded-sm">
+                    <a href="https://oia.99app.com/dlp9/d7J7t5?share_media=WHATSAPP" target="_blank" class="bg-white text-gray-900 font-bold py-2.5 px-4 rounded-full shadow-md hover:bg-gray-100 transition flex items-center justify-center gap-1.5 text-xs transform hover:scale-105 flex-shrink-0">
+                        <img src="logo-99.png" onerror="this.onerror=null; this.src='logo-99.jpg';" alt="99" class="h-4 w-auto object-contain rounded-sm">
                         food
                     </a>
-                    <a href="https://wa.me/5511990270534" target="_blank" class="bg-[#25D366] text-white font-bold py-2.5 px-5 rounded-full shadow-md hover:bg-green-600 transition flex items-center justify-center gap-2 text-sm transform hover:scale-105">
-                        <i data-lucide="message-circle" class="w-5 h-5"></i>
+                    <a href="https://wa.me/5511990270534" target="_blank" class="bg-[#25D366] text-white font-bold py-2.5 px-4 rounded-full shadow-md hover:bg-green-600 transition flex items-center justify-center gap-2 text-xs transform hover:scale-105 flex-shrink-0">
+                        <i data-lucide="message-circle" class="w-4 h-4"></i>
                         WhatsApp
                     </a>
                 </div>
@@ -304,88 +309,88 @@
     </header>
 
     <!-- Info Banner -->
-    <div class="bg-white shadow-sm border-b relative z-30 mx-auto max-w-6xl rounded-none md:rounded-xl p-6 -mt-0 md:-mt-10 grid grid-cols-1 md:grid-cols-3 gap-6">
-        <div class="flex items-center gap-4 border-b md:border-b-0 pb-4 md:pb-0">
-            <div class="bg-blue-50 p-3 rounded-full text-ven-blue">
-                <i data-lucide="map-pin"></i>
+    <div class="bg-white shadow-sm border-b relative z-30 mx-auto max-w-6xl rounded-none md:rounded-xl p-4 sm:p-6 -mt-0 md:-mt-10 grid grid-cols-1 md:grid-cols-3 gap-3 sm:gap-6">
+        <div class="flex items-center gap-3 sm:gap-4 border-b md:border-b-0 pb-3 sm:pb-0 sm:border-b-0">
+            <div class="bg-blue-50 p-2 sm:p-3 rounded-full text-ven-blue flex-shrink-0">
+                <i data-lucide="map-pin" class="w-5 h-5 sm:w-6 sm:h-6"></i>
             </div>
             <div>
-                <p class="font-bold text-gray-800" data-i18n="info_loc_title">Área de Entrega</p>
-                <p class="text-sm text-gray-600">Pirituba e Região</p>
+                <p class="font-bold text-gray-800 text-sm sm:text-base" data-i18n="info_loc_title">Área de Entrega</p>
+                <p class="text-xs sm:text-sm text-gray-600">Pirituba e Região</p>
             </div>
         </div>
-        <div class="flex items-center gap-4 border-b md:border-b-0 pb-4 md:pb-0">
-            <div class="bg-yellow-50 p-3 rounded-full text-yellow-600">
-                <i data-lucide="clock"></i>
+        <div class="flex items-center gap-3 sm:gap-4 border-b md:border-b-0 pb-3 sm:pb-0 sm:border-b-0">
+            <div class="bg-yellow-50 p-2 sm:p-3 rounded-full text-yellow-600 flex-shrink-0">
+                <i data-lucide="clock" class="w-5 h-5 sm:w-6 sm:h-6"></i>
             </div>
             <div>
-                <p class="font-bold text-gray-800" data-i18n="info_hours_title">Horário</p>
-                <p class="text-sm text-gray-600" data-i18n="info_hours_val">11:00 - 22:00 (Ter-Dom)</p>
+                <p class="font-bold text-gray-800 text-sm sm:text-base" data-i18n="info_hours_title">Horário</p>
+                <p class="text-xs sm:text-sm text-gray-600" data-i18n="info_hours_val">11:00 - 22:00 (Ter-Dom)</p>
             </div>
         </div>
-        <div class="flex items-center gap-4">
-            <div class="bg-green-50 p-3 rounded-full text-green-600">
-                <i data-lucide="truck"></i>
+        <div class="flex items-center gap-3 sm:gap-4 pb-0">
+            <div class="bg-green-50 p-2 sm:p-3 rounded-full text-green-600 flex-shrink-0">
+                <i data-lucide="truck" class="w-5 h-5 sm:w-6 sm:h-6"></i>
             </div>
             <div>
-                <p class="font-bold text-gray-800">Delivery</p>
-                <p class="text-sm text-gray-600">WhatsApp / Retirada</p>
-                <a href="https://wa.me/5511990270534" target="_blank" class="text-xs text-green-600 font-bold hover:underline">Enviar mensagem</a>
+                <p class="font-bold text-gray-800 text-sm sm:text-base">Delivery</p>
+                <p class="text-xs sm:text-sm text-gray-600">WhatsApp / Retirada</p>
+                <a href="https://wa.me/5511990270534" target="_blank" class="text-[10px] sm:text-xs text-green-600 font-bold hover:underline">Enviar mensagem</a>
             </div>
         </div>
     </div>
 
     <!-- Seção Sobre -->
-    <section id="about-us" class="py-16 bg-white overflow-hidden">
+    <section id="about-us" class="py-12 sm:py-16 bg-white overflow-hidden">
         <div class="container mx-auto px-4">
-            <div class="flex flex-col md:flex-row items-center gap-12">
+            <div class="flex flex-col md:flex-row items-center gap-8 md:gap-12">
                 <div class="md:w-1/2 relative">
-                    <div class="absolute top-0 left-0 w-20 h-20 border-t-4 border-l-4 border-ven-yellow -mt-4 -ml-4 z-0"></div>
-                    <div class="absolute bottom-0 right-0 w-20 h-20 border-b-4 border-r-4 border-ven-red -mb-4 -mr-4 z-0"></div>
+                    <div class="absolute top-0 left-0 w-16 h-16 border-t-4 border-l-4 border-ven-yellow -mt-3 -ml-3 z-0"></div>
+                    <div class="absolute bottom-0 right-0 w-16 h-16 border-b-4 border-r-4 border-ven-red -mb-3 -mr-3 z-0"></div>
                    
                     <div class="history-accordion relative z-10">
                         <div class="history-panel active" style="background-image: url('historia.jpg');">
                             <div class="history-panel-overlay">
-                                <h4 class="font-bold text-xl mb-1 drop-shadow-md" data-i18n="hist_acc_1_title">Tradição</h4>
+                                <h4 class="font-bold text-lg mb-1 drop-shadow-md" data-i18n="hist_acc_1_title">Tradição</h4>
                                 <p class="text-xs text-gray-200" data-i18n="hist_acc_1_desc">Massa feita à mão todos os dias.</p>
                             </div>
                         </div>
                         <div class="history-panel" style="background-image: url('reina_historia.jpg');">
                             <div class="history-panel-overlay">
-                                <h4 class="font-bold text-xl mb-1 drop-shadow-md" data-i18n="hist_acc_2_title">Reina Pepeada</h4>
+                                <h4 class="font-bold text-lg mb-1 drop-shadow-md" data-i18n="hist_acc_2_title">Reina Pepeada</h4>
                                 <p class="text-xs text-gray-200" data-i18n="hist_acc_2_desc">A nossa arepa mais famosa.</p>
                             </div>
                         </div>
                         <div class="history-panel" style="background-image: url('historia_3.jpg');">
                             <div class="history-panel-overlay">
-                                <h4 class="font-bold text-xl mb-1 drop-shadow-md" data-i18n="hist_acc_3_title">Bem-vindo</h4>
+                                <h4 class="font-bold text-lg mb-1 drop-shadow-md" data-i18n="hist_acc_3_title">Bem-vindo</h4>
                                 <p class="text-xs text-gray-200" data-i18n="hist_acc_3_desc">Seu cantinho venezuelano em SP.</p>
                             </div>
                         </div>
                     </div>
                 </div>
                 <div class="md:w-1/2">
-                    <span class="text-ven-blue font-bold tracking-wider text-sm uppercase mb-2 block" data-i18n="about_subtitle">Nossa História</span>
-                    <h3 class="text-3xl md:text-4xl font-bold text-gray-800 mb-6 leading-tight" data-i18n="about_title">Mais que comida, <br>é <span class="text-ven-red font-handwriting text-5xl">cultura</span>.</h3>
+                    <span class="text-ven-blue font-bold tracking-wider text-xs sm:text-sm uppercase mb-2 block" data-i18n="about_subtitle">Nossa História</span>
+                    <h3 class="text-2xl sm:text-3xl md:text-4xl font-bold text-gray-800 mb-6 leading-tight" data-i18n="about_title">Mais que comida, <br>é <span class="text-ven-red font-handwriting text-4xl sm:text-5xl">cultura</span>.</h3>
                    
-                    <div class="space-y-4 text-gray-600">
+                    <div class="space-y-3 sm:space-y-4 text-gray-600 text-sm sm:text-base">
                         <p data-i18n="about_p1">No Venezuela Bistro SP, cada prato conta uma história. Desde a farinha de milho branco pré-cozida que amassamos toda manhã, até os ensopados cozidos em fogo baixo como faziam nossas avós.</p>
                         <p data-i18n="about_p2"><strong>Você sabia?</strong> A "Reina pepeada", nossa arepa mais famosa, foi nomeada em homenagem a Susana Duijm, a primeira venezuelana a ganhar o Miss Mundo em 1955. "Pepiada" era uma forma coloquial de dizer que alguém tinha muitas curvas e era linda.</p>
                         <p data-i18n="about_p3">Queremos ser o seu cantinho venezuelano em São Paulo, levando o sabor da nossa terra até você.</p>
                     </div>
 
-                    <div class="mt-8 grid grid-cols-3 gap-4 text-center">
-                        <div class="p-4 bg-gray-50 rounded-lg">
-                            <span class="block text-2xl font-bold text-ven-blue">100%</span>
-                            <span class="text-xs text-gray-500" data-i18n="stat_auth">Autêntico</span>
+                    <div class="mt-6 sm:mt-8 grid grid-cols-3 gap-3 sm:gap-4 text-center">
+                        <div class="p-3 sm:p-4 bg-gray-50 rounded-lg">
+                            <span class="block text-xl sm:text-2xl font-bold text-ven-blue">100%</span>
+                            <span class="text-[10px] sm:text-xs text-gray-500" data-i18n="stat_auth">Autêntico</span>
                         </div>
-                        <div class="p-4 bg-gray-50 rounded-lg">
-                            <span class="block text-2xl font-bold text-ven-yellow">Daily</span>
-                            <span class="text-xs text-gray-500" data-i18n="stat_fresh">Fresco</span>
+                        <div class="p-3 sm:p-4 bg-gray-50 rounded-lg">
+                            <span class="block text-xl sm:text-2xl font-bold text-ven-yellow">Daily</span>
+                            <span class="text-[10px] sm:text-xs text-gray-500" data-i18n="stat_fresh">Fresco</span>
                         </div>
-                        <div class="p-4 bg-gray-50 rounded-lg">
-                            <span class="block text-2xl font-bold text-ven-red">4.9</span>
-                            <span class="text-xs text-gray-500" data-i18n="stat_rating">Estrellas</span>
+                        <div class="p-3 sm:p-4 bg-gray-50 rounded-lg">
+                            <span class="block text-xl sm:text-2xl font-bold text-ven-red">4.9</span>
+                            <span class="text-[10px] sm:text-xs text-gray-500" data-i18n="stat_rating">Estrellas</span>
                         </div>
                     </div>
                 </div>
@@ -394,11 +399,11 @@
     </section>
 
     <!-- SECCIÓN PROMOCIONES Y OFERTAS -->
-    <section id="promos-section" class="py-10 bg-gray-900 overflow-hidden relative shadow-[inset_0_10px_20px_rgba(0,0,0,0.3)] border-b-4 border-ven-yellow">
+    <section id="promos-section" class="py-8 sm:py-10 bg-gray-900 overflow-hidden relative shadow-[inset_0_10px_20px_rgba(0,0,0,0.3)] border-b-4 border-ven-yellow">
         <div class="container mx-auto px-4 relative z-10">
-            <div class="flex items-center justify-between mb-4">
-                <h3 class="text-2xl md:text-3xl font-bold text-white flex items-center gap-2">
-                    <i data-lucide="flame" class="text-ven-yellow w-8 h-8"></i> <span data-i18n="promo_title">Ofertas Especiais</span>
+            <div class="flex items-center justify-between mb-3 sm:mb-4">
+                <h3 class="text-xl sm:text-2xl md:text-3xl font-bold text-white flex items-center gap-2">
+                    <i data-lucide="flame" class="text-ven-yellow w-7 h-7 sm:w-8 sm:h-8"></i> <span data-i18n="promo_title">Ofertas Especiais</span>
                 </h3>
             </div>
 
@@ -408,25 +413,25 @@
                     
                     <!-- Slide 1: Combo Experiencia 1 (-52%) -->
                     <div class="w-full flex-shrink-0 flex flex-col md:flex-row relative bg-gray-900 border-r border-gray-800">
-                        <div class="w-full md:w-1/3 h-40 md:h-full relative overflow-hidden bg-black">
+                        <div class="w-full md:w-1/3 h-40 md:h-full relative overflow-hidden bg-black flex-shrink-0">
                             <img src="promo_combo_1.jpg" onerror="this.src='https://images.unsplash.com/photo-1615719413546-198b25453f85?ixlib=rb-1.2.1&auto=format&fit=crop&w=800&q=80'" class="w-full h-full object-cover transform hover:scale-110 transition duration-700">
                             <div class="absolute inset-0 bg-gradient-to-t from-black/80 to-transparent md:hidden"></div>
-                            <div class="absolute top-3 left-3 bg-ven-red text-white font-black px-3 py-1 rounded-lg text-sm md:text-base shadow-lg border border-white/20 animate-pulse z-10">
+                            <div class="absolute top-2 left-2 sm:top-3 sm:left-3 bg-ven-red text-white font-black px-2 py-0.5 sm:px-3 sm:py-1 rounded-md sm:rounded-lg text-xs md:text-base shadow-lg border border-white/20 animate-pulse z-10">
                                 -52% OFF
                             </div>
                         </div>
-                        <div class="w-full md:w-2/3 p-5 md:p-8 flex flex-col justify-center">
-                            <span class="text-ven-yellow font-bold text-xs tracking-wider uppercase mb-1" data-i18n="promo_tag">Por Tempo Limitado</span>
-                            <h4 class="text-2xl md:text-3xl font-bold text-white mb-2 leading-tight" data-i18n="name_combo_1">Experiências Venezuelanas 1</h4>
-                            <p class="text-gray-300 text-sm md:text-base mb-4 line-clamp-2" data-i18n="promo_desc_short_1">Uma seleção especial para você conhecer os sabores mais tradicionais da Venezuela em um único pedido.</p>
+                        <div class="w-full md:w-2/3 p-4 sm:p-5 md:p-8 flex flex-col justify-center">
+                            <span class="text-ven-yellow font-bold text-[10px] sm:text-xs tracking-wider uppercase mb-1" data-i18n="promo_tag">Por Tempo Limitado</span>
+                            <h4 class="text-lg sm:text-2xl md:text-3xl font-bold text-white mb-1.5 sm:mb-2 leading-tight" data-i18n="name_combo_1">Experiências Venezuelanas 1</h4>
+                            <p class="text-gray-300 text-xs sm:text-sm md:text-base mb-3 sm:mb-4 line-clamp-2" data-i18n="promo_desc_short_1">Uma seleção especial para você conhecer os sabores mais tradicionais da Venezuela em um único pedido.</p>
                             
-                            <div class="flex flex-col md:flex-row md:items-end justify-between mt-auto">
-                                <div class="bg-gray-800 border border-gray-700 rounded-xl p-3 inline-block w-max mb-4 md:mb-0 shadow-inner">
-                                    <del class="text-gray-400 text-xs md:text-sm font-bold block mb-1">De: R$ 75,00</del>
-                                    <span class="text-3xl font-black text-ven-yellow leading-none">R$ 35,90</span>
+                            <div class="flex flex-col md:flex-row md:items-end justify-between mt-auto gap-3 sm:gap-0">
+                                <div class="bg-gray-800 border border-gray-700 rounded-lg sm:rounded-xl p-2.5 sm:p-3 inline-block w-full sm:w-max mb-0 md:mb-0 shadow-inner">
+                                    <del class="text-gray-400 text-[10px] sm:text-xs md:text-sm font-bold block mb-1">De: R$ 75,00</del>
+                                    <span class="text-2xl sm:text-3xl font-black text-ven-yellow leading-none whitespace-nowrap">R$ 35,90</span>
                                 </div>
-                                <button onclick="goToCombos()" class="bg-ven-red text-white py-3 px-6 rounded-full font-bold hover:bg-ven-yellow hover:text-gray-900 transition-colors flex items-center justify-center gap-2 text-sm md:text-base shadow-lg h-max w-full md:w-auto">
-                                    <span data-i18n="btn_more_info">Mais Informações</span> <i data-lucide="arrow-right-circle" class="w-5 h-5"></i>
+                                <button onclick="goToCombos()" class="bg-ven-red text-white py-2 sm:py-3 px-4 sm:px-6 rounded-lg sm:rounded-full font-bold hover:bg-ven-yellow hover:text-gray-900 transition-colors flex items-center justify-center gap-1.5 sm:gap-2 text-xs sm:text-sm md:text-base shadow-lg h-max w-full md:w-auto flex-shrink-0">
+                                    <span data-i18n="btn_more_info">Mais Informações</span> <i data-lucide="arrow-right-circle" class="w-4 h-4 sm:w-5 sm:h-5"></i>
                                 </button>
                             </div>
                         </div>
@@ -434,25 +439,25 @@
 
                     <!-- Slide 2: Combo 2 Empanadas (-29%) -->
                     <div class="w-full flex-shrink-0 flex flex-col md:flex-row relative bg-gray-900 border-r border-gray-800">
-                        <div class="w-full md:w-1/3 h-40 md:h-full relative overflow-hidden bg-black">
+                        <div class="w-full md:w-1/3 h-40 md:h-full relative overflow-hidden bg-black flex-shrink-0">
                             <img src="promo_combo_2.jpg" onerror="this.src='https://images.unsplash.com/photo-1628840042765-356cda07504e?ixlib=rb-1.2.1&auto=format&fit=crop&w=800&q=80'" class="w-full h-full object-cover transform hover:scale-110 transition duration-700">
                             <div class="absolute inset-0 bg-gradient-to-t from-black/80 to-transparent md:hidden"></div>
-                            <div class="absolute top-3 left-3 bg-ven-red text-white font-black px-3 py-1 rounded-lg text-sm md:text-base shadow-lg border border-white/20 animate-pulse z-10">
+                            <div class="absolute top-2 left-2 sm:top-3 sm:left-3 bg-ven-red text-white font-black px-2 py-0.5 sm:px-3 sm:py-1 rounded-md sm:rounded-lg text-xs md:text-base shadow-lg border border-white/20 animate-pulse z-10">
                                 -29% OFF
                             </div>
                         </div>
-                        <div class="w-full md:w-2/3 p-5 md:p-8 flex flex-col justify-center">
-                            <span class="text-ven-yellow font-bold text-xs tracking-wider uppercase mb-1" data-i18n="promo_tag">Por Tempo Limitado</span>
-                            <h4 class="text-2xl md:text-3xl font-bold text-white mb-2 leading-tight" data-i18n="name_combo_2">Combo 2 Empanadas + Papelón (Grátis)</h4>
-                            <p class="text-gray-300 text-sm md:text-base mb-4 line-clamp-2" data-i18n="desc_combo_2_short">Duas empanadas venezuelanas douradas acompanhadas de um refrescante papelón com limão 300 ml grátis.</p>
+                        <div class="w-full md:w-2/3 p-4 sm:p-5 md:p-8 flex flex-col justify-center">
+                            <span class="text-ven-yellow font-bold text-[10px] sm:text-xs tracking-wider uppercase mb-1" data-i18n="promo_tag">Por Tempo Limitado</span>
+                            <h4 class="text-lg sm:text-2xl md:text-3xl font-bold text-white mb-1.5 sm:mb-2 leading-tight" data-i18n="name_combo_2">Combo 2 Empanadas + Papelón (Grátis)</h4>
+                            <p class="text-gray-300 text-xs sm:text-sm md:text-base mb-3 sm:mb-4 line-clamp-2" data-i18n="desc_combo_2_short">Duas empanadas venezuelanas douradas acompanhadas de um refrescante papelón com limão 300 ml grátis.</p>
                             
-                            <div class="flex flex-col md:flex-row md:items-end justify-between mt-auto">
-                                <div class="bg-gray-800 border border-gray-700 rounded-xl p-3 inline-block w-max mb-4 md:mb-0 shadow-inner">
-                                    <del class="text-gray-400 text-xs md:text-sm font-bold block mb-1">De: R$ 55,00</del>
-                                    <span class="text-3xl font-black text-ven-yellow leading-none">R$ 39,00</span>
+                            <div class="flex flex-col md:flex-row md:items-end justify-between mt-auto gap-3 sm:gap-0">
+                                <div class="bg-gray-800 border border-gray-700 rounded-lg sm:rounded-xl p-2.5 sm:p-3 inline-block w-full sm:w-max mb-0 md:mb-0 shadow-inner">
+                                    <del class="text-gray-400 text-[10px] sm:text-xs md:text-sm font-bold block mb-1">De: R$ 55,00</del>
+                                    <span class="text-2xl sm:text-3xl font-black text-ven-yellow leading-none whitespace-nowrap">R$ 39,00</span>
                                 </div>
-                                <button onclick="goToCombos()" class="bg-ven-red text-white py-3 px-6 rounded-full font-bold hover:bg-ven-yellow hover:text-gray-900 transition-colors flex items-center justify-center gap-2 text-sm md:text-base shadow-lg h-max w-full md:w-auto">
-                                    <span data-i18n="btn_more_info">Mais Informações</span> <i data-lucide="arrow-right-circle" class="w-5 h-5"></i>
+                                <button onclick="goToCombos()" class="bg-ven-red text-white py-2 sm:py-3 px-4 sm:px-6 rounded-lg sm:rounded-full font-bold hover:bg-ven-yellow hover:text-gray-900 transition-colors flex items-center justify-center gap-1.5 sm:gap-2 text-xs sm:text-sm md:text-base shadow-lg h-max w-full md:w-auto flex-shrink-0">
+                                    <span data-i18n="btn_more_info">Mais Informações</span> <i data-lucide="arrow-right-circle" class="w-4 h-4 sm:w-5 sm:h-5"></i>
                                 </button>
                             </div>
                         </div>
@@ -460,25 +465,25 @@
 
                     <!-- Slide 3: Combo Caracas (-30%) -->
                     <div class="w-full flex-shrink-0 flex flex-col md:flex-row relative bg-gray-900 border-r border-gray-800">
-                        <div class="w-full md:w-1/3 h-40 md:h-full relative overflow-hidden bg-black">
+                        <div class="w-full md:w-1/3 h-40 md:h-full relative overflow-hidden bg-black flex-shrink-0">
                             <img src="promo_combo_3.jpg" onerror="this.src='https://images.unsplash.com/photo-1606525437678-a400f2e34774?ixlib=rb-1.2.1&auto=format&fit=crop&w=800&q=80'" class="w-full h-full object-cover transform hover:scale-110 transition duration-700">
                             <div class="absolute inset-0 bg-gradient-to-t from-black/80 to-transparent md:hidden"></div>
-                            <div class="absolute top-3 left-3 bg-ven-red text-white font-black px-3 py-1 rounded-lg text-sm md:text-base shadow-lg border border-white/20 animate-pulse z-10" data-i18n="badge_promo_30">
+                            <div class="absolute top-2 left-2 sm:top-3 sm:left-3 bg-ven-red text-white font-black px-2 py-0.5 sm:px-3 sm:py-1 rounded-md sm:rounded-lg text-xs md:text-base shadow-lg border border-white/20 animate-pulse z-10" data-i18n="badge_promo_30">
                                 -30% OFF
                             </div>
                         </div>
-                        <div class="w-full md:w-2/3 p-5 md:p-8 flex flex-col justify-center">
-                            <span class="text-ven-yellow font-bold text-xs tracking-wider uppercase mb-1" data-i18n="promo_tag">Por Tempo Limitado</span>
-                            <h4 class="text-2xl md:text-3xl font-bold text-white mb-2 leading-tight" data-i18n="name_combo_3">Combo Caracas</h4>
-                            <p class="text-gray-300 text-sm md:text-base mb-4 line-clamp-2" data-i18n="desc_combo_3_short">A combinação perfeita! 1 Cachapa tradicional com queijo, 4 Tequeños, Papelón com limão e Salsa Guasacaca.</p>
+                        <div class="w-full md:w-2/3 p-4 sm:p-5 md:p-8 flex flex-col justify-center">
+                            <span class="text-ven-yellow font-bold text-[10px] sm:text-xs tracking-wider uppercase mb-1" data-i18n="promo_tag">Por Tempo Limitado</span>
+                            <h4 class="text-lg sm:text-2xl md:text-3xl font-bold text-white mb-1.5 sm:mb-2 leading-tight" data-i18n="name_combo_3">Combo Caracas</h4>
+                            <p class="text-gray-300 text-xs sm:text-sm md:text-base mb-3 sm:mb-4 line-clamp-2" data-i18n="desc_combo_3_short">A combinação perfeita! 1 Cachapa tradicional com queijo, 4 Tequeños, Papelón com limão e Salsa Guasacaca.</p>
                             
-                            <div class="flex flex-col md:flex-row md:items-end justify-between mt-auto">
-                                <div class="bg-gray-800 border border-gray-700 rounded-xl p-3 inline-block w-max mb-4 md:mb-0 shadow-inner">
-                                    <del class="text-gray-400 text-xs md:text-sm font-bold block mb-1">De: R$ 70,00</del>
-                                    <span class="text-3xl font-black text-ven-yellow leading-none">R$ 49,90</span>
+                            <div class="flex flex-col md:flex-row md:items-end justify-between mt-auto gap-3 sm:gap-0">
+                                <div class="bg-gray-800 border border-gray-700 rounded-lg sm:rounded-xl p-2.5 sm:p-3 inline-block w-full sm:w-max mb-0 md:mb-0 shadow-inner">
+                                    <del class="text-gray-400 text-[10px] sm:text-xs md:text-sm font-bold block mb-1">De: R$ 70,00</del>
+                                    <span class="text-2xl sm:text-3xl font-black text-ven-yellow leading-none whitespace-nowrap">R$ 49,90</span>
                                 </div>
-                                <button onclick="goToCombos()" class="bg-ven-yellow text-gray-900 py-3 px-5 rounded-full font-black hover:bg-white hover:text-ven-blue transition-all flex items-center justify-center gap-2 text-sm md:text-base shadow-lg h-max w-full md:w-auto">
-                                    <span data-i18n="btn_more_info">Mais Informações</span> <i data-lucide="arrow-right-circle" class="w-5 h-5 text-ven-blue"></i>
+                                <button onclick="goToCombos()" class="bg-ven-yellow text-gray-900 py-2 sm:py-3 px-4 sm:px-6 rounded-lg sm:rounded-full font-black hover:bg-white hover:text-ven-blue transition-all flex items-center justify-center gap-1.5 sm:gap-2 text-xs sm:text-sm md:text-base shadow-lg h-max w-full md:w-auto flex-shrink-0">
+                                    <span data-i18n="btn_more_info">Mais Informações</span> <i data-lucide="arrow-right-circle" class="w-4 h-4 sm:w-5 sm:h-5 text-ven-blue"></i>
                                 </button>
                             </div>
                         </div>
@@ -486,25 +491,25 @@
 
                     <!-- Slide 4: Combo Llanero (-18%) -->
                     <div class="w-full flex-shrink-0 flex flex-col md:flex-row relative bg-gray-900 border-r border-gray-800">
-                        <div class="w-full md:w-1/3 h-40 md:h-full relative overflow-hidden bg-black">
+                        <div class="w-full md:w-1/3 h-40 md:h-full relative overflow-hidden bg-black flex-shrink-0">
                             <img src="promo_combo_llanero.jpg" onerror="this.src='https://images.unsplash.com/photo-1543339308-43e59d6b73a6?ixlib=rb-1.2.1&auto=format&fit=crop&w=800&q=80'" class="w-full h-full object-cover transform hover:scale-110 transition duration-700">
                             <div class="absolute inset-0 bg-gradient-to-t from-black/80 to-transparent md:hidden"></div>
-                            <div class="absolute top-3 left-3 bg-ven-red text-white font-black px-3 py-1 rounded-lg text-sm md:text-base shadow-lg border border-white/20 animate-pulse z-10" data-i18n="badge_promo_18">
+                            <div class="absolute top-2 left-2 sm:top-3 sm:left-3 bg-ven-red text-white font-black px-2 py-0.5 sm:px-3 sm:py-1 rounded-md sm:rounded-lg text-xs md:text-base shadow-lg border border-white/20 animate-pulse z-10" data-i18n="badge_promo_18">
                                 -18% OFF
                             </div>
                         </div>
-                        <div class="w-full md:w-2/3 p-5 md:p-8 flex flex-col justify-center">
-                            <span class="text-ven-yellow font-bold text-xs tracking-wider uppercase mb-1" data-i18n="promo_tag">Por Tempo Limitado</span>
-                            <h4 class="text-2xl md:text-3xl font-bold text-white mb-2 leading-tight" data-i18n="name_combo_4">Combo Llanero</h4>
-                            <p class="text-gray-300 text-sm md:text-base mb-4 line-clamp-2" data-i18n="desc_combo_4_short">Prepare-se para salivar: cachapa com muito queijo, coberta com suculentos pedaços de cochino frito + Papelón com limão + Guasacaca.</p>
+                        <div class="w-full md:w-2/3 p-4 sm:p-5 md:p-8 flex flex-col justify-center">
+                            <span class="text-ven-yellow font-bold text-[10px] sm:text-xs tracking-wider uppercase mb-1" data-i18n="promo_tag">Por Tempo Limitado</span>
+                            <h4 class="text-lg sm:text-2xl md:text-3xl font-bold text-white mb-1.5 sm:mb-2 leading-tight" data-i18n="name_combo_4">Combo Llanero</h4>
+                            <p class="text-gray-300 text-xs sm:text-sm md:text-base mb-3 sm:mb-4 line-clamp-2" data-i18n="desc_combo_4_short">Prepare-se para salivar: cachapa com muito queijo, coberta com suculentos pedaços de cochino frito + Papelón com limão + Guasacaca.</p>
                             
-                            <div class="flex flex-col md:flex-row md:items-end justify-between mt-auto">
-                                <div class="bg-gray-800 border border-gray-700 rounded-xl p-3 inline-block w-max mb-4 md:mb-0 shadow-inner">
-                                    <del class="text-gray-400 text-xs md:text-sm font-bold block mb-1">De: R$ 55,00</del>
-                                    <span class="text-3xl font-black text-ven-yellow leading-none">R$ 44,90</span>
+                            <div class="flex flex-col md:flex-row md:items-end justify-between mt-auto gap-3 sm:gap-0">
+                                <div class="bg-gray-800 border border-gray-700 rounded-lg sm:rounded-xl p-2.5 sm:p-3 inline-block w-full sm:w-max mb-0 md:mb-0 shadow-inner">
+                                    <del class="text-gray-400 text-[10px] sm:text-xs md:text-sm font-bold block mb-1">De: R$ 55,00</del>
+                                    <span class="text-2xl sm:text-3xl font-black text-ven-yellow leading-none whitespace-nowrap">R$ 44,90</span>
                                 </div>
-                                <button onclick="goToCombos()" class="bg-ven-red text-white py-3 px-5 rounded-full font-black hover:bg-ven-yellow hover:text-gray-900 transition-colors flex items-center justify-center gap-2 text-sm md:text-base shadow-lg h-max w-full md:w-auto">
-                                    <span data-i18n="btn_more_info">Mais Informações</span> <i data-lucide="arrow-right-circle" class="w-5 h-5"></i>
+                                <button onclick="goToCombos()" class="bg-ven-red text-white py-2 sm:py-3 px-4 sm:px-6 rounded-lg sm:rounded-full font-black hover:bg-ven-yellow hover:text-gray-900 transition-colors flex items-center justify-center gap-1.5 sm:gap-2 text-xs sm:text-sm md:text-base shadow-lg h-max w-full md:w-auto flex-shrink-0">
+                                    <span data-i18n="btn_more_info">Mais Informações</span> <i data-lucide="arrow-right-circle" class="w-4 h-4 sm:w-5 sm:h-5"></i>
                                 </button>
                             </div>
                         </div>
@@ -512,59 +517,58 @@
 
                 </div>
 
-                <!-- Controles de Navegación Lateral Siempre Visibles -->
-                <button id="prev-promo" class="absolute left-2 md:left-4 top-1/2 transform -translate-y-1/2 bg-gray-900 text-ven-yellow hover:bg-ven-red hover:text-white p-2 md:p-3 rounded-full shadow-[0_4px_15px_rgba(0,0,0,0.6)] z-30 transition-all border-2 border-ven-yellow flex items-center justify-center cursor-pointer" title="Anterior">
-                    <i data-lucide="chevron-left" class="w-6 h-6 md:w-8 md:h-8"></i>
+                <button id="prev-promo" class="absolute left-2 md:left-4 top-1/2 transform -translate-y-1/2 bg-gray-900 text-ven-yellow hover:bg-ven-red hover:text-white p-1 sm:p-2 md:p-3 rounded-full shadow-[0_4px_15px_rgba(0,0,0,0.6)] z-30 transition-all border-2 border-ven-yellow flex items-center justify-center cursor-pointer" title="Anterior">
+                    <i data-lucide="chevron-left" class="w-5 h-5 sm:w-6 sm:h-6 md:w-8 md:h-8"></i>
                 </button>
-                <button id="next-promo" class="absolute right-2 md:right-4 top-1/2 transform -translate-y-1/2 bg-gray-900 text-ven-yellow hover:bg-ven-red hover:text-white p-2 md:p-3 rounded-full shadow-[0_4px_15px_rgba(0,0,0,0.6)] z-30 transition-all border-2 border-ven-yellow flex items-center justify-center cursor-pointer" title="Siguiente">
-                    <i data-lucide="chevron-right" class="w-6 h-6 md:w-8 md:h-8"></i>
+                <button id="next-promo" class="absolute right-2 md:right-4 top-1/2 transform -translate-y-1/2 bg-gray-900 text-ven-yellow hover:bg-ven-red hover:text-white p-1 sm:p-2 md:p-3 rounded-full shadow-[0_4px_15px_rgba(0,0,0,0.6)] z-30 transition-all border-2 border-ven-yellow flex items-center justify-center cursor-pointer" title="Siguiente">
+                    <i data-lucide="chevron-right" class="w-5 h-5 sm:w-6 sm:h-6 md:w-8 md:h-8"></i>
                 </button>
             </div>
         </div>
     </section>
 
     <!-- Seção de Cardápio -->
-    <section id="menu-section" class="py-16 pattern-bg scroll-mt-20">
+    <section id="menu-section" class="py-12 sm:py-16 pattern-bg scroll-mt-20">
         <div class="container mx-auto px-4">
-            <div class="text-center mb-12">
-                <h3 class="text-3xl font-bold text-gray-800 mb-2" data-i18n="menu_title">Nosso Cardápio</h3>
+            <div class="text-center mb-10 sm:mb-12">
+                <h3 class="text-2xl sm:text-3xl font-bold text-gray-800 mb-2" data-i18n="menu_title">Nosso Cardápio</h3>
                 <div class="h-1 w-20 bg-ven-red mx-auto rounded"></div>
             </div>
 
-            <!-- Categorias -->
-            <div class="flex justify-center gap-3 mb-10 overflow-x-auto py-2 px-4 scrollbar-hide">
-                <button class="category-tab active whitespace-nowrap px-6 py-2 rounded-full font-bold text-sm shadow-sm" data-category="combos" data-i18n="cat_combos">Combos & Promo</button>
-                <button class="category-tab whitespace-nowrap px-6 py-2 rounded-full font-bold text-sm bg-gray-200 text-gray-700 shadow-sm" data-category="arepas">Arepas</button>
-                <button class="category-tab whitespace-nowrap px-6 py-2 rounded-full font-bold text-sm bg-gray-200 text-gray-700 shadow-sm" data-category="empanadas">Empanadas</button>
-                <button class="category-tab whitespace-nowrap px-6 py-2 rounded-full font-bold text-sm bg-gray-200 text-gray-700 shadow-sm" data-category="tequenos" data-i18n="cat_tequenos">Tequeños</button>
-                <button class="category-tab whitespace-nowrap px-6 py-2 rounded-full font-bold text-sm bg-gray-200 text-gray-700 shadow-sm" data-category="cachapas" data-i18n="cat_cachapas">Cachapas</button>
-                <button class="category-tab whitespace-nowrap px-6 py-2 rounded-full font-bold text-sm bg-gray-200 text-gray-700 shadow-sm" data-category="bebidas" data-i18n="cat_drinks">Bebidas</button>
+            <!-- Categorias (Optimizadas para Móvil sin cortes) -->
+            <div class="flex justify-start sm:justify-center gap-2 sm:gap-3 mb-8 sm:mb-10 overflow-x-auto py-2 px-1 sm:px-4 scrollbar-hide">
+                <button class="category-tab active whitespace-nowrap px-4 sm:px-6 py-2 rounded-full font-bold text-[11px] sm:text-sm shadow-sm" data-category="combos" data-i18n="cat_combos">Combos & Promo</button>
+                <button class="category-tab whitespace-nowrap px-4 sm:px-6 py-2 rounded-full font-bold text-[11px] sm:text-sm bg-gray-200 text-gray-700 shadow-sm" data-category="arepas">Arepas</button>
+                <button class="category-tab whitespace-nowrap px-4 sm:px-6 py-2 rounded-full font-bold text-[11px] sm:text-sm bg-gray-200 text-gray-700 shadow-sm" data-category="empanadas">Empanadas</button>
+                <button class="category-tab whitespace-nowrap px-4 sm:px-6 py-2 rounded-full font-bold text-[11px] sm:text-sm bg-gray-200 text-gray-700 shadow-sm" data-category="tequenos" data-i18n="cat_tequenos">Tequeños</button>
+                <button class="category-tab whitespace-nowrap px-4 sm:px-6 py-2 rounded-full font-bold text-[11px] sm:text-sm bg-gray-200 text-gray-700 shadow-sm" data-category="cachapas" data-i18n="cat_cachapas">Cachapas</button>
+                <button class="category-tab whitespace-nowrap px-4 sm:px-6 py-2 rounded-full font-bold text-[11px] sm:text-sm bg-gray-200 text-gray-700 shadow-sm" data-category="bebidas" data-i18n="cat_drinks">Bebidas</button>
             </div>
 
             <!-- Grid de Itens -->
             <div id="menu-container">
 
                 <!-- SEÇÃO COMBOS -->
-                <div id="combos-section" class="menu-section grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-8">
+                <div id="combos-section" class="menu-section grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6 sm:gap-8">
                     <!-- Combo 1 -->
                     <div class="bg-white rounded-2xl overflow-hidden shadow-md card-hover group flex flex-col border-2 border-ven-red">
-                        <div class="h-64 bg-gray-100 flex items-center justify-center relative overflow-hidden flex-shrink-0">
+                        <div class="h-56 sm:h-64 bg-gray-100 flex items-center justify-center relative overflow-hidden flex-shrink-0">
                             <div class="product-img-container">
                                 <img src="combo_experiencia_1.jpg" onerror="this.src='https://images.unsplash.com/photo-1615719413546-198b25453f85?ixlib=rb-1.2.1&auto=format&fit=crop&w=800&q=80'" alt="Experiências Venezuelanas 1" class="product-img">
                             </div>
-                            <span class="absolute bottom-2 right-2 bg-ven-yellow px-3 py-1 text-xs font-black rounded shadow text-gray-900 z-10" data-i18n="badge_promo">Promoção!</span>
+                            <span class="absolute bottom-2 right-2 bg-ven-yellow px-2 py-1 sm:px-3 sm:py-1 text-[10px] sm:text-xs font-black rounded shadow text-gray-900 z-10" data-i18n="badge_promo">Promoção!</span>
                         </div>
-                        <div class="p-6 flex flex-col flex-grow">
-                            <div class="flex justify-between items-start mb-2">
-                                <h4 class="font-bold text-xl text-gray-800 pr-2 leading-tight" data-i18n="name_combo_1">Experiências Venezuelanas 1</h4>
-                                <div class="text-right flex-shrink-0 ml-2 whitespace-nowrap">
-                                    <del class="text-gray-400 text-xs block -mb-1">R$ 75,00</del>
-                                    <span class="text-ven-red font-bold text-lg leading-none block">R$ 35,90</span>
+                        <div class="p-5 sm:p-6 flex flex-col flex-grow">
+                            <div class="flex justify-between items-start mb-2 gap-2 sm:gap-0">
+                                <h4 class="font-bold text-lg sm:text-xl text-gray-800 pr-1 leading-tight" data-i18n="name_combo_1">Experiências Venezuelanas 1</h4>
+                                <div class="text-right flex-shrink-0 ml-1 whitespace-nowrap">
+                                    <del class="text-gray-400 text-[10px] sm:text-xs block -mb-0.5 sm:-mb-1">R$ 75,00</del>
+                                    <span class="text-ven-red font-bold text-base sm:text-lg leading-none block">R$ 35,90</span>
                                 </div>
                             </div>
-                            <div class="text-gray-500 text-xs mb-4 flex-grow h-auto" data-i18n="desc_combo_1">
+                            <div class="text-gray-500 text-xs mb-3 sm:mb-4 flex-grow h-auto" data-i18n="desc_combo_1">
                                 Uma seleção especial para você conhecer os sabores mais tradicionais da Venezuela em um único pedido.<br><br>
-                                <ul class='list-disc pl-4 space-y-1 text-left text-xs'>
+                                <ul class='list-disc pl-4 space-y-1 text-left text-[11px] sm:text-xs'>
                                     <li><strong>1 Arepa:</strong> Feita com massa de milho, recheada na hora (carne, frango ou pernil).</li>
                                     <li><strong>2 Tequeños:</strong> O petisco mais amado da Venezuela. Palitos de queijo fritos.</li>
                                     <li><strong>1 Mini Empanada:</strong> Recheada com carne bem temperada ou queijo.</li>
@@ -572,8 +576,8 @@
                                     <li><strong>1 Suco de rapadura com limão.</strong></li>
                                 </ul>
                             </div>
-                            <span class="portion-tag mb-4 w-max" data-i18n="rend_385">Rende: 2 pessoas (385g)</span>
-                            <button class="add-to-cart w-full bg-ven-red text-white py-3 rounded-xl font-bold hover:bg-gray-900 transition-colors flex justify-center items-center gap-2 mt-auto" onclick="addToCart('Experiências Venezuelanas 1', 35.90)">
+                            <span class="portion-tag mb-3 sm:mb-4 w-max" data-i18n="rend_385">Rende: 2 pessoas (385g)</span>
+                            <button class="add-to-cart w-full bg-ven-red text-white py-2.5 sm:py-3 rounded-lg sm:rounded-xl font-bold hover:bg-gray-900 transition-colors flex justify-center items-center gap-2 mt-auto text-xs sm:text-sm" onclick="addToCart('Experiências Venezuelanas 1', 35.90)">
                                 <i data-lucide="shopping-bag" class="w-4 h-4"></i> <span data-i18n="btn_add">Adicionar</span>
                             </button>
                         </div>
@@ -581,25 +585,25 @@
 
                     <!-- Combo 2 -->
                     <div class="bg-white rounded-2xl overflow-hidden shadow-md card-hover group flex flex-col border-2 border-ven-blue">
-                        <div class="h-64 bg-gray-100 flex items-center justify-center relative overflow-hidden flex-shrink-0">
+                        <div class="h-56 sm:h-64 bg-gray-100 flex items-center justify-center relative overflow-hidden flex-shrink-0">
                             <div class="product-img-container">
                                 <img src="combo_empanadas_papelon.jpg" onerror="this.src='https://images.unsplash.com/photo-1628840042765-356cda07504e?ixlib=rb-1.2.1&auto=format&fit=crop&w=800&q=80'" alt="Combo 2 Empanadas + Papelón" class="product-img">
                             </div>
-                            <span class="absolute bottom-2 right-2 bg-ven-yellow px-3 py-1 text-xs font-black rounded shadow text-gray-900 z-10" data-i18n="badge_promo_29">-29% OFF</span>
+                            <span class="absolute bottom-2 right-2 bg-ven-yellow px-2 py-1 sm:px-3 sm:py-1 text-[10px] sm:text-xs font-black rounded shadow text-gray-900 z-10" data-i18n="badge_promo_29">-29% OFF</span>
                         </div>
-                        <div class="p-6 flex flex-col flex-grow">
-                            <div class="flex justify-between items-start mb-2">
-                                <h4 class="font-bold text-xl text-gray-800 pr-2 leading-tight" data-i18n="name_combo_2">Combo 2 Empanadas + Papelón (Grátis)</h4>
-                                <div class="text-right flex-shrink-0 ml-2 whitespace-nowrap">
-                                    <del class="text-gray-400 text-xs block -mb-1">R$ 55,00</del>
-                                    <span class="text-ven-blue font-bold text-lg leading-none block">R$ 39,00</span>
+                        <div class="p-5 sm:p-6 flex flex-col flex-grow">
+                            <div class="flex justify-between items-start mb-2 gap-2 sm:gap-0">
+                                <h4 class="font-bold text-lg sm:text-xl text-gray-800 pr-1 leading-tight" data-i18n="name_combo_2">Combo 2 Empanadas + Papelón (Grátis)</h4>
+                                <div class="text-right flex-shrink-0 ml-1 whitespace-nowrap">
+                                    <del class="text-gray-400 text-[10px] sm:text-xs block -mb-0.5 sm:-mb-1">R$ 55,00</del>
+                                    <span class="text-ven-blue font-bold text-base sm:text-lg leading-none block">R$ 39,00</span>
                                 </div>
                             </div>
-                            <div class="text-gray-500 text-xs mb-4 flex-grow h-auto" data-i18n="desc_combo_2">
+                            <div class="text-gray-500 text-xs mb-3 sm:mb-4 flex-grow h-auto" data-i18n="desc_combo_2">
                                 Duas empanadas venezuelanas douradas e crocantes, carne e queijo. Acompanhadas de um refrescante papelón com limão 300 ml grátis. Uma combinação perfeita para conhecer os sabores tradicionais da Venezuela em um combo prático, saboroso e ideal para qualquer hora do dia. (Acompanha nosso molho tradicional guasacaca).
                             </div>
-                            <span class="portion-tag mb-4 w-max" data-i18n="rend_450">Rende: 2 pessoas (450g)</span>
-                            <button class="add-to-cart w-full bg-ven-blue text-white py-3 rounded-xl font-bold hover:bg-gray-900 transition-colors flex justify-center items-center gap-2 mt-auto" onclick="addToCart('Combo 2 Empanadas + Papelón', 39.00)">
+                            <span class="portion-tag mb-3 sm:mb-4 w-max" data-i18n="rend_450">Rende: 2 pessoas (450g)</span>
+                            <button class="add-to-cart w-full bg-ven-blue text-white py-2.5 sm:py-3 rounded-lg sm:rounded-xl font-bold hover:bg-gray-900 transition-colors flex justify-center items-center gap-2 mt-auto text-xs sm:text-sm" onclick="addToCart('Combo 2 Empanadas + Papelón', 39.00)">
                                 <i data-lucide="shopping-bag" class="w-4 h-4"></i> <span data-i18n="btn_add">Adicionar</span>
                             </button>
                         </div>
@@ -607,51 +611,51 @@
 
                     <!-- Combo 3: Caracas -->
                     <div class="bg-white rounded-2xl overflow-hidden shadow-md card-hover group flex flex-col border-2 border-ven-yellow">
-                        <div class="h-64 bg-gray-100 flex items-center justify-center relative overflow-hidden flex-shrink-0">
+                        <div class="h-56 sm:h-64 bg-gray-100 flex items-center justify-center relative overflow-hidden flex-shrink-0">
                             <div class="product-img-container">
                                 <img src="combo_caracas.jpg" onerror="this.src='https://images.unsplash.com/photo-1606525437678-a400f2e34774?ixlib=rb-1.2.1&auto=format&fit=crop&w=800&q=80'" alt="Combo Caracas" class="product-img">
                             </div>
-                            <span class="absolute bottom-2 right-2 bg-ven-red text-white px-3 py-1 text-xs font-black rounded shadow z-10 animate-pulse" data-i18n="badge_promo_30">-30% OFF</span>
+                            <span class="absolute bottom-2 right-2 bg-ven-red text-white px-2 py-1 sm:px-3 sm:py-1 text-[10px] sm:text-xs font-black rounded shadow z-10 animate-pulse" data-i18n="badge_promo_30">-30% OFF</span>
                         </div>
-                        <div class="p-6 flex flex-col flex-grow">
-                            <div class="flex justify-between items-start mb-2">
-                                <h4 class="font-bold text-xl text-gray-800 pr-2 leading-tight" data-i18n="name_combo_3">Combo Caracas</h4>
-                                <div class="text-right flex-shrink-0 ml-2 whitespace-nowrap">
-                                    <del class="text-gray-400 text-xs block -mb-1">R$ 70,00</del>
-                                    <span class="text-ven-red font-bold text-lg leading-none block">R$ 49,90</span>
+                        <div class="p-5 sm:p-6 flex flex-col flex-grow">
+                            <div class="flex justify-between items-start mb-2 gap-2 sm:gap-0">
+                                <h4 class="font-bold text-lg sm:text-xl text-gray-800 pr-1 leading-tight" data-i18n="name_combo_3">Combo Caracas</h4>
+                                <div class="text-right flex-shrink-0 ml-1 whitespace-nowrap">
+                                    <del class="text-gray-400 text-[10px] sm:text-xs block -mb-0.5 sm:-mb-1">R$ 70,00</del>
+                                    <span class="text-ven-red font-bold text-base sm:text-lg leading-none block">R$ 49,90</span>
                                 </div>
                             </div>
-                            <div class="text-gray-500 text-xs mb-4 flex-grow h-auto" data-i18n="desc_combo_3">
+                            <div class="text-gray-500 text-xs mb-3 sm:mb-4 flex-grow h-auto" data-i18n="desc_combo_3">
                                 A combinação perfeita para os amantes de queijo! 1 Cachapa tradicional com queijo derretido, 4 Tequeños douradinhos, 1 Suco de papelón com limão refrescante e nossa famosa Salsa Guasacaca.
                             </div>
-                            <span class="portion-tag mb-4 w-max" data-i18n="rend_450">Rende: 1-2 pessoas (450g)</span>
-                            <button class="add-to-cart w-full bg-ven-red text-white py-3 rounded-xl font-bold hover:bg-gray-900 transition-colors flex justify-center items-center gap-2 mt-auto" onclick="addToCart('Combo Caracas', 49.90)">
+                            <span class="portion-tag mb-3 sm:mb-4 w-max" data-i18n="rend_450">Rende: 1-2 pessoas (450g)</span>
+                            <button class="add-to-cart w-full bg-ven-red text-white py-2.5 sm:py-3 rounded-lg sm:rounded-xl font-bold hover:bg-gray-900 transition-colors flex justify-center items-center gap-2 mt-auto text-xs sm:text-sm" onclick="addToCart('Combo Caracas', 49.90)">
                                 <i data-lucide="shopping-bag" class="w-4 h-4"></i> <span data-i18n="btn_add">Adicionar</span>
                             </button>
                         </div>
                     </div>
 
-                    <!-- Combo 4: Llanero (NUEVO) -->
+                    <!-- Combo 4: Llanero -->
                     <div class="bg-white rounded-2xl overflow-hidden shadow-md card-hover group flex flex-col border-2 border-ven-red">
-                        <div class="h-64 bg-gray-100 flex items-center justify-center relative overflow-hidden flex-shrink-0">
+                        <div class="h-56 sm:h-64 bg-gray-100 flex items-center justify-center relative overflow-hidden flex-shrink-0">
                             <div class="product-img-container">
                                 <img src="combo_llanero.jpg" onerror="this.src='https://images.unsplash.com/photo-1543339308-43e59d6b73a6?ixlib=rb-1.2.1&auto=format&fit=crop&w=800&q=80'" alt="Combo Llanero" class="product-img">
                             </div>
-                            <span class="absolute bottom-2 right-2 bg-ven-yellow px-3 py-1 text-xs font-black rounded shadow text-gray-900 z-10 animate-pulse" data-i18n="badge_promo_18">-18% OFF</span>
+                            <span class="absolute bottom-2 right-2 bg-ven-yellow px-2 py-1 sm:px-3 sm:py-1 text-[10px] sm:text-xs font-black rounded shadow text-gray-900 z-10 animate-pulse" data-i18n="badge_promo_18">-18% OFF</span>
                         </div>
-                        <div class="p-6 flex flex-col flex-grow">
-                            <div class="flex justify-between items-start mb-2">
-                                <h4 class="font-bold text-xl text-gray-800 pr-2 leading-tight" data-i18n="name_combo_4">Combo Llanero</h4>
-                                <div class="text-right flex-shrink-0 ml-2 whitespace-nowrap">
-                                    <del class="text-gray-400 text-xs block -mb-1">R$ 55,00</del>
-                                    <span class="text-ven-red font-bold text-lg leading-none block">R$ 44,90</span>
+                        <div class="p-5 sm:p-6 flex flex-col flex-grow">
+                            <div class="flex justify-between items-start mb-2 gap-2 sm:gap-0">
+                                <h4 class="font-bold text-lg sm:text-xl text-gray-800 pr-1 leading-tight" data-i18n="name_combo_4">Combo Llanero</h4>
+                                <div class="text-right flex-shrink-0 ml-1 whitespace-nowrap">
+                                    <del class="text-gray-400 text-[10px] sm:text-xs block -mb-0.5 sm:-mb-1">R$ 55,00</del>
+                                    <span class="text-ven-red font-bold text-base sm:text-lg leading-none block">R$ 44,90</span>
                                 </div>
                             </div>
-                            <div class="text-gray-500 text-xs mb-4 flex-grow h-auto" data-i18n="desc_combo_4">
+                            <div class="text-gray-500 text-xs mb-3 sm:mb-4 flex-grow h-auto" data-i18n="desc_combo_4">
                                 A verdadeira perdição! Uma cachapa rústica e suculenta, de milho super fresco, transbordando de queijo derretido, acompanhada do nosso crocante e irresistível cochino frito (porco frito). Tudo isso com um refrescante papelón com limão bem gelado e a nossa famosa salsa guasacaca. Prepare-se para uma explosão de sabores a cada mordida!
                             </div>
-                            <span class="portion-tag mb-4 w-max" data-i18n="rend_450">Rende: 1-2 pessoas (450g)</span>
-                            <button class="add-to-cart w-full bg-ven-red text-white py-3 rounded-xl font-bold hover:bg-gray-900 transition-colors flex justify-center items-center gap-2 mt-auto" onclick="addToCart('Combo Llanero', 44.90)">
+                            <span class="portion-tag mb-3 sm:mb-4 w-max" data-i18n="rend_450">Rende: 1-2 pessoas (450g)</span>
+                            <button class="add-to-cart w-full bg-ven-red text-white py-2.5 sm:py-3 rounded-lg sm:rounded-xl font-bold hover:bg-gray-900 transition-colors flex justify-center items-center gap-2 mt-auto text-xs sm:text-sm" onclick="addToCart('Combo Llanero', 44.90)">
                                 <i data-lucide="shopping-bag" class="w-4 h-4"></i> <span data-i18n="btn_add">Adicionar</span>
                             </button>
                         </div>
@@ -659,23 +663,23 @@
                 </div>
                
                 <!-- SEÇÃO AREPAS -->
-                <div id="arepas-section" class="menu-section hidden grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-8">
+                <div id="arepas-section" class="menu-section hidden grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6 sm:gap-8">
                     <!-- Item 1: Arepa Pabellón -->
                     <div class="bg-white rounded-2xl overflow-hidden shadow-md card-hover group flex flex-col">
-                        <div class="h-64 bg-gray-100 flex items-center justify-center relative overflow-hidden flex-shrink-0">
+                        <div class="h-56 sm:h-64 bg-gray-100 flex items-center justify-center relative overflow-hidden flex-shrink-0">
                             <div class="product-img-container">
                                 <img src="arepa_pabellon.jpg" alt="Arepa Pabellón" class="product-img">
                             </div>
-                            <span class="absolute bottom-2 right-2 bg-white px-2 py-1 text-xs font-bold rounded shadow text-gray-600 z-10" data-i18n="badge_popular">Popular</span>
+                            <span class="absolute bottom-2 right-2 bg-white px-2 py-1 text-[10px] sm:text-xs font-bold rounded shadow text-gray-600 z-10" data-i18n="badge_popular">Popular</span>
                         </div>
-                        <div class="p-6 flex flex-col flex-grow">
-                            <div class="flex justify-between items-start mb-2">
-                                <h4 class="font-bold text-xl text-gray-800 pr-2" data-i18n="name_arepa_pabellon">Arepa de Pabellón</h4>
-                                <span class="text-ven-red font-bold text-lg whitespace-nowrap flex-shrink-0 ml-2">R$ 40,00</span>
+                        <div class="p-5 sm:p-6 flex flex-col flex-grow">
+                            <div class="flex justify-between items-start mb-2 gap-2">
+                                <h4 class="font-bold text-lg sm:text-xl text-gray-800 pr-1" data-i18n="name_arepa_pabellon">Arepa de Pabellón</h4>
+                                <span class="text-ven-red font-bold text-base sm:text-lg whitespace-nowrap flex-shrink-0 ml-1">R$ 40,00</span>
                             </div>
-                            <p class="text-gray-500 text-sm mb-2 flex-grow" data-i18n="desc_pabellon">A combinação mais tradicional da Venezuela: carne desfiada, feijão preto, banana da terra madura frita e queijo branco. O famoso Pabellón, servido dentro de uma deliciosa arepa.</p>
-                            <span class="portion-tag mb-4 w-max" data-i18n="rend_300">Rende: 1 pessoa (300g)</span>
-                            <button class="add-to-cart w-full bg-gray-900 text-white py-3 rounded-xl font-bold hover:bg-ven-red transition-colors flex justify-center items-center gap-2 mt-auto" onclick="addToCart('Arepa de Pabellón', 40)">
+                            <p class="text-gray-500 text-xs sm:text-sm mb-3 sm:mb-4 flex-grow" data-i18n="desc_pabellon">A combinação mais tradicional da Venezuela: carne desfiada, feijão preto, banana da terra madura frita e queijo branco. O famoso Pabellón, servido dentro de uma deliciosa arepa.</p>
+                            <span class="portion-tag mb-3 sm:mb-4 w-max" data-i18n="rend_300">Rende: 1 pessoa (300g)</span>
+                            <button class="add-to-cart w-full bg-gray-900 text-white py-2.5 sm:py-3 rounded-lg sm:rounded-xl font-bold hover:bg-ven-red transition-colors flex justify-center items-center gap-2 mt-auto text-xs sm:text-sm" onclick="addToCart('Arepa de Pabellón', 40)">
                                 <i data-lucide="plus-circle" class="w-4 h-4"></i> <span data-i18n="btn_add">Adicionar</span>
                             </button>
                         </div>
@@ -683,19 +687,19 @@
 
                     <!-- Item 2: Reina pepeada -->
                     <div class="bg-white rounded-2xl overflow-hidden shadow-md card-hover group flex flex-col">
-                        <div class="h-64 bg-gray-100 flex items-center justify-center relative overflow-hidden flex-shrink-0">
+                        <div class="h-56 sm:h-64 bg-gray-100 flex items-center justify-center relative overflow-hidden flex-shrink-0">
                              <div class="product-img-container">
                                 <img src="arepa_reinapepeada.jpg" alt="Arepa Reina pepeada" class="product-img">
                              </div>
                         </div>
-                        <div class="p-6 flex flex-col flex-grow">
-                            <div class="flex justify-between items-start mb-2">
-                                <h4 class="font-bold text-xl text-gray-800 pr-2" data-i18n="name_arepa_reina">Arepa Reina Pepeada</h4>
-                                <span class="text-ven-red font-bold text-lg whitespace-nowrap flex-shrink-0 ml-2">R$ 35,00</span>
+                        <div class="p-5 sm:p-6 flex flex-col flex-grow">
+                            <div class="flex justify-between items-start mb-2 gap-2">
+                                <h4 class="font-bold text-lg sm:text-xl text-gray-800 pr-1" data-i18n="name_arepa_reina">Arepa Reina Pepeada</h4>
+                                <span class="text-ven-red font-bold text-base sm:text-lg whitespace-nowrap flex-shrink-0 ml-1">R$ 35,00</span>
                             </div>
-                            <p class="text-gray-500 text-sm mb-2 flex-grow" data-i18n="desc_reina">Delicioso recheio de frango desfiado com abacate e maionese, cremoso e refrescante. Criada em 1955 em homenagem à primeira Miss Mundo venezuelana.</p>
-                            <span class="portion-tag mb-4 w-max" data-i18n="rend_280">Rende: 1 pessoa (280g)</span>
-                            <button class="add-to-cart w-full bg-gray-900 text-white py-3 rounded-xl font-bold hover:bg-ven-red transition-colors flex justify-center items-center gap-2 mt-auto" onclick="addToCart('Arepa Reina Pepeada', 35)">
+                            <p class="text-gray-500 text-xs sm:text-sm mb-3 sm:mb-4 flex-grow" data-i18n="desc_reina">Delicioso recheio de frango desfiado com abacate e maionese, cremoso e refrescante. Criada em 1955 em homenagem à primeira Miss Mundo venezuelana.</p>
+                            <span class="portion-tag mb-3 sm:mb-4 w-max" data-i18n="rend_280">Rende: 1 pessoa (280g)</span>
+                            <button class="add-to-cart w-full bg-gray-900 text-white py-2.5 sm:py-3 rounded-lg sm:rounded-xl font-bold hover:bg-ven-red transition-colors flex justify-center items-center gap-2 mt-auto text-xs sm:text-sm" onclick="addToCart('Arepa Reina Pepeada', 35)">
                                 <i data-lucide="plus-circle" class="w-4 h-4"></i> <span data-i18n="btn_add">Adicionar</span>
                             </button>
                         </div>
@@ -703,19 +707,19 @@
 
                     <!-- Item 3: Arepa Pelúa -->
                     <div class="bg-white rounded-2xl overflow-hidden shadow-md card-hover group flex flex-col">
-                        <div class="h-64 bg-gray-100 flex items-center justify-center relative overflow-hidden flex-shrink-0">
+                        <div class="h-56 sm:h-64 bg-gray-100 flex items-center justify-center relative overflow-hidden flex-shrink-0">
                              <div class="product-img-container">
                                 <img src="arepa_pelua.jpg" alt="Arepa Pelúa" class="product-img">
                              </div>
                         </div>
-                        <div class="p-6 flex flex-col flex-grow">
-                            <div class="flex justify-between items-start mb-2">
-                                <h4 class="font-bold text-xl text-gray-800 pr-2" data-i18n="name_arepa_pelua">Arepa Pelúa</h4>
-                                <span class="text-ven-red font-bold text-lg whitespace-nowrap flex-shrink-0 ml-2">R$ 40,00</span>
+                        <div class="p-5 sm:p-6 flex flex-col flex-grow">
+                            <div class="flex justify-between items-start mb-2 gap-2">
+                                <h4 class="font-bold text-lg sm:text-xl text-gray-800 pr-1" data-i18n="name_arepa_pelua">Arepa Pelúa</h4>
+                                <span class="text-ven-red font-bold text-base sm:text-lg whitespace-nowrap flex-shrink-0 ml-1">R$ 40,00</span>
                             </div>
-                            <p class="text-gray-500 text-sm mb-2 flex-grow" data-i18n="desc_pelua">Carne desfiada temperada ao estilo venezuelano e muito queijo amarelo ralado (queijo prato). A Pelúa é um dos recheios mais populares, suculenta e cheia de sabor.</p>
-                            <span class="portion-tag mb-4 w-max" data-i18n="rend_300">Rende: 1 pessoa (300g)</span>
-                            <button class="add-to-cart w-full bg-gray-900 text-white py-3 rounded-xl font-bold hover:bg-ven-red transition-colors flex justify-center items-center gap-2 mt-auto" onclick="addToCart('Arepa Pelúa', 40)">
+                            <p class="text-gray-500 text-xs sm:text-sm mb-3 sm:mb-4 flex-grow" data-i18n="desc_pelua">Carne desfiada temperada ao estilo venezuelano e muito queijo amarelo ralado (queijo prato). Saborosa e suculenta.</p>
+                            <span class="portion-tag mb-3 sm:mb-4 w-max" data-i18n="rend_300">Rende: 1 pessoa (300g)</span>
+                            <button class="add-to-cart w-full bg-gray-900 text-white py-2.5 sm:py-3 rounded-lg sm:rounded-xl font-bold hover:bg-ven-red transition-colors flex justify-center items-center gap-2 mt-auto text-xs sm:text-sm" onclick="addToCart('Arepa Pelúa', 40)">
                                 <i data-lucide="plus-circle" class="w-4 h-4"></i> <span data-i18n="btn_add">Adicionar</span>
                             </button>
                         </div>
@@ -723,19 +727,19 @@
 
                     <!-- Item 4: Arepa Catira -->
                     <div class="bg-white rounded-2xl overflow-hidden shadow-md card-hover group flex flex-col">
-                        <div class="h-64 bg-gray-100 flex items-center justify-center relative overflow-hidden flex-shrink-0">
+                        <div class="h-56 sm:h-64 bg-gray-100 flex items-center justify-center relative overflow-hidden flex-shrink-0">
                              <div class="product-img-container">
                                 <img src="arepa_catira.jpg" alt="Arepa Catira" class="product-img">
                              </div>
                         </div>
-                        <div class="p-6 flex flex-col flex-grow">
-                            <div class="flex justify-between items-start mb-2">
-                                <h4 class="font-bold text-xl text-gray-800 pr-2" data-i18n="name_catira">Arepa Catira</h4>
-                                <span class="text-ven-red font-bold text-lg whitespace-nowrap flex-shrink-0 ml-2">R$ 35,00</span>
+                        <div class="p-5 sm:p-6 flex flex-col flex-grow">
+                            <div class="flex justify-between items-start mb-2 gap-2">
+                                <h4 class="font-bold text-lg sm:text-xl text-gray-800 pr-1" data-i18n="name_catira">Arepa Catira</h4>
+                                <span class="text-ven-red font-bold text-base sm:text-lg whitespace-nowrap flex-shrink-0 ml-1">R$ 35,00</span>
                             </div>
-                            <p class="text-gray-500 text-sm mb-2 flex-grow" data-i18n="desc_catira">Clássica arepa venezuelana crocante por fora e macia por dentro, recheada com frango desfiado e queijo prato derretido. Uma combinação cremosa e cheia de sabor.</p>
-                            <span class="portion-tag mb-4 w-max" data-i18n="rend_300">Rende: 1 pessoa (300g)</span>
-                            <button class="add-to-cart w-full bg-gray-900 text-white py-3 rounded-xl font-bold hover:bg-ven-red transition-colors flex justify-center items-center gap-2 mt-auto" onclick="addToCart('Arepa Catira', 35)">
+                            <p class="text-gray-500 text-xs sm:text-sm mb-3 sm:mb-4 flex-grow" data-i18n="desc_catira">Clássica arepa venezuelana feita com massa de milho grelhada, crocante por fora e macia por dentro, recheada com frango desfiado e queijo prato derretido.</p>
+                            <span class="portion-tag mb-3 sm:mb-4 w-max" data-i18n="rend_300">Rende: 1 pessoa (300g)</span>
+                            <button class="add-to-cart w-full bg-gray-900 text-white py-2.5 sm:py-3 rounded-lg sm:rounded-xl font-bold hover:bg-ven-red transition-colors flex justify-center items-center gap-2 mt-auto text-xs sm:text-sm" onclick="addToCart('Arepa Catira', 35)">
                                 <i data-lucide="plus-circle" class="w-4 h-4"></i> <span data-i18n="btn_add">Adicionar</span>
                             </button>
                         </div>
@@ -743,19 +747,19 @@
 
                     <!-- Item 5: Arepa Pernil -->
                     <div class="bg-white rounded-2xl overflow-hidden shadow-md card-hover group flex flex-col">
-                        <div class="h-64 bg-gray-100 flex items-center justify-center relative overflow-hidden flex-shrink-0">
+                        <div class="h-56 sm:h-64 bg-gray-100 flex items-center justify-center relative overflow-hidden flex-shrink-0">
                             <div class="product-img-container">
                                 <img src="arepa_pernil.jpg" alt="Arepa de Pernil" class="product-img">
                             </div>
                         </div>
-                        <div class="p-6 flex flex-col flex-grow">
-                            <div class="flex justify-between items-start mb-2">
-                                <h4 class="font-bold text-xl text-gray-800 pr-2" data-i18n="name_arepa_pernil">Arepa de Pernil</h4>
-                                <span class="text-ven-red font-bold text-lg whitespace-nowrap flex-shrink-0 ml-2">R$ 35,00</span>
+                        <div class="p-5 sm:p-6 flex flex-col flex-grow">
+                            <div class="flex justify-between items-start mb-2 gap-2">
+                                <h4 class="font-bold text-lg sm:text-xl text-gray-800 pr-1" data-i18n="name_arepa_pernil">Arepa de Pernil</h4>
+                                <span class="text-ven-red font-bold text-base sm:text-lg whitespace-nowrap flex-shrink-0 ml-1">R$ 35,00</span>
                             </div>
-                            <p class="text-gray-500 text-sm mb-2 flex-grow" data-i18n="desc_arepa_pernil">Feita com farinha de milho precocida, crocante por fora e macia por dentro, recheada com suculento pernil desfiado e queijo prato.</p>
-                            <span class="portion-tag mb-4 w-max" data-i18n="rend_300">Rende: 1 pessoa (300g)</span>
-                            <button class="add-to-cart w-full bg-gray-900 text-white py-3 rounded-xl font-bold hover:bg-ven-red transition-colors flex justify-center items-center gap-2 mt-auto" onclick="addToCart('Arepa de Pernil', 35)">
+                            <p class="text-gray-500 text-xs sm:text-sm mb-3 sm:mb-4 flex-grow" data-i18n="desc_arepa_pernil">Clássica arepa venezuelana feita com farinha de milho precocida, crocante por fora e macia por dentro, recheada com suculento pernil desfiado e queijo prato.</p>
+                            <span class="portion-tag mb-3 sm:mb-4 w-max" data-i18n="rend_300">Rende: 1 pessoa (300g)</span>
+                            <button class="add-to-cart w-full bg-gray-900 text-white py-2.5 sm:py-3 rounded-lg sm:rounded-xl font-bold hover:bg-ven-red transition-colors flex justify-center items-center gap-2 mt-auto text-xs sm:text-sm" onclick="addToCart('Arepa de Pernil', 35)">
                                 <i data-lucide="plus-circle" class="w-4 h-4"></i> <span data-i18n="btn_add">Adicionar</span>
                             </button>
                         </div>
@@ -763,19 +767,19 @@
 
                     <!-- Item 6: Arepa de Camarão -->
                     <div class="bg-white rounded-2xl overflow-hidden shadow-md card-hover group flex flex-col">
-                        <div class="h-64 bg-gray-100 flex items-center justify-center relative overflow-hidden flex-shrink-0">
+                        <div class="h-56 sm:h-64 bg-gray-100 flex items-center justify-center relative overflow-hidden flex-shrink-0">
                              <div class="product-img-container">
                                 <img src="arepa_camarao.jpg" alt="Arepa de Camarão" class="product-img">
                              </div>
                         </div>
-                        <div class="p-6 flex flex-col flex-grow">
-                            <div class="flex justify-between items-start mb-2">
-                                <h4 class="font-bold text-xl text-gray-800 pr-2" data-i18n="name_camaron">Arepa de Camarão</h4>
-                                <span class="text-ven-red font-bold text-lg whitespace-nowrap flex-shrink-0 ml-2">R$ 40,00</span>
+                        <div class="p-5 sm:p-6 flex flex-col flex-grow">
+                            <div class="flex justify-between items-start mb-2 gap-2">
+                                <h4 class="font-bold text-lg sm:text-xl text-gray-800 pr-1" data-i18n="name_camaron">Arepa de Camarão</h4>
+                                <span class="text-ven-red font-bold text-base sm:text-lg whitespace-nowrap flex-shrink-0 ml-1">R$ 40,00</span>
                             </div>
-                            <p class="text-gray-500 text-sm mb-2 flex-grow" data-i18n="desc_camaron">Arepa recheada com camarões bem temperados e vinagrete venezuelano de cebola, cheiro-verde e especiarias. Opção fresca e irresistível. *Queijo prato opcional.</p>
-                            <span class="portion-tag mb-4 w-max" data-i18n="rend_300">Rende: 1 pessoa (300g)</span>
-                            <button class="add-to-cart w-full bg-gray-900 text-white py-3 rounded-xl font-bold hover:bg-ven-red transition-colors flex justify-center items-center gap-2 mt-auto" onclick="addToCart('Arepa de Camarão', 40)">
+                            <p class="text-gray-500 text-xs sm:text-sm mb-3 sm:mb-4 flex-grow" data-i18n="desc_camaron">Arepa recheada com camarões bem temperados e vinagrete venezuelano de cebola, cheiro-verde e especiarias. Opção fresca e irresistível. *Queijo prato opcional.</p>
+                            <span class="portion-tag mb-3 sm:mb-4 w-max" data-i18n="rend_300">Rende: 1 pessoa (300g)</span>
+                            <button class="add-to-cart w-full bg-gray-900 text-white py-2.5 sm:py-3 rounded-lg sm:rounded-xl font-bold hover:bg-ven-red transition-colors flex justify-center items-center gap-2 mt-auto text-xs sm:text-sm" onclick="addToCart('Arepa de Camarão', 40)">
                                 <i data-lucide="plus-circle" class="w-4 h-4"></i> <span data-i18n="btn_add">Adicionar</span>
                             </button>
                         </div>
@@ -783,43 +787,42 @@
                     
                     <!-- Item 7: Arepa Vegetariana -->
                     <div class="bg-white rounded-2xl overflow-hidden shadow-md card-hover group flex flex-col">
-                        <div class="h-64 bg-gray-100 flex items-center justify-center relative overflow-hidden flex-shrink-0">
+                        <div class="h-56 sm:h-64 bg-gray-100 flex items-center justify-center relative overflow-hidden flex-shrink-0">
                             <div class="product-img-container">
                                 <img src="arepa_vegetariana.jpg" alt="Arepa Vegetariana" class="product-img">
                             </div>
                         </div>
-                        <div class="p-6 flex flex-col flex-grow">
-                            <div class="flex justify-between items-start mb-2">
-                                <h4 class="font-bold text-xl text-gray-800 pr-2" data-i18n="name_arepa_veg">Arepa Vegetariana</h4>
-                                <span class="text-ven-red font-bold text-lg whitespace-nowrap flex-shrink-0 ml-2">R$ 35,00</span>
+                        <div class="p-5 sm:p-6 flex flex-col flex-grow">
+                            <div class="flex justify-between items-start mb-2 gap-2">
+                                <h4 class="font-bold text-lg sm:text-xl text-gray-800 pr-1" data-i18n="name_arepa_veg">Arepa Vegetariana</h4>
+                                <span class="text-ven-red font-bold text-base sm:text-lg whitespace-nowrap flex-shrink-0 ml-1">R$ 35,00</span>
                             </div>
-                            <p class="text-gray-500 text-sm mb-2 flex-grow" data-i18n="desc_arepa_veg">Arepa recheada com vegetais salteados da estação — berinjela, cenoura, brócolis, champignon e cebola — acompanhados de queijo. Uma opção saborosa, colorida e cheia de textura.</p>
-                            <span class="portion-tag mb-4 w-max" data-i18n="rend_300">Rende: 1 pessoa (300g)</span>
-                            <button class="add-to-cart w-full bg-gray-900 text-white py-3 rounded-xl font-bold hover:bg-ven-red transition-colors flex justify-center items-center gap-2 mt-auto" onclick="addToCart('Arepa Vegetariana', 35)">
+                            <p class="text-gray-500 text-xs sm:text-sm mb-3 sm:mb-4 flex-grow" data-i18n="desc_arepa_veg">Arepa recheada com vegetais salteados da estação — berinjela, cenoura, brócolis, champignon e cebola — acompanhados de queijo. Uma opção saborosa, colorida e cheia de textura.</p>
+                            <span class="portion-tag mb-3 sm:mb-4 w-max" data-i18n="rend_300">Rende: 1 pessoa (300g)</span>
+                            <button class="add-to-cart w-full bg-gray-900 text-white py-2.5 sm:py-3 rounded-lg sm:rounded-xl font-bold hover:bg-ven-red transition-colors flex justify-center items-center gap-2 mt-auto text-xs sm:text-sm" onclick="addToCart('Arepa Vegetariana', 35)">
                                 <i data-lucide="plus-circle" class="w-4 h-4"></i> <span data-i18n="btn_add">Adicionar</span>
                             </button>
                         </div>
                     </div>
-
                 </div>
 
                 <!-- SEÇÃO EMPANADAS -->
-                <div id="empanadas-section" class="menu-section hidden grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-8">
+                <div id="empanadas-section" class="menu-section hidden grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6 sm:gap-8">
                     <!-- Item 8: Empanada de Carne -->
                     <div class="bg-white rounded-2xl overflow-hidden shadow-md card-hover group flex flex-col">
-                        <div class="h-64 bg-gray-100 flex items-center justify-center relative overflow-hidden flex-shrink-0">
+                        <div class="h-56 sm:h-64 bg-gray-100 flex items-center justify-center relative overflow-hidden flex-shrink-0">
                             <div class="product-img-container">
                                 <img src="empanada_carne.jpg" alt="Empanada de Carne" class="product-img">
                             </div>
                         </div>
-                        <div class="p-6 flex flex-col flex-grow">
-                            <div class="flex justify-between items-start mb-2">
-                                <h4 class="font-bold text-xl text-gray-800 pr-2" data-i18n="name_emp_carne">Empanada de Carne</h4>
-                                <span class="text-ven-red font-bold text-lg whitespace-nowrap flex-shrink-0 ml-2">R$ 20,00</span>
+                        <div class="p-5 sm:p-6 flex flex-col flex-grow">
+                            <div class="flex justify-between items-start mb-2 gap-2">
+                                <h4 class="font-bold text-lg sm:text-xl text-gray-800 pr-1" data-i18n="name_emp_carne">Empanada de Carne</h4>
+                                <span class="text-ven-red font-bold text-base sm:text-lg whitespace-nowrap flex-shrink-0 ml-1">R$ 20,00</span>
                             </div>
-                            <p class="text-gray-500 text-sm mb-2 flex-grow" data-i18n="desc_emp_carne">Empanada venezuelana feita com farinha de milho branco precocido. Recheada com carne moída bem temperada. Um clássico da culinária venezuelana.</p>
-                            <span class="portion-tag mb-4 w-max" data-i18n="rend_210">Rende: 1 pessoa (210g)</span>
-                            <button class="add-to-cart w-full bg-gray-900 text-white py-3 rounded-xl font-bold hover:bg-ven-red transition-colors flex justify-center items-center gap-2 mt-auto" onclick="addToCart('Empanada de Carne', 20)">
+                            <p class="text-gray-500 text-xs sm:text-sm mb-3 sm:mb-4 flex-grow" data-i18n="desc_emp_carne">Empanada venezuelana feita com farinha de milho branco precocido. Recheada com carne moída bem temperada. Um clássico da culinária venezuelana.</p>
+                            <span class="portion-tag mb-3 sm:mb-4 w-max" data-i18n="rend_210">Rende: 1 pessoa (210g)</span>
+                            <button class="add-to-cart w-full bg-gray-900 text-white py-2.5 sm:py-3 rounded-lg sm:rounded-xl font-bold hover:bg-ven-red transition-colors flex justify-center items-center gap-2 mt-auto text-xs sm:text-sm" onclick="addToCart('Empanada de Carne', 20)">
                                 <i data-lucide="plus-circle" class="w-4 h-4"></i> <span data-i18n="btn_add">Adicionar</span>
                             </button>
                         </div>
@@ -827,19 +830,19 @@
 
                     <!-- Item 9: Empanada de Queijo -->
                     <div class="bg-white rounded-2xl overflow-hidden shadow-md card-hover group flex flex-col">
-                        <div class="h-64 bg-gray-100 flex items-center justify-center relative overflow-hidden flex-shrink-0">
+                        <div class="h-56 sm:h-64 bg-gray-100 flex items-center justify-center relative overflow-hidden flex-shrink-0">
                             <div class="product-img-container">
                                 <img src="empanada_queijo.jpg" alt="Empanada de Queijo" class="product-img">
                             </div>
                         </div>
-                        <div class="p-6 flex flex-col flex-grow">
-                            <div class="flex justify-between items-start mb-2">
-                                <h4 class="font-bold text-xl text-gray-800 pr-2" data-i18n="name_emp_queijo">Empanada de Queijo</h4>
-                                <span class="text-ven-red font-bold text-lg whitespace-nowrap flex-shrink-0 ml-2">R$ 20,00</span>
+                        <div class="p-5 sm:p-6 flex flex-col flex-grow">
+                            <div class="flex justify-between items-start mb-2 gap-2">
+                                <h4 class="font-bold text-lg sm:text-xl text-gray-800 pr-1" data-i18n="name_emp_queijo">Empanada de Queijo</h4>
+                                <span class="text-ven-red font-bold text-base sm:text-lg whitespace-nowrap flex-shrink-0 ml-1">R$ 20,00</span>
                             </div>
-                            <p class="text-gray-500 text-sm mb-2 flex-grow" data-i18n="desc_emp_queijo">Tradicional empanada venezuelana feita com massa de milho, recheada com queijo. Frita na hora para garantir uma textura crocante e irresistível por fora e cremosa por dentro.</p>
-                            <span class="portion-tag mb-4 w-max" data-i18n="rend_200">Rende: 1 pessoa (200g)</span>
-                            <button class="add-to-cart w-full bg-gray-900 text-white py-3 rounded-xl font-bold hover:bg-ven-red transition-colors flex justify-center items-center gap-2 mt-auto" onclick="addToCart('Empanada de Queijo', 20)">
+                            <p class="text-gray-500 text-xs sm:text-sm mb-3 sm:mb-4 flex-grow" data-i18n="desc_emp_queijo">Tradicional empanada venezuelana feita com massa de milho, recheada com queijo. Frita na hora para garantir uma textura crocante e irresistível por fora e cremosa por dentro.</p>
+                            <span class="portion-tag mb-3 sm:mb-4 w-max" data-i18n="rend_200">Rende: 1 pessoa (200g)</span>
+                            <button class="add-to-cart w-full bg-gray-900 text-white py-2.5 sm:py-3 rounded-lg sm:rounded-xl font-bold hover:bg-ven-red transition-colors flex justify-center items-center gap-2 mt-auto text-xs sm:text-sm" onclick="addToCart('Empanada de Queijo', 20)">
                                 <i data-lucide="plus-circle" class="w-4 h-4"></i> <span data-i18n="btn_add">Adicionar</span>
                             </button>
                         </div>
@@ -847,19 +850,19 @@
                     
                     <!-- Item 10: Pastelito Andino de Carne -->
                     <div class="bg-white rounded-2xl overflow-hidden shadow-md card-hover group flex flex-col">
-                        <div class="h-64 bg-gray-100 flex items-center justify-center relative overflow-hidden flex-shrink-0">
+                        <div class="h-56 sm:h-64 bg-gray-100 flex items-center justify-center relative overflow-hidden flex-shrink-0">
                             <div class="product-img-container">
                                 <img src="pastelito_andino.jpg" alt="Pastelito Andino" class="product-img">
                             </div>
                         </div>
-                        <div class="p-6 flex flex-col flex-grow">
-                            <div class="flex justify-between items-start mb-2">
-                                <h4 class="font-bold text-xl text-gray-800 pr-2" data-i18n="name_pastelito">Pastelito Andino de Carne</h4>
-                                <span class="text-ven-red font-bold text-lg whitespace-nowrap flex-shrink-0 ml-2">R$ 15,00</span>
+                        <div class="p-5 sm:p-6 flex flex-col flex-grow">
+                            <div class="flex justify-between items-start mb-2 gap-2">
+                                <h4 class="font-bold text-lg sm:text-xl text-gray-800 pr-1" data-i18n="name_pastelito">Pastelito Andino de Carne</h4>
+                                <span class="text-ven-red font-bold text-base sm:text-lg whitespace-nowrap flex-shrink-0 ml-1">R$ 15,00</span>
                             </div>
-                            <p class="text-gray-500 text-sm mb-2 flex-grow" data-i18n="desc_pastelito">Tradicional pastelito da região andina da Venezuela, feito com massa de trigo, recheado com saborosa carne moída bem temperada. Frito na hora. Porção com 3 unidades.</p>
-                            <span class="portion-tag mb-4 w-max" data-i18n="rend_160">Rende: 1 pessoa (160g)</span>
-                            <button class="add-to-cart w-full bg-gray-900 text-white py-3 rounded-xl font-bold hover:bg-ven-red transition-colors flex justify-center items-center gap-2 mt-auto" onclick="addToCart('Pastelito Andino', 15)">
+                            <p class="text-gray-500 text-xs sm:text-sm mb-3 sm:mb-4 flex-grow" data-i18n="desc_pastelito">Tradicional pastelito da região andina da Venezuela, feito com massa de trigo, recheado com saborosa carne moída bem temperada. Frito na hora. Porção com 3 unidades.</p>
+                            <span class="portion-tag mb-3 sm:mb-4 w-max" data-i18n="rend_160">Rende: 1 pessoa (160g)</span>
+                            <button class="add-to-cart w-full bg-gray-900 text-white py-2.5 sm:py-3 rounded-lg sm:rounded-xl font-bold hover:bg-ven-red transition-colors flex justify-center items-center gap-2 mt-auto text-xs sm:text-sm" onclick="addToCart('Pastelito Andino', 15)">
                                 <i data-lucide="plus-circle" class="w-4 h-4"></i> <span data-i18n="btn_add">Adicionar</span>
                             </button>
                         </div>
@@ -867,19 +870,19 @@
                     
                     <!-- Item 10.5: Empanada Pelúa -->
                     <div class="bg-white rounded-2xl overflow-hidden shadow-md card-hover group flex flex-col">
-                        <div class="h-64 bg-gray-100 flex items-center justify-center relative overflow-hidden flex-shrink-0">
+                        <div class="h-56 sm:h-64 bg-gray-100 flex items-center justify-center relative overflow-hidden flex-shrink-0">
                             <div class="product-img-container">
                                 <img src="empanada_pelua.jpg" alt="Empanada Pelúa" class="product-img">
                             </div>
                         </div>
-                        <div class="p-6 flex flex-col flex-grow">
-                            <div class="flex justify-between items-start mb-2">
-                                <h4 class="font-bold text-xl text-gray-800 pr-2" data-i18n="name_emp_pelua">Empanada Pelúa</h4>
-                                <span class="text-ven-red font-bold text-lg whitespace-nowrap flex-shrink-0 ml-2">R$ 22,00</span>
+                        <div class="p-5 sm:p-6 flex flex-col flex-grow">
+                            <div class="flex justify-between items-start mb-2 gap-2">
+                                <h4 class="font-bold text-lg sm:text-xl text-gray-800 pr-1" data-i18n="name_emp_pelua">Empanada Pelúa</h4>
+                                <span class="text-ven-red font-bold text-base sm:text-lg whitespace-nowrap flex-shrink-0 ml-1">R$ 22,00</span>
                             </div>
-                            <p class="text-gray-500 text-sm mb-2 flex-grow" data-i18n="desc_emp_pelua">Tradicional empanada venezuelana feita com massa de milho crocante, recheada com suculenta carne desfiada (carne mechada) e queijo prato derretido. Uma combinação irresistível de sabores que é um clássico da gastronomia da Venezuela. 🇻🇪</p>
-                            <span class="portion-tag mb-4 w-max" data-i18n="rend_220">Rende: 1 pessoa (220g)</span>
-                            <button class="add-to-cart w-full bg-gray-900 text-white py-3 rounded-xl font-bold hover:bg-ven-red transition-colors flex justify-center items-center gap-2 mt-auto" onclick="addToCart('Empanada Pelúa', 22)">
+                            <p class="text-gray-500 text-xs sm:text-sm mb-3 sm:mb-4 flex-grow" data-i18n="desc_emp_pelua">Tradicional empanada venezuelana feita com massa de milho crocante, recheada com suculenta carne desfiada (carne mechada) e queijo prato derretido. Uma combinação irresistível de sabores que é um clássico da gastronomia da Venezuela. 🇻🇪</p>
+                            <span class="portion-tag mb-3 sm:mb-4 w-max" data-i18n="rend_220">Rende: 1 pessoa (220g)</span>
+                            <button class="add-to-cart w-full bg-gray-900 text-white py-2.5 sm:py-3 rounded-lg sm:rounded-xl font-bold hover:bg-ven-red transition-colors flex justify-center items-center gap-2 mt-auto text-xs sm:text-sm" onclick="addToCart('Empanada Pelúa', 22)">
                                 <i data-lucide="plus-circle" class="w-4 h-4"></i> <span data-i18n="btn_add">Adicionar</span>
                             </button>
                         </div>
@@ -887,19 +890,19 @@
 
                     <!-- Item 10.6: Empanada de Cazón -->
                     <div class="bg-white rounded-2xl overflow-hidden shadow-md card-hover group flex flex-col">
-                        <div class="h-64 bg-gray-100 flex items-center justify-center relative overflow-hidden flex-shrink-0">
+                        <div class="h-56 sm:h-64 bg-gray-100 flex items-center justify-center relative overflow-hidden flex-shrink-0">
                             <div class="product-img-container">
                                 <img src="empanada_cazon.jpg" alt="Empanada de Cazón" class="product-img">
                             </div>
                         </div>
-                        <div class="p-6 flex flex-col flex-grow">
-                            <div class="flex justify-between items-start mb-2">
-                                <h4 class="font-bold text-xl text-gray-800 pr-2" data-i18n="name_emp_cazon">Empanada de Cazón (Cação)</h4>
-                                <span class="text-ven-red font-bold text-lg whitespace-nowrap flex-shrink-0 ml-2">R$ 20,00</span>
+                        <div class="p-5 sm:p-6 flex flex-col flex-grow">
+                            <div class="flex justify-between items-start mb-2 gap-2">
+                                <h4 class="font-bold text-lg sm:text-xl text-gray-800 pr-1" data-i18n="name_emp_cazon">Empanada de Cazón (Cação)</h4>
+                                <span class="text-ven-red font-bold text-base sm:text-lg whitespace-nowrap flex-shrink-0 ml-1">R$ 20,00</span>
                             </div>
-                            <p class="text-gray-500 text-sm mb-2 flex-grow" data-i18n="desc_emp_cazon">Empanada crocante recheada com cação desfiado ao estilo oriental venezuelano, suculento e cheio de sabor. Dourada na medida certa, uma delícia que vai te conquistar!</p>
-                            <span class="portion-tag mb-4 w-max" data-i18n="rend_220">Rende: 1 pessoa (220g)</span>
-                            <button class="add-to-cart w-full bg-gray-900 text-white py-3 rounded-xl font-bold hover:bg-ven-red transition-colors flex justify-center items-center gap-2 mt-auto" onclick="addToCart('Empanada de Cazón', 20)">
+                            <p class="text-gray-500 text-xs sm:text-sm mb-3 sm:mb-4 flex-grow" data-i18n="desc_emp_cazon">Empanada crocante recheada com cação desfiado ao estilo oriental venezuelano, suculento e cheio de sabor. Dourada na medida certa, uma delícia que vai te conquistar!</p>
+                            <span class="portion-tag mb-3 sm:mb-4 w-max" data-i18n="rend_220">Rende: 1 pessoa (220g)</span>
+                            <button class="add-to-cart w-full bg-gray-900 text-white py-2.5 sm:py-3 rounded-lg sm:rounded-xl font-bold hover:bg-ven-red transition-colors flex justify-center items-center gap-2 mt-auto text-xs sm:text-sm" onclick="addToCart('Empanada de Cazón', 20)">
                                 <i data-lucide="plus-circle" class="w-4 h-4"></i> <span data-i18n="btn_add">Adicionar</span>
                             </button>
                         </div>
@@ -907,19 +910,19 @@
 
                     <!-- Item 10.7: Empanada de Presunto e Queijo -->
                     <div class="bg-white rounded-2xl overflow-hidden shadow-md card-hover group flex flex-col">
-                        <div class="h-64 bg-gray-100 flex items-center justify-center relative overflow-hidden flex-shrink-0">
+                        <div class="h-56 sm:h-64 bg-gray-100 flex items-center justify-center relative overflow-hidden flex-shrink-0">
                             <div class="product-img-container">
                                 <img src="empanada_presunto_queijo.jpg" alt="Empanada Presunto e Queijo" class="product-img">
                             </div>
                         </div>
-                        <div class="p-6 flex flex-col flex-grow">
-                            <div class="flex justify-between items-start mb-2">
-                                <h4 class="font-bold text-xl text-gray-800 pr-2" data-i18n="name_emp_jamon">Empanada de Presunto e Queijo</h4>
-                                <span class="text-ven-red font-bold text-lg whitespace-nowrap flex-shrink-0 ml-2">R$ 20,00</span>
+                        <div class="p-5 sm:p-6 flex flex-col flex-grow">
+                            <div class="flex justify-between items-start mb-2 gap-2">
+                                <h4 class="font-bold text-lg sm:text-xl text-gray-800 pr-1" data-i18n="name_emp_jamon">Empanada de Presunto e Queijo</h4>
+                                <span class="text-ven-red font-bold text-base sm:text-lg whitespace-nowrap flex-shrink-0 ml-1">R$ 20,00</span>
                             </div>
-                            <p class="text-gray-500 text-sm mb-2 flex-grow" data-i18n="desc_emp_jamon">Empanada crocante recheada com presunto fatiado e queijo branco derretido, cremosa e irresistível a cada mordida. Dourada na medida certa, perfeita para matar a fome!</p>
-                            <span class="portion-tag mb-4 w-max" data-i18n="rend_200">Rende: 1 pessoa (200g)</span>
-                            <button class="add-to-cart w-full bg-gray-900 text-white py-3 rounded-xl font-bold hover:bg-ven-red transition-colors flex justify-center items-center gap-2 mt-auto" onclick="addToCart('Empanada de Presunto e Queijo', 20)">
+                            <p class="text-gray-500 text-xs sm:text-sm mb-3 sm:mb-4 flex-grow" data-i18n="desc_emp_jamon">Empanada crocante recheada com presunto fatiado e queijo branco derretido, cremosa e irresistível a cada mordida. Dourada na medida certa, perfeita para matar a fome!</p>
+                            <span class="portion-tag mb-3 sm:mb-4 w-max" data-i18n="rend_200">Rende: 1 pessoa (200g)</span>
+                            <button class="add-to-cart w-full bg-gray-900 text-white py-2.5 sm:py-3 rounded-lg sm:rounded-xl font-bold hover:bg-ven-red transition-colors flex justify-center items-center gap-2 mt-auto text-xs sm:text-sm" onclick="addToCart('Empanada de Presunto e Queijo', 20)">
                                 <i data-lucide="plus-circle" class="w-4 h-4"></i> <span data-i18n="btn_add">Adicionar</span>
                             </button>
                         </div>
@@ -927,22 +930,22 @@
                 </div>
 
                 <!-- SEÇÃO TEQUEÑOS -->
-                <div id="tequenos-section" class="menu-section hidden grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-8">
+                <div id="tequenos-section" class="menu-section hidden grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6 sm:gap-8">
                     <!-- Item 11: Tequeños -->
                     <div class="bg-white rounded-2xl overflow-hidden shadow-md card-hover group flex flex-col">
-                        <div class="h-64 bg-gray-100 flex items-center justify-center relative overflow-hidden flex-shrink-0">
+                        <div class="h-56 sm:h-64 bg-gray-100 flex items-center justify-center relative overflow-hidden flex-shrink-0">
                             <div class="product-img-container">
                                 <img src="tequenos.jpg" alt="Tequeños" class="product-img">
                             </div>
                         </div>
-                        <div class="p-6 flex flex-col flex-grow">
-                            <div class="flex justify-between items-start mb-2">
-                                <h4 class="font-bold text-xl text-gray-800 pr-2" data-i18n="name_tequenos">Tequeños</h4>
-                                <span class="text-ven-red font-bold text-lg whitespace-nowrap flex-shrink-0 ml-2">R$ 35,00</span>
+                        <div class="p-5 sm:p-6 flex flex-col flex-grow">
+                            <div class="flex justify-between items-start mb-2 gap-2">
+                                <h4 class="font-bold text-lg sm:text-xl text-gray-800 pr-1" data-i18n="name_tequenos">Tequeños</h4>
+                                <span class="text-ven-red font-bold text-base sm:text-lg whitespace-nowrap flex-shrink-0 ml-1">R$ 35,00</span>
                             </div>
-                            <p class="text-gray-500 text-sm mb-2 flex-grow" data-i18n="desc_tequenos">Palitos de queijo envolvidos em massa dourada e crocante, fritos na hora. Um dos petiscos mais famosos da Venezuela. Porção com 7 unidades. Acompanha molho tártaro.</p>
-                            <span class="portion-tag mb-4 w-max" data-i18n="rend_285">Rende: 1 pessoa (285g)</span>
-                            <button class="add-to-cart w-full bg-gray-900 text-white py-3 rounded-xl font-bold hover:bg-ven-red transition-colors flex justify-center items-center gap-2 mt-auto" onclick="addToCart('Tequeños', 35)">
+                            <p class="text-gray-500 text-xs sm:text-sm mb-3 sm:mb-4 flex-grow" data-i18n="desc_tequenos">Palitos de queijo envolvidos em massa dourada e crocante, fritos na hora. Um dos petiscos mais famosos da Venezuela. Porção com 7 unidades. Acompanha molho tártaro.</p>
+                            <span class="portion-tag mb-3 sm:mb-4 w-max" data-i18n="rend_285">Rende: 1 pessoa (285g)</span>
+                            <button class="add-to-cart w-full bg-gray-900 text-white py-2.5 sm:py-3 rounded-lg sm:rounded-xl font-bold hover:bg-ven-red transition-colors flex justify-center items-center gap-2 mt-auto text-xs sm:text-sm" onclick="addToCart('Tequeños', 35)">
                                 <i data-lucide="plus-circle" class="w-4 h-4"></i> <span data-i18n="btn_add">Adicionar</span>
                             </button>
                         </div>
@@ -950,22 +953,22 @@
                 </div>
 
                 <!-- SEÇÃO CACHAPAS -->
-                <div id="cachapas-section" class="menu-section hidden grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-8">
+                <div id="cachapas-section" class="menu-section hidden grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6 sm:gap-8">
                     <!-- Item 12: Cachapa Queijo -->
                     <div class="bg-white rounded-2xl overflow-hidden shadow-md card-hover group flex flex-col">
-                        <div class="h-64 bg-gray-100 flex items-center justify-center relative overflow-hidden flex-shrink-0">
+                        <div class="h-56 sm:h-64 bg-gray-100 flex items-center justify-center relative overflow-hidden flex-shrink-0">
                             <div class="product-img-container">
                                 <img src="cachapa_queijo.jpg" alt="Cachapa de Queijo" class="product-img">
                             </div>
                         </div>
-                        <div class="p-6 flex flex-col flex-grow">
-                            <div class="flex justify-between items-start mb-2">
-                                <h4 class="font-bold text-xl text-gray-800 pr-2" data-i18n="name_cachapa_queijo">Cachapa Tradicional (com queijo)</h4>
-                                <span class="text-ven-red font-bold text-lg whitespace-nowrap flex-shrink-0 ml-2">R$ 35,00</span>
+                        <div class="p-5 sm:p-6 flex flex-col flex-grow">
+                            <div class="flex justify-between items-start mb-2 gap-2">
+                                <h4 class="font-bold text-lg sm:text-xl text-gray-800 pr-1" data-i18n="name_cachapa_queijo">Cachapa Tradicional (com queijo)</h4>
+                                <span class="text-ven-red font-bold text-base sm:text-lg whitespace-nowrap flex-shrink-0 ml-1">R$ 35,00</span>
                             </div>
-                            <p class="text-gray-500 text-sm mb-2 flex-grow" data-i18n="desc_cachapa_queijo">Cachapa de milho fresco, dourada por fora e macia por dentro, com queijo de coalho. Um clássico da gastronomia venezuelana que conquista à primeira mordida.</p>
-                            <span class="portion-tag mb-4 w-max" data-i18n="rend_280">Rende: 1 pessoa (280g)</span>
-                            <button class="add-to-cart w-full bg-gray-900 text-white py-3 rounded-xl font-bold hover:bg-ven-red transition-colors flex justify-center items-center gap-2 mt-auto" onclick="addToCart('Cachapa de Queijo', 35)">
+                            <p class="text-gray-500 text-xs sm:text-sm mb-3 sm:mb-4 flex-grow" data-i18n="desc_cachapa_queijo">Cachapa de milho fresco, dourada por fora e macia por dentro, com queijo de coalho. Um clássico da gastronomia venezuelana que conquista à primeira mordida.</p>
+                            <span class="portion-tag mb-3 sm:mb-4 w-max" data-i18n="rend_280">Rende: 1 pessoa (280g)</span>
+                            <button class="add-to-cart w-full bg-gray-900 text-white py-2.5 sm:py-3 rounded-lg sm:rounded-xl font-bold hover:bg-ven-red transition-colors flex justify-center items-center gap-2 mt-auto text-xs sm:text-sm" onclick="addToCart('Cachapa de Queijo', 35)">
                                 <i data-lucide="plus-circle" class="w-4 h-4"></i> <span data-i18n="btn_add">Adicionar</span>
                             </button>
                         </div>
@@ -973,19 +976,19 @@
 
                     <!-- Item 13: Cachapa Carne Desfiada -->
                     <div class="bg-white rounded-2xl overflow-hidden shadow-md card-hover group flex flex-col">
-                        <div class="h-64 bg-gray-100 flex items-center justify-center relative overflow-hidden flex-shrink-0">
+                        <div class="h-56 sm:h-64 bg-gray-100 flex items-center justify-center relative overflow-hidden flex-shrink-0">
                             <div class="product-img-container">
                                 <img src="cachapa_carne.jpg" alt="Cachapa Carne Desfiada" class="product-img">
                             </div>
                         </div>
-                        <div class="p-6 flex flex-col flex-grow">
-                            <div class="flex justify-between items-start mb-2">
-                                <h4 class="font-bold text-xl text-gray-800 pr-2" data-i18n="name_cachapa_carne">Cachapa Carne Desfiada</h4>
-                                <span class="text-ven-red font-bold text-lg whitespace-nowrap flex-shrink-0 ml-2">R$ 40,00</span>
+                        <div class="p-5 sm:p-6 flex flex-col flex-grow">
+                            <div class="flex justify-between items-start mb-2 gap-2">
+                                <h4 class="font-bold text-lg sm:text-xl text-gray-800 pr-1" data-i18n="name_cachapa_carne">Cachapa Carne Desfiada</h4>
+                                <span class="text-ven-red font-bold text-base sm:text-lg whitespace-nowrap flex-shrink-0 ml-1">R$ 40,00</span>
                             </div>
-                            <p class="text-gray-500 text-sm mb-2 flex-grow" data-i18n="desc_cachapa_carne">Nossa cachapa clássica de milho fresco, recheada com carne desfiada e queijo. Uma combinação tradicional e irresistível da culinária venezuelana.</p>
-                            <span class="portion-tag mb-4 w-max" data-i18n="rend_300">Rende: 1 pessoa (300g)</span>
-                            <button class="add-to-cart w-full bg-gray-900 text-white py-3 rounded-xl font-bold hover:bg-ven-red transition-colors flex justify-center items-center gap-2 mt-auto" onclick="addToCart('Cachapa Carne Desfiada', 40)">
+                            <p class="text-gray-500 text-xs sm:text-sm mb-3 sm:mb-4 flex-grow" data-i18n="desc_cachapa_carne">Nossa cachapa clássica de milho fresco, recheada com carne desfiada e queijo. Uma combinação tradicional e irresistível da culinária venezuelana.</p>
+                            <span class="portion-tag mb-3 sm:mb-4 w-max" data-i18n="rend_300">Rende: 1 pessoa (300g)</span>
+                            <button class="add-to-cart w-full bg-gray-900 text-white py-2.5 sm:py-3 rounded-lg sm:rounded-xl font-bold hover:bg-ven-red transition-colors flex justify-center items-center gap-2 mt-auto text-xs sm:text-sm" onclick="addToCart('Cachapa Carne Desfiada', 40)">
                                 <i data-lucide="plus-circle" class="w-4 h-4"></i> <span data-i18n="btn_add">Adicionar</span>
                             </button>
                         </div>
@@ -993,19 +996,19 @@
 
                     <!-- Item 14: Cachapa Pernil -->
                     <div class="bg-white rounded-2xl overflow-hidden shadow-md card-hover group flex flex-col">
-                        <div class="h-64 bg-gray-100 flex items-center justify-center relative overflow-hidden flex-shrink-0">
+                        <div class="h-56 sm:h-64 bg-gray-100 flex items-center justify-center relative overflow-hidden flex-shrink-0">
                             <div class="product-img-container">
                                 <img src="cachapa_pernil.jpg" alt="Cachapa Pernil" class="product-img">
                             </div>
                         </div>
-                        <div class="p-6 flex flex-col flex-grow">
-                            <div class="flex justify-between items-start mb-2">
-                                <h4 class="font-bold text-xl text-gray-800 pr-2" data-i18n="name_cachapa_pernil">Cachapa de Pernil</h4>
-                                <span class="text-ven-red font-bold text-lg whitespace-nowrap flex-shrink-0 ml-2">R$ 35,00</span>
+                        <div class="p-5 sm:p-6 flex flex-col flex-grow">
+                            <div class="flex justify-between items-start mb-2 gap-2">
+                                <h4 class="font-bold text-lg sm:text-xl text-gray-800 pr-1" data-i18n="name_cachapa_pernil">Cachapa de Pernil</h4>
+                                <span class="text-ven-red font-bold text-base sm:text-lg whitespace-nowrap flex-shrink-0 ml-1">R$ 35,00</span>
                             </div>
-                            <p class="text-gray-500 text-sm mb-2 flex-grow" data-i18n="desc_cachapa_pernil">Cachapa recheada com pernil assado suculento e queijo, um sabor tradicional que representa a essência da culinária venezuelana.</p>
-                            <span class="portion-tag mb-4 w-max" data-i18n="rend_300">Rende: 1 pessoa (300g)</span>
-                            <button class="add-to-cart w-full bg-gray-900 text-white py-3 rounded-xl font-bold hover:bg-ven-red transition-colors flex justify-center items-center gap-2 mt-auto" onclick="addToCart('Cachapa de Pernil', 35)">
+                            <p class="text-gray-500 text-xs sm:text-sm mb-3 sm:mb-4 flex-grow" data-i18n="desc_cachapa_pernil">Cachapa recheada com pernil assado suculento e queijo, um sabor tradicional que representa a essência da culinária venezuelana.</p>
+                            <span class="portion-tag mb-3 sm:mb-4 w-max" data-i18n="rend_300">Rende: 1 pessoa (300g)</span>
+                            <button class="add-to-cart w-full bg-gray-900 text-white py-2.5 sm:py-3 rounded-lg sm:rounded-xl font-bold hover:bg-ven-red transition-colors flex justify-center items-center gap-2 mt-auto text-xs sm:text-sm" onclick="addToCart('Cachapa de Pernil', 35)">
                                 <i data-lucide="plus-circle" class="w-4 h-4"></i> <span data-i18n="btn_add">Adicionar</span>
                             </button>
                         </div>
@@ -1013,19 +1016,19 @@
 
                     <!-- Item 15: Cachapa Pabellón -->
                     <div class="bg-white rounded-2xl overflow-hidden shadow-md card-hover group flex flex-col">
-                        <div class="h-64 bg-gray-100 flex items-center justify-center relative overflow-hidden flex-shrink-0">
+                        <div class="h-56 sm:h-64 bg-gray-100 flex items-center justify-center relative overflow-hidden flex-shrink-0">
                             <div class="product-img-container">
                                 <img src="cachapa_pabellon.jpg" alt="Cachapa Pabellón" class="product-img">
                             </div>
                         </div>
-                        <div class="p-6 flex flex-col flex-grow">
-                            <div class="flex justify-between items-start mb-2">
-                                <h4 class="font-bold text-xl text-gray-800 pr-2" data-i18n="name_cachapa_pabellon">Cachapa Pabellón</h4>
-                                <span class="text-ven-red font-bold text-lg whitespace-nowrap flex-shrink-0 ml-2">R$ 40,00</span>
+                        <div class="p-5 sm:p-6 flex flex-col flex-grow">
+                            <div class="flex justify-between items-start mb-2 gap-2">
+                                <h4 class="font-bold text-lg sm:text-xl text-gray-800 pr-1" data-i18n="name_cachapa_pabellon">Cachapa Pabellón</h4>
+                                <span class="text-ven-red font-bold text-base sm:text-lg whitespace-nowrap flex-shrink-0 ml-1">R$ 40,00</span>
                             </div>
-                            <p class="text-gray-500 text-sm mb-2 flex-grow" data-i18n="desc_cachapa_pabellon">Explosão de sabor com carne desfiada, feijão preto, banana da terra frita e queijo. O clássico Pabellón venezuelano servido dentro da nossa cachapa.</p>
-                            <span class="portion-tag mb-4 w-max" data-i18n="rend_300">Rende: 1 pessoa (300g)</span>
-                            <button class="add-to-cart w-full bg-gray-900 text-white py-3 rounded-xl font-bold hover:bg-ven-red transition-colors flex justify-center items-center gap-2 mt-auto" onclick="addToCart('Cachapa Pabellón', 40)">
+                            <p class="text-gray-500 text-xs sm:text-sm mb-3 sm:mb-4 flex-grow" data-i18n="desc_cachapa_pabellon">Explosão de sabor com carne desfiada, feijão preto, banana da terra frita e queijo. O clássico Pabellón venezuelano servido dentro da nossa cachapa.</p>
+                            <span class="portion-tag mb-3 sm:mb-4 w-max" data-i18n="rend_300">Rende: 1 pessoa (300g)</span>
+                            <button class="add-to-cart w-full bg-gray-900 text-white py-2.5 sm:py-3 rounded-lg sm:rounded-xl font-bold hover:bg-ven-red transition-colors flex justify-center items-center gap-2 mt-auto text-xs sm:text-sm" onclick="addToCart('Cachapa Pabellón', 40)">
                                 <i data-lucide="plus-circle" class="w-4 h-4"></i> <span data-i18n="btn_add">Adicionar</span>
                             </button>
                         </div>
@@ -1033,19 +1036,19 @@
 
                     <!-- Item 16: Cachapa Vegetariana -->
                     <div class="bg-white rounded-2xl overflow-hidden shadow-md card-hover group flex flex-col">
-                         <div class="h-64 bg-gray-100 flex items-center justify-center relative overflow-hidden flex-shrink-0">
+                         <div class="h-56 sm:h-64 bg-gray-100 flex items-center justify-center relative overflow-hidden flex-shrink-0">
                             <div class="product-img-container">
                                 <img src="cachapa_veg.jpg" alt="Cachapa Vegetal" class="product-img">
                             </div>
                         </div>
-                        <div class="p-6 flex flex-col flex-grow">
-                            <div class="flex justify-between items-start mb-2">
-                                <h4 class="font-bold text-xl text-gray-800 pr-2" data-i18n="name_cachapa_veg">Cachapa Vegetariana</h4>
-                                <span class="text-ven-red font-bold text-lg whitespace-nowrap flex-shrink-0 ml-2">R$ 35,00</span>
+                        <div class="p-5 sm:p-6 flex flex-col flex-grow">
+                            <div class="flex justify-between items-start mb-2 gap-2">
+                                <h4 class="font-bold text-lg sm:text-xl text-gray-800 pr-1" data-i18n="name_cachapa_veg">Cachapa Vegetariana</h4>
+                                <span class="text-ven-red font-bold text-base sm:text-lg whitespace-nowrap flex-shrink-0 ml-1">R$ 35,00</span>
                             </div>
-                            <p class="text-gray-500 text-sm mb-2 flex-grow" data-i18n="desc_cachapa_veg">Massa de milho verde recheada com vegetais salteados da estação e queijo. Uma opção saborosa, colorida e cheia de textura.</p>
-                            <span class="portion-tag mb-4 w-max" data-i18n="rend_300">Rende: 1 pessoa (300g)</span>
-                            <button class="add-to-cart w-full bg-gray-900 text-white py-3 rounded-xl font-bold hover:bg-ven-red transition-colors flex justify-center items-center gap-2 mt-auto" onclick="addToCart('Cachapa Vegetariana', 35)">
+                            <p class="text-gray-500 text-xs sm:text-sm mb-3 sm:mb-4 flex-grow" data-i18n="desc_cachapa_veg">Massa de milho verde recheada com vegetais salteados da estação e queijo. Uma opção saborosa, colorida e cheia de textura.</p>
+                            <span class="portion-tag mb-3 sm:mb-4 w-max" data-i18n="rend_300">Rende: 1 pessoa (300g)</span>
+                            <button class="add-to-cart w-full bg-gray-900 text-white py-2.5 sm:py-3 rounded-lg sm:rounded-xl font-bold hover:bg-ven-red transition-colors flex justify-center items-center gap-2 mt-auto text-xs sm:text-sm" onclick="addToCart('Cachapa Vegetariana', 35)">
                                 <i data-lucide="plus-circle" class="w-4 h-4"></i> <span data-i18n="btn_add">Adicionar</span>
                             </button>
                         </div>
@@ -1053,19 +1056,19 @@
 
                     <!-- Item 17: Cachapa com Chicharrones -->
                     <div class="bg-white rounded-2xl overflow-hidden shadow-md card-hover group flex flex-col">
-                        <div class="h-64 bg-gray-100 flex items-center justify-center relative overflow-hidden flex-shrink-0">
+                        <div class="h-56 sm:h-64 bg-gray-100 flex items-center justify-center relative overflow-hidden flex-shrink-0">
                             <div class="product-img-container">
                                 <img src="cachapa_chicharrones.jpg" alt="Cachapa com Cochino Frito" class="product-img">
                             </div>
                         </div>
-                        <div class="p-6 flex flex-col flex-grow">
-                            <div class="flex justify-between items-start mb-2">
-                                <h4 class="font-bold text-xl text-gray-800 pr-2" data-i18n="name_cachapa_chicharrones">Cachapa com Cochino Frito (Porco frito)</h4>
-                                <span class="text-ven-red font-bold text-lg whitespace-nowrap flex-shrink-0 ml-2">R$ 40,00</span>
+                        <div class="p-5 sm:p-6 flex flex-col flex-grow">
+                            <div class="flex justify-between items-start mb-2 gap-2">
+                                <h4 class="font-bold text-lg sm:text-xl text-gray-800 pr-1" data-i18n="name_cachapa_chicharrones">Cachapa com Cochino Frito (Porco frito)</h4>
+                                <span class="text-ven-red font-bold text-base sm:text-lg whitespace-nowrap flex-shrink-0 ml-1">R$ 40,00</span>
                             </div>
-                            <p class="text-gray-500 text-sm mb-2 flex-grow" data-i18n="desc_cachapa_chicharrones">Cachapa douradinha, macia e recheada com queijo derretido + crocantes pedaços de cochino frito (Porco frito). É uma das delícias favoritas dos venezuelanos, agora chegou a São Paulo! Experimente a combinação perfeita.</p>
-                            <span class="portion-tag mb-4 w-max" data-i18n="rend_330">Rende: 1 pessoa (330g)</span>
-                            <button class="add-to-cart w-full bg-gray-900 text-white py-3 rounded-xl font-bold hover:bg-ven-red transition-colors flex justify-center items-center gap-2 mt-auto" onclick="addToCart('Cachapa com Cochino Frito', 40)">
+                            <p class="text-gray-500 text-xs sm:text-sm mb-3 sm:mb-4 flex-grow" data-i18n="desc_cachapa_chicharrones">Cachapa douradinha, macia e recheada com queijo derretido + crocantes pedaços de cochino frito (Porco frito). É uma das delícias favoritas dos venezuelanos, agora chegou a São Paulo! Experimente a combinação perfeita.</p>
+                            <span class="portion-tag mb-3 sm:mb-4 w-max" data-i18n="rend_330">Rende: 1 pessoa (330g)</span>
+                            <button class="add-to-cart w-full bg-gray-900 text-white py-2.5 sm:py-3 rounded-lg sm:rounded-xl font-bold hover:bg-ven-red transition-colors flex justify-center items-center gap-2 mt-auto text-xs sm:text-sm" onclick="addToCart('Cachapa com Cochino Frito', 40)">
                                 <i data-lucide="plus-circle" class="w-4 h-4"></i> <span data-i18n="btn_add">Adicionar</span>
                             </button>
                         </div>
@@ -1073,99 +1076,104 @@
                 </div>
 
                 <!-- SEÇÃO BEBIDAS -->
-                <div id="bebidas-section" class="menu-section hidden grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-8">
+                <div id="bebidas-section" class="menu-section hidden grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6 sm:gap-8">
                      <!-- Bebida 1: Papelón con Limón -->
-                     <div class="bg-white rounded-2xl overflow-hidden shadow-md card-hover group">
-                        <div class="h-64 bg-gray-100 flex items-center justify-center relative overflow-hidden">
+                     <div class="bg-white rounded-2xl overflow-hidden shadow-md card-hover group flex flex-col">
+                        <div class="h-56 sm:h-64 bg-gray-100 flex items-center justify-center relative overflow-hidden flex-shrink-0">
                             <img src="papelon_com_limao.jpg" alt="Papelón con Limão" class="product-img">
                         </div>
-                        <div class="p-6 flex flex-col flex-grow">
-                            <div class="flex justify-between items-start mb-2">
-                                <h4 class="font-bold text-xl text-gray-800 pr-2" data-i18n="name_papelon">Papelón com Limão</h4>
-                                <span class="text-ven-red font-bold text-lg whitespace-nowrap flex-shrink-0 ml-2">R$ 15,00</span>
+                        <div class="p-5 sm:p-6 flex flex-col flex-grow">
+                            <div class="flex justify-between items-start mb-2 gap-2">
+                                <h4 class="font-bold text-lg sm:text-xl text-gray-800 pr-1" data-i18n="name_papelon">Papelón com Limão</h4>
+                                <span class="text-ven-red font-bold text-base sm:text-lg whitespace-nowrap flex-shrink-0 ml-1">R$ 15,00</span>
                             </div>
-                            <p class="text-gray-500 text-sm mb-4 flex-grow" data-i18n="desc_papelon">Bebida refrescante de rapadura com um toque de limão.</p>
-                            <button class="add-to-cart w-full bg-gray-900 text-white py-3 rounded-xl font-bold hover:bg-ven-red transition-colors flex justify-center items-center gap-2 mt-auto" onclick="addToCart('Papelón com Limão', 15)">
+                            <p class="text-gray-500 text-xs sm:text-sm mb-3 sm:mb-4 flex-grow" data-i18n="desc_papelon">Bebida refrescante de rapadura com um toque de limão.</p>
+                            <button class="add-to-cart w-full bg-gray-900 text-white py-2.5 sm:py-3 rounded-lg sm:rounded-xl font-bold hover:bg-ven-red transition-colors flex justify-center items-center gap-2 mt-auto text-xs sm:text-sm" onclick="addToCart('Papelón com Limão', 15)">
                                 <i data-lucide="plus-circle" class="w-4 h-4"></i> <span data-i18n="btn_add">Adicionar</span>
                             </button>
                         </div>
                     </div>
+
                      <!-- Bebida 2: Guaraná Antarctica -->
-                     <div class="bg-white rounded-2xl overflow-hidden shadow-md card-hover group">
-                        <div class="h-64 bg-gray-100 flex items-center justify-center relative overflow-hidden">
+                     <div class="bg-white rounded-2xl overflow-hidden shadow-md card-hover group flex flex-col">
+                        <div class="h-56 sm:h-64 bg-gray-100 flex items-center justify-center relative overflow-hidden flex-shrink-0">
                             <img src="guarana.jpg" onerror="this.onerror=null; this.src='https://images.unsplash.com/photo-1622483767028-3f66f32aef97?ixlib=rb-1.2.1&auto=format&fit=crop&w=800&q=80';" alt="Guaraná Antarctica" class="product-img">
                         </div>
-                        <div class="p-6 flex flex-col flex-grow">
-                            <div class="flex justify-between items-start mb-2">
-                                <h4 class="font-bold text-xl text-gray-800 pr-2">Guaraná Antarctica 350ml</h4>
-                                <span class="text-ven-red font-bold text-lg whitespace-nowrap flex-shrink-0 ml-2">R$ 9,00</span>
+                        <div class="p-5 sm:p-6 flex flex-col flex-grow">
+                            <div class="flex justify-between items-start mb-2 gap-2">
+                                <h4 class="font-bold text-lg sm:text-xl text-gray-800 pr-1">Guaraná Antarctica 350ml</h4>
+                                <span class="text-ven-red font-bold text-base sm:text-lg whitespace-nowrap flex-shrink-0 ml-1">R$ 9,00</span>
                             </div>
-                            <p class="text-gray-500 text-sm mb-4 flex-grow" data-i18n="desc_guarana">O sabor original do Brasil em lata.</p>
-                            <button class="add-to-cart w-full bg-gray-900 text-white py-3 rounded-xl font-bold hover:bg-ven-red transition-colors flex justify-center items-center gap-2 mt-auto" onclick="addToCart('Guaraná Antarctica', 9)">
+                            <p class="text-gray-500 text-xs sm:text-sm mb-3 sm:mb-4 flex-grow" data-i18n="desc_guarana">O sabor original do Brasil em lata.</p>
+                            <button class="add-to-cart w-full bg-gray-900 text-white py-2.5 sm:py-3 rounded-lg sm:rounded-xl font-bold hover:bg-ven-red transition-colors flex justify-center items-center gap-2 mt-auto text-xs sm:text-sm" onclick="addToCart('Guaraná Antarctica', 9)">
                                 <i data-lucide="plus-circle" class="w-4 h-4"></i> <span data-i18n="btn_add">Adicionar</span>
                             </button>
                         </div>
                     </div>
+
                      <!-- Bebida 3: Fanta Laranja -->
-                     <div class="bg-white rounded-2xl overflow-hidden shadow-md card-hover group">
-                        <div class="h-64 bg-gray-100 flex items-center justify-center relative overflow-hidden">
+                     <div class="bg-white rounded-2xl overflow-hidden shadow-md card-hover group flex flex-col">
+                        <div class="h-56 sm:h-64 bg-gray-100 flex items-center justify-center relative overflow-hidden flex-shrink-0">
                             <img src="fanta.jpg" onerror="this.onerror=null; this.src='https://images.unsplash.com/photo-1622483767028-3f66f32aef97?ixlib=rb-1.2.1&auto=format&fit=crop&w=800&q=80';" alt="Fanta Laranja" class="product-img">
                         </div>
-                        <div class="p-6 flex flex-col flex-grow">
-                            <div class="flex justify-between items-start mb-2">
-                                <h4 class="font-bold text-xl text-gray-800 pr-2">Fanta Laranja Lata 350ml</h4>
-                                <span class="text-ven-red font-bold text-lg whitespace-nowrap flex-shrink-0 ml-2">R$ 9,00</span>
+                        <div class="p-5 sm:p-6 flex flex-col flex-grow">
+                            <div class="flex justify-between items-start mb-2 gap-2">
+                                <h4 class="font-bold text-lg sm:text-xl text-gray-800 pr-1">Fanta Laranja Lata 350ml</h4>
+                                <span class="text-ven-red font-bold text-base sm:text-lg whitespace-nowrap flex-shrink-0 ml-1">R$ 9,00</span>
                             </div>
-                            <p class="text-gray-500 text-sm mb-4 flex-grow" data-i18n="desc_fanta">Refrigerante de laranja em lata.</p>
-                            <button class="add-to-cart w-full bg-gray-900 text-white py-3 rounded-xl font-bold hover:bg-ven-red transition-colors flex justify-center items-center gap-2 mt-auto" onclick="addToCart('Fanta Laranja', 9)">
+                            <p class="text-gray-500 text-xs sm:text-sm mb-3 sm:mb-4 flex-grow" data-i18n="desc_fanta">Refrigerante de laranja em lata.</p>
+                            <button class="add-to-cart w-full bg-gray-900 text-white py-2.5 sm:py-3 rounded-lg sm:rounded-xl font-bold hover:bg-ven-red transition-colors flex justify-center items-center gap-2 mt-auto text-xs sm:text-sm" onclick="addToCart('Fanta Laranja', 9)">
                                 <i data-lucide="plus-circle" class="w-4 h-4"></i> <span data-i18n="btn_add">Adicionar</span>
                             </button>
                         </div>
                     </div>
+
                      <!-- Bebida 4: Coca Cola -->
-                     <div class="bg-white rounded-2xl overflow-hidden shadow-md card-hover group">
-                        <div class="h-64 bg-gray-100 flex items-center justify-center relative overflow-hidden">
+                     <div class="bg-white rounded-2xl overflow-hidden shadow-md card-hover group flex flex-col">
+                        <div class="h-56 sm:h-64 bg-gray-100 flex items-center justify-center relative overflow-hidden flex-shrink-0">
                             <img src="coca_cola.jpg" onerror="this.onerror=null; this.src='https://images.unsplash.com/photo-1622483767028-3f66f32aef97?ixlib=rb-1.2.1&auto=format&fit=crop&w=800&q=80';" alt="Coca Cola" class="product-img">
                         </div>
-                        <div class="p-6 flex flex-col flex-grow">
-                            <div class="flex justify-between items-start mb-2">
-                                <h4 class="font-bold text-xl text-gray-800 pr-2">Coca Cola Em Lata 310ml</h4>
-                                <span class="text-ven-red font-bold text-lg whitespace-nowrap flex-shrink-0 ml-2">R$ 9,00</span>
+                        <div class="p-5 sm:p-6 flex flex-col flex-grow">
+                            <div class="flex justify-between items-start mb-2 gap-2">
+                                <h4 class="font-bold text-lg sm:text-xl text-gray-800 pr-1">Coca Cola Em Lata 310ml</h4>
+                                <span class="text-ven-red font-bold text-base sm:text-lg whitespace-nowrap flex-shrink-0 ml-1">R$ 9,00</span>
                             </div>
-                            <p class="text-gray-500 text-sm mb-4 flex-grow" data-i18n="desc_coca">A clássica e refrescante em lata.</p>
-                            <button class="add-to-cart w-full bg-gray-900 text-white py-3 rounded-xl font-bold hover:bg-ven-red transition-colors flex justify-center items-center gap-2 mt-auto" onclick="addToCart('Coca Cola 310ml', 9)">
+                            <p class="text-gray-500 text-xs sm:text-sm mb-3 sm:mb-4 flex-grow" data-i18n="desc_coca">A clássica e refrescante em lata.</p>
+                            <button class="add-to-cart w-full bg-gray-900 text-white py-2.5 sm:py-3 rounded-lg sm:rounded-xl font-bold hover:bg-ven-red transition-colors flex justify-center items-center gap-2 mt-auto text-xs sm:text-sm" onclick="addToCart('Coca Cola 310ml', 9)">
                                 <i data-lucide="plus-circle" class="w-4 h-4"></i> <span data-i18n="btn_add">Adicionar</span>
                             </button>
                         </div>
                     </div>
+
                      <!-- Bebida 5: Água Minalba -->
-                     <div class="bg-white rounded-2xl overflow-hidden shadow-md card-hover group">
-                        <div class="h-64 bg-gray-100 flex items-center justify-center relative overflow-hidden">
+                     <div class="bg-white rounded-2xl overflow-hidden shadow-md card-hover group flex flex-col">
+                        <div class="h-56 sm:h-64 bg-gray-100 flex items-center justify-center relative overflow-hidden flex-shrink-0">
                             <img src="agua.jpg" onerror="this.onerror=null; this.src='https://images.unsplash.com/photo-1548839140-29a749e1bc4e?ixlib=rb-1.2.1&auto=format&fit=crop&w=800&q=80';" alt="Água Minalba" class="product-img">
                         </div>
-                        <div class="p-6 flex flex-col flex-grow">
-                            <div class="flex justify-between items-start mb-2">
-                                <h4 class="font-bold text-xl text-gray-800 pr-2">Água Minalba Nat 510ml</h4>
-                                <span class="text-ven-red font-bold text-lg whitespace-nowrap flex-shrink-0 ml-2">R$ 6,00</span>
+                        <div class="p-5 sm:p-6 flex flex-col flex-grow">
+                            <div class="flex justify-between items-start mb-2 gap-2">
+                                <h4 class="font-bold text-lg sm:text-xl text-gray-800 pr-1">Água Minalba Nat 510ml</h4>
+                                <span class="text-ven-red font-bold text-base sm:text-lg whitespace-nowrap flex-shrink-0 ml-1">R$ 6,00</span>
                             </div>
-                            <p class="text-gray-500 text-sm mb-4 flex-grow" data-i18n="desc_agua">Água mineral natural e refrescante.</p>
-                            <button class="add-to-cart w-full bg-gray-900 text-white py-3 rounded-xl font-bold hover:bg-ven-red transition-colors flex justify-center items-center gap-2 mt-auto" onclick="addToCart('Água Minalba 510ml', 6)">
+                            <p class="text-gray-500 text-xs sm:text-sm mb-3 sm:mb-4 flex-grow" data-i18n="desc_agua">Água mineral natural e refrescante.</p>
+                            <button class="add-to-cart w-full bg-gray-900 text-white py-2.5 sm:py-3 rounded-lg sm:rounded-xl font-bold hover:bg-ven-red transition-colors flex justify-center items-center gap-2 mt-auto text-xs sm:text-sm" onclick="addToCart('Água Minalba 510ml', 6)">
                                 <i data-lucide="plus-circle" class="w-4 h-4"></i> <span data-i18n="btn_add">Adicionar</span>
                             </button>
                         </div>
                     </div>
+
                      <!-- Bebida 6: Malta Polar -->
-                     <div class="bg-white rounded-2xl overflow-hidden shadow-md card-hover group">
-                        <div class="h-64 bg-gray-100 flex items-center justify-center relative overflow-hidden">
+                     <div class="bg-white rounded-2xl overflow-hidden shadow-md card-hover group flex flex-col">
+                        <div class="h-56 sm:h-64 bg-gray-100 flex items-center justify-center relative overflow-hidden flex-shrink-0">
                             <img src="malta_polar.jpg" onerror="this.src='https://images.unsplash.com/photo-1625754593446-24df99757345?ixlib=rb-1.2.1&auto=format&fit=crop&w=800&q=80';" alt="Malta Polar" class="product-img">
                         </div>
-                        <div class="p-6 flex flex-col flex-grow">
-                            <div class="flex justify-between items-start mb-2">
-                                <h4 class="font-bold text-xl text-gray-800 pr-2" data-i18n="name_malta">Malta Polar</h4>
-                                <span class="text-ven-red font-bold text-lg whitespace-nowrap flex-shrink-0 ml-2">R$ 15,00</span>
+                        <div class="p-5 sm:p-6 flex flex-col flex-grow">
+                            <div class="flex justify-between items-start mb-2 gap-2">
+                                <h4 class="font-bold text-lg sm:text-xl text-gray-800 pr-1" data-i18n="name_malta">Malta Polar</h4>
+                                <span class="text-ven-red font-bold text-base sm:text-lg whitespace-nowrap flex-shrink-0 ml-1">R$ 15,00</span>
                             </div>
-                            <p class="text-gray-500 text-sm mb-4 flex-grow" data-i18n="desc_malta">A clássica malta venezuelana. Importada.</p>
-                            <button class="add-to-cart w-full bg-gray-900 text-white py-3 rounded-xl font-bold hover:bg-ven-red transition-colors flex justify-center items-center gap-2 mt-auto" onclick="addToCart('Malta Polar', 15)">
+                            <p class="text-gray-500 text-xs sm:text-sm mb-3 sm:mb-4 flex-grow" data-i18n="desc_malta">A clássica malta venezuelana. Importada.</p>
+                            <button class="add-to-cart w-full bg-gray-900 text-white py-2.5 sm:py-3 rounded-lg sm:rounded-xl font-bold hover:bg-ven-red transition-colors flex justify-center items-center gap-2 mt-auto text-xs sm:text-sm" onclick="addToCart('Malta Polar', 15)">
                                 <i data-lucide="plus-circle" class="w-4 h-4"></i> <span data-i18n="btn_add">Adicionar</span>
                             </button>
                         </div>
@@ -1177,82 +1185,70 @@
     </section>
 
     <!-- SECCIÓN DE MÚSICA VENEZOLANA (SPOTIFY) -->
-    <section class="py-16 bg-gradient-to-r from-blue-900 to-green-900 text-white">
+    <section class="py-12 sm:py-16 bg-gradient-to-r from-blue-900 to-green-900 text-white border-b-4 border-ven-yellow">
         <div class="container mx-auto px-4">
-            <div class="max-w-4xl mx-auto">
-                <div class="flex flex-col md:flex-row items-center">
-                    <!-- Columna de Texto -->
-                    <div class="md:w-1/2 mb-8 md:mb-0 md:pr-8 text-center md:text-left">
-                        <h2 class="text-3xl font-bold mb-6" data-i18n="spotify_title">Música Venezuelana</h2>
-                        <p class="mb-6" data-i18n="spotify_desc">Descubra os ritmos e melodias que fazem parte da cultura venezuelana. Nossa playlist traz o melhor da música tradicional e contemporânea da Venezuela e América Latina.</p>
-                        
-                        <div class="flex items-center justify-center md:justify-start mb-4">
-                            <svg class="music-note h-8 w-8 text-green-400 mr-4" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="currentColor">
-                                <path d="M19.952 1.651a.75.75 0 01.298.599V16.303a3 3 0 01-2.176 2.884l-1.32.377a2.553 2.553 0 11-1.403-4.909l2.311-.66a1.5 1.5 0 001.088-1.442V6.994l-9 2.572v9.737a3 3 0 01-2.176 2.884l-1.32.377a2.553 2.553 0 11-1.402-4.909l2.31-.66a1.5 1.5 0 001.088-1.442V9.017 5.25a.75.75 0 01.544-.721l10.5-3a.75.75 0 01.658.122z" />
-                            </svg>
-                            <h3 class="text-xl font-bold" data-i18n="spotify_rhythms">Ritmos da Venezuela</h3>
-                        </div>
-                        
-                        <p class="mb-6" data-i18n="spotify_tagline">Ouça joropo, gaita zuliana, calipso, tambor e muito mais!</p>
-                        
-                        <a href="https://open.spotify.com/playlist/4Az8aocHrrIIN6ZwF7IDrZ" target="_blank" class="inline-flex items-center px-6 py-3 bg-green-500 hover:bg-green-600 rounded-full font-bold transition transform hover:scale-105 shadow-lg">
-                            <svg class="w-6 h-6 mr-2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="currentColor">
-                                <path d="M12 2C6.5 2 2 6.5 2 12s4.5 10 10 10 10-4.5 10-10S17.5 2 12 2zm4.059 14.406c-.192 0-.286-.093-.477-.186-1.241-.74-2.764-1.107-4.435-1.107-1.67 0-3.193.367-4.434 1.107-.19.093-.285.186-.477.186a.67.67 0 01-.668-.668c0-.38.19-.572.38-.668 1.53-.93 3.29-1.388 5.2-1.388 1.91 0 3.67.458 5.2 1.388.19.096.38.287.38.668 0 .38-.287.668-.669.668zm1.146-2.766c-.191 0-.382-.095-.573-.19-1.433-.854-3.437-1.337-5.487-1.337s-4.054.483-5.487 1.337c-.19.095-.382.19-.573.19a.839.839 0 01-.859-.86c0-.286.095-.572.382-.763 1.624-.954 3.817-1.528 6.537-1.528s4.913.574 6.537 1.528c.287.19.382.477.382.763 0 .477-.382.86-.86.86zm1.336-3.15c-.19 0-.381-.096-.572-.192-1.72-1.05-4.435-1.624-7.014-1.624-2.578 0-5.294.573-7.013 1.624-.191.096-.382.192-.573.192-.477 0-.954-.382-.954-.954 0-.287.096-.573.287-.764C8.294 7.148 11.15 6.48 14.4 6.48c3.248 0 6.105.668 7.87 1.718.19.191.286.477.286.764 0 .572-.477.954-.954.954z"/>
-                            </svg>
-                            <span data-i18n="spotify_btn">Ouvir no Spotify</span>
-                        </a>
-                    </div>
-
-                    <!-- Columna del Reproductor -->
-                    <div class="md:w-1/2 mt-8 md:mt-0">
-                        <div class="shadow-2xl transform transition hover:scale-105 duration-300 rounded-2xl overflow-hidden bg-black">
-                            <iframe 
-                                style="border-radius:12px" 
-                                src="https://open.spotify.com/embed/playlist/4Az8aocHrrIIN6ZwF7IDrZ?utm_source=generator&theme=0" 
-                                width="100%" 
-                                height="352" 
-                                frameBorder="0" 
-                                allowfullscreen="" 
-                                allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" 
-                                loading="lazy">
-                            </iframe>
-                        </div>
-                    </div>
+            <div class="max-w-4xl mx-auto flex flex-col items-center">
+                
+                <div class="text-center mb-8">
+                    <h2 class="text-2xl sm:text-3xl font-bold mb-3" data-i18n="spotify_title">Sabor Venezuelano & Música</h2>
+                    <p class="text-gray-200 text-sm sm:text-base mb-5" data-i18n="spotify_desc">Nossa playlist traz o melhor da música tradicional e contemporânea da Venezuela.</p>
+                    
+                    <p class="text-ven-yellow font-bold text-xs sm:text-sm tracking-wide uppercase" data-i18n="spotify_tagline">Ouça joropo, gaita zuliana, calipso, tambor e muito mais!</p>
                 </div>
+                
+                <div class="shadow-2xl transform transition hover:scale-105 duration-300 rounded-2xl overflow-hidden bg-black w-full max-w-[500px]">
+                    <iframe 
+                        style="border-radius:12px" 
+                        src="https://open.spotify.com/embed/playlist/1E0Y4bL8f2m9Wf9h4g2b5G" 
+                        width="100%" 
+                        height="200" 
+                        frameBorder="0" 
+                        allowfullscreen="" 
+                        allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" 
+                        loading="lazy">
+                    </iframe>
+                </div>
+                
+                <a href="https://open.spotify.com/playlist/1E0Y4bL8f2m9Wf9h4g2b5G" target="_blank" class="mt-8 inline-flex items-center px-5 sm:px-6 py-2 sm:py-3 bg-green-500 hover:bg-green-600 rounded-full font-bold transition transform hover:scale-105 shadow-lg text-xs sm:text-sm">
+                    <svg class="w-5 h-5 sm:w-6 sm:h-6 mr-2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="currentColor">
+                        <path d="M12 2C6.5 2 2 6.5 2 12s4.5 10 10 10 10-4.5 10-10S17.5 2 12 2zm4.059 14.406c-.192 0-.286-.093-.477-.186-1.241-.74-2.764-1.107-4.435-1.107-1.67 0-3.193.367-4.434 1.107-.19.093-.285.186-.477.186a.67.67 0 01-.668-.668c0-.38.19-.572.38-.668 1.53-.93 3.29-1.388 5.2-1.388 1.91 0 3.67.458 5.2 1.388.19.096.38.287.38.668 0 .38-.287.668-.669.668zm1.146-2.766c-.191 0-.382-.095-.573-.19-1.433-.854-3.437-1.337-5.487-1.337s-4.054.483-5.487 1.337c-.19.095-.382.19-.573.19a.839.839 0 01-.859-.86c0-.286.095-.572.382-.763 1.624-.954 3.817-1.528 6.537-1.528s4.913.574 6.537 1.528c.287.19.382.477.382.763 0 .477-.382.86-.86.86zm1.336-3.15c-.19 0-.381-.096-.572-.192-1.72-1.05-4.435-1.624-7.014-1.624-2.578 0-5.294.573-7.013 1.624-.191.096-.382.192-.573.192-.477 0-.954-.382-.954-.954 0-.287.096-.573.287-.764C8.294 7.148 11.15 6.48 14.4 6.48c3.248 0 6.105.668 7.87 1.718.19.191.286.477.286.764 0 .572-.477.954-.954.954z"/>
+                    </svg>
+                    <span data-i18n="spotify_btn">Ouvir no Spotify</span>
+                </a>
             </div>
         </div>
     </section>
 
     <!-- Seção de Localização (Mapa) -->
-    <section class="py-16 bg-white border-t border-gray-100">
+    <section class="py-12 sm:py-16 bg-white border-t border-gray-100">
         <div class="container mx-auto px-4">
-            <div class="text-center mb-10">
-                <h3 class="text-3xl font-bold text-gray-800 mb-2" data-i18n="location_title">Onde Estamos</h3>
+            <div class="text-center mb-8 sm:mb-10">
+                <h3 class="text-2xl sm:text-3xl font-bold text-gray-800 mb-2" data-i18n="location_title">Onde Estamos</h3>
                 <div class="h-1 w-20 bg-ven-red mx-auto rounded"></div>
             </div>
             
             <div class="max-w-5xl mx-auto bg-gray-50 rounded-2xl overflow-hidden shadow-lg flex flex-col md:flex-row">
-                <div class="w-full md:w-1/3 p-8 flex flex-col justify-center bg-gray-900 text-white">
+                <div class="w-full md:w-1/3 p-6 sm:p-8 flex flex-col justify-center bg-gray-900 text-white">
                     <div class="flex items-center gap-3 mb-4">
-                        <div class="bg-ven-red p-3 rounded-full">
-                            <i data-lucide="map-pin" class="text-white w-6 h-6"></i>
+                        <div class="bg-ven-red p-2 sm:p-3 rounded-full flex-shrink-0">
+                            <i data-lucide="map-pin" class="text-white w-5 h-5 sm:w-6 sm:h-6"></i>
                         </div>
-                        <h4 class="text-xl font-bold" data-i18n="location_subtitle">Nossa Loja</h4>
+                        <h4 class="text-lg sm:text-xl font-bold" data-i18n="location_subtitle">Nossa Loja</h4>
                     </div>
                     
-                    <p class="text-gray-300 mb-6 leading-relaxed text-sm md:text-base">
+                    <p class="text-gray-300 mb-6 leading-relaxed text-xs sm:text-base">
                         Rua Doutor Ademar Nobre 39<br>
                         Chácara Inglesa, Pirituba<br>
                         São Paulo - SP<br>
                         CEP: 05140-140
                     </p>
                     
-                    <a href="https://maps.google.com/maps?q=Rua%20Doutor%20Ademar%20Nobre%2039,%20Chacara%20Inglesa,%20Pirituba,%20S%C3%A3o%20Paulo" target="_blank" class="inline-flex items-center justify-center px-6 py-3 bg-ven-red hover:bg-red-700 rounded-full font-bold transition transform hover:scale-105 shadow-md text-sm">
+                    <a href="https://maps.app.goo.gl/3fX3P6n4D6T4A4yB8" target="_blank" class="inline-flex items-center justify-center px-5 sm:px-6 py-2 sm:py-3 bg-ven-red hover:bg-red-700 rounded-full font-bold transition transform hover:scale-105 shadow-md text-xs sm:text-sm">
                         <i data-lucide="external-link" class="w-4 h-4 mr-2"></i> <span data-i18n="location_btn">Abrir no Google Maps</span>
                     </a>
                 </div>
                 
-                <div class="w-full md:w-2/3 h-72 md:h-auto min-h-[300px] relative">
+                <div class="w-full md:w-2/3 h-64 sm:h-72 md:h-auto min-h-[250px] sm:min-h-[300px] relative">
                     <iframe 
                         width="100%" 
                         height="100%" 
@@ -1260,7 +1256,7 @@
                         scrolling="no" 
                         marginheight="0" 
                         marginwidth="0" 
-                        src="https://maps.google.com/maps?q=Rua%20Doutor%20Ademar%20Nobre%2039,%20Chacara%20Inglesa,%20Pirituba,%20S%C3%A3o%20Paulo&t=&z=16&ie=UTF8&iwloc=&output=embed"
+                        src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3658.2612711698717!2d-46.7323282!3d-23.4988019!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x94cef928d3a39e73%3A0xc3f148e64b63e52d!2sR.%20Dr.%20Ademar%20Nobre%2C%2039%20-%20Ch%C3%A1cara%20Inglesa%2C%20S%C3%A3o%20Paulo%20-%20SP%2C%2005140-140!5e0!3m2!1spt-BR!2sbr!4v1711202867868!5m2!1spt-BR!2sbr"
                         class="absolute inset-0 w-full h-full"
                         style="border:0;" 
                         allowfullscreen="" 
@@ -1277,7 +1273,6 @@
         <div class="container mx-auto px-4 text-center">
             <h2 class="text-2xl font-bold mb-4">Venezuela Bistro <span class="text-ven-red">SP</span></h2>
             <div class="flex justify-center gap-6 mb-8">
-                <!-- Instagram -->
                 <a href="https://www.instagram.com/venezuelabistrosp" target="_blank" class="hover:text-ven-yellow transition-colors flex items-center justify-center" title="Siga-nos no Instagram">
                     <svg class="w-6 h-6" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
                         <rect x="2" y="2" width="20" height="20" rx="5" ry="5"></rect>
@@ -1285,54 +1280,49 @@
                         <line x1="17.5" y1="6.5" x2="17.51" y2="6.5"></line>
                     </svg>
                 </a>
-                <!-- Facebook -->
                 <a href="https://www.facebook.com/profile.php?id=61550726806134" target="_blank" class="hover:text-ven-yellow transition-colors flex items-center justify-center" title="Curta nossa página no Facebook">
                     <svg class="w-6 h-6" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
                         <path d="M18 2h-3a5 5 0 0 0-5 5v3H7v4h3v8h4v-8h3l1-4h-4V7a1 1 0 0 1 1-1h3z"></path>
                     </svg>
                 </a>
-                <!-- TikTok -->
                 <a href="https://www.tiktok.com/@venezuela.bistro" target="_blank" class="hover:text-ven-yellow transition-colors flex items-center justify-center" title="Siga-nos no TikTok">
                     <svg class="w-6 h-6" viewBox="0 0 24 24" fill="currentColor" xmlns="http://www.w3.org/2000/svg">
                         <path d="M19.59 6.69a4.83 4.83 0 0 1-3.77-4.25V2h-3.45v13.67a2.89 2.89 0 0 1-5.2 1.74 2.89 2.89 0 0 1 2.31-4.64 2.93 2.93 0 0 1 .88.13V9.4a6.84 6.84 0 0 0-1-.05A6.33 6.33 0 0 0 5 20.1a6.34 6.34 0 0 0 10.86-4.43v-7a8.16 8.16 0 0 0 4.77 1.52v-3.4a4.85 4.85 0 0 1-1-.1z"/>
                     </svg>
                 </a>
-                <!-- WhatsApp -->
                 <a href="https://wa.me/5511990270534" target="_blank" class="hover:text-ven-yellow transition-colors flex items-center justify-center" title="Fale conosco no WhatsApp">
                     <i data-lucide="message-circle" class="w-6 h-6"></i>
                 </a>
             </div>
-            <p class="text-gray-500 text-sm">© <span id="current-year"></span> Venezuela Bistro SP. Todos los derechos reservados.</p>
+            <p class="text-gray-500 text-xs sm:text-sm">© <span id="current-year"></span> Venezuela Bistro SP. Todos los derechos reservados.</p>
         </div>
     </footer>
 
     <!-- Modal do Carrinho -->
     <div id="cart-modal" class="fixed inset-0 z-[110] flex items-center justify-center hidden">
         <div class="absolute inset-0 bg-black/50 backdrop-blur-sm" onclick="toggleCart()"></div>
-        <div class="bg-white rounded-2xl w-full max-w-md mx-4 relative z-10 shadow-2xl p-6 flex flex-col max-h-[90vh]">
+        <div class="bg-white rounded-2xl w-full max-w-md mx-4 relative z-10 shadow-2xl p-5 sm:p-6 flex flex-col max-h-[90vh]">
             <div class="flex justify-between items-center mb-4 border-b pb-2 flex-shrink-0">
-                <h3 class="text-xl font-bold text-gray-800" data-i18n="cart_title">Seu Carrinho</h3>
+                <h3 class="text-lg sm:text-xl font-bold text-gray-800" data-i18n="cart_title">Seu Carrinho</h3>
                 <button onclick="toggleCart()" class="text-gray-500 hover:text-red-500">
-                    <i data-lucide="x"></i>
+                    <i data-lucide="x" class="w-5 h-5"></i>
                 </button>
             </div>
-            <!-- Contenedor scrolleable del carrito -->
-            <div id="cart-items" class="overflow-y-auto flex-grow mb-4 space-y-2 pr-2">
-                <p class="text-center text-gray-500 py-4" data-i18n="cart_empty">O carrinho está vazio</p>
+            <div id="cart-items" class="overflow-y-auto flex-grow mb-4 space-y-2 pr-2 scrollbar-hide">
+                <p class="text-center text-gray-500 py-4 text-sm" data-i18n="cart_empty">O carrinho está vazio</p>
             </div>
             <div class="border-t pt-4 flex-shrink-0">
-                <div class="flex justify-between font-bold text-lg mb-4">
+                <div class="flex justify-between font-bold text-base sm:text-lg mb-4">
                     <span>Total:</span>
                     <span id="cart-total">R$ 0,00</span>
                 </div>
-                <button id="checkout-btn" class="w-full btn-primary text-white font-bold py-3 rounded-xl shadow-lg">
+                <button id="checkout-btn" class="w-full btn-primary text-white font-bold py-2.5 sm:py-3 rounded-lg sm:rounded-xl shadow-lg text-xs sm:text-base">
                     <span data-i18n="btn_checkout">Finalizar Pedido</span>
                 </button>
             </div>
         </div>
     </div>
 
-    <!-- JAVASCRIPT GLOBAL -->
     <script>
         let currentLang = 'pt';
         let cart = [];
@@ -1373,7 +1363,7 @@
                 badge_promo_30: "-30% OFF",
                 badge_promo_18: "-18% OFF",
                 name_combo_1: "Experiencias Venezolanas 1",
-                desc_combo_1: "Una selección especial para que conozcas los sabores más tradicionales de Venezuela en un solo pedido.<br><br><ul class='list-disc pl-4 space-y-1 text-left text-xs'><li><strong>1 Arepa:</strong> Hecha con masa de maíz, rellena al momento (carne, pollo o pernil).</li><li><strong>2 Tequeños:</strong> El snack más amado de Venezuela. Palitos de queso fritos.</li><li><strong>1 Mini Empanada:</strong> Masa de maíz dorada, rellena con carne o queso.</li><li><strong>1 Pastelito Andino:</strong> Típicos de la región andina. Relleno único.</li><li><strong>1 Jugo de Papelón con limón.</strong></li><li><strong>* Adicional:</strong> nuestra deliciosa salsa Guasacaca (no picante).</li></ul>",
+                desc_combo_1: "Una selección especial para que conozcas los sabores más tradicionales de Venezuela en un solo pedido. Perfecta para probar, compartir y enamorarte de nuestra culinaria.<br><br><ul class='list-disc pl-4 space-y-1 text-left text-xs'><li><strong>1 Arepa:</strong> Hecha con masa de maíz, rellena al momento (carne, pollo o pernil).</li><li><strong>2 Tequeños:</strong> El snack más amado de Venezuela. Palitos de queso fritos.</li><li><strong>1 Mini Empanada:</strong> Masa de maíz dorada, rellena con carne o queso.</li><li><strong>1 Pastelito Andino:</strong> Típicos de la región andina. Relleno único.</li><li><strong>1 Jugo de Papelón con limón.</strong></li></ul>",
                 name_combo_2: "Combo 2 Empanadas + Papelón (Gratis)",
                 desc_combo_2: "Dos empanadas venezolanas doradas y crujientes, de carne y queso. Acompañadas de un refrescante papelón con limón de 300 ml gratis. Una combinación perfecta para conocer los sabores tradicionales de Venezuela en un combo práctico, sabroso e ideal para cualquier hora del día. (Acompaña nuestra tradicional salsa guasacaca).",
                 desc_combo_2_short: "Dos empanadas doradas acompañadas de un refrescante papelón con limón gratis.",
@@ -1389,7 +1379,7 @@
                 name_catira: "Arepa Catira",
                 desc_catira: "Clásica arepa venezolana hecha con masa de maíz a la plancha, crujiente por fuera y suave por dentro, rellena con pollo desmechado y queso prato derretido.",
                 name_camaron: "Arepa de Camarón",
-                desc_camaron: "Arepa rellena con camarones bien sazonados y vinagreta venezolana de cebolla, cilantro y especias. Una opción fresca e irresistible.",
+                desc_camaron: "Arepa rellena con camarones bien sazonados y vinagreta venezolana de cebolla, cilantro y especias. Una opción fresca e irresistible. *Queso prato opcional.",
                 name_arepa_pernil: "Arepa de Pernil",
                 desc_arepa_pernil: "Clásica arepa venezolana hecha con harina de maíz precocida, crujiente por fuera y suave por dentro, rellena con jugoso pernil desmechado y queso prato.",
                 name_arepa_veg: "Arepa Vegetariana",
@@ -1509,15 +1499,15 @@
                 name_catira: "Arepa Catira",
                 desc_catira: "Clássica arepa venezuelana feita com massa de milho grelhada, crocante por fora e macia por dentro, recheada com frango desfiado e queijo prato derretido.",
                 name_camaron: "Arepa de Camarão",
-                desc_camaron: "Arepa recheada com camarões bem temperados e vinagrete venezuelano de cebola, cheiro-verde e especiarias. Opção fresca e irresistível.",
+                desc_camaron: "Arepa recheada com camarões bem temperados e vinagrete venezuelano de cebola, cheiro-verde e especiarias. Opção fresca e irresistível. *Queijo prato opcional.",
                 name_arepa_pernil: "Arepa de Pernil",
                 desc_arepa_pernil: "Clássica arepa venezuelana feita com farinha de milho precocida, crocante por fora e macia por dentro, recheada com suculento pernil desfiado e queijo prato.",
                 name_arepa_veg: "Arepa Vegetariana",
                 desc_arepa_veg: "Arepa recheada com vegetais salteados da estação — berinjela, cenoura, brócolis, champignon e cebola — acompanhados de queijo. Uma opção saborosa, colorida e cheia de textura.",
                 name_emp_queijo: "Empanada de Queijo",
-                desc_emp_queijo: "Tradicional empanada venezuelana feita com massa de milho, recheada com queijo e frita na hora.",
+                desc_emp_queijo: "Tradicional empanada venezuelana feita com massa de milho, recheada com queijo. Frita na hora para garantir uma textura crocante e irresistível por fora e cremosa por dentro.",
                 name_emp_carne: "Empanada de Carne",
-                desc_emp_carne: "Empanada venezuelana feita com farinha de milho branco precocido. Recheada com carne moída bem temperada.",
+                desc_emp_carne: "Empanada venezuelana feita com farinha de milho branco precocido. Recheada com carne moída bem temperada. Um clássico da culinária venezuelana.",
                 name_pastelito: "Pastelito Andino de Carne",
                 desc_pastelito: "Tradicional pastelito da região andina da Venezuela, feito com massa de trigo, recheado com saborosa carne moída bem temperada. Frito na hora. Porção com 3 unidades.",
                 name_emp_pelua: "Empanada Pelúa",
@@ -1529,11 +1519,11 @@
                 name_cachapa_queijo: "Cachapa Tradicional (com queijo)",
                 desc_cachapa_queijo: "Cachapa de milho fresco, dourada por fora e macia por dentro, com queijo de coalho. Um clássico da gastronomia venezuelana que conquista à primeira mordida.",
                 name_cachapa_carne: "Cachapa Carne Desfiada",
-                desc_cachapa_carne: "Nossa cachapa clássica recheada com suculenta carne desfiada e queijo.",
+                desc_cachapa_carne: "Nossa cachapa clássica de milho fresco, recheada com carne desfiada e queijo. Uma combinação tradicional e irresistível da culinária venezuelana.",
                 name_cachapa_pabellon: "Cachapa Pabellón",
-                desc_cachapa_pabellon: "Explosão de sabor com carne desfiada, feijão preto, banana frita e queijo.",
+                desc_cachapa_pabellon: "Explosão de sabor com carne desfiada, feijão preto, banana da terra frita e queijo. O clássico Pabellón venezuelano servido dentro da nossa cachapa.",
                 name_cachapa_pernil: "Cachapa de Pernil",
-                desc_cachapa_pernil: "Sabor tradicional de pernil assado suculento com queijo.",
+                desc_cachapa_pernil: "Cachapa recheada com pernil assado suculento e queijo, um sabor tradicional que representa a essência da culinária venezuelana.",
                 name_cachapa_veg: "Cachapa Vegetariana",
                 desc_cachapa_veg: "Massa de milho verde recheada com vegetais salteados da estação e queijo.",
                 name_cachapa_chicharrones: "Cachapa com Cochino Frito (Porco frito)",
@@ -1581,7 +1571,6 @@
             }
         };
 
-        // --- FUNCIONES Y LÓGICA DE LA INTERFAZ ---
         function setLanguage(lang) {
             currentLang = lang;
             document.querySelectorAll('.lang-btn').forEach(btn => {
@@ -1648,6 +1637,7 @@
                 cartBtn.classList.add('animate-bounce');
                 setTimeout(() => cartBtn.classList.remove('animate-bounce'), 500);
             }
+
             const badgeBottom = document.getElementById('bottom-cart-badge');
             if(badgeBottom) {
                 badgeBottom.classList.remove('scale-0');
@@ -1673,11 +1663,12 @@
         function renderCartItems() {
             const container = document.getElementById('cart-items'); 
             if(!container) return;
+
             container.innerHTML = '';
             
             if (cart.length === 0) {
                 const emptyMessage = document.createElement('p');
-                emptyMessage.className = 'text-center text-gray-500 py-4';
+                emptyMessage.className = 'text-center text-gray-500 py-4 text-sm';
                 emptyMessage.setAttribute('data-i18n', 'cart_empty');
                 emptyMessage.textContent = translations[currentLang].cart_empty;
                 container.appendChild(emptyMessage);
@@ -1687,26 +1678,27 @@
             cart.forEach(item => {
                 const itemTotal = item.price * item.qty;
                 const itemElement = document.createElement('div');
-                itemElement.className = 'flex items-center gap-4 p-3 bg-gray-50 rounded-lg shadow-sm mb-2';
+                itemElement.className = 'flex items-center gap-3 p-3 bg-gray-50 rounded-lg shadow-sm mb-2';
+                
                 const formattedPrice = item.price.toFixed(2).replace('.', ',');
                 const formattedTotal = itemTotal.toFixed(2).replace('.', ',');
 
                 itemElement.innerHTML = `
                     <div class="flex-grow">
-                        <p class="font-semibold text-gray-800 text-sm leading-tight">${item.name}</p>
-                        <p class="text-xs text-gray-500 mt-1">R$ ${formattedPrice} c/u</p>
+                        <p class="font-semibold text-gray-800 text-[13px] sm:text-sm leading-tight">${item.name}</p>
+                        <p class="text-[11px] sm:text-xs text-gray-500 mt-0.5">R$ ${formattedPrice} c/u</p>
                     </div>
                     <div class="flex items-center gap-2">
                         <div class="flex items-center border border-gray-300 rounded-lg">
-                            <button class="qty-btn p-1.5 text-ven-red hover:bg-red-50 rounded-l-lg" data-action="decrement" data-id="${item.id}">
+                            <button class="qty-btn p-1 text-ven-red hover:bg-red-50 rounded-l-lg" data-action="decrement" data-id="${item.id}">
                                 <i data-lucide="minus" class="w-3 h-3"></i>
                             </button>
-                            <span class="px-2 text-gray-700 font-medium text-sm">${item.qty}</span>
-                            <button class="qty-btn p-1.5 text-green-600 hover:bg-green-50 rounded-r-lg" data-action="increment" data-id="${item.id}">
+                            <span class="px-1.5 text-gray-700 font-medium text-[13px] sm:text-sm">${item.qty}</span>
+                            <button class="qty-btn p-1 text-green-600 hover:bg-green-50 rounded-r-lg" data-action="increment" data-id="${item.id}">
                                 <i data-lucide="plus" class="w-3 h-3"></i>
                             </button>
                         </div>
-                        <span class="font-bold text-gray-900 w-16 text-right text-sm">R$ ${formattedTotal}</span>
+                        <span class="font-bold text-gray-900 w-16 text-right text-[13px] sm:text-sm">R$ ${formattedTotal}</span>
                     </div>
                     <button class="remove-btn text-gray-400 hover:text-ven-red transition-colors ml-1" data-id="${item.id}">
                         <i data-lucide="trash-2" class="w-4 h-4"></i>
@@ -1714,6 +1706,7 @@
                 `;
                 container.appendChild(itemElement);
             });
+            
             lucide.createIcons();
             addCartItemListeners();
         }
@@ -1729,6 +1722,7 @@
                     let newQty = item.qty;
                     if (action === 'increment') newQty++;
                     else if (action === 'decrement') newQty--;
+                    
                     updateCartItemQuantity(itemId, newQty);
                 });
             });
@@ -1754,13 +1748,16 @@
                 if (totalItems > 0) badgeTop.classList.remove('scale-0');
                 else badgeTop.classList.add('scale-0');
             }
+
             if(badgeBottom) {
                 badgeBottom.textContent = totalItems;
                 if (totalItems > 0) badgeBottom.classList.remove('scale-0');
                 else badgeBottom.classList.add('scale-0');
             }
 
-            if(subtotalDisplay) subtotalDisplay.textContent = `R$ ${subtotal.toFixed(2).replace('.', ',')}`;
+            if(subtotalDisplay) {
+                subtotalDisplay.textContent = `R$ ${subtotal.toFixed(2).replace('.', ',')}`;
+            }
 
             updateCheckoutButtonText(subtotal);
             
@@ -1775,7 +1772,9 @@
             }
 
             const modal = document.getElementById('cart-modal');
-            if (modal && !modal.classList.contains('hidden')) renderCartItems();
+            if (modal && !modal.classList.contains('hidden')) {
+                renderCartItems();
+            }
         }
         
         function updateCheckoutButtonText(subtotal = calculateSubtotal()) {
@@ -1828,6 +1827,7 @@
             });
 
             message += `\nTotal: R$ ${total.toFixed(2).replace('.', ',')}`;
+            
             window.open(`https://wa.me/5511990270534?text=${encodeURIComponent(message)}`, '_blank');
 
             cart = [];
@@ -1839,6 +1839,7 @@
         function goToCombos() {
             const menuSection = document.getElementById('menu-section');
             if(menuSection) menuSection.scrollIntoView({behavior: 'smooth'});
+            
             setTimeout(() => {
                 const combosTab = document.querySelector('.category-tab[data-category="combos"]');
                 if(combosTab) combosTab.click();
@@ -1859,8 +1860,9 @@
             const panels = document.querySelectorAll('.history-panel');
             panels.forEach(panel => {
                 panel.addEventListener('click', () => {
-                    if (panel.classList.contains('active')) panel.classList.remove('active');
-                    else {
+                    if (panel.classList.contains('active')) {
+                        panel.classList.remove('active');
+                    } else {
                         panels.forEach(p => p.classList.remove('active'));
                         panel.classList.add('active');
                     }
@@ -1875,18 +1877,41 @@
                 let currentPromoSlide = 0;
                 const totalPromoSlides = promoTrack.children.length; 
 
-                const updateSlide = () => { promoTrack.style.transform = `translateX(-${currentPromoSlide * 100}%)`; };
-                const nextSlide = () => { currentPromoSlide = (currentPromoSlide + 1) % totalPromoSlides; updateSlide(); };
-                const prevSlide = () => { currentPromoSlide = (currentPromoSlide - 1 + totalPromoSlides) % totalPromoSlides; updateSlide(); };
+                const updateSlide = () => {
+                    promoTrack.style.transform = `translateX(-${currentPromoSlide * 100}%)`;
+                };
 
-                const startAutoSlide = () => { promoInterval = setInterval(nextSlide, 4000); };
-                const resetAutoSlide = () => { clearInterval(promoInterval); startAutoSlide(); };
+                const nextSlide = () => {
+                    currentPromoSlide = (currentPromoSlide + 1) % totalPromoSlides;
+                    updateSlide();
+                };
+
+                const prevSlide = () => {
+                    currentPromoSlide = (currentPromoSlide - 1 + totalPromoSlides) % totalPromoSlides;
+                    updateSlide();
+                };
+
+                const startAutoSlide = () => {
+                    promoInterval = setInterval(nextSlide, 4000); 
+                };
+
+                const resetAutoSlide = () => {
+                    clearInterval(promoInterval);
+                    startAutoSlide();
+                };
 
                 if (totalPromoSlides > 1) {
                     startAutoSlide();
+                    
                     if (prevBtn && nextBtn) {
-                        nextBtn.addEventListener('click', () => { nextSlide(); resetAutoSlide(); });
-                        prevBtn.addEventListener('click', () => { prevSlide(); resetAutoSlide(); });
+                        nextBtn.addEventListener('click', () => {
+                            nextSlide();
+                            resetAutoSlide();
+                        });
+                        prevBtn.addEventListener('click', () => {
+                            prevSlide();
+                            resetAutoSlide();
+                        });
                     }
                 }
             }
