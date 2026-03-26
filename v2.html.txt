@@ -1,0 +1,1292 @@
+<!DOCTYPE html>
+<html lang="pt">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
+    <title>Venezuela Bistro SP - Delivery</title>
+   
+    <!-- Meta Tags para Comportamiento de App (PWA) -->
+    <meta name="theme-color" content="#CF142B">
+    <meta name="apple-mobile-web-app-capable" content="yes">
+    <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
+    <meta name="apple-mobile-web-app-title" content="VE Bistro">
+    
+    <link rel="apple-touch-icon" href="logo.jpg">
+    <link rel="icon" type="image/jpeg" href="logo.jpg">
+
+    <!-- Tailwind CSS -->
+    <script src="https://cdn.tailwindcss.com"></script>
+   
+    <!-- Fonts -->
+    <link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@400;500;600;700&display=swap" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css2?family=Dancing+Script:wght@700&display=swap" rel="stylesheet">
+   
+    <!-- Icons (Lucide) -->
+    <script src="https://unpkg.com/lucide@latest"></script>
+
+    <style>
+        :root {
+            --venezuela-yellow: #FFCC00;
+            --venezuela-blue: #00247D;
+            --venezuela-red: #CF142B;
+            --whatsapp-green: #25D366;
+            --whatsapp-dark: #128C7E;
+        }
+       
+        body {
+            font-family: 'Montserrat', sans-serif;
+            background-color: #fcfcfc;
+            color: #333;
+            overscroll-behavior-y: none; 
+        }
+
+        h1, h2, h3, h4 {
+            letter-spacing: -0.02em;
+        }
+
+        .font-handwriting {
+            font-family: 'Dancing Script', cursive;
+        }
+
+        /* Utilidades personalizadas */
+        .text-ven-yellow { color: var(--venezuela-yellow); }
+        .text-ven-blue { color: var(--venezuela-blue); }
+        .text-ven-red { color: var(--venezuela-red); }
+        .bg-ven-yellow { background-color: var(--venezuela-yellow); }
+        .bg-ven-blue { background-color: var(--venezuela-blue); }
+        .bg-ven-red { background-color: var(--venezuela-red); }
+
+        .btn-primary {
+            background-color: var(--venezuela-red);
+            transition: all 0.3s ease;
+        }
+        .btn-primary:hover {
+            background-color: #a80f20;
+            transform: translateY(-2px);
+        }
+
+        .card-hover {
+            transition: all 0.3s cubic-bezier(0.4, 0, 0.2, 1);
+        }
+        .card-hover:hover {
+            transform: translateY(-8px);
+            box-shadow: 0 20px 25px -5px rgba(0, 0, 0, 0.1), 0 10px 10px -5px rgba(0, 0, 0, 0.04);
+        }
+
+        /* Animaciones */
+        @keyframes float {
+            0%, 100% { transform: translateY(0); }
+            50% { transform: translateY(-10px); }
+        }
+        .animate-float {
+            animation: float 3s ease-in-out infinite;
+        }
+
+        .category-tab {
+            transition: all 0.3s ease;
+            cursor: pointer;
+        }
+        .category-tab.active {
+            background-color: var(--venezuela-red);
+            color: white;
+            box-shadow: 0 4px 6px -1px rgba(207, 20, 43, 0.4);
+            transform: scale(1.05);
+        }
+        
+        .category-tab:not(.active):hover {
+            background-color: #e5e7eb;
+        }
+       
+        .scrollbar-hide::-webkit-scrollbar { display: none; }
+        .scrollbar-hide { -ms-overflow-style: none; scrollbar-width: none; }
+
+        .pattern-bg {
+            background-color: #f3f4f6;
+            background-image: url("data:image/svg+xml,%3Csvg width='60' height='60' viewBox='0 0 60 60' xmlns='http://www.w3.org/2000/svg'%3E%3Cg fill='none' fill-rule='evenodd'%3E%3Cg fill='%2300247D' fill-opacity='0.05'%3E%3Cpath d='M36 34v-4h-2v4h-4v2h4v4h2v-4h4v-2h-4zm0-30V0h-2v4h-4v2h4v4h2V6h4V4h-4zM6 34v-4H4v4H0v2h4v4h2v-4h4v-2H6zM6 4V0H4v4H0v2h4v4h2V6h4V4H6z'/%3E%3C/g%3E%3C/g%3E%3C/svg%3E");
+        }
+       
+        .product-img-container {
+            width: 100%;
+            height: 100%;
+            position: relative;
+            overflow: hidden;
+            background-color: #f3f4f6;
+        }
+        .product-img {
+            width: 100%;
+            height: 100%;
+            object-fit: cover;
+            object-position: center;
+            transition: transform 0.5s ease;
+        }
+        .group:hover .product-img {
+            transform: scale(1.1);
+        }
+       
+        /* Estilos de botones de idioma */
+        .lang-btn {
+            filter: grayscale(100%);
+            opacity: 0.7;
+            transition: all 0.3s;
+            cursor: pointer;
+            border: 2px solid transparent;
+        }
+        .lang-btn:hover, .lang-btn.active {
+            filter: grayscale(0%);
+            opacity: 1;
+            transform: scale(1.1);
+        }
+        .lang-btn.active {
+            border-color: var(--venezuela-yellow);
+        }
+
+        /* Hero Image Styles */
+        .hero-background {
+            background-image: url('Cover.jpg');
+            background-size: cover;
+            background-position: center center;
+            background-repeat: no-repeat;
+            background-color: var(--venezuela-blue);
+        }
+
+        /* Hero Overlay Gradient */
+        .hero-overlay {
+            background: linear-gradient(to right, rgba(0,0,0,0.8) 0%, rgba(0,0,0,0.4) 100%);
+        }
+
+        /* Cart Modal Styles */
+        #cart-modal {
+            transition: opacity 0.3s ease-in-out;
+        }
+        #cart-modal.hidden {
+            opacity: 0;
+            pointer-events: none;
+        }
+        #cart-modal:not(.hidden) {
+            opacity: 1;
+            pointer-events: auto;
+        }
+
+        /* Estilos Spotify */
+        .spotify-container {
+            background: linear-gradient(135deg, #1DB954 0%, #191414 100%);
+            border-radius: 1rem;
+            overflow: hidden;
+        }
+        
+        .music-note {
+            animation: float 3s ease-in-out infinite;
+        }
+
+        /* --- ESTILOS WHATSAPP WIDGET --- */
+        .whatsapp-widget {
+            position: fixed;
+            bottom: 20px;
+            right: 20px;
+            z-index: 100;
+            display: flex;
+            flex-direction: column;
+            align-items: flex-end;
+        }
+
+        .whatsapp-btn {
+            background-color: var(--whatsapp-green);
+            color: white;
+            width: 60px;
+            height: 60px;
+            border-radius: 50%;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            box-shadow: 0 4px 10px rgba(0,0,0,0.3);
+            cursor: pointer;
+            transition: all 0.3s ease;
+            position: relative;
+        }
+
+        .whatsapp-btn:hover {
+            background-color: var(--whatsapp-dark);
+            transform: scale(1.1);
+        }
+
+        .whatsapp-chat {
+            background-color: white;
+            width: 300px;
+            border-radius: 10px;
+            box-shadow: 0 5px 25px rgba(0,0,0,0.2);
+            overflow: hidden;
+            margin-bottom: 15px;
+            opacity: 0;
+            visibility: hidden;
+            transform: translateY(20px);
+            transition: all 0.3s ease;
+            border: 1px solid #e5e7eb;
+        }
+
+        .whatsapp-chat.active {
+            opacity: 1;
+            visibility: visible;
+            transform: translateY(0);
+        }
+
+        .chat-header {
+            background-color: var(--whatsapp-dark);
+            color: white;
+            padding: 15px;
+            display: flex;
+            align-items: center;
+            gap: 10px;
+        }
+
+        .chat-body {
+            padding: 20px;
+            background-color: #e5ddd5;
+            background-image: url("https://user-images.githubusercontent.com/15075759/28719144-86dc0f70-73b1-11e7-911d-60d70fcded21.png");
+            min-height: 150px;
+        }
+
+        .chat-message {
+            background-color: white;
+            padding: 10px 15px;
+            border-radius: 0 10px 10px 10px;
+            font-size: 14px;
+            color: #333;
+            box-shadow: 0 1px 2px rgba(0,0,0,0.1);
+            position: relative;
+        }
+        
+        .chat-message::before {
+            content: '';
+            position: absolute;
+            top: 0;
+            left: -10px;
+            width: 0;
+            height: 0;
+            border-top: 10px solid white;
+            border-left: 10px solid transparent;
+        }
+
+        .chat-footer {
+            padding: 10px;
+            background-color: white;
+        }
+        
+        .notification-badge {
+            position: absolute;
+            top: -5px;
+            right: -5px;
+            background-color: red;
+            color: white;
+            font-size: 10px;
+            font-weight: bold;
+            width: 20px;
+            height: 20px;
+            border-radius: 50%;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            border: 2px solid white;
+        }
+    </style>
+</head>
+<body class="antialiased">
+
+    <!-- Navbar -->
+    <nav class="sticky top-0 z-50 bg-white/95 backdrop-blur-sm shadow-md">
+        <div class="container mx-auto px-4 py-3 flex justify-between items-center">
+            <div class="flex items-center gap-3">
+                <!-- Logo -->
+                <div class="h-10 w-10 rounded-md overflow-hidden shadow-sm border border-gray-100 relative bg-gray-100">
+                      <img src="logo.jpg"
+                           alt="Logo Venezuela Bistro"
+                           class="w-full h-full object-cover">
+                </div>
+                <div>
+                    <h1 class="text-xl md:text-2xl font-bold tracking-tight text-gray-800">Venezuela Bistro <span class="text-ven-red">SP</span></h1>
+                </div>
+            </div>
+           
+            <div class="flex items-center gap-4">
+                <!-- Selector de Idioma -->
+                <div class="flex items-center gap-2 mr-2 bg-gray-100 rounded-full px-2 py-1 hidden md:flex">
+                    <button class="lang-btn w-6 h-6 rounded-full overflow-hidden active" onclick="setLanguage('pt')" data-lang="pt" title="Português (Brasil)">
+                        <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Flag_of_Brazil.svg" class="w-full h-full object-cover" alt="PT">
+                    </button>
+                    <button class="lang-btn w-6 h-6 rounded-full overflow-hidden" onclick="setLanguage('es')" data-lang="es" title="Español">
+                        <img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Flag_of_Spain.svg" class="w-full h-full object-cover" alt="ES">
+                    </button>
+                </div>
+
+                <!-- Botón de Carrito -->
+                <button id="cart-btn" class="relative p-2 hover:bg-gray-100 rounded-full transition-colors group">
+                    <i data-lucide="shopping-cart" class="text-gray-700 group-hover:text-ven-red transition-colors"></i>
+                    <span id="cart-badge" class="absolute top-0 right-0 bg-ven-red text-white text-xs font-bold h-5 w-5 flex items-center justify-center rounded-full scale-0 transition-transform duration-200">0</span>
+                </button>
+            </div>
+        </div>
+    </nav>
+
+    <!-- Hero Section -->
+    <header class="relative bg-gray-900 text-white overflow-hidden h-[550px] hero-background">
+        <div class="absolute inset-0 hero-overlay z-10"></div>
+       
+        <div class="container mx-auto px-4 relative z-20 h-full flex flex-col justify-center items-start text-left">
+            <span class="inline-block py-1 px-3 rounded-full bg-ven-yellow text-gray-900 font-bold text-sm mb-4 animate-float border-2 border-white/20 backdrop-blur-md" data-i18n="hero_badge">
+                 Sabor Autêntico em São Paulo
+            </span>
+            <h2 class="text-4xl md:text-6xl font-bold mb-4 leading-none drop-shadow-lg">
+                <span data-i18n="hero_title_1">O Verdadeiro Sabor</span> <br> <span class="text-ven-yellow" data-i18n="hero_title_2">Venezuelano</span>
+            </h2>
+            <p class="text-base md:text-lg text-gray-200 mb-8 max-w-xl drop-shadow-md" data-i18n="hero_subtitle">
+                Arepas, empanadas, cachapas e mais. Feitas à mão com amor e tradição.
+            </p>
+           
+            <div class="flex flex-col sm:flex-row gap-4">
+                <button onclick="document.getElementById('menu-section').scrollIntoView({behavior: 'smooth'})" class="btn-primary text-white font-bold py-2 px-6 rounded-full shadow-lg transform transition hover:scale-105 flex items-center justify-center gap-2 text-sm md:text-base">
+                    <span data-i18n="btn_view_menu">Ver Cardápio</span> <i data-lucide="utensils" class="w-4 h-4"></i>
+                </button>
+                <div class="flex gap-2">
+                    <span class="inline-flex items-center px-4 py-2 rounded-full bg-green-600 text-white font-bold text-sm shadow-lg">
+                        <i data-lucide="bike" class="w-4 h-4 mr-2"></i> Delivery Próprio (WhatsApp)
+                    </span>
+                </div>
+            </div>
+        </div>
+    </header>
+
+    <!-- Info Banner -->
+    <div class="bg-white shadow-sm border-b relative z-30 mx-auto max-w-6xl rounded-none md:rounded-xl p-6 -mt-0 md:-mt-10 grid grid-cols-1 md:grid-cols-3 gap-6">
+        <div class="flex items-center gap-4 border-b md:border-b-0 pb-4 md:pb-0">
+            <div class="bg-blue-50 p-3 rounded-full text-ven-blue">
+                <i data-lucide="map-pin"></i>
+            </div>
+            <div>
+                <p class="font-bold text-gray-800" data-i18n="info_loc_title">Área de Entrega</p>
+                <p class="text-sm text-gray-600">Pirituba e Região</p>
+            </div>
+        </div>
+        <div class="flex items-center gap-4 border-b md:border-b-0 pb-4 md:pb-0">
+            <div class="bg-yellow-50 p-3 rounded-full text-yellow-600">
+                <i data-lucide="clock"></i>
+            </div>
+            <div>
+                <p class="font-bold text-gray-800" data-i18n="info_hours_title">Horário</p>
+                <p class="text-sm text-gray-600" data-i18n="info_hours_val">11:00 - 22:00 (Seg-Sáb)</p>
+            </div>
+        </div>
+        <div class="flex items-center gap-4">
+            <div class="bg-green-50 p-3 rounded-full text-green-600">
+                <i data-lucide="truck"></i>
+            </div>
+            <div>
+                <p class="font-bold text-gray-800">Delivery</p>
+                <p class="text-sm text-gray-600">WhatsApp / Retirada</p>
+                <!-- BOTÓN INFO BANNER -->
+                <a href="https://wa.me/5511990270534" target="_blank" class="text-xs text-green-600 font-bold hover:underline">Enviar mensagem</a>
+            </div>
+        </div>
+    </div>
+
+    <!-- Seção Sobre (Slider) -->
+    <section id="about-us" class="py-16 bg-white overflow-hidden">
+        <div class="container mx-auto px-4">
+            <div class="flex flex-col md:flex-row items-center gap-12">
+                <div class="md:w-1/2 relative">
+                    <!-- Marco decorativo -->
+                    <div class="absolute top-0 left-0 w-20 h-20 border-t-4 border-l-4 border-ven-yellow -mt-4 -ml-4 z-0"></div>
+                    <div class="absolute bottom-0 right-0 w-20 h-20 border-b-4 border-r-4 border-ven-red -mb-4 -mr-4 z-0"></div>
+                   
+                    <!-- SLIDER DE IMAGENES -->
+                    <div class="rounded-lg shadow-2xl relative z-10 w-full h-[400px] overflow-hidden group bg-gray-100">
+                        <div id="slider-track" class="flex h-full transition-transform duration-1000 ease-in-out">
+                            <img src="historia.jpg" alt="História 1" class="w-full h-full object-cover flex-shrink-0 min-w-full">
+                            <img src="reina_historia.jpg" alt="Reina Pepeada História" class="w-full h-full object-cover flex-shrink-0 min-w-full">
+                            <img src="historia_3.jpg" alt="História 3" class="w-full h-full object-cover flex-shrink-0 min-w-full">
+                        </div>
+                    </div>
+
+                </div>
+                <div class="md:w-1/2">
+                    <span class="text-ven-blue font-bold tracking-wider text-sm uppercase mb-2 block" data-i18n="about_subtitle">Nossa História</span>
+                    <h3 class="text-3xl md:text-4xl font-bold text-gray-800 mb-6 leading-tight" data-i18n="about_title">Mais que comida, <br>é <span class="text-ven-red font-handwriting text-5xl">cultura</span>.</h3>
+                   
+                    <div class="space-y-4 text-gray-600">
+                        <p data-i18n="about_p1">
+                            No Venezuela Bistro SP, cada prato conta uma história. Desde a farinha de milho branco pré-cozida que amassamos toda manhã, até os ensopados cozidos em fogo baixo como faziam nossas avós.
+                        </p>
+                        <p data-i18n="about_p2">
+                            <strong>Você sabia?</strong> A "Reina pepeada", nossa arepa mais famosa, foi nomeada em homenagem a Susana Duijm, a primeira venezuelana a ganhar o Miss Mundo em 1955. "Pepiada" era uma forma coloquial de dizer que alguém tinha muitas curvas e era hermosa.
+                        </p>
+                        <p data-i18n="about_p3">
+                            Queremos ser o seu cantinho venezuelano em São Paulo, um lugar onde o "Sifrino", o "Pelúo" e todos são bem-vindos para compartilhar.
+                        </p>
+                    </div>
+
+                    <div class="mt-8 grid grid-cols-3 gap-4 text-center">
+                        <div class="p-4 bg-gray-50 rounded-lg">
+                            <span class="block text-2xl font-bold text-ven-blue">100%</span>
+                            <span class="text-xs text-gray-500" data-i18n="stat_auth">Autêntico</span>
+                        </div>
+                        <div class="p-4 bg-gray-50 rounded-lg">
+                            <span class="block text-2xl font-bold text-ven-yellow">Daily</span>
+                            <span class="text-xs text-gray-500" data-i18n="stat_fresh">Fresco</span>
+                        </div>
+                        <div class="p-4 bg-gray-50 rounded-lg">
+                            <span class="block text-2xl font-bold text-ven-red">4.9</span>
+                            <span class="text-xs text-gray-500" data-i18n="stat_rating">Estrellas</span>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- Seção de Cardápio -->
+    <section id="menu-section" class="py-16 pattern-bg">
+        <div class="container mx-auto px-4">
+            <div class="text-center mb-12">
+                <h3 class="text-3xl font-bold text-gray-800 mb-2" data-i18n="menu_title">Nosso Cardápio</h3>
+                <div class="h-1 w-20 bg-ven-red mx-auto rounded"></div>
+            </div>
+
+            <!-- Categorias -->
+            <div class="flex justify-center gap-3 mb-10 overflow-x-auto py-2 px-4 scrollbar-hide">
+                <button class="category-tab active whitespace-nowrap px-6 py-2 rounded-full font-bold text-sm bg-gray-200 text-gray-700 shadow-sm" data-category="arepas">
+                    Arepas
+                </button>
+                <button class="category-tab whitespace-nowrap px-6 py-2 rounded-full font-bold text-sm bg-gray-200 text-gray-700 shadow-sm" data-category="empanadas">
+                    Empanadas
+                </button>
+                <button class="category-tab whitespace-nowrap px-6 py-2 rounded-full font-bold text-sm bg-gray-200 text-gray-700 shadow-sm" data-category="tequenos" data-i18n="cat_tequenos">
+                    Tequeños
+                </button>
+                <button class="category-tab whitespace-nowrap px-6 py-2 rounded-full font-bold text-sm bg-gray-200 text-gray-700 shadow-sm" data-category="cachapas" data-i18n="cat_cachapas">
+                    Cachapas
+                </button>
+                <button class="category-tab whitespace-nowrap px-6 py-2 rounded-full font-bold text-sm bg-gray-200 text-gray-700 shadow-sm" data-category="bebidas" data-i18n="cat_drinks">
+                    Bebidas
+                </button>
+            </div>
+
+            <!-- Grid de Itens -->
+            <div id="menu-container">
+               
+                <!-- SEÇÃO AREPAS -->
+                <div id="arepas-section" class="menu-section grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-8">
+                    <!-- Item 1: Arepa Pabellón -->
+                    <div class="bg-white rounded-2xl overflow-hidden shadow-md card-hover group">
+                        <div class="h-64 bg-gray-100 flex items-center justify-center relative overflow-hidden">
+                            <div class="product-img-container">
+                                <img src="arepa_pabellon.jpg" alt="Arepa Pabellón" class="product-img">
+                            </div>
+                            <span class="absolute bottom-2 right-2 bg-white px-2 py-1 text-xs font-bold rounded shadow text-gray-600 z-10" data-i18n="badge_popular">Popular</span>
+                        </div>
+                        <div class="p-6">
+                            <div class="flex justify-between items-start mb-2">
+                                <h4 class="font-bold text-xl text-gray-800">Arepa Pabellón</h4>
+                                <span class="text-ven-red font-bold text-lg">R$ 40,00</span>
+                            </div>
+                            <p class="text-gray-500 text-sm mb-4 h-16 overflow-hidden" data-i18n="desc_pabellon">Carne desfiada, feijão preto (caraotas), banana da terra frita e queijo branco. A essência da Venezuela.</p>
+                            <button class="add-to-cart w-full bg-gray-900 text-white py-3 rounded-xl font-bold hover:bg-ven-red transition-colors flex justify-center items-center gap-2" onclick="addToCart('Arepa Pabellón', 40)">
+                                <i data-lucide="plus-circle" class="w-4 h-4"></i> <span data-i18n="btn_add">Adicionar</span>
+                            </button>
+                        </div>
+                    </div>
+
+                    <!-- Item 2: Reina pepeada -->
+                    <div class="bg-white rounded-2xl overflow-hidden shadow-md card-hover group">
+                        <div class="h-64 bg-gray-100 flex items-center justify-center relative overflow-hidden">
+                             <div class="product-img-container">
+                                <img src="arepa_reinapepeada.jpg" alt="Arepa Reina pepeada" class="product-img">
+                             </div>
+                        </div>
+                        <div class="p-6">
+                            <div class="flex justify-between items-start mb-2">
+                                <h4 class="font-bold text-xl text-gray-800">Reina pepeada</h4>
+                                <span class="text-ven-red font-bold text-lg">R$ 35,00</span>
+                            </div>
+                            <p class="text-gray-500 text-sm mb-4 h-16 overflow-hidden" data-i18n="desc_reina">Frango desfiado com abacate e maionese. Cremosa, fresca e deliciosa.</p>
+                            <button class="add-to-cart w-full bg-gray-900 text-white py-3 rounded-xl font-bold hover:bg-ven-red transition-colors flex justify-center items-center gap-2" onclick="addToCart('Reina pepeada', 35)">
+                                <i data-lucide="plus-circle" class="w-4 h-4"></i> <span data-i18n="btn_add">Adicionar</span>
+                            </button>
+                        </div>
+                    </div>
+
+                    <!-- Item 3: Arepa Pelúa -->
+                    <div class="bg-white rounded-2xl overflow-hidden shadow-md card-hover group">
+                        <div class="h-64 bg-gray-100 flex items-center justify-center relative overflow-hidden">
+                             <div class="product-img-container">
+                                <img src="arepa_pelua.jpg" alt="Arepa Pelúa" class="product-img">
+                             </div>
+                        </div>
+                        <div class="p-6">
+                            <div class="flex justify-between items-start mb-2">
+                                <h4 class="font-bold text-xl text-gray-800">Arepa Pelúa</h4>
+                                <span class="text-ven-red font-bold text-lg">R$ 40,00</span>
+                            </div>
+                            <p class="text-gray-500 text-sm mb-4 h-16 overflow-hidden" data-i18n="desc_pelua">Carne desfiada e muito queijo amarelo ralado (queijo prato). Saborosa e suculenta.</p>
+                            <button class="add-to-cart w-full bg-gray-900 text-white py-3 rounded-xl font-bold hover:bg-ven-red transition-colors flex justify-center items-center gap-2" onclick="addToCart('Arepa Pelúa', 40)">
+                                <i data-lucide="plus-circle" class="w-4 h-4"></i> <span data-i18n="btn_add">Adicionar</span>
+                            </button>
+                        </div>
+                    </div>
+
+                    <!-- Item 4: Arepa Catira -->
+                    <div class="bg-white rounded-2xl overflow-hidden shadow-md card-hover group">
+                        <div class="h-64 bg-gray-100 flex items-center justify-center relative overflow-hidden">
+                             <div class="product-img-container">
+                                <img src="arepa_catira.jpg" alt="Arepa Catira" class="product-img">
+                             </div>
+                        </div>
+                        <div class="p-6">
+                            <div class="flex justify-between items-start mb-2">
+                                <h4 class="font-bold text-xl text-gray-800" data-i18n="name_catira">Arepa Catira</h4>
+                                <span class="text-ven-red font-bold text-lg">R$ 35,00</span>
+                            </div>
+                            <p class="text-gray-500 text-sm mb-4 h-16 overflow-hidden" data-i18n="desc_catira">Recheada com frango desfiado temperado a nosso estilo e queijo prato.</p>
+                            <button class="add-to-cart w-full bg-gray-900 text-white py-3 rounded-xl font-bold hover:bg-ven-red transition-colors flex justify-center items-center gap-2" onclick="addToCart('Arepa Catira', 35)">
+                                <i data-lucide="plus-circle" class="w-4 h-4"></i> <span data-i18n="btn_add">Adicionar</span>
+                            </button>
+                        </div>
+                    </div>
+
+                    <!-- Item 6: Arepa Pernil (NUEVA) -->
+                    <div class="bg-white rounded-2xl overflow-hidden shadow-md card-hover group">
+                        <div class="h-64 bg-gray-100 flex items-center justify-center relative overflow-hidden">
+                            <div class="product-img-container">
+                                <img src="arepa_pernil.jpg" alt="Arepa de Pernil" class="product-img">
+                            </div>
+                        </div>
+                        <div class="p-6">
+                            <div class="flex justify-between items-start mb-2">
+                                <h4 class="font-bold text-xl text-gray-800" data-i18n="name_arepa_pernil">Arepa de Pernil</h4>
+                                <span class="text-ven-red font-bold text-lg">R$ 35,00</span>
+                            </div>
+                            <p class="text-gray-500 text-sm mb-4 h-16 overflow-hidden" data-i18n="desc_arepa_pernil">Arepa recheada com pernil assado suculento e queijo, um sabor tradicional que representa a essência da culinária venezuelana.</p>
+                            <button class="add-to-cart w-full bg-gray-900 text-white py-3 rounded-xl font-bold hover:bg-ven-red transition-colors flex justify-center items-center gap-2" onclick="addToCart('Arepa de Pernil', 35)">
+                                <i data-lucide="plus-circle" class="w-4 h-4"></i> <span data-i18n="btn_add">Adicionar</span>
+                            </button>
+                        </div>
+                    </div>
+
+                    <!-- Item 7: Arepa Vegetariana (NUEVA) -->
+                    <div class="bg-white rounded-2xl overflow-hidden shadow-md card-hover group">
+                        <div class="h-64 bg-gray-100 flex items-center justify-center relative overflow-hidden">
+                            <div class="product-img-container">
+                                <img src="arepa_vegetariana.jpg" alt="Arepa Vegetariana" class="product-img">
+                            </div>
+                        </div>
+                        <div class="p-6">
+                            <div class="flex justify-between items-start mb-2">
+                                <h4 class="font-bold text-xl text-gray-800" data-i18n="name_arepa_veg">Arepa Vegetariana</h4>
+                                <span class="text-ven-red font-bold text-lg">R$ 35,00</span>
+                            </div>
+                            <p class="text-gray-500 text-sm mb-4 h-16 overflow-hidden" data-i18n="desc_arepa_veg">Arepa recheada com vegetais salteados da estação — berinjela, cenoura, brócolis, champignon e cebola — acompanhados de queijo. Uma opção vegetariana saborosa, colorida e cheia de textura.</p>
+                            <button class="add-to-cart w-full bg-gray-900 text-white py-3 rounded-xl font-bold hover:bg-ven-red transition-colors flex justify-center items-center gap-2" onclick="addToCart('Arepa Vegetariana', 35)">
+                                <i data-lucide="plus-circle" class="w-4 h-4"></i> <span data-i18n="btn_add">Adicionar</span>
+                            </button>
+                        </div>
+                    </div>
+
+                    <!-- Item 7: Arepa de Camarão -->
+                    <div class="bg-white rounded-2xl overflow-hidden shadow-md card-hover group">
+                        <div class="h-64 bg-gray-100 flex items-center justify-center relative overflow-hidden">
+                             <div class="product-img-container">
+                                <img src="arepa_camarao.jpg" alt="Arepa de Camarão" class="product-img">
+                             </div>
+                        </div>
+                        <div class="p-6">
+                            <div class="flex justify-between items-start mb-2">
+                                <h4 class="font-bold text-xl text-gray-800" data-i18n="name_camaron">Arepa de Camarão</h4>
+                                <span class="text-ven-red font-bold text-lg">R$ 40,00</span>
+                            </div>
+                            <p class="text-gray-500 text-sm mb-4 h-16 overflow-hidden" data-i18n="desc_camaron">Recheada com vinagrete estilo venezuelano (cebola, cheiro verde e especiarias).</p>
+                            <button class="add-to-cart w-full bg-gray-900 text-white py-3 rounded-xl font-bold hover:bg-ven-red transition-colors flex justify-center items-center gap-2" onclick="addToCart('Arepa de Camarão', 40)">
+                                <i data-lucide="plus-circle" class="w-4 h-4"></i> <span data-i18n="btn_add">Adicionar</span>
+                            </button>
+                        </div>
+                    </div>
+
+                </div>
+
+                <!-- SEÇÃO EMPANADAS -->
+                <div id="empanadas-section" class="menu-section hidden grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-8">
+                    <!-- Item 4: Empanada de Queijo -->
+                    <div class="bg-white rounded-2xl overflow-hidden shadow-md card-hover group">
+                        <div class="h-64 bg-gray-100 flex items-center justify-center relative overflow-hidden">
+                            <div class="product-img-container">
+                                <img src="empanada_queijo.jpg" alt="Empanada de Queijo" class="product-img">
+                            </div>
+                        </div>
+                        <div class="p-6">
+                            <div class="flex justify-between items-start mb-2">
+                                <h4 class="font-bold text-xl text-gray-800" data-i18n="name_emp_queijo">Empanada de Queijo</h4>
+                                <span class="text-ven-red font-bold text-lg">R$ 20,00</span>
+                            </div>
+                            <p class="text-gray-500 text-sm mb-4" data-i18n="desc_emp_queijo">Massa de milho crocante recheada com queijo branco derretido.</p>
+                            <button class="add-to-cart w-full bg-gray-900 text-white py-3 rounded-xl font-bold hover:bg-ven-red transition-colors flex justify-center items-center gap-2" onclick="addToCart('Empanada de Queijo', 20)">
+                                <i data-lucide="plus-circle" class="w-4 h-4"></i> <span data-i18n="btn_add">Adicionar</span>
+                            </button>
+                        </div>
+                    </div>
+
+                    <!-- Item 5: Empanada de Carne -->
+                    <div class="bg-white rounded-2xl overflow-hidden shadow-md card-hover group">
+                        <div class="h-64 bg-gray-100 flex items-center justify-center relative overflow-hidden">
+                            <div class="product-img-container">
+                                <img src="empanada_carne.jpg" alt="Empanada de Carne" class="product-img">
+                            </div>
+                        </div>
+                        <div class="p-6">
+                            <div class="flex justify-between items-start mb-2">
+                                <h4 class="font-bold text-xl text-gray-800" data-i18n="name_emp_carne">Empanada de Carne</h4>
+                                <span class="text-ven-red font-bold text-lg">R$ 20,00</span>
+                            </div>
+                            <p class="text-gray-500 text-sm mb-4" data-i18n="desc_emp_carne">Massa de milho crocante recheada con carne moída temperada.</p>
+                            <button class="add-to-cart w-full bg-gray-900 text-white py-3 rounded-xl font-bold hover:bg-ven-red transition-colors flex justify-center items-center gap-2" onclick="addToCart('Empanada de Carne', 20)">
+                                <i data-lucide="plus-circle" class="w-4 h-4"></i> <span data-i18n="btn_add">Adicionar</span>
+                            </button>
+                        </div>
+                    </div>
+                </div>
+
+                <!-- SEÇÃO TEQUEÑOS -->
+                <div id="tequenos-section" class="menu-section hidden grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-8">
+                    <!-- Item: Tequeños -->
+                    <div class="bg-white rounded-2xl overflow-hidden shadow-md card-hover group">
+                        <div class="h-64 bg-gray-100 flex items-center justify-center relative overflow-hidden">
+                            <div class="product-img-container">
+                                <img src="tequenos.jpg" alt="Tequeños" class="product-img">
+                            </div>
+                        </div>
+                        <div class="p-6">
+                            <div class="flex justify-between items-start mb-2">
+                                <h4 class="font-bold text-xl text-gray-800" data-i18n="name_tequenos">Tequeños</h4>
+                                <span class="text-ven-red font-bold text-lg">R$ 35,00</span>
+                            </div>
+                            <p class="text-gray-500 text-sm mb-4" data-i18n="desc_tequenos">Massa de farinha de trigo frita com queijo.</p>
+                            <button class="add-to-cart w-full bg-gray-900 text-white py-3 rounded-xl font-bold hover:bg-ven-red transition-colors flex justify-center items-center gap-2" onclick="addToCart('Tequeños', 35)">
+                                <i data-lucide="plus-circle" class="w-4 h-4"></i> <span data-i18n="btn_add">Adicionar</span>
+                            </button>
+                        </div>
+                    </div>
+                </div>
+
+                <!-- SEÇÃO CACHAPAS -->
+                <div id="cachapas-section" class="menu-section hidden grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-8">
+                    <!-- Item 8: Cachapa Queijo -->
+                    <div class="bg-white rounded-2xl overflow-hidden shadow-md card-hover group">
+                        <div class="h-64 bg-gray-100 flex items-center justify-center relative overflow-hidden">
+                            <div class="product-img-container">
+                                <img src="cachapa_queijo.jpg" alt="Cachapa de Queijo" class="product-img">
+                            </div>
+                        </div>
+                        <div class="p-6">
+                            <div class="flex justify-between items-start mb-2">
+                                <h4 class="font-bold text-xl text-gray-800" data-i18n="name_cachapa_queijo">Cachapa de Queijo</h4>
+                                <span class="text-ven-red font-bold text-lg">R$ 35,00</span>
+                            </div>
+                            <p class="text-gray-500 text-sm mb-4 h-16 overflow-hidden" data-i18n="desc_cachapa_queijo">A original. Tortilha de milho verde doce com abundante queijo de mão.</p>
+                            <button class="add-to-cart w-full bg-gray-900 text-white py-3 rounded-xl font-bold hover:bg-ven-red transition-colors flex justify-center items-center gap-2" onclick="addToCart('Cachapa de Queijo', 35)">
+                                <i data-lucide="plus-circle" class="w-4 h-4"></i> <span data-i18n="btn_add">Adicionar</span>
+                            </button>
+                        </div>
+                    </div>
+
+                    <!-- Item 9: Cachapa Carne Desfiada -->
+                    <div class="bg-white rounded-2xl overflow-hidden shadow-md card-hover group">
+                        <div class="h-64 bg-gray-100 flex items-center justify-center relative overflow-hidden">
+                            <div class="product-img-container">
+                                <img src="cachapa_carne.jpg" alt="Cachapa Carne Desfiada" class="product-img">
+                            </div>
+                        </div>
+                        <div class="p-6">
+                            <div class="flex justify-between items-start mb-2">
+                                <h4 class="font-bold text-xl text-gray-800" data-i18n="name_cachapa_carne">Cachapa Carne Desfiada</h4>
+                                <span class="text-ven-red font-bold text-lg">R$ 40,00</span>
+                            </div>
+                            <p class="text-gray-500 text-sm mb-4 h-16 overflow-hidden" data-i18n="desc_cachapa_carne">Nossa cachapa clássica recheada com suculenta carne desfiada e queijo.</p>
+                            <button class="add-to-cart w-full bg-gray-900 text-white py-3 rounded-xl font-bold hover:bg-ven-red transition-colors flex justify-center items-center gap-2" onclick="addToCart('Cachapa Carne Desfiada', 40)">
+                                <i data-lucide="plus-circle" class="w-4 h-4"></i> <span data-i18n="btn_add">Adicionar</span>
+                            </button>
+                        </div>
+                    </div>
+
+                    <!-- Item 10: Cachapa Pabellón -->
+                    <div class="bg-white rounded-2xl overflow-hidden shadow-md card-hover group">
+                        <div class="h-64 bg-gray-100 flex items-center justify-center relative overflow-hidden">
+                            <div class="product-img-container">
+                                <img src="cachapa_pabellon.jpg" alt="Cachapa Pabellón" class="product-img">
+                            </div>
+                        </div>
+                        <div class="p-6">
+                            <div class="flex justify-between items-start mb-2">
+                                <h4 class="font-bold text-xl text-gray-800" data-i18n="name_cachapa_pabellon">Cachapa Pabellón</h4>
+                                <span class="text-ven-red font-bold text-lg">R$ 40,00</span>
+                            </div>
+                            <p class="text-gray-500 text-sm mb-4 h-16 overflow-hidden" data-i18n="desc_cachapa_pabellon">Explosão de sabor com carne desfiada, feijão preto, banana frita e queijo.</p>
+                            <button class="add-to-cart w-full bg-gray-900 text-white py-3 rounded-xl font-bold hover:bg-ven-red transition-colors flex justify-center items-center gap-2" onclick="addToCart('Cachapa Pabellón', 40)">
+                                <i data-lucide="plus-circle" class="w-4 h-4"></i> <span data-i18n="btn_add">Adicionar</span>
+                            </button>
+                        </div>
+                    </div>
+
+                    <!-- Item 11: Cachapa Pernil -->
+                    <div class="bg-white rounded-2xl overflow-hidden shadow-md card-hover group">
+                        <div class="h-64 bg-gray-100 flex items-center justify-center relative overflow-hidden">
+                            <div class="product-img-container">
+                                <img src="cachapa_pernil.jpg" alt="Cachapa Pernil" class="product-img">
+                            </div>
+                        </div>
+                        <div class="p-6">
+                            <div class="flex justify-between items-start mb-2">
+                                <h4 class="font-bold text-xl text-gray-800" data-i18n="name_cachapa_pernil">Cachapa de Pernil</h4>
+                                <span class="text-ven-red font-bold text-lg">R$ 35,00</span>
+                            </div>
+                            <p class="text-gray-500 text-sm mb-4 h-16 overflow-hidden" data-i18n="desc_cachapa_pernil">Sabor tradicional de pernil assado suculento com queijo.</p>
+                            <button class="add-to-cart w-full bg-gray-900 text-white py-3 rounded-xl font-bold hover:bg-ven-red transition-colors flex justify-center items-center gap-2" onclick="addToCart('Cachapa de Pernil', 35)">
+                                <i data-lucide="plus-circle" class="w-4 h-4"></i> <span data-i18n="btn_add">Adicionar</span>
+                            </button>
+                        </div>
+                    </div>
+
+                    <!-- Item 12: Cachapa Vegetariana -->
+                    <div class="bg-white rounded-2xl overflow-hidden shadow-md card-hover group">
+                         <div class="h-64 bg-gray-100 flex items-center justify-center relative overflow-hidden">
+                            <div class="product-img-container">
+                                <img src="cachapa_veg.jpg" alt="Cachapa Vegetal" class="product-img">
+                            </div>
+                        </div>
+                        <div class="p-6">
+                            <div class="flex justify-between items-start mb-2">
+                                <h4 class="font-bold text-xl text-gray-800" data-i18n="name_cachapa_veg">Cachapa Vegetariana</h4>
+                                <span class="text-ven-red font-bold text-lg">R$ 35,00</span>
+                            </div>
+                            <p class="text-gray-500 text-sm mb-4 h-16 overflow-hidden" data-i18n="desc_cachapa_veg">Massa de milho verde recheada com vegetais salteados da estação e queijo.</p>
+                            <button class="add-to-cart w-full bg-gray-900 text-white py-3 rounded-xl font-bold hover:bg-ven-red transition-colors flex justify-center items-center gap-2" onclick="addToCart('Cachapa Vegetariana', 35)">
+                                <i data-lucide="plus-circle" class="w-4 h-4"></i> <span data-i18n="btn_add">Adicionar</span>
+                            </button>
+                        </div>
+                    </div>
+                </div>
+
+                <!-- SEÇÃO BEBIDAS -->
+                <div id="bebidas-section" class="menu-section hidden grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-8">
+                     <!-- Bebida 1: Papelón con Limón -->
+                     <div class="bg-white rounded-2xl overflow-hidden shadow-md card-hover group">
+                        <div class="h-64 bg-gray-100 flex items-center justify-center relative overflow-hidden">
+                            <img src="papelon_com_limao.jpg" alt="Papelón con Limón" class="product-img">
+                        </div>
+                        <div class="p-6">
+                            <div class="flex justify-between items-start mb-2">
+                                <h4 class="font-bold text-xl text-gray-800" data-i18n="name_papelon">Papelón com Limão</h4>
+                                <span class="text-ven-red font-bold text-lg">R$ 15,00</span>
+                            </div>
+                            <p class="text-gray-500 text-sm mb-4 h-16 overflow-hidden" data-i18n="desc_papelon">Bebida refrescante de rapadura com um toque de limão.</p>
+                            <button class="add-to-cart w-full bg-gray-900 text-white py-3 rounded-xl font-bold hover:bg-ven-red transition-colors flex justify-center items-center gap-2" onclick="addToCart('Papelón com Limão', 15)">
+                                <i data-lucide="plus-circle" class="w-4 h-4"></i> <span data-i18n="btn_add">Adicionar</span>
+                            </button>
+                        </div>
+                    </div>
+                     <!-- Bebida 2: Malta Polar -->
+                     <div class="bg-white rounded-2xl overflow-hidden shadow-md card-hover group">
+                        <div class="h-64 bg-gray-100 flex items-center justify-center relative overflow-hidden">
+                            <img src="malta_polar.jpg" alt="Malta" class="product-img">
+                        </div>
+                        <div class="p-6">
+                            <div class="flex justify-between items-start mb-2">
+                                <h4 class="font-bold text-xl text-gray-800" data-i18n="name_malta">Malta Polar</h4>
+                                <span class="text-ven-red font-bold text-lg">R$ 15,00</span>
+                            </div>
+                            <p class="text-gray-500 text-sm mb-4 h-16 overflow-hidden" data-i18n="desc_malta">A clássica malta venezuelana. Importada.</p>
+                            <button class="add-to-cart w-full bg-gray-900 text-white py-3 rounded-xl font-bold hover:bg-ven-red transition-colors flex justify-center items-center gap-2" onclick="addToCart('Malta Polar', 15)">
+                                <i data-lucide="plus-circle" class="w-4 h-4"></i> <span data-i18n="btn_add">Adicionar</span>
+                            </button>
+                        </div>
+                    </div>
+                </div>
+
+            </div>
+        </div>
+    </section>
+
+    <!-- SECCIÓN DE MÚSICA VENEZOLANA (SPOTIFY) -->
+    <section class="py-16 bg-gradient-to-r from-blue-900 to-green-900 text-white">
+        <div class="container mx-auto px-4">
+            <div class="max-w-4xl mx-auto">
+                <div class="flex flex-col md:flex-row items-center">
+                    <!-- Columna de Texto -->
+                    <div class="md:w-1/2 mb-8 md:mb-0 md:pr-8 text-center md:text-left">
+                        <h2 class="text-3xl font-bold mb-6" data-i18n="spotify_title">Música Venezuelana</h2>
+                        <p class="mb-6" data-i18n="spotify_desc">Descubra os ritmos e melodias que fazem parte da cultura venezuelana. Nossa playlist traz o melhor da música tradicional e contemporânea da Venezuela e América Latina.</p>
+                        
+                        <div class="flex items-center justify-center md:justify-start mb-4">
+                            <svg class="music-note h-8 w-8 text-green-400 mr-4" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="currentColor">
+                                <path d="M19.952 1.651a.75.75 0 01.298.599V16.303a3 3 0 01-2.176 2.884l-1.32.377a2.553 2.553 0 11-1.403-4.909l2.311-.66a1.5 1.5 0 001.088-1.442V6.994l-9 2.572v9.737a3 3 0 01-2.176 2.884l-1.32.377a2.553 2.553 0 11-1.402-4.909l2.31-.66a1.5 1.5 0 001.088-1.442V9.017 5.25a.75.75 0 01.544-.721l10.5-3a.75.75 0 01.658.122z" />
+                            </svg>
+                            <h3 class="text-xl font-bold" data-i18n="spotify_rhythms">Ritmos da Venezuela</h3>
+                        </div>
+                        
+                        <p class="mb-6" data-i18n="spotify_tagline">Ouça joropo, gaita zuliana, calipso, tambor e muito mais!</p>
+                        
+                        <a href="https://open.spotify.com/playlist/37i9dQZF1DX58NJL8iVBGW" target="_blank" class="inline-flex items-center px-6 py-3 bg-green-500 hover:bg-green-600 rounded-full font-bold transition transform hover:scale-105 shadow-lg">
+                            <svg class="w-6 h-6 mr-2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="currentColor">
+                                <path d="M12 2C6.5 2 2 6.5 2 12s4.5 10 10 10 10-4.5 10-10S17.5 2 12 2zm4.059 14.406c-.192 0-.286-.093-.477-.186-1.241-.74-2.764-1.107-4.435-1.107-1.67 0-3.193.367-4.434 1.107-.19.093-.285.186-.477.186a.67.67 0 01-.668-.668c0-.38.19-.572.38-.668 1.53-.93 3.29-1.388 5.2-1.388 1.91 0 3.67.458 5.2 1.388.19.096.38.287.38.668 0 .38-.287.668-.669.668zm1.146-2.766c-.191 0-.382-.095-.573-.19-1.433-.854-3.437-1.337-5.487-1.337s-4.054.483-5.487 1.337c-.19.095-.382.19-.573.19a.839.839 0 01-.859-.86c0-.286.095-.572.382-.763 1.624-.954 3.817-1.528 6.537-1.528s4.913.574 6.537 1.528c.287.19.382.477.382.763 0 .477-.382.86-.86.86zm1.336-3.15c-.19 0-.381-.096-.572-.192-1.72-1.05-4.435-1.624-7.014-1.624-2.578 0-5.294.573-7.013 1.624-.191.096-.382.192-.573.192-.477 0-.954-.382-.954-.954 0-.287.096-.573.287-.764C8.294 7.148 11.15 6.48 14.4 6.48c3.248 0 6.105.668 7.87 1.718.19.191.286.477.286.764 0 .572-.477.954-.954.954z"/>
+                            </svg>
+                            <span data-i18n="spotify_btn">Ouvir no Spotify</span>
+                        </a>
+                    </div>
+
+                    <!-- Columna del Reproductor (Mockup) -->
+                    <div class="md:w-1/2 mt-8 md:mt-0">
+                        <div class="spotify-container p-4 shadow-2xl transform transition hover:scale-105 duration-300">
+                            <div class="bg-black rounded-lg p-4">
+                                <div class="flex items-center mb-4">
+                                    <svg class="w-8 h-8 text-green-500" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="currentColor">
+                                        <path d="M12 2C6.5 2 2 6.5 2 12s4.5 10 10 10 10-4.5 10-10S17.5 2 12 2zm4.059 14.406c-.192 0-.286-.093-.477-.186-1.241-.74-2.764-1.107-4.435-1.107-1.67 0-3.193.367-4.434 1.107-.19.093-.285.186-.477.186a.67.67 0 01-.668-.668c0-.38.19-.572.38-.668 1.53-.93 3.29-1.388 5.2-1.388 1.91 0 3.67.458 5.2 1.388.19.096.38.287.38.668 0 .38-.287.668-.669.668zm1.146-2.766c-.191 0-.382-.095-.573-.19-1.433-.854-3.437-1.337-5.487-1.337s-4.054.483-5.487 1.337c-.19.095-.382.19-.573.19a.839.839 0 01-.859-.86c0-.286.095-.572.382-.763 1.624-.954 3.817-1.528 6.537-1.528s4.913.574 6.537 1.528c.287.19.382.477.382.763 0 .477-.382.86-.86.86zm1.336-3.15c-.19 0-.381-.096-.572-.192-1.72-1.05-4.435-1.624-7.014-1.624-2.578 0-5.294.573-7.013 1.624-.191.096-.382.192-.573.192-.477 0-.954-.382-.954-.954 0-.287.096-.573.287-.764C8.294 7.148 11.15 6.48 14.4 6.48c3.248 0 6.105.668 7.87 1.718.19.191.286.477.286.764 0 .572-.477.954-.954.954z"/>
+                                    </svg>
+                                    <span class="ml-2 font-bold text-white text-lg" data-i18n="spotify_player_title">Spotify Playlist</span>
+                                </div>
+                                <h3 class="text-xl font-bold mb-2 text-white" data-i18n="spotify_rhythms">Ritmos da Venezuela</h3>
+                                <div class="space-y-3 mt-4">
+                                    <!-- Song 1 -->
+                                    <div class="flex items-center p-2 bg-gray-900 rounded-md hover:bg-gray-800 transition cursor-pointer group">
+                                        <div class="w-10 h-10 bg-gray-700 rounded flex-shrink-0 flex items-center justify-center text-xs text-white font-bold group-hover:bg-green-500 transition">SD</div>
+                                        <div class="ml-3">
+                                            <p class="text-sm font-medium text-white group-hover:text-green-400 transition">Alma Llanera</p>
+                                            <p class="text-xs text-gray-400">Simón Díaz</p>
+                                        </div>
+                                    </div>
+                                    <!-- Song 2 -->
+                                    <div class="flex items-center p-2 bg-gray-900 rounded-md hover:bg-gray-800 transition cursor-pointer group">
+                                        <div class="w-10 h-10 bg-gray-700 rounded flex-shrink-0 flex items-center justify-center text-xs text-white font-bold group-hover:bg-green-500 transition">SD</div>
+                                        <div class="ml-3">
+                                            <p class="text-sm font-medium text-white group-hover:text-green-400 transition">Caballo Viejo</p>
+                                            <p class="text-xs text-gray-400">Simón Díaz</p>
+                                        </div>
+                                    </div>
+                                    <!-- Song 3 -->
+                                    <div class="flex items-center p-2 bg-gray-900 rounded-md hover:bg-gray-800 transition cursor-pointer group">
+                                        <div class="w-10 h-10 bg-gray-700 rounded flex-shrink-0 flex items-center justify-center text-xs text-white font-bold group-hover:bg-green-500 transition">HB</div>
+                                        <div class="ml-3">
+                                            <p class="text-sm font-medium text-white group-hover:text-green-400 transition">Moliendo Café</p>
+                                            <p class="text-xs text-gray-400">Hugo Blanco</p>
+                                        </div>
+                                    </div>
+                                    <!-- Song 4 -->
+                                    <div class="flex items-center p-2 bg-gray-900 rounded-md hover:bg-gray-800 transition cursor-pointer group">
+                                        <div class="w-10 h-10 bg-gray-700 rounded flex-shrink-0 flex items-center justify-center text-xs text-white font-bold group-hover:bg-green-500 transition">LS</div>
+                                        <div class="ml-3">
+                                            <p class="text-sm font-medium text-white group-hover:text-green-400 transition">Venezuela</p>
+                                            <p class="text-xs text-gray-400">Luis Silva</p>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- Footer -->
+    <footer class="bg-gray-900 text-white py-12">
+        <div class="container mx-auto px-4 text-center">
+            <h2 class="text-2xl font-bold mb-4">Venezuela Bistro <span class="text-ven-red">SP</span></h2>
+            <div class="flex justify-center gap-6 mb-8">
+                <!-- Enlaces reales de Instagram y Facebook -->
+                <a href="https://www.instagram.com/venezuelabistrosp" target="_blank" class="hover:text-ven-yellow transition-colors"><i data-lucide="instagram"></i></a>
+                <a href="https://www.facebook.com/VenezuelaBistrosp" target="_blank" class="hover:text-ven-yellow transition-colors"><i data-lucide="facebook"></i></a>
+                <!-- Enlace de WhatsApp en lugar de teléfono fijo -->
+                <a href="https://wa.me/5511990270534" target="_blank" class="hover:text-ven-yellow transition-colors"><i data-lucide="message-circle"></i></a>
+            </div>
+            <p class="text-gray-500 text-sm">© 2023 Venezuela Bistro SP. Todos os direitos reservados. Versão Delivery Final</p>
+        </div>
+    </footer>
+    
+    <!-- WhatsApp Widget -->
+    <div class="whatsapp-widget">
+        <!-- Chat Window -->
+        <div class="whatsapp-chat" id="whatsapp-chat-window">
+            <div class="chat-header">
+                <div class="w-10 h-10 bg-white rounded-full flex items-center justify-center overflow-hidden">
+                    <img src="logo.jpg" alt="Logo" class="w-full h-full object-cover">
+                </div>
+                <div>
+                    <h4 class="font-bold text-sm">Venezuela Bistro SP</h4>
+                    <p class="text-xs opacity-80" data-i18n="wa_status">Online agora</p>
+                </div>
+                <button onclick="toggleWhatsApp()" class="ml-auto text-white hover:bg-white/20 rounded-full p-1 transition">
+                    <i data-lucide="x" class="w-5 h-5"></i>
+                </button>
+            </div>
+            <div class="chat-body">
+                <div class="chat-message">
+                    <p data-i18n="wa_message">Olá! 👋<br>Como podemos te ajudar hoje?</p>
+                    <span class="text-[10px] text-gray-500 absolute bottom-1 right-2 block text-right w-full">10:00</span>
+                </div>
+            </div>
+            <div class="chat-footer">
+                <a href="https://wa.me/5511990270534?text=Ol%C3%A1%2C%20gostaria%20de%20fazer%20um%20pedido%21" target="_blank" class="block w-full bg-[#25D366] text-white text-center py-2 rounded-full font-bold hover:bg-[#128C7E] transition shadow-md flex items-center justify-center gap-2">
+                    <i data-lucide="message-circle" class="w-5 h-5"></i>
+                    <span data-i18n="wa_btn">Iniciar Conversa</span>
+                </a>
+            </div>
+        </div>
+
+        <!-- Floating Button -->
+        <div class="whatsapp-btn" onclick="toggleWhatsApp()">
+            <i data-lucide="message-circle" class="w-8 h-8"></i>
+            <div class="notification-badge">1</div>
+        </div>
+    </div>
+
+    <!-- Modal do Carrinho -->
+    <div id="cart-modal" class="fixed inset-0 z-[60] flex items-center justify-center hidden">
+        <div class="absolute inset-0 bg-black/50 backdrop-blur-sm" onclick="toggleCart()"></div>
+        <div class="bg-white rounded-2xl w-full max-w-md mx-4 relative z-10 shadow-2xl p-6">
+            <div class="flex justify-between items-center mb-4 border-b pb-2">
+                <h3 class="text-xl font-bold text-gray-800" data-i18n="cart_title">Seu Carrinho</h3>
+                <button onclick="toggleCart()" class="text-gray-500 hover:text-red-500">
+                    <i data-lucide="x"></i>
+                </button>
+            </div>
+            <div id="cart-items" class="max-h-60 overflow-y-auto mb-4 space-y-2">
+                <p class="text-center text-gray-500 py-4" data-i18n="cart_empty">O carrinho está vazio</p>
+            </div>
+            <div class="border-t pt-4">
+                <div class="flex justify-between font-bold text-lg mb-4">
+                    <span>Total:</span>
+                    <span id="cart-total">R$ 0,00</span>
+                </div>
+                <button id="checkout-btn" class="w-full btn-primary text-white font-bold py-3 rounded-xl shadow-lg" data-i18n="btn_checkout">
+                    Finalizar Pedido
+                </button>
+            </div>
+        </div>
+    </div>
+
+    <!-- JavaScript Logic -->
+    <script>
+        // 1. Inicialização de Ícones
+        lucide.createIcons();
+        
+        // 2. Lógica WhatsApp Widget
+        function toggleWhatsApp() {
+            const chatWindow = document.getElementById('whatsapp-chat-window');
+            chatWindow.classList.toggle('active');
+        }
+
+        // 3. Lógica de Abas do Cardápio
+        const tabs = document.querySelectorAll('.category-tab');
+        const sections = document.querySelectorAll('.menu-section');
+
+        tabs.forEach(tab => {
+            tab.addEventListener('click', () => {
+                tabs.forEach(t => t.classList.remove('active', 'bg-ven-red', 'text-white', 'shadow-sm'));
+                tabs.forEach(t => t.classList.add('bg-gray-200', 'text-gray-700'));
+                
+                tab.classList.add('active');
+                tab.classList.remove('bg-gray-200', 'text-gray-700');
+
+                sections.forEach(section => section.classList.add('hidden'));
+
+                const targetId = tab.getAttribute('data-category') + '-section';
+                const targetSection = document.getElementById(targetId);
+                
+                if(targetSection) {
+                    targetSection.classList.remove('hidden');
+                } else {
+                    console.error('Seção não encontrada: ' + targetId);
+                }
+            });
+        });
+
+        // 4. Lógica do Carrinho
+        let cart = [];
+        
+        function addToCart(name, price) {
+            cart.push({ name, price });
+            updateCartUI();
+            
+            const badge = document.getElementById('cart-badge');
+            badge.classList.remove('scale-0');
+            badge.classList.add('scale-125');
+            setTimeout(() => badge.classList.remove('scale-125'), 200);
+        }
+
+        function removeFromCart(index) {
+            cart.splice(index, 1);
+            updateCartUI();
+        }
+
+        function updateCartUI() {
+            const badge = document.getElementById('cart-badge');
+            badge.textContent = cart.length;
+            if (cart.length === 0) {
+                badge.classList.add('scale-0');
+            } else {
+                badge.classList.remove('scale-0');
+            }
+
+            const list = document.getElementById('cart-items');
+            const totalEl = document.getElementById('cart-total');
+            
+            if (cart.length === 0) {
+                list.innerHTML = `<p class="text-center text-gray-500 py-4" data-i18n="cart_empty">${currentLang === 'es' ? 'El carrito está vacío' : 'O carrinho está vazio'}</p>`;
+                totalEl.textContent = 'R$ 0,00';
+            } else {
+                list.innerHTML = cart.map((item, index) => `
+                    <div class="flex justify-between items-center bg-gray-50 p-2 rounded">
+                        <div>
+                            <p class="font-medium text-sm text-gray-800">${item.name}</p>
+                            <p class="text-xs text-gray-500">R$ ${item.price.toFixed(2)}</p>
+                        </div>
+                        <button onclick="removeFromCart(${index})" class="text-red-500 hover:bg-red-50 p-1 rounded">
+                            <i data-lucide="trash-2" class="w-4 h-4"></i>
+                        </button>
+                    </div>
+                `).join('');
+                
+                lucide.createIcons();
+
+                const total = cart.reduce((sum, item) => sum + item.price, 0);
+                totalEl.textContent = `R$ ${total.toFixed(2).replace('.', ',')}`;
+            }
+        }
+
+        function toggleCart() {
+            const modal = document.getElementById('cart-modal');
+            modal.classList.toggle('hidden');
+        }
+
+        document.getElementById('cart-btn').addEventListener('click', toggleCart);
+
+        // 5. Checkout Logic
+        function checkout() {
+            if (cart.length === 0) {
+                alert(currentLang === 'es' ? 'El carrito está vacío' : 'O carrinho está vazio');
+                return;
+            }
+
+            let message = "";
+            let total = 0;
+
+            if (currentLang === 'es') {
+                message += "Hola Venezuela Bistro SP, quisiera hacer un pedido:\n\n";
+            } else {
+                message += "Olá Venezuela Bistro SP, gostaria de fazer um pedido:\n\n";
+            }
+
+            // Agrupar items
+            const groupedCart = {};
+            cart.forEach(item => {
+                if (groupedCart[item.name]) {
+                    groupedCart[item.name].qty++;
+                    groupedCart[item.name].total += item.price;
+                } else {
+                    groupedCart[item.name] = {
+                        qty: 1,
+                        price: item.price,
+                        total: item.price
+                    };
+                }
+                total += item.price;
+            });
+
+            for (const [name, item] of Object.entries(groupedCart)) {
+                message += `- ${item.qty}x ${name} (R$ ${item.total.toFixed(2).replace('.', ',')})\n`;
+            }
+
+            message += `\nTotal: R$ ${total.toFixed(2).replace('.', ',')}`;
+            
+            const whatsappUrl = `https://wa.me/5511990270534?text=${encodeURIComponent(message)}`;
+            window.open(whatsappUrl, '_blank');
+        }
+
+        document.getElementById('checkout-btn').addEventListener('click', checkout);
+
+
+        // 6. Internacionalização (i18n)
+        let currentLang = 'pt';
+        
+        const translations = {
+            es: {
+                hero_badge: "Sabor Auténtico en São Paulo",
+                hero_title_1: "El Verdadero Sabor",
+                hero_title_2: "Venezolano",
+                hero_subtitle: "Arepas, empanadas, cachapas y más. Hechas a mano con amor y tradición.",
+                btn_view_menu: "Ver Menú",
+                info_loc_title: "Ubicación",
+                info_hours_title: "Horario",
+                info_hours_val: "11:00 - 22:00 (Lun-Sáb)",
+                about_subtitle: "Nuestra Historia",
+                about_title: "Más que comida, <br>es <span class='text-ven-red font-handwriting text-5xl'>cultura</span>.",
+                about_p1: "En Venezuela Bistro SP, cada plato cuenta una historia. Desde la harina de maíz blanco precocida que amasamos cada mañana, hasta los guisos cocinados a fuego lento como lo hacían nuestras abuelas.",
+                about_p2: "<strong>¿Sabías qué?</strong> La \"Reina pepeada\", nuestra arepa más famosa, fue nombrada en honor a Susana Duijm, la primera venezolana en ganar el Miss Mundo en 1955. \"Pepiada\" era una forma coloquial de decir que alguien tenía muchas curvas y era hermosa.",
+                about_p3: "Queremos ser tu rincón venezolano en São Paulo, un lugar donde el \"Sifrino\", el \"Pelúo\" y todos son bienvenidos a compartir.",
+                stat_auth: "Auténtico",
+                stat_fresh: "Fresco",
+                stat_rating: "Estrellas",
+                menu_title: "Nuestro Menú",
+                cat_cachapas: "Cachapas",
+                cat_tequenos: "Tequeños",
+                cat_drinks: "Bebidas",
+                badge_popular: "Popular",
+                desc_pabellon: "Carne desmechada, frijoles negros (caraotas), plátano frito y queso blanco. La esencia de Venezuela.",
+                desc_reina: "Pollo desmechado con aguacate y mayonesa. Cremosa, fresca y deliciosa.",
+                desc_pelua: "Carne desmechada y mucho queso amarillo rallado.",
+                name_catira: "Arepa Catira",
+                desc_catira: "Rellena con pollo desmechado sazonado a nuestro estilo y queso amarillo (tipo prato).",
+                name_camaron: "Arepa de Camarón",
+                desc_camaron: "Rellena con vinagreta estilo venezolano (cebola, perejil y especiarias).",
+                name_emp_queijo: "Empanada de Queso",
+                desc_emp_queijo: "Masa de maíz crujiente rellena de queso blanco derretido.",
+                name_emp_carne: "Empanada de Carne",
+                desc_emp_carne: "Masa de maíz crujiente rellena de carne molida sazonada.",
+                name_cachapa_queijo: "Cachapa de Queso",
+                desc_cachapa_queijo: "La original. Tortilla de maíz tierno dulce con abundante queso de mano.",
+                name_cachapa_carne: "Cachapa Carne Mechada",
+                desc_cachapa_carne: "Nuestra cachapa clásica rellena de jugosa carne mechada y queso.",
+                name_cachapa_pabellon: "Cachapa Pabellón",
+                desc_cachapa_pabellon: "Explosión de sabor con carne mechada, caraotas, tajadas y queso.",
+                name_cachapa_pernil: "Cachapa de Pernil",
+                desc_cachapa_pernil: "Sabor tradicional de pernil horneado jugoso con queso.",
+                name_cachapa_veg: "Cachapa Vegetariana",
+                desc_cachapa_veg: "Masa de maíz tierno rellena con vegetales salteados de temporada y queso.",
+                name_tequenos: "Tequeños",
+                desc_tequenos: "Masa de harina de trigo frita rellena con queso blanco. (Dedos de queso).",
+                desc_papelon: "Refrescante bebida de caña de azúcar con un toque de limón.",
+                desc_malta: "La clásica malta venezolana. Importada.",
+                btn_add: "Adicionar",
+                cart_title: "Tu Carrito",
+                cart_empty: "El carrito está vacío",
+                btn_checkout: "Finalizar Pedido",
+                spotify_title: "Música Venezolana",
+                spotify_desc: "Descubre los ritmos y melodías que forman parte de la cultura venezolana. Nuestra playlist trae lo mejor de la música tradicional y contemporánea de Venezuela y América Latina.",
+                spotify_rhythms: "Ritmos de Venezuela",
+                spotify_tagline: "¡Escucha joropo, gaita zuliana, calipso, tambor y mucho más!",
+                spotify_btn: "Escuchar en Spotify",
+                spotify_player_title: "Playlist de Spotify",
+                wa_status: "En línea ahora",
+                wa_message: "¡Hola! 👋<br>¿Cómo podemos ayudarte hoy?",
+                wa_btn: "Iniciar Conversación",
+                name_arepa_pernil: "Arepa de Pernil",
+                desc_arepa_pernil: "Arepa rellena de pernil horneado jugoso y queso, un sabor tradicional que representa la esencia de la cocina venezolana.",
+                name_arepa_veg: "Arepa Vegetariana",
+                desc_arepa_veg: "Arepa rellena de vegetales salteados de la estación — berenjena, zanahoria, brócoli, champiñones y cebolla — acompañados de queso. Una opción vegetariana sabrosa, colorida y llena de textura."
+            },
+            pt: {
+                hero_badge: "Sabor Autêntico em São Paulo",
+                hero_title_1: "O Verdadeiro Sabor",
+                hero_title_2: "Venezuelano",
+                hero_subtitle: "Arepas, empanadas, cachapas e mais. Feitas à mão com amor e tradição.",
+                btn_view_menu: "Ver Cardápio",
+                info_loc_title: "Localização",
+                info_hours_title: "Horário",
+                info_hours_val: "11:00 - 22:00 (Seg-Sáb)",
+                about_subtitle: "Nossa História",
+                about_title: "Mais que comida, <br>é <span class='text-ven-red font-handwriting text-5xl'>cultura</span>.",
+                about_p1: "No Venezuela Bistro SP, cada prato conta uma história. Desde a farinha de milho branco pré-cozida que amassamos toda manhã, até os ensopados cozidos em fogo baixo como faziam nossas avós.",
+                about_p2: "<strong>Você Sabia?</strong> A \"Reina pepeada\", nossa arepa mais famosa, foi nomeada em homenagem a Susana Duijm, a primeira venezuelana a ganhar o Miss Mundo em 1955. \"Pepiada\" era uma forma coloquial de dizer que alguém tinha muitas curvas e era linda.",
+                about_p3: "Queremos ser o seu cantinho venezuelano em São Paulo, um lugar onde o \"Sifrino\", o \"Pelúo\" e todos são bem-vindos para compartilhar.",
+                stat_auth: "Autêntico",
+                stat_fresh: "Fresco",
+                stat_rating: "Estrelas",
+                menu_title: "Nosso Cardápio",
+                cat_cachapas: "Cachapas",
+                cat_tequenos: "Tequeños",
+                cat_drinks: "Bebidas",
+                badge_popular: "Popular",
+                desc_pabellon: "Carne desfiada, feijão preto (caraotas), banana da terra frita e queijo branco. A essência da Venezuela.",
+                desc_reina: "Frango desfiado con abacate e maionese. Cremosa, fresca e deliciosa.",
+                desc_pelua: "Carne desfiada e muito queijo amarelo ralado (queijo prato). Saborosa e suculenta.",
+                name_catira: "Arepa Catira",
+                desc_catira: "Recheada com frango desfiado temperado a nosso estilo e queijo prato.",
+                name_camaron: "Arepa de Camarão",
+                desc_camaron: "Recheada com vinagrete estilo venezuelano (cebola, cheiro verde e especiarias).",
+                name_emp_queijo: "Empanada de Queijo",
+                desc_emp_queijo: "Massa de milho crocante recheada com queijo branco derretido.",
+                name_emp_carne: "Empanada de Carne",
+                desc_emp_carne: "Massa de milho crocante recheada com carne moída temperada.",
+                name_cachapa_queijo: "Cachapa de Queijo",
+                desc_cachapa_queijo: "A original. Tortilha de milho verde doce com abundante queijo de mão.",
+                name_cachapa_carne: "Cachapa Carne Desfiada",
+                desc_cachapa_carne: "Nossa cachapa clássica recheada com suculenta carne desfiada e queijo.",
+                name_cachapa_pabellon: "Cachapa Pabellón",
+                desc_cachapa_pabellon: "Explosão de sabor com carne desfiada, feijão preto, banana frita e queijo.",
+                name_cachapa_pernil: "Cachapa de Pernil",
+                desc_cachapa_pernil: "Sabor tradicional de pernil assado suculento com queijo.",
+                name_cachapa_veg: "Cachapa Vegetariana",
+                desc_cachapa_veg: "Massa de milho verde recheada com vegetais salteados da estação e queijo.",
+                name_tequenos: "Tequeños",
+                desc_tequenos: "Massa de farinha de trigo frita com queijo.",
+                desc_papelon: "Bebida refrescante de rapadura com um toque de limão.",
+                desc_malta: "A clássica malta venezuelana. Importada.",
+                btn_add: "Adicionar",
+                cart_title: "Seu Carrinho",
+                cart_empty: "Carrinho vazio",
+                btn_checkout: "Finalizar Pedido",
+                spotify_title: "Música Venezuelana",
+                spotify_desc: "Descubra os ritmos e melodias que fazem parte da cultura venezuelana. Nossa playlist traz o melhor da música tradicional e contemporânea da Venezuela e América Latina.",
+                spotify_rhythms: "Ritmos da Venezuela",
+                spotify_tagline: "Ouça joropo, gaita zuliana, calipso, tambor e muito mais!",
+                spotify_btn: "Ouvir no Spotify",
+                spotify_player_title: "Spotify Playlist",
+                wa_status: "Online agora",
+                wa_message: "Olá! 👋<br>Como podemos te ajudar hoje?",
+                wa_btn: "Iniciar Conversa",
+                name_arepa_pernil: "Arepa de Pernil",
+                desc_arepa_pernil: "Arepa recheada com pernil assado suculento e queijo, um sabor tradicional que representa a essência da culinária venezuelana.",
+                name_arepa_veg: "Arepa Vegetariana",
+                desc_arepa_veg: "Arepa recheada com vegetais salteados da estação — berinjela, cenoura, brócolis, champignon e cebola — acompanhados de queijo. Uma opção vegetariana saborosa, colorida e cheia de textura."
+            }
+        };
+
+        function setLanguage(lang) {
+            currentLang = lang;
+            
+            document.querySelectorAll('.lang-btn').forEach(btn => {
+                if(btn.dataset.lang === lang) {
+                    btn.classList.add('active');
+                } else {
+                    btn.classList.remove('active');
+                }
+            });
+
+            document.querySelectorAll('[data-i18n]').forEach(el => {
+                const key = el.getAttribute('data-i18n');
+                if (translations[lang][key]) {
+                    if (el.innerHTML.includes('<')) {
+                        el.innerHTML = translations[lang][key];
+                    } else {
+                        el.textContent = translations[lang][key];
+                    }
+                }
+            });
+
+            updateCartUI();
+        }
+
+        // Logic for the image slider
+        document.addEventListener('DOMContentLoaded', () => {
+            setLanguage('pt');
+            
+            const track = document.getElementById('slider-track');
+            if (track) {
+                let slideIndex = 0;
+                const totalSlides = 3; // We have 3 images: historia.jpg, reina_historia.jpg, historia_3.jpg
+
+                function nextSlide() {
+                    slideIndex = (slideIndex + 1) % totalSlides;
+                    track.style.transform = `translateX(-${slideIndex * 100}%)`;
+                }
+
+                // Change slide every 5 seconds
+                setInterval(nextSlide, 5000);
+            }
+        });
+    </script>
+</body>
+</html>
