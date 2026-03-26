@@ -1,242 +1,32 @@
-<!DOCTYPE html>
-<html lang="pt">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
-    <title>Venezuela Bistro SP - Delivery</title>
-   
-    <meta name="theme-color" content="#CF142B">
-    <meta name="apple-mobile-web-app-capable" content="yes">
-    <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
-    <meta name="apple-mobile-web-app-title" content="VE Bistro">
-    
-    <link rel="apple-touch-icon" href="logo.jpg">
-    <link rel="icon" type="image/jpeg" href="logo.jpg">
-
-    <meta property="og:title" content="Venezuela Bistro SP | O Verdadeiro Sabor Venezuelano">
-    <meta property="og:description" content="Arepas, empanadas, cachapas e mais. Feitas à mão com amor e tradição em São Paulo. Peça agora o seu delivery!">
-    <meta property="og:image" content="Cover.jpg">
-    <meta property="og:url" content="https://venezuelabistro.com.br">
-    <meta property="og:type" content="restaurant">
-
-    <script src="https://cdn.tailwindcss.com"></script>
-   
-    <link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@400;500;600;700;900&display=swap" rel="stylesheet">
-    <link href="https://fonts.googleapis.com/css2?family=Dancing+Script:wght@700&display=swap" rel="stylesheet">
-   
-    <script src="https://unpkg.com/lucide@latest"></script>
-
-    <style>
-        :root {
-            --venezuela-yellow: #FFCC00;
-            --venezuela-blue: #00247D;
-            --venezuela-red: #CF142B;
-            --whatsapp-green: #25D366;
-            --whatsapp-dark: #128C7E;
-        }
-       
-        body {
-            font-family: 'Montserrat', sans-serif;
-            background-color: #fcfcfc;
-            color: #333;
-            overscroll-behavior-y: none; 
-            padding-bottom: 6rem;
-        }
-
-        h1, h2, h3, h4 { letter-spacing: -0.02em; }
-        .font-handwriting { font-family: 'Dancing Script', cursive; }
-
-        .text-ven-yellow { color: var(--venezuela-yellow); }
-        .text-ven-blue { color: var(--venezuela-blue); }
-        .text-ven-red { color: var(--venezuela-red); }
-        .bg-ven-yellow { background-color: var(--venezuela-yellow); }
-        .bg-ven-blue { background-color: var(--venezuela-blue); }
-        .bg-ven-red { background-color: var(--venezuela-red); }
-
-        .btn-primary {
-            background-color: var(--venezuela-red);
-            transition: all 0.3s ease;
-        }
-        .btn-primary:hover {
-            background-color: #a80f20;
-            transform: translateY(-2px);
-        }
-
-        .card-hover { transition: all 0.3s cubic-bezier(0.4, 0, 0.2, 1); }
-        .card-hover:hover {
-            transform: translateY(-8px);
-            box-shadow: 0 20px 25px -5px rgba(0, 0, 0, 0.1), 0 10px 10px -5px rgba(0, 0, 0, 0.04);
-        }
-
-        @keyframes float {
-            0%, 100% { transform: translateY(0); }
-            50% { transform: translateY(-10px); }
-        }
-        .animate-float { animation: float 3s ease-in-out infinite; }
-
-        .category-tab {
-            transition: all 0.3s ease;
-            cursor: pointer;
-        }
-        .category-tab.active {
-            background-color: var(--venezuela-red);
-            color: white;
-            box-shadow: 0 4px 6px -1px rgba(207, 20, 43, 0.4);
-            transform: scale(1.05);
-        }
-        .category-tab:not(.active):hover { background-color: #e5e7eb; }
-       
-        .scrollbar-hide::-webkit-scrollbar { display: none; }
-        .scrollbar-hide { -ms-overflow-style: none; scrollbar-width: none; }
-
-        .pattern-bg {
-            background-color: #f3f4f6;
-            background-image: url("data:image/svg+xml,%3Csvg width='60' height='60' viewBox='0 0 60 60' xmlns='http://www.w3.org/2000/svg'%3E%3Cg fill='none' fill-rule='evenodd'%3E%3Cg fill='%2300247D' fill-opacity='0.05'%3E%3Cpath d='M36 34v-4h-2v4h-4v2h4v4h2v-4h4v-2h-4zm0-30V0h-2v4h-4v2h4v4h2V6h4V4h-4zM6 34v-4H4v4H0v2h4v4h2v-4h4v-2H6zM6 4V0H4v4H0v2h4v4h2V6h4V4H6z'/%3E%3C/g%3E%3C/g%3E%3C/svg%3E");
-        }
-       
-        .product-img-container {
-            width: 100%;
-            height: 100%;
-            position: relative;
-            overflow: hidden;
-            background-color: #f3f4f6;
-        }
-        .product-img {
-            width: 100%;
-            height: 100%;
-            object-fit: cover;
-            object-position: center;
-            transition: transform 0.5s ease;
-        }
-        .group:hover .product-img { transform: scale(1.1); }
-       
-        .lang-btn {
-            filter: grayscale(100%);
-            opacity: 0.7;
-            transition: all 0.3s;
-            cursor: pointer;
-            border: 2px solid transparent;
-        }
-        .lang-btn:hover, .lang-btn.active {
-            filter: grayscale(0%);
-            opacity: 1;
-            transform: scale(1.1);
-        }
-        .lang-btn.active { border-color: var(--venezuela-yellow); }
-
-        .hero-background {
-            background-image: url('Cover.jpg');
-            background-size: cover;
-            background-position: 70% center; 
-            background-repeat: no-repeat;
-            background-color: var(--venezuela-blue);
-        }
-        @media (min-width: 768px) {
-            .hero-background { background-position: center center; }
-        }
-        .hero-overlay { background: linear-gradient(to right, rgba(0,0,0,0.8) 0%, rgba(0,0,0,0.4) 100%); }
-
-        #cart-modal { transition: opacity 0.3s ease-in-out; }
-        #cart-modal.hidden { opacity: 0; pointer-events: none; }
-        #cart-modal:not(.hidden) { opacity: 1; pointer-events: auto; }
-
-        .floating-dock {
-            box-shadow: 0 10px 40px rgba(0,0,0,0.15);
-            backdrop-filter: blur(10px);
-            background-color: rgba(255, 255, 255, 0.98);
-        }
-
-        .history-accordion {
-            display: flex;
-            width: 100%;
-            height: 500px;
-            overflow: hidden;
-            border-radius: 1rem;
-            box-shadow: 0 25px 50px -12px rgba(0, 0, 0, 0.25);
-            background-color: #f3f4f6;
-            flex-direction: column;
-        }
-        @media (min-width: 768px) {
-            .history-accordion { flex-direction: row; height: 400px; }
-        }
-        .history-panel {
-            position: relative;
-            background-size: cover;
-            background-position: center;
-            background-repeat: no-repeat;
-            flex: 1;
-            margin: 2px;
-            border-radius: 0.75rem;
-            transition: all 0.6s cubic-bezier(0.25, 0.46, 0.45, 0.94);
-            cursor: pointer;
-            overflow: hidden;
-            height: 100%;
-        }
-        
-        @media (hover: hover) {
-            .history-panel:hover { flex: 4; }
-            .history-panel:hover .history-panel-overlay { opacity: 1; transform: translateY(0); }
-        }
-        .history-panel.active { flex: 4; }
-        .history-panel-overlay {
-            position: absolute;
-            bottom: 0; left: 0; right: 0;
-            background: linear-gradient(to top, rgba(0,0,0,0.9) 0%, rgba(0,0,0,0.5) 50%, transparent 100%);
-            padding: 20px 15px;
-            opacity: 0;
-            transform: translateY(20px);
-            transition: all 0.5s ease-in-out 0.1s;
-            color: white;
-            white-space: normal;
-        }
-        @media (min-width: 768px) {
-            .history-panel-overlay { padding: 30px 20px 20px; white-space: nowrap; }
-        }
-        .history-panel.active .history-panel-overlay { opacity: 1; transform: translateY(0); }
-        
-        .portion-tag {
-            display: inline-block;
-            background-color: #f3f4f6;
-            color: #4b5563;
-            font-size: 0.7rem;
-            font-weight: 600;
-            padding: 2px 8px;
-            border-radius: 9999px;
-            margin-top: 4px;
-            border: 1px solid #e5e7eb;
-        }
-    </style>
-</head>
-<body class="antialiased relative" id="inicio">
-
-    <nav class="sticky top-0 z-50 bg-white/95 backdrop-blur-sm shadow-md">
-        <div class="container mx-auto px-4 py-3 flex justify-between items-center">
-            <div class="flex items-center gap-3">
-                <div class="h-10 w-10 rounded-md overflow-hidden shadow-sm border border-gray-100 relative bg-gray-100">
-                      <img src="logo.jpg" alt="Logo Venezuela Bistro" class="w-full h-full object-cover">
+<section id="spotify-section" class="py-12 sm:py-16 bg-gradient-to-r from-blue-900 to-green-900 text-white border-b-4 border-ven-yellow">
+        <div class="container mx-auto px-4">
+            <div class="max-w-4xl mx-auto flex flex-col items-center">
+                
+                <div class="text-center mb-8">
+                    <h2 class="text-2xl sm:text-3xl font-bold mb-3" data-i18n="spotify_title">Sabor Venezuelano & Música</h2>
+                    <p class="text-gray-200 text-sm sm:text-base mb-5" data-i18n="spotify_desc">Nossa playlist traz o melhor da música tradicional e contemporânea da Venezuela.</p>
+                    <p class="text-ven-yellow font-bold text-xs sm:text-sm tracking-wide uppercase" data-i18n="spotify_tagline">Ouça joropo, gaita zuliana, calipso, tambor e muito mais!</p>
                 </div>
-                <div>
-                    <h1 class="text-xl md:text-2xl font-bold tracking-tight text-gray-800">Venezuela Bistro <span class="text-ven-red">SP</span></h1>
+                
+                <div class="shadow-2xl transform transition hover:scale-105 duration-300 rounded-2xl overflow-hidden bg-black w-full max-w-[500px]">
+                    <iframe 
+                        style="border-radius:12px" 
+                        src="http://googleusercontent.com/spotify.com/embed/49" 
+                        width="100%" 
+                        height="200" 
+                        frameBorder="0" 
+                        allowfullscreen="" 
+                        allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" 
+                        loading="lazy">
+                    </iframe>
                 </div>
-            </div>
-           
-            <div class="flex items-center gap-4">
-                <div class="flex items-center gap-2 mr-2 bg-gray-100 rounded-full px-2 py-1 hidden md:flex">
-                    <button class="lang-btn w-6 h-6 rounded-full overflow-hidden active" onclick="setLanguage('pt')" data-lang="pt" title="Português (Brasil)">
-                        <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Flag_of_Brazil.svg" class="w-full h-full object-cover" alt="PT">
-                    </button>
-                    <button class="lang-btn w-6 h-6 rounded-full overflow-hidden" onclick="setLanguage('es')" data-lang="es" title="Español">
-                        <img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Flag_of_Spain.svg" class="w-full h-full object-cover" alt="ES">
-                    </button>
-                </div>
-
-                <button id="cart-btn" class="hidden md:block relative p-2 hover:bg-gray-100 rounded-full transition-colors group">
-                    <i data-lucide="shopping-cart" class="text-gray-700 group-hover:text-ven-red transition-colors"></i>
-                    <span id="cart-badge" class="absolute top-0 right-0 bg-ven-red text-white text-xs font-bold h-5 w-5 flex items-center justify-center rounded-full scale-0 transition-transform duration-200">0</span>
-                </button>
+                
+                <a href="https://open.spotify.com/playlist/4Az8aocHrrIIN6ZwF7IDrZ?si=rDnJTC0PTsyni5MyhxSydg" target="_blank" class="mt-8 inline-flex items-center px-5 sm:px-6 py-2 sm:py-3 bg-green-500 hover:bg-green-600 rounded-full font-bold transition transform hover:scale-105 shadow-lg text-xs sm:text-sm">
+                    <svg class="w-5 h-5 sm:w-6 sm:h-6 mr-2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="currentColor">
+                        <path d="M12 2C6.5 2 2 6.5 2 12s4.5 10 10 10 10-4.5 10-10S17.5 2 12 2zm4.059 14.406c-.192 0-.286-.093-.477-.186-1.241-.74-2.764-1.107-4.435-1.107-1.67 0-3.193.367-4.434 1.107-.19.093-.285.186-.477.186a.67.67 0 01-.668-.668c0-.38.19-.572.38-.668 1.53-.93 3.29-1.388 5.2-1.388 1.91 0 3.67.458 5.2 1.388.19.096.38.287.38.668 0 .38-.287.668-.669.668zm1.146-2.766c-.191 0-.382-.095-.573-.19-1.433-.854-3.437-1.337-5.487-1.337s-4.054.483-5.487 1.337c-.19.095-.382.19-.573.19a.839.839 0 01-.859-.86c0-.286.095-.572.382-.763 1.624-.954 3.817-1.528 6.537-1.528s4.913.574 6.537 1.528c.287.19.382.477.382.763 0 .477-.382.86-.86.86zm1.336-3.15c-.19 0-.381-.096-.572-.192-1.72-1.05-4.435-1.624-7.014-1.624-2.578 0-5.294.573-7.013 1.624-.191.096-.382.192-.573.192-.477 0-.954-.382-.954-.954 0-.287.096-.573.287-.764C8.294 7.148 11.15 6.48 14.4 6.48c3.248 0 6.105.668 7.87 1.718.19.191.286.477.286.764 0 .572-.477.954-.954.954z"/>
+                    </svg>
+                    <span data-i18n="spotify_btn">Ouvir no Spotify</span>
+                </a>
             </div>
         </div>
-    </nav>
-
-    <div class="fixed bottom-4 sm:bottom-6 left-1/2 transform -translate-x-1/2 floating-dock rounded-[2rem] z-[100] px-2 py-2 grid grid-cols-5 place-items-center w-[96%] max-w-[420px] shadow-2xl">
-        <a href="#inicio" class="flex flex-col items-center justify-center text-[#C8102E
+    </section>
