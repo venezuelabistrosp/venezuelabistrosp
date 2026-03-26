@@ -154,12 +154,14 @@
         .history-accordion {
             display: flex;
             width: 100%;
-            height: 320px;
+            height: 380px; /* Incrementado ligeramente para móviles */
             overflow: hidden;
             border-radius: 1rem;
             box-shadow: 0 25px 50px -12px rgba(0, 0, 0, 0.25);
             background-color: #f3f4f6;
             flex-direction: column;
+            -webkit-transform: translateZ(0); /* iOS Safari vanishing bug fix */
+            transform: translateZ(0);
         }
         @media (min-width: 768px) {
             .history-accordion { flex-direction: row; height: 400px; }
