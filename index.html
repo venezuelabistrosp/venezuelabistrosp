@@ -2050,15 +2050,15 @@
 
     <!-- Product Detail Modal (Dribbble Style Bottom Sheet) -->
     <div id="product-detail-modal" class="fixed inset-0 z-[200] bg-black/60 backdrop-blur-sm hidden flex-col justify-end md:justify-center md:items-center transition-opacity opacity-0 duration-300 p-0 md:p-4">
-        <div class="bg-white w-full md:max-w-[440px] rounded-t-[2.5rem] md:rounded-[2.5rem] max-h-[90vh] md:max-h-[85vh] flex flex-col relative shadow-2xl transform translate-y-full md:translate-y-10 transition-transform duration-300 ease-out" id="product-modal-content">
+        <div class="bg-white w-full md:max-w-[440px] rounded-t-[2.5rem] md:rounded-[2.5rem] max-h-[90vh] md:max-h-[85vh] flex flex-col relative shadow-2xl transform translate-y-full md:translate-y-10 transition-transform duration-300 ease-out overflow-hidden" id="product-modal-content">
             
             <!-- Close Button -->
-            <button onclick="closeProductModal()" class="absolute top-4 right-4 bg-white/80 backdrop-blur rounded-full p-2.5 z-20 shadow-sm text-gray-800 hover:bg-gray-100 transition-colors">
+            <button onclick="closeProductModal()" class="absolute top-4 right-4 bg-white/80 backdrop-blur rounded-full p-2.5 z-30 shadow-sm text-gray-800 hover:bg-gray-100 transition-colors">
                 <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="w-5 h-5"><path d="M18 6 6 18"/><path d="m6 6 12 12"/></svg>
             </button>
             
             <!-- Scrollable Content -->
-            <div class="overflow-y-auto w-full flex flex-col custom-scroll pb-28 md:pb-24 rounded-t-[2.5rem] md:rounded-[2.5rem] overscroll-contain" style="-webkit-overflow-scrolling: touch;">
+            <div class="overflow-y-auto flex-1 min-h-0 w-full flex flex-col custom-scroll pb-32 md:pb-28 overscroll-contain rounded-t-[2.5rem] md:rounded-[2.5rem]" style="-webkit-overflow-scrolling: touch;">
                 <!-- Hero Image -->
                 <div class="w-full h-64 sm:h-72 bg-[#f8f9fa] flex items-center justify-center relative overflow-hidden shrink-0">
                     <img id="modal-product-img" src="" alt="Produto" class="w-full h-full object-cover">
