@@ -130,14 +130,20 @@
         .hero-background {
             background-image: url('Cover.jpg');
             background-size: cover;
-            background-position: center center; /* Ajustado para móviles */
+            background-position: center center;
             background-repeat: no-repeat;
-            background-color: var(--venezuela-blue);
+            background-color: #0b1120;
+        }
+        @media (max-width: 767px) {
+            .hero-background {
+                background-size: contain;
+                background-position: top center;
+            }
         }
         @media (min-width: 768px) {
             .hero-background { background-position: center center; }
         }
-        .hero-overlay { background: linear-gradient(to right, rgba(0,0,0,0.8) 0%, rgba(0,0,0,0.4) 100%); }
+        .hero-overlay { background: linear-gradient(to right, rgba(0,0,0,0.85) 0%, rgba(0,0,0,0.4) 100%); }
 
         #cart-modal { transition: opacity 0.3s ease-in-out; }
         #cart-modal.hidden { opacity: 0; pointer-events: none; }
@@ -191,7 +197,7 @@
             </div>
            
             <div class="flex items-center gap-4">
-                <div class="flex items-center gap-2 mr-2 bg-gray-100 rounded-full px-2 py-1 hidden md:flex">
+                <div class="flex items-center gap-2 sm:mr-2 bg-gray-100/30 sm:bg-gray-100 rounded-full px-2 py-1">
                     <button class="lang-btn w-6 h-6 rounded-full overflow-hidden active" onclick="setLanguage('pt')" data-lang="pt" title="Português (Brasil)">
                         <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Flag_of_Brazil.svg" class="w-full h-full object-cover" alt="PT">
                     </button>
@@ -250,21 +256,21 @@
             </p>
            
             <div class="flex flex-col sm:flex-row items-start sm:items-center gap-4 w-full sm:w-auto">
-                <button onclick="document.getElementById('promos-section').scrollIntoView({behavior: 'smooth'})" class="btn-primary text-white font-bold py-2 px-6 rounded-full shadow-lg transform transition hover:scale-105 flex items-center justify-center gap-2 text-[10px] md:text-sm w-full sm:w-auto mt-1">
+                <button onclick="document.getElementById('menu-section').scrollIntoView({behavior: 'smooth'})" class="bg-ven-red text-white font-bold py-2.5 px-5 sm:px-6 rounded-full shadow-lg transform transition hover:scale-105 flex items-center justify-center gap-2 text-[11px] md:text-sm w-auto mt-1">
                     <span data-i18n="btn_view_menu">Ver Cardápio</span> 
-                    <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="w-5 h-5"><path d="M3 2v7c0 1.1.9 2 2 2h4a2 2 0 0 0 2-2V2"/><path d="M7 2v20"/><path d="M21 15V2a5 5 0 0 0-5 5v6c0 1.1.9 2 2 2h3Zm0 0v7"/><path d="m15 17 6-6"/></svg>
+                    <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="w-4 h-4"><path d="M3 2v7c0 1.1.9 2 2 2h4a2 2 0 0 0 2-2V2"/><path d="M7 2v20"/><path d="M21 15V2a5 5 0 0 0-5 5v6c0 1.1.9 2 2 2h3Zm0 0v7"/><path d="m15 17 6-6"/></svg>
                 </button>
                 
-                <div class="flex flex-nowrap overflow-x-auto scrollbar-hide items-center gap-2 bg-white/10 p-1 rounded-full backdrop-blur-sm border border-white/20 w-full sm:w-fit justify-start">
-                    <a href="https://www.ifood.com.br/delivery/sao-paulo-sp/venezuela-bistro-sp-pirituba/d92a890e-00b0-4a0e-8f6e-801d405af09c" target="_blank" class="bg-white text-gray-900 font-bold py-2 px-3 sm:py-2.5 sm:px-4 rounded-full shadow-md hover:bg-gray-100 transition flex items-center justify-center gap-1 sm:gap-2 text-[10px] sm:text-xs transform hover:scale-105 flex-shrink-0">
+                <div class="flex flex-wrap items-center justify-start gap-1.5 bg-white/10 p-1 rounded-3xl sm:rounded-full backdrop-blur-sm border border-white/20 w-fit max-w-full">
+                    <a href="https://www.ifood.com.br/delivery/sao-paulo-sp/venezuela-bistro-sp-pirituba/d92a890e-00b0-4a0e-8f6e-801d405af09c" target="_blank" class="bg-white text-gray-900 font-bold py-1.5 sm:py-2 px-2.5 sm:px-3 rounded-full shadow-md hover:bg-gray-100 transition flex items-center justify-center gap-1 text-[9px] sm:text-xs">
                         <img src="logo-ifood.png" onerror="this.onerror=null; this.src='logo-ifood.jpg';" alt="iFood" class="h-3 sm:h-4 w-auto object-contain">
                         ifood
                     </a>
-                    <a href="https://oia.99app.com/dlp9/d7J7t5?share_media=WHATSAPP" target="_blank" class="bg-white text-gray-900 font-bold py-2 px-3 sm:py-2.5 sm:px-4 rounded-full shadow-md hover:bg-gray-100 transition flex items-center justify-center gap-1 sm:gap-1.5 text-[10px] sm:text-xs transform hover:scale-105 flex-shrink-0">
+                    <a href="https://oia.99app.com/dlp9/d7J7t5?share_media=WHATSAPP" target="_blank" class="bg-white text-gray-900 font-bold py-1.5 sm:py-2 px-2.5 sm:px-3 rounded-full shadow-md hover:bg-gray-100 transition flex items-center justify-center gap-1 text-[9px] sm:text-xs">
                         <img src="logo-99.png" onerror="this.onerror=null; this.src='logo-99.jpg';" alt="99" class="h-3 sm:h-4 w-auto object-contain rounded-sm">
-                        food
+                        99
                     </a>
-                    <a href="https://wa.me/5511990270534" target="_blank" class="bg-[#25D366] text-white font-bold py-2 px-3 sm:py-2.5 sm:px-4 rounded-full shadow-md hover:bg-green-600 transition flex items-center justify-center gap-1 sm:gap-2 text-[10px] sm:text-xs transform hover:scale-105 flex-shrink-0">
+                    <a href="https://wa.me/5511990270534" target="_blank" class="bg-[#25D366] text-white font-bold py-1.5 sm:py-2 px-2.5 sm:px-3 rounded-full shadow-md hover:bg-green-600 transition flex items-center justify-center gap-1 text-[9px] sm:text-xs">
                         <i data-lucide="message-circle" class="w-3 h-3 sm:w-4 sm:h-4"></i>
                         WhatsApp
                     </a>
@@ -280,8 +286,8 @@
                 <i data-lucide="map-pin" class="w-3.5 h-3.5 sm:w-6 sm:h-6"></i>
             </div>
             <div class="flex flex-col justify-center">
-                <p class="font-bold text-gray-800 text-[9px] sm:text-base leading-tight" data-i18n="info_loc_title">Área de Entrega</p>
-                <p class="text-[7px] sm:text-sm text-gray-600 block">Pirituba e Região</p>
+                <p class="font-bold text-gray-800 text-[11px] sm:text-base leading-tight" data-i18n="info_loc_title">Área de Entrega</p>
+                <p class="text-[9px] sm:text-sm text-gray-600 block">Pirituba e Região</p>
             </div>
         </div>
         <div class="flex flex-col sm:flex-row items-center justify-center gap-0.5 sm:gap-4 text-center sm:text-left px-1 sm:px-4 w-1/3">
@@ -289,8 +295,8 @@
                 <i data-lucide="clock" class="w-3.5 h-3.5 sm:w-6 sm:h-6"></i>
             </div>
             <div class="flex flex-col justify-center">
-                <p class="font-bold text-gray-800 text-[9px] sm:text-base leading-tight" data-i18n="info_hours_title">Horário</p>
-                <p class="text-[7px] sm:text-sm text-gray-600 block whitespace-nowrap" data-i18n="info_hours_val">11:00 - 22:00 (Ter-Dom)</p>
+                <p class="font-bold text-gray-800 text-[11px] sm:text-base leading-tight" data-i18n="info_hours_title">Horário</p>
+                <p class="text-[9px] sm:text-sm text-gray-600 block" data-i18n="info_hours_val">11:00 - 22:00 (Ter-Dom)</p>
             </div>
         </div>
         <div class="flex flex-col sm:flex-row items-center justify-center gap-0.5 sm:gap-4 text-center sm:text-left px-1 sm:px-4 w-1/3">
@@ -298,7 +304,7 @@
                 <i data-lucide="truck" class="w-3.5 h-3.5 sm:w-6 sm:h-6"></i>
             </div>
             <div class="flex flex-col justify-center">
-                <p class="font-bold text-gray-800 text-[9px] sm:text-base leading-tight">Delivery</p>
+                <p class="font-bold text-gray-800 text-[11px] sm:text-base leading-tight">Delivery</p>
                 <a href="https://wa.me/5511990270534" target="_blank" class="text-[7px] sm:text-xs text-green-600 font-bold hover:underline block">Fazer pedido</a>
             </div>
         </div>
@@ -314,7 +320,7 @@
             <div class="text-center mb-10 sm:mb-12 relative flex flex-col md:flex-row items-center justify-between">
                 <div class="text-left w-full md:w-1/2">
                     <span class="text-ven-blue font-black tracking-widest text-sm sm:text-base uppercase mb-2 block" data-i18n="about_subtitle">Nossa História</span>
-                    <h3 class="text-lg sm:text-3xl md:text-5xl font-black text-gray-900 leading-tight" data-i18n="about_title">Mais que comida, <br><span class="text-ven-red font-handwriting text-2xl sm:text-5xl lg:text-6xl inline-block mt-1">é cultura.</span></h3>
+                    <h3 class="text-lg sm:text-3xl md:text-5xl font-black text-gray-900 leading-tight" data-i18n="about_title">Mais que comida, <span class="text-ven-red font-handwriting text-2xl sm:text-5xl lg:text-6xl inline-block mt-1">é cultura.</span></h3>
                 </div>
                 
                 <!-- Navigation Arrows for Desktop -->
@@ -343,7 +349,7 @@
                                 <h4 class="text-base sm:text-2xl md:text-3xl font-black text-gray-900 mb-2 sm:mb-3 tracking-tight">Feito à Mão</h4>
                                 <div class="relative max-w-lg">
                                     <svg class="absolute -top-4 -left-3 sm:-left-6 w-8 h-8 sm:w-10 sm:h-10 text-gray-100 rotate-180" fill="currentColor" viewBox="0 0 32 32"><path d="M9.352 4C4.456 7.456 1 13.12 1 19.36c0 5.088 3.072 8.064 6.624 8.064 3.36 0 5.856-2.688 5.856-5.856 0-3.168-2.208-5.472-5.088-5.472-.576 0-1.344.096-1.536.192.48-3.264 3.552-7.104 6.624-9.024L9.352 4zm16.512 0c-4.896 3.456-8.352 9.12-8.352 15.36 0 5.088 3.072 8.064 6.624 8.064 3.264 0 5.856-2.688 5.856-5.856 0-3.168-2.304-5.472-5.184-5.472-.576 0-1.248.096-1.44.192.48-3.264 3.456-7.104 6.528-9.024L25.864 4z"/></svg>
-                                    <p class="text-gray-600 text-[9px] sm:text-xs md:text-lg leading-snug font-medium relative z-10 italic pl-2 md:pl-0">
+                                    <p class="text-gray-600 text-[12px] sm:text-xs md:text-lg leading-snug font-medium relative z-10 italic pl-2 md:pl-0">
                                         "No Venezuela Bistro SP, cada prato conta uma história. Desde a massa de milho pilado que amassamos toda manhã, até os ensopados cozidos em fogo baixo como faziam nossas avós."
                                     </p>
                                 </div>
@@ -359,10 +365,10 @@
                             <div class="w-full md:w-1/2 p-3 sm:p-6 md:p-10 flex flex-col justify-center text-left">
                                 <h4 class="text-base sm:text-2xl md:text-3xl font-black text-gray-900 mb-2 sm:mb-3 tracking-tight">Reina Pepiada</h4>
                                 <div class="max-w-lg">
-                                    <p class="text-gray-700 text-[9px] sm:text-xs md:text-lg leading-snug font-medium mb-4">
+                                    <p class="text-gray-600 text-[12px] sm:text-xs md:text-lg leading-snug font-medium mb-3">
                                         Nossa arepa mais famosa foi nomeada em homenagem a Susana Duijm, a primeira venezuelana a ganhar o Miss Mundo em 1955. 
                                     </p>
-                                    <p class="text-gray-600 text-sm sm:text-base md:text-lg leading-relaxed">
+                                    <p class="text-gray-600 text-[12px] sm:text-base md:text-lg leading-snug font-medium">
                                         "Pepiada" era uma forma coloquial de dizer que alguém tinha muitas curvas e era linda. Uma verdadeira rainha do sabor!
                                     </p>
                                 </div>
@@ -377,7 +383,7 @@
                             </div>
                             <div class="w-full md:w-1/2 p-3 sm:p-6 md:p-10 flex flex-col justify-center text-left">
                                 <h4 class="text-2xl sm:text-3xl md:text-4xl font-black text-gray-900 mb-4 sm:mb-6 tracking-tight">Nossa Casa</h4>
-                                <p class="text-gray-600 text-[9px] sm:text-xs md:text-lg leading-snug mb-4 sm:mb-6 max-w-lg">
+                                <p class="text-gray-600 text-[12px] sm:text-xs md:text-lg leading-snug font-medium mb-4 sm:mb-6 max-w-lg">
                                     Queremos ser o seu cantinho venezuelano em São Paulo, um lugar onde todos são muito bem-vindos para compartilhar bons momentos.
                                 </p>
                                 <a href="https://wa.me/5511990270534" target="_blank" class="bg-[#25D366] text-white hover:bg-[#1DA851] py-3 sm:py-4 px-6 sm:px-8 rounded-[1rem] font-black transition flex items-center justify-center gap-2 shadow-[0_10px_20px_rgba(37,211,102,0.3)] w-full sm:w-auto text-sm sm:text-base">
@@ -1330,7 +1336,7 @@
     </section>
 
     <!-- Footer -->
-    <footer class="bg-gray-900 text-white py-12 pb-32">
+    <footer class="bg-gray-900 text-white pt-8 pb-16">
         <div class="container mx-auto px-4 text-center">
             <h2 class="text-2xl font-bold mb-4">Venezuela Bistro <span class="text-ven-red">SP</span></h2>
             <div class="flex justify-center gap-6 mb-8">
@@ -1408,7 +1414,7 @@ let currentLang = 'pt';
                 info_hours_title: "Horario",
                 info_hours_val: "11:00 - 22:00 (Mar-Dom)",
                 about_subtitle: "Nuestra Historia",
-                about_title: "Más que comida, <br>es cultura.",
+                about_title: "Más que comida, es cultura.",
                 about_p1: "En Venezuela Bistro SP, cada plato cuenta una historia. Desde la masa de maíz pilado que amasamos cada mañana, hasta los guisos cocinados a fuego lento como lo hacían nuestras abuelas.",
                 about_p2: "<strong>¿Sabías qué?</strong> La \"Reina Pepiada\", nuestra arepa más famosa, fue nombrada en honor a Susana Duijm, la primera venezolana en ganar el Miss Mundo en 1955. \"Pepiada\" era una forma coloquial de decir que alguien tenía muchas curvas y era hermosa.",
                 about_p3: "Queremos ser tu rincón venezolano en São Paulo, un lugar donde el \"Sifrino\", el \"Pelúo\" y todos son bienvenidos a compartir.",
@@ -1426,7 +1432,7 @@ let currentLang = 'pt';
                 badge_promo_30: "-30% OFF",
                 badge_promo_18: "-18% OFF",
                 name_combo_1: "Experiencias Venezolanas 1",
-                desc_combo_1: "Una selección especial para que conozcas los sabores más tradicionales de Venezuela en un solo pedido. Perfecta para probar, compartir y enamorarte de nuestra culinaria.<br><br><ul class='list-disc pl-4 space-y-1 text-left text-xs'><li><strong>1 Arepa:</strong> Hecha con masa de maíz, rellena al momento (carne, pollo o pernil).</li><li><strong>2 Tequeños:</strong> El snack más amado de Venezuela. Palitos de queso fritos.</li><li><strong>1 Mini Empanada:</strong> Masa de maíz dorada, rellena con carne o queso.</li><li><strong>1 Pastelito Andino:</strong> Típicos de la región andina. Relleno único.</li><li><strong>1 Jugo de Papelón con limón.</strong></li></ul>",
+                desc_combo_1: "Una selección especial para que conozcas los sabores más tradicionales de Venezuela en un solo pedido. Perfecta para probar, compartir y enamorarte de nuestra culinaria.<br><br><ul class='list-disc pl-4 space-y-1 text-left text-xs hidden sm:block'><li><strong>1 Arepa:</strong> Hecha con masa de maíz, rellena al momento (carne, pollo o pernil).</li><li><strong>2 Tequeños:</strong> El snack más amado de Venezuela. Palitos de queso fritos.</li><li><strong>1 Mini Empanada:</strong> Masa de maíz dorada, rellena con carne o queso.</li><li><strong>1 Pastelito Andino:</strong> Típicos de la región andina. Relleno único.</li><li><strong>1 Jugo de Papelón con limón.</strong></li></ul><span class='sm:hidden inline text-gray-500 font-normal italic mt-1'>Ver detalhes para conhecer a composição.</span>",
                 name_combo_2: "Combo 2 Empanadas + Papelón (Gratis)",
                 desc_combo_2: "Dos empanadas venezolanas doradas y crujientes, de carne y queso. Acompañadas de un refrescante papelón con limón de 300 ml gratis. Una combinación perfecta para conocer los sabores tradicionales de Venezuela en un combo práctico, sabroso e ideal para cualquier hora del día. (Acompaña nuestra tradicional salsa guasacaca).",
                 desc_combo_2_short: "Dos empanadas doradas acompañadas de un refrescante papelón con limón gratis.",
@@ -1528,7 +1534,7 @@ let currentLang = 'pt';
                 info_hours_title: "Horário",
                 info_hours_val: "11:00 - 22:00 (Seg-Sáb)",
                 about_subtitle: "Nossa História",
-                about_title: "Mais que comida, <br>é cultura.",
+                about_title: "Mais que comida, é cultura.",
                 about_p1: "No Venezuela Bistro SP, cada prato conta uma história. Desde a massa de milho pilado que amassamos toda manhã, até os ensopados cozidos em fogo baixo como faziam nossas avós.",
                 about_p2: "<strong>Você Sabia?</strong> A \"Reina Pepiada\", nossa arepa mais famosa, foi nomeada em homenagem a Susana Duijm, a primeira venezuelana a ganhar o Miss Mundo em 1955. \"Pepiada\" era uma forma coloquial de dizer que alguém tinha muitas curvas e era linda.",
                 about_p3: "Queremos ser o seu cantinho venezuelano em São Paulo, um lugar onde o \"Sifrino\", o \"Pelúo\" e todos são bem-vindos para compartilhar.",
@@ -1546,7 +1552,7 @@ let currentLang = 'pt';
                 badge_promo_30: "-30% OFF",
                 badge_promo_18: "-18% OFF",
                 name_combo_1: "Experiências Venezuelanas 1",
-                desc_combo_1: "Uma seleção especial para você conhecer os sabores mais tradicionais da Venezuela em um único pedido. Perfeita para experimentar e se apaixonar.<br><br><ul class='list-disc pl-4 space-y-1 text-left text-xs'><li><strong>1 Arepa:</strong> Feita com massa de milho, recheada na hora (carne, frango ou pernil).</li><li><strong>2 Tequeños:</strong> O petisco mais amado da Venezuela. Palitos de queijo fritos.</li><li><strong>1 Mini Empanada:</strong> Recheada com carne bem temperada ou queijo.</li><li><strong>1 Pastelito Andino:</strong> Típicos da região andina da Venezuela.</li><li><strong>1 Suco de rapadura com limão.</strong></li></ul>",
+                desc_combo_1: "Uma seleção especial para você conhecer os sabores mais tradicionais da Venezuela em um único pedido. Perfeita para experimentar e se apaixonar.<br><br><ul class='list-disc pl-4 space-y-1 text-left text-xs hidden sm:block'><li><strong>1 Arepa:</strong> Feita com massa de milho, recheada na hora (carne, frango ou pernil).</li><li><strong>2 Tequeños:</strong> O petisco mais amado da Venezuela. Palitos de queijo fritos.</li><li><strong>1 Mini Empanada:</strong> Recheada com carne bem temperada ou queijo.</li><li><strong>1 Pastelito Andino:</strong> Típicos da região andina da Venezuela.</li><li><strong>1 Suco de rapadura com limão.</strong></li></ul><span class='sm:hidden inline text-gray-500 font-normal italic mt-1'>Ver detalhes para conhecer a composição.</span>",
                 name_combo_2: "Combo 2 Empanadas + Papelón (Grátis)",
                 desc_combo_2: "Duas empanadas venezuelanas douradas e crocantes, carne e queijo. <span class='hidden sm:inline'>Acompanhadas de um refrescante papelón com limão 300 ml grátis. Uma combinação perfeita para conhecer os sabores tradicionais da Venezuela em um combo prático, saboroso e ideal para qualquer hora do dia. (Acompanha nosso molho tradicional guasacaca).</span>",
                 desc_combo_2_short: "Duas empanadas venezuelanas douradas acompanhadas de um refrescante papelón com limão 300 ml grátis.",
