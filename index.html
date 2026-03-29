@@ -180,6 +180,12 @@
             margin-top: 4px;
             border: 1px solid #e5e7eb;
         }
+    
+        .hide-on-mobile { display: block; }
+        @media (max-width: 639px) {
+            .hide-on-mobile { display: none !important; }
+        }
+
     </style>
 </head>
 <body class="antialiased relative" id="inicio">
@@ -595,7 +601,7 @@
                                 <div class="sm:hidden w-full text-right mt-1"><span class="text-gray-400 font-medium text-[10px]">De: R$ 75,00</span></div>
                             <div class="text-gray-500 text-xs mb-3 sm:mb-4 flex-grow h-auto" data-i18n="desc_combo_1">
                                 Uma seleção especial para você conhecer os sabores mais tradicionais da Venezuela em um único pedido.
-                                <ul class='hidden sm:block list-disc pl-4 space-y-1 text-left text-[11px] sm:text-xs mt-2'>
+                                <ul class='hide-on-mobile list-disc pl-4 space-y-1 text-left text-[11px] sm:text-xs mt-2'>
                                     <li><strong>1 Arepa:</strong> Feita com massa de milho, recheada na hora (carne, frango ou pernil).</li>
                                     <li><strong>2 Tequeños:</strong> O petisco mais amado da Venezuela. Palitos de queijo fritos.</li>
                                     <li><strong>1 Mini Empanada:</strong> Recheada com carne bem temperada ou queijo.</li>
@@ -1258,7 +1264,7 @@
                 
                 <div class="text-center mb-4 sm:mb-8">
                     <h2 class="text-xl sm:text-3xl font-bold mb-2 text-gray-900" data-i18n="spotify_title">Sabor Venezuelano & Música</h2>
-                    <p class="text-gray-600 text-xs sm:text-base mb-3 hidden sm:block" data-i18n="spotify_desc">Nossa playlist traz o melhor da música tradicional e contemporânea da Venezuela.</p>
+                    <p class="text-gray-600 text-xs sm:text-base mb-3 hide-on-mobile" data-i18n="spotify_desc">Nossa playlist traz o melhor da música tradicional e contemporânea da Venezuela.</p>
                     
                     <p class="text-ven-red font-bold text-[10px] sm:text-sm tracking-wide uppercase" data-i18n="spotify_tagline">Ouça joropo, gaita zuliana, calipso, tambor e muito mais!</p>
                 </div>
@@ -1432,7 +1438,7 @@ let currentLang = 'pt';
                 badge_promo_30: "-30% OFF",
                 badge_promo_18: "-18% OFF",
                 name_combo_1: "Experiencias Venezolanas 1",
-                desc_combo_1: "Una selección especial para que conozcas los sabores más tradicionales de Venezuela en un solo pedido. Perfecta para probar, compartir y enamorarte de nuestra culinaria.<br><br><ul class='list-disc pl-4 space-y-1 text-left text-xs hidden sm:block'><li><strong>1 Arepa:</strong> Hecha con masa de maíz, rellena al momento (carne, pollo o pernil).</li><li><strong>2 Tequeños:</strong> El snack más amado de Venezuela. Palitos de queso fritos.</li><li><strong>1 Mini Empanada:</strong> Masa de maíz dorada, rellena con carne o queso.</li><li><strong>1 Pastelito Andino:</strong> Típicos de la región andina. Relleno único.</li><li><strong>1 Jugo de Papelón con limón.</strong></li></ul><span class='sm:hidden inline text-gray-500 font-normal italic mt-1'>Ver detalhes para conhecer a composição.</span>",
+                desc_combo_1: "Una selección especial para que conozcas los sabores más tradicionales de Venezuela en un solo pedido. Perfecta para probar, compartir y enamorarte de nuestra culinaria.<br><br><ul class='list-disc pl-4 space-y-1 text-left text-xs hide-on-mobile'><li><strong>1 Arepa:</strong> Hecha con masa de maíz, rellena al momento (carne, pollo o pernil).</li><li><strong>2 Tequeños:</strong> El snack más amado de Venezuela. Palitos de queso fritos.</li><li><strong>1 Mini Empanada:</strong> Masa de maíz dorada, rellena con carne o queso.</li><li><strong>1 Pastelito Andino:</strong> Típicos de la región andina. Relleno único.</li><li><strong>1 Jugo de Papelón con limón.</strong></li></ul><span class='sm:hidden inline text-gray-500 font-normal italic mt-1'>Ver detalhes para conhecer a composição.</span>",
                 name_combo_2: "Combo 2 Empanadas + Papelón (Gratis)",
                 desc_combo_2: "Dos empanadas venezolanas doradas y crujientes, de carne y queso. Acompañadas de un refrescante papelón con limón de 300 ml gratis. Una combinación perfecta para conocer los sabores tradicionales de Venezuela en un combo práctico, sabroso e ideal para cualquier hora del día. (Acompaña nuestra tradicional salsa guasacaca).",
                 desc_combo_2_short: "Dos empanadas doradas acompañadas de un refrescante papelón con limón gratis.",
@@ -1552,7 +1558,7 @@ let currentLang = 'pt';
                 badge_promo_30: "-30% OFF",
                 badge_promo_18: "-18% OFF",
                 name_combo_1: "Experiências Venezuelanas 1",
-                desc_combo_1: "Uma seleção especial para você conhecer os sabores mais tradicionais da Venezuela em um único pedido. Perfeita para experimentar e se apaixonar.<br><br><ul class='list-disc pl-4 space-y-1 text-left text-xs hidden sm:block'><li><strong>1 Arepa:</strong> Feita com massa de milho, recheada na hora (carne, frango ou pernil).</li><li><strong>2 Tequeños:</strong> O petisco mais amado da Venezuela. Palitos de queijo fritos.</li><li><strong>1 Mini Empanada:</strong> Recheada com carne bem temperada ou queijo.</li><li><strong>1 Pastelito Andino:</strong> Típicos da região andina da Venezuela.</li><li><strong>1 Suco de rapadura com limão.</strong></li></ul><span class='sm:hidden inline text-gray-500 font-normal italic mt-1'>Ver detalhes para conhecer a composição.</span>",
+                desc_combo_1: "Uma seleção especial para você conhecer os sabores mais tradicionais da Venezuela em um único pedido. Perfeita para experimentar e se apaixonar.<br><br><ul class='list-disc pl-4 space-y-1 text-left text-xs hide-on-mobile'><li><strong>1 Arepa:</strong> Feita com massa de milho, recheada na hora (carne, frango ou pernil).</li><li><strong>2 Tequeños:</strong> O petisco mais amado da Venezuela. Palitos de queijo fritos.</li><li><strong>1 Mini Empanada:</strong> Recheada com carne bem temperada ou queijo.</li><li><strong>1 Pastelito Andino:</strong> Típicos da região andina da Venezuela.</li><li><strong>1 Suco de rapadura com limão.</strong></li></ul><span class='sm:hidden inline text-gray-500 font-normal italic mt-1'>Ver detalhes para conhecer a composição.</span>",
                 name_combo_2: "Combo 2 Empanadas + Papelón (Grátis)",
                 desc_combo_2: "Duas empanadas venezuelanas douradas e crocantes, carne e queijo. <span class='hidden sm:inline'>Acompanhadas de um refrescante papelón com limão 300 ml grátis. Uma combinação perfeita para conhecer os sabores tradicionais da Venezuela em um combo prático, saboroso e ideal para qualquer hora do dia. (Acompanha nosso molho tradicional guasacaca).</span>",
                 desc_combo_2_short: "Duas empanadas venezuelanas douradas acompanhadas de um refrescante papelón com limão 300 ml grátis.",
@@ -2134,7 +2140,7 @@ let currentLang = 'pt';
             
             if(descElement) {
                 let htmlDesc = descElement.innerHTML;
-                if(htmlDesc) htmlDesc = htmlDesc.replace(/hidden md:block/g, '').replace(/hidden sm:block/g, 'block').replace(/hidden sm:inline/g, 'inline');
+                if(htmlDesc) htmlDesc = htmlDesc.replace(/hide-on-mobile/g, '').replace(/hidden md:block/g, '').replace(/hide-on-mobile/g, 'block').replace(/hidden sm:inline/g, 'inline');
                 document.getElementById('modal-product-desc').innerHTML = htmlDesc;
             } else {
                 document.getElementById('modal-product-desc').innerHTML = '';
