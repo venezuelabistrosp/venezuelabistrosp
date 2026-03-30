@@ -1293,7 +1293,110 @@
 </div>
 </div>
 </div>
-<script>
+
+    <!-- Modal de Checkout (Dados de Entrega) -->
+    <div id="checkout-modal" class="fixed inset-0 z-[120] flex items-center justify-center hidden">
+        <div class="absolute inset-0 bg-black/60 backdrop-blur-sm" onclick="closeCheckoutModal()"></div>
+        <div class="bg-white rounded-2xl w-full max-w-lg mx-4 relative z-10 shadow-2xl p-5 sm:p-6 flex flex-col max-h-[90vh] overflow-y-auto">
+            <h3 class="text-xl sm:text-2xl font-black text-[#00247D] mb-4 border-b pb-2" data-i18n="checkout_title">Detalhes da Entrega</h3>
+            
+            <form id="checkout-form" class="space-y-4">
+                <!-- Nome -->
+                <div>
+                    <label class="block text-sm font-bold text-gray-700 mb-1" data-i18n="checkout_name">Nome / Sobrenome</label>
+                    <input type="text" id="chk-name" class="w-full border border-gray-300 rounded-lg px-3 py-2 outline-none focus:border-ven-red" required>
+                </div>
+                
+                <!-- Tipo de Pedido -->
+                <div>
+                    <label class="block text-sm font-bold text-gray-700 mb-1" data-i18n="checkout_type">Tipo de Pedido</label>
+                    <div class="flex gap-4">
+                        <label class="flex items-center gap-2 cursor-pointer">
+                            <input type="radio" name="orderType" value="Delivery" checked class="accent-ven-red w-4 h-4" onchange="toggleDeliveryFields()">
+                            <span data-i18n="type_delivery" class="text-sm font-medium">Delivery (Entrega)</span>
+                        </label>
+                        <label class="flex items-center gap-2 cursor-pointer">
+                            <input type="radio" name="orderType" value="Retirada" class="accent-ven-red w-4 h-4" onchange="toggleDeliveryFields()">
+                            <span data-i18n="type_pickup" class="text-sm font-medium">Retirada na Loja</span>
+                        </label>
+                    </div>
+                </div>
+
+                <!-- Campos de Delivery -->
+                <div id="delivery-fields" class="space-y-4 bg-gray-50 p-3 rounded-lg border border-gray-100">
+                    <div>
+                        <label class="block text-sm font-bold text-gray-700 mb-1" data-i18n="checkout_address">Endereço (Rua, Número)</label>
+                        <input type="text" id="chk-address" class="w-full border border-gray-300 rounded-lg px-3 py-2 outline-none focus:border-ven-red" placeholder="Ex: Rua Doutor Ademar Nobre, 39">
+                    </div>
+                    <div class="flex gap-3">
+                        <div class="w-1/2">
+                            <label class="block text-sm font-bold text-gray-700 mb-1" data-i18n="checkout_neighborhood">Bairro</label>
+                            <input type="text" id="chk-neighborhood" class="w-full border border-gray-300 rounded-lg px-3 py-2 outline-none focus:border-ven-red">
+                        </div>
+                        <div class="w-1/2">
+                            <label class="block text-sm font-bold text-gray-700 mb-1" data-i18n="checkout_reference">Referência</label>
+                            <input type="text" id="chk-reference" class="w-full border border-gray-300 rounded-lg px-3 py-2 outline-none focus:border-ven-red">
+                        </div>
+                    </div>
+                </div>
+
+                <!-- Forma de Pagamento -->
+                <div class="pt-2 border-t">
+                    <label class="block text-sm font-bold text-gray-700 mb-2" data-i18n="checkout_payment">Forma de Pagamento</label>
+                    <select id="chk-payment" class="w-full border border-gray-300 rounded-lg px-3 py-2.5 outline-none focus:border-ven-red bg-white font-medium" onchange="onPaymentChange()">
+                        <option value="PIX" data-i18n="pay_pix">PIX</option>
+                        <option value="Cartão" data-i18n="pay_card">Cartão (Levar maquininha)</option>
+                        <option value="Dinheiro" data-i18n="pay_cash">Dinheiro</option>
+                    </select>
+                </div>
+                
+                <!-- Troco (Aparece se Dinheiro) -->
+                <div id="cash-fields" class="hidden">
+                    <label class="block text-sm font-bold text-gray-700 mb-1" data-i18n="checkout_change">Precisa de troco? (Para quanto?)</label>
+                    <input type="text" id="chk-change" class="w-full border border-gray-300 rounded-lg px-3 py-2 outline-none focus:border-ven-red" placeholder="Ex: Troco para 50">
+                </div>
+
+                <!-- PIX Módulo (Aparece se PIX) -->
+                <div id="pix-fields" class="bg-[#e4fcfa] border border-[#20b2aa] rounded-xl p-4 flex flex-col items-center mt-2 relative overflow-hidden">
+                    <div class="absolute top-0 left-0 w-full h-1 bg-[#20b2aa]"></div>
+                    <div class="flex items-center gap-2 mb-2 w-full justify-center text-[#20b2aa]">
+                        <svg class="w-6 h-6" viewBox="0 0 24 24" fill="currentColor"><path d="M12 22L4 12L12 2L20 12L12 22ZM12 4.8L6.2 12L12 19.2L17.8 12L12 4.8ZM12 8.5L8.5 12L12 15.5L15.5 12L12 8.5Z"/></svg>
+                        <span class="font-black text-lg">Área PIX</span>
+                    </div>
+                    <p class="text-xs text-center text-gray-600 mb-3 font-medium" data-i18n="pix_instructions">Escaneie o QR Code ou copie a chave para pagar</p>
+                    
+                    <div class="bg-white p-2 rounded-xl shadow-sm border border-gray-200 mb-3">
+                        <img id="pix-qrcode" src="" alt="QR Code PIX" class="w-32 h-32 object-contain" />
+                    </div>
+                    
+                    <div class="w-full text-center">
+                        <p class="text-xs text-gray-500 font-bold mb-1" data-i18n="pix_key">Chave PIX (Email):</p>
+                        <p class="font-black text-[#00247D] text-sm break-all mb-2">davlin1974@gmail.com</p>
+                        <button type="button" onclick="copyPixKey()" class="w-full bg-[#20b2aa] hover:bg-[#1a928c] text-white font-bold py-2 rounded-lg text-sm shadow-md transition-colors flex items-center justify-center gap-2" id="btn-copy">
+                            <i data-lucide="copy" class="w-4 h-4"></i> <span data-i18n="btn_copy_pix">Copiar Chave PIX</span>
+                        </button>
+                    </div>
+                </div>
+
+                <!-- Resumo & Botões -->
+                <div class="flex items-center justify-between border-t pt-4 mt-2">
+                    <div>
+                        <span class="text-xs text-gray-500 font-bold block">Total BRL</span>
+                        <span class="text-xl sm:text-2xl font-black text-ven-red inline-block" id="chk-total">R$ 0,00</span>
+                    </div>
+                </div>
+
+                <div class="flex gap-2">
+                    <button type="button" onclick="closeCheckoutModal()" class="w-1/3 bg-gray-200 text-gray-700 font-bold py-3 rounded-xl transition hover:bg-gray-300" data-i18n="checkout_cancel">Cancelar</button>
+                    <button type="button" onclick="submitCheckout()" class="w-2/3 bg-[#25D366] text-white font-black py-3 rounded-xl shadow-[0_5px_15px_rgba(37,211,102,0.3)] hover:bg-[#1DA851] transition flex items-center justify-center gap-2">
+                        <svg class="w-5 h-5" fill="currentColor" viewBox="0 0 24 24"><path d="M17.472 14.382c-.297-.149-1.758-.867-2.03-.967-.273-.099-.471-.148-.67.15-.197.297-.767.966-.94 1.164-.173.199-.347.223-.644.075-.297-.15-1.255-.463-2.39-1.305-.885-.653-1.48-1.459-1.653-1.756-.173-.297-.018-.458.13-.606.134-.133.298-.347.446-.52.149-.174.198-.298.298-.497.099-.198.05-.371-.025-.52-.075-.149-.669-1.612-.916-2.207-.242-.579-.487-.5-.669-.51-.173-.008-.371-.01-.57-.01-.198 0-.52.074-.792.372-.272.297-1.04 1.016-1.04 2.479 0 1.462 1.065 2.875 1.213 3.074.149.198 2.096 3.2 5.077 4.487.709.306 1.262.489 1.694.625.712.227 1.36.195 1.871.118.571-.085 1.758-.719 2.006-1.413.248-.694.248-1.289.173-1.413-.074-.124-.272-.198-.57-.347m-5.421 7.403h-.004a9.87 9.87 0 01-5.031-1.378l-.361-.214-3.741.982.998-3.648-.235-.374a9.86 9.86 0 01-1.51-5.26c.001-5.45 4.436-9.884 9.888-9.884 2.64 0 5.122 1.03 6.988 2.898a9.825 9.825 0 012.893 6.994c-.003 5.45-4.437 9.884-9.885 9.884m8.413-18.297A11.815 11.815 0 0012.05 0C5.495 0 .16 5.335.157 11.892c0 2.096.547 4.142 1.588 5.945L.057 24l6.305-1.654a11.882 11.882 0 005.683 1.448h.005c6.554 0 11.89-5.335 11.893-11.893a11.821 11.821 0 00-3.48-8.413z"/></svg> <span data-i18n="checkout_btn">Enviar Pedido</span>
+                    </button>
+                </div>
+            </form>
+        </div>
+    </div>
+    <script>
+
 
 let currentLang = 'pt';
         let cart = [];
@@ -1418,8 +1521,28 @@ let currentLang = 'pt';
                 rend_285: "Rinde: 1 persona (285g)",
                 rend_330: "Rinde: 1 persona (330g)",
                 rend_385: "Rinde: 2 personas (385g)",
-                rend_450: "Rinde: 1-2 personas (450g)"
-            },
+                                rend_450: "Rinde: 1-2 personas (450g)",
+                checkout_title: "Detalles de Envío",
+                checkout_name: "Nombre / Apellido",
+                checkout_type: "Tipo de Pedido",
+                type_delivery: "Delivery (Entrega)",
+                type_pickup: "Retiro en Tienda",
+                checkout_address: "Dirección (Calle, Número)",
+                checkout_neighborhood: "Barrio",
+                checkout_reference: "Punto de Referencia",
+                checkout_payment: "Método de Pago",
+                pay_pix: "PIX",
+                pay_cash: "Efectivo",
+                pay_card: "Tarjeta (Llevar máquina)",
+                checkout_change: "¿Necesita vuelto? (¿Para cuánto?)",
+                checkout_btn: "Enviar Pedido por WhatsApp",
+                checkout_cancel: "Cancelar",
+                pix_instructions: "Escanee el código QR o copie la clave para pagar",
+                pix_key: "Clave PIX (Email):",
+                btn_copy_pix: "Copiar Clave PIX",
+                validation_name: "Por favor, ingresa tu nombre.",
+                validation_address: "Por favor, ingresa tu dirección.",
+                msg_copied: "¡Copiado!" },
             pt: {
                 nav_home: "Início",
                 nav_menu: "Menu",
@@ -1538,8 +1661,28 @@ let currentLang = 'pt';
                 rend_285: "Rende: 1 pessoa (285g)",
                 rend_330: "Rende: 1 pessoa (330g)",
                 rend_385: "Rende: 2 pessoas (385g)",
-                rend_450: "Rende: 1-2 pessoas (450g)"
-            }
+                                rend_450: "Rende: 1-2 pessoas (450g)",
+                checkout_title: "Detalhes da Entrega",
+                checkout_name: "Nome / Sobrenome",
+                checkout_type: "Tipo de Pedido",
+                type_delivery: "Delivery (Entrega)",
+                type_pickup: "Retirada na Loja",
+                checkout_address: "Endereço (Rua, Número)",
+                checkout_neighborhood: "Bairro",
+                checkout_reference: "Ponto de Referência",
+                checkout_payment: "Forma de Pagamento",
+                pay_pix: "PIX",
+                pay_cash: "Dinheiro",
+                pay_card: "Cartão (Levar maquininha)",
+                checkout_change: "Precisa de troco? (Para quanto?)",
+                checkout_btn: "Enviar Pedido por WhatsApp",
+                checkout_cancel: "Cancelar",
+                pix_instructions: "Escaneie o QR Code ou copie a chave para pagar",
+                pix_key: "Chave PIX (Email):",
+                btn_copy_pix: "Copiar Chave PIX",
+                validation_name: "Por favor, digite seu nome.",
+                validation_address: "Por favor, digite seu endereço.",
+                msg_copied: "Copiado!" }
         };
 
         function setLanguage(lang) {
@@ -1793,26 +1936,169 @@ let currentLang = 'pt';
                 alert(translations[currentLang].cart_empty);
                 return;
             }
+            openCheckoutModal();
+        }
+        
+        // --- LOGICA NOVO MODAL CHECKOUT ---
+        function openCheckoutModal() {
+            // Update total label
+            const subtotal = calculateSubtotal();
+            document.getElementById('chk-total').innerText = `R$ ${subtotal.toFixed(2).replace('.', ',')}`;
+            
+            // Generate QR Code dynamically
+            const pixKey = "davlin1974@gmail.com";
+            const brCode = generatePixPayload(pixKey, subtotal, "Venezuela Bistro", "SAO PAULO");
+            const qrUrl = `https://api.qrserver.com/v1/create-qr-code/?size=250x250&data=${encodeURIComponent(brCode)}`;
+            document.getElementById('pix-qrcode').src = qrUrl;
 
-            let message = currentLang === 'es' 
-                ? "Hola Venezuela Bistro SP, quisiera hacer un pedido:\n\n" 
-                : "Olá Venezuela Bistro SP, gostaria de fazer um pedido:\n\n";
+            // Reset forms and view
+            onPaymentChange();
+            toggleDeliveryFields();
 
+            // Hide cart, show checkout modal
+            const cartModal = document.getElementById('cart-modal');
+            if(cartModal) cartModal.classList.add('hidden');
+            
+            const checkoutModal = document.getElementById('checkout-modal');
+            checkoutModal.classList.remove('hidden');
+            document.body.style.overflow = 'hidden';
+            
+            if(window.lucide) window.lucide.createIcons();
+        }
+
+        function closeCheckoutModal() {
+            document.getElementById('checkout-modal').classList.add('hidden');
+            document.body.style.overflow = '';
+        }
+
+        function toggleDeliveryFields() {
+            const isDelivery = document.querySelector('input[name="orderType"]:checked').value === 'Delivery';
+            const deliveryFields = document.getElementById('delivery-fields');
+            if(isDelivery) {
+                deliveryFields.classList.remove('hidden');
+            } else {
+                deliveryFields.classList.add('hidden');
+            }
+        }
+
+        function onPaymentChange() {
+            const paymentType = document.getElementById('chk-payment').value;
+            const cashFields = document.getElementById('cash-fields');
+            const pixFields = document.getElementById('pix-fields');
+            
+            if(paymentType === 'Dinheiro') {
+                cashFields.classList.remove('hidden');
+                pixFields.classList.add('hidden');
+            } else if(paymentType === 'PIX') {
+                cashFields.classList.add('hidden');
+                pixFields.classList.remove('hidden');
+            } else {
+                cashFields.classList.add('hidden');
+                pixFields.classList.add('hidden');
+            }
+        }
+
+        function copyPixKey() {
+            navigator.clipboard.writeText("davlin1974@gmail.com").then(() => {
+                const btnCopy = document.getElementById('btn-copy');
+                const origHtml = btnCopy.innerHTML;
+                const msg = translations[currentLang] ? translations[currentLang].msg_copied : "Copiado!";
+                btnCopy.innerHTML = `<i data-lucide="check" class="w-4 h-4"></i> <span>${msg}</span>`;
+                if(window.lucide) window.lucide.createIcons();
+                setTimeout(() => {
+                    btnCopy.innerHTML = origHtml;
+                    if(window.lucide) window.lucide.createIcons();
+                }, 2000);
+            });
+        }
+
+        function submitCheckout() {
+            const name = document.getElementById('chk-name').value.trim();
+            const orderType = document.querySelector('input[name="orderType"]:checked').value;
+            const address = document.getElementById('chk-address').value.trim();
+            const neighborhood = document.getElementById('chk-neighborhood').value.trim();
+            const reference = document.getElementById('chk-reference').value.trim();
+            const paymentType = document.getElementById('chk-payment').value;
+            const changeAmt = document.getElementById('chk-change').value.trim();
+
+            if (!name) {
+                alert(translations[currentLang].validation_name);
+                document.getElementById('chk-name').focus();
+                return;
+            }
+
+            if (orderType === 'Delivery' && !address) {
+                alert(translations[currentLang].validation_address);
+                document.getElementById('chk-address').focus();
+                return;
+            }
+
+            let message = currentLang === 'es' ? "*NUEVO PEDIDO - VENEZUELA BISTRO* 🇻🇪\n\n" : "*NOVO PEDIDO - VENEZUELA BISTRO* 🇻🇪\n\n";
+            
+            message += `*Cliente:* ${name}\n`;
+            message += `*Tipo:* ${orderType}\n`;
+            
+            if (orderType === 'Delivery') {
+                message += `*Endereço:* ${address}`;
+                if (neighborhood) message += ` - ${neighborhood}`;
+                message += `\n`;
+                if (reference) message += `*Referência:* ${reference}\n`;
+            }
+            
+            message += `\n*Resumo do Pedido:*\n`;
             let total = 0;
             cart.forEach(item => {
                 const itemTotal = item.price * item.qty;
-                message += `- ${item.qty}x ${item.name} (R$ ${itemTotal.toFixed(2).replace('.', ',')})\n`;
+                message += `${item.qty}x ${item.name} - R$ ${itemTotal.toFixed(2).replace('.', ',')}\n`;
                 total += itemTotal;
             });
-
-            message += `\nTotal: R$ ${total.toFixed(2).replace('.', ',')}`;
+            
+            message += `\n*Subtotal:* R$ ${total.toFixed(2).replace('.', ',')}\n`;
+            message += `*Forma de Pagamento:* ${paymentType} `;
+            if (paymentType === 'Dinheiro' && changeAmt) {
+                message += `(Troco: ${changeAmt})`;
+            } else if (paymentType === 'PIX') {
+                message += `💳 \n\n👉 *(Pagamento realizado via PIX. Segue o comprovante)*`;
+            }
             
             window.open(`https://wa.me/5511990270534?text=${encodeURIComponent(message)}`, '_blank');
 
+            // Optionally clear cart
             cart = [];
             saveCartToStorage();
-            updateCartUI(); 
-            closeCartModal();
+            updateCartUI();
+            closeCheckoutModal();
+        }
+
+        // --- PIX PAYLOAD GENERATOR ---
+        function generatePixPayload(key, amount, name, city, txid = 'VENZ') {
+            amount = amount.toFixed(2);
+            let payload = `000201`;
+            let gui = '0014br.gov.bcb.pix';
+            let keyStr = `01${key.length.toString().padStart(2, '0')}${key}`;
+            let merchantAccount = gui + keyStr;
+            payload += `26${merchantAccount.length.toString().padStart(2, '0')}${merchantAccount}`;
+            payload += `52040000`;
+            payload += `5303986`;
+            payload += `54${amount.length.toString().padStart(2, '0')}${amount}`;
+            payload += `5802BR`;
+            let mName = name.substring(0, 25).toUpperCase().replace(/[^A-Z ]/g, '');
+            payload += `59${mName.length.toString().padStart(2, '0')}${mName}`;
+            let mCity = city.substring(0, 15).toUpperCase().replace(/[^A-Z ]/g, '');
+            payload += `60${mCity.length.toString().padStart(2, '0')}${mCity}`;
+            let txidField = `05${txid.length.toString().padStart(2, '0')}${txid}`;
+            payload += `62${txidField.length.toString().padStart(2, '0')}${txidField}`;
+            payload += `6304`;
+
+            let crc = 0xFFFF;
+            for (let c = 0; c < payload.length; c++) {
+                crc ^= payload.charCodeAt(c) << 8;
+                for (let i = 0; i < 8; i++) {
+                    if (crc & 0x8000) crc = (crc << 1) ^ 0x1021;
+                    else crc = crc << 1;
+                }
+            }
+            return payload + (crc & 0xFFFF).toString(16).toUpperCase().padStart(4, '0');
         }
 
         function goToCombos() {
