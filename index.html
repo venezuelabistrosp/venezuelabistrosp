@@ -1312,6 +1312,12 @@
                     </div>
                 </div>
                 
+                <!-- Correo Electrónico -->
+                <div>
+                    <label class="block text-xs sm:text-sm font-bold text-gray-700 mb-1" data-i18n="checkout_email">E-mail (Opcional)</label>
+                    <input type="email" id="chk-email" class="w-full border border-gray-300 rounded-lg px-3 py-2 outline-none focus:border-ven-red" placeholder="seu@email.com">
+                </div>
+                
                 <!-- Tipo de Pedido -->
                 <div>
                     <label class="block text-xs sm:text-sm font-bold text-gray-700 mb-2" data-i18n="checkout_type">Tipo de Pedido</label>
@@ -1575,6 +1581,8 @@ let currentLang = 'pt';
                 validation_address: "Por favor, ingresa tu dirección.",
                                 msg_copied: "¡Copiado!",
                 checkout_phone: "Teléfono / WhatsApp",
+                checkout_email: "Correo Electrónico",
+                placeholder_email: "tu@correo.com",
                 type_delivery: "Delivery (Enviamos nosotros)",
                 type_uber_client: "Mando a buscar (Envías motorizado)",
                 type_pickup: "Retiro en Tienda",
@@ -1727,6 +1735,8 @@ let currentLang = 'pt';
                 validation_address: "Por favor, digite seu endereço.",
                                 msg_copied: "Copiado!",
                 checkout_phone: "Telefone / WhatsApp",
+                checkout_email: "E-mail (Opcional)",
+                placeholder_email: "seu@email.com",
                 type_delivery: "Delivery (Nós enviamos)",
                 type_uber_client: "Vou mandar buscar (Seu motorista)",
                 type_pickup: "Retirada na Loja",
@@ -2181,6 +2191,33 @@ let currentLang = 'pt';
             }
             message += `\n*Subtotal (Comida):* R$ ${total.toFixed(2).replace('.', ',')}\n`;
             message += `*Forma de Pagamento:* ${paymentType} `;
+            
+            // Build the DB Payload
+            const dbPayload = {
+                nombre: name,
+                telefono: phone,
+                email: document.getElementById('chk-email') ? document.getElementById('chk-email').value.trim() : "",
+                direccion: orderType === 'Delivery' ? `${address} ${neighborhood ? '- ' + neighborhood : ''} ${reference ? '(Ref: ' + reference + ')' : ''}` : orderType,
+                pedido: ``,
+                total: total.toFixed(2)
+            };
+            
+            cart.forEach(item => {
+                dbPayload.pedido += `${item.qty}x ${item.name} (R$ ${(item.price * item.qty).toFixed(2)})\n`;
+            });
+            if (notes) {
+                dbPayload.pedido += `\nNotas: ${notes}`;
+            }
+
+            // Post to Google Sheets
+            const scriptURL = 'https://script.google.com/macros/s/AKfycbw9tYmb1B9Y3EJvaeVkyGAOIP9kEuPydDDQob5UcmxqJHHXsHkatDLEQkxPcvybG7Z_NQ/exec';
+            fetch(scriptURL, {
+                method: 'POST',
+                mode: 'no-cors',
+                headers: { 'Content-Type': 'text/plain' },
+                body: JSON.stringify(dbPayload)
+            }).catch(e => console.error('Error saving to DB', e));
+
             
             if (paymentType === 'Dinheiro' && changeAmt) {
                 message += `(Troco: ${changeAmt})`;
