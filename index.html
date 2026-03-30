@@ -1341,8 +1341,14 @@
                 <!-- Campos de Delivery -->
                 <div id="delivery-fields" class="space-y-4 bg-gray-50 p-3 rounded-lg border border-gray-100 hidden">
                     <div>
-                        <label class="block text-sm font-bold text-gray-700 mb-1" data-i18n="checkout_address">Endereço (Rua, Número)</label>
-                        <input type="text" id="chk-address" class="w-full border border-gray-300 rounded-lg px-3 py-2 outline-none focus:border-ven-red" placeholder="Ex: Rua Doutor Ademar Nobre, 39">
+                        <div class="flex justify-between items-end mb-1">
+                            <label class="block text-sm font-bold text-gray-700" data-i18n="checkout_address">Endereço (Rua, Número)</label>
+                            <button type="button" onclick="getLocation()" id="btn-gps" class="text-xs text-[#00247D] font-bold flex items-center gap-1 hover:text-[#C8102E] transition-colors bg-blue-50 px-2 py-1 rounded">
+                                <svg class="w-3 h-3" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M17.657 16.657L13.414 20.9a1.998 1.998 0 01-2.827 0l-4.244-4.243a8 8 0 1111.314 0z"></path><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M15 11a3 3 0 11-6 0 3 3 0 016 0z"></path></svg>
+                                <span data-i18n="btn_gps">Usar GPS</span>
+                            </button>
+                        </div>
+                        <input type="text" id="chk-address" class="w-full border border-gray-300 rounded-lg px-3 py-2 outline-none focus:border-ven-red transition-colors duration-300" placeholder="Ex: Rua Doutor Ademar Nobre, 39">
                     </div>
                     <div class="flex gap-3">
                         <div class="w-1/2">
@@ -1354,6 +1360,12 @@
                             <input type="text" id="chk-reference" class="w-full border border-gray-300 rounded-lg px-3 py-2 outline-none focus:border-ven-red">
                         </div>
                     </div>
+                </div>
+
+                <!-- Notas -->
+                <div>
+                    <label class="block text-xs sm:text-sm font-bold text-gray-700 mb-1" data-i18n="checkout_notes">Observações / Instruções</label>
+                    <textarea id="chk-notes" class="w-full border border-gray-300 rounded-lg px-3 py-2 outline-none focus:border-ven-red text-sm" rows="2" placeholder="..."></textarea>
                 </div>
 
                 <!-- Forma de Pagamento -->
@@ -1543,6 +1555,9 @@ let currentLang = 'pt';
                 checkout_type: "Tipo de Pedido",
                 type_delivery: "Delivery (Entrega)",
                 type_pickup: "Retiro en Tienda",
+                checkout_notes: "Observaciones / Instrucciones Especiales",
+                btn_gps: "Ubicación GPS",
+                gps_loading: "Buscando...",
                 checkout_address: "Dirección (Calle, Número)",
                 checkout_neighborhood: "Barrio",
                 checkout_reference: "Punto de Referencia",
@@ -1563,6 +1578,9 @@ let currentLang = 'pt';
                 type_delivery: "Delivery (Enviamos nosotros)",
                 type_uber_client: "Mando a buscar (Envías motorizado)",
                 type_pickup: "Retiro en Tienda",
+                checkout_notes: "Observaciones / Instrucciones Especiales",
+                btn_gps: "Ubicación GPS",
+                gps_loading: "Buscando...",
                 msg_uber_delivery: "🛵 El delivery es por Uber Moto. Te pasaremos el valor del envío y el Total Final por WhatsApp."
                 },
             pt: {
@@ -1689,6 +1707,9 @@ let currentLang = 'pt';
                 checkout_type: "Tipo de Pedido",
                 type_delivery: "Delivery (Entrega)",
                 type_pickup: "Retirada na Loja",
+                checkout_notes: "Observações / Instruções",
+                btn_gps: "Usar GPS",
+                gps_loading: "Buscando...",
                 checkout_address: "Endereço (Rua, Número)",
                 checkout_neighborhood: "Bairro",
                 checkout_reference: "Ponto de Referência",
@@ -1709,6 +1730,9 @@ let currentLang = 'pt';
                 type_delivery: "Delivery (Nós enviamos)",
                 type_uber_client: "Vou mandar buscar (Seu motorista)",
                 type_pickup: "Retirada na Loja",
+                checkout_notes: "Observações / Instruções",
+                btn_gps: "Usar GPS",
+                gps_loading: "Buscando...",
                 msg_uber_delivery: "🛵 As entregas são feitas via Uber Moto. O valor da corrida será calculado após você enviar este pedido. O total final será enviado no WhatsApp."
                 }
         };
@@ -2056,6 +2080,50 @@ let currentLang = 'pt';
             });
         }
 
+        function getLocation() {
+            const btn = document.getElementById('btn-gps');
+            const span = btn.querySelector('span');
+            const origText = span.innerText;
+            span.innerText = translations[currentLang]?.gps_loading || "Buscando...";
+            btn.disabled = true;
+
+            if (navigator.geolocation) {
+                navigator.geolocation.getCurrentPosition(
+                    (position) => {
+                        const lat = position.coords.latitude;
+                        const lon = position.coords.longitude;
+                        const mapsLink = `https://maps.google.com/?q=${lat},${lon}`;
+                        const addressInput = document.getElementById('chk-address');
+                        
+                        if (addressInput.value) {
+                            if (!addressInput.value.includes('maps.google.com')) {
+                                addressInput.value = addressInput.value + ' - ' + mapsLink;
+                            }
+                        } else {
+                            addressInput.value = mapsLink;
+                        }
+                        
+                        span.innerText = origText;
+                        btn.disabled = false;
+                        
+                        // Give visual feedback
+                        addressInput.classList.add('bg-green-100');
+                        setTimeout(() => addressInput.classList.remove('bg-green-100'), 1500);
+                    },
+                    (error) => {
+                        alert(currentLang === 'es' ? 'No se pudo obtener la ubicación. Por favor, verifique los permisos de su navegador.' : 'Não foi possível obter a localização. Por favor, verifique as permissões do navegador.');
+                        span.innerText = origText;
+                        btn.disabled = false;
+                    },
+                    { enableHighAccuracy: true, timeout: 10000 }
+                );
+            } else {
+                alert(currentLang === 'es' ? 'La geolocalización no es compatible con este navegador.' : 'Geolocalização não é suportada neste navegador.');
+                span.innerText = origText;
+                btn.disabled = false;
+            }
+        }
+
         function submitCheckout() {
             const name = document.getElementById('chk-name').value.trim();
             const phone = document.getElementById('chk-phone').value.trim();
@@ -2065,6 +2133,10 @@ let currentLang = 'pt';
             const reference = document.getElementById('chk-reference').value.trim();
             const paymentType = document.getElementById('chk-payment').value;
             const changeAmt = document.getElementById('chk-change').value.trim();
+            const notes = document.getElementById('chk-notes') ? document.getElementById('chk-notes').value.trim() : '';
+            
+            const randomId = Math.floor(Math.random() * 899) + 100; // 100-999
+            const orderId = `VB-${randomId}`;
 
             if (!name) {
                 alert(translations[currentLang].validation_name || 'Preencha o nome');
@@ -2083,7 +2155,7 @@ let currentLang = 'pt';
                 return;
             }
 
-            let message = currentLang === 'es' ? "*NUEVO PEDIDO - VENEZUELA BISTRO* 🇻🇪\n\n" : "*NOVO PEDIDO - VENEZUELA BISTRO* 🇻🇪\n\n";
+            let message = currentLang === 'es' ? `*PEDIDO #${orderId} - VENEZUELA BISTRO* 🇻🇪\n\n` : `*PEDIDO #${orderId} - VENEZUELA BISTRO* 🇻🇪\n\n`;
             
             message += `*Cliente:* ${name}\n`;
             message += `*Contato:* ${phone}\n`;
@@ -2104,6 +2176,9 @@ let currentLang = 'pt';
                 total += itemTotal;
             });
             
+            if (notes) {
+                message += `\n*Observações:* _${notes}_\n`;
+            }
             message += `\n*Subtotal (Comida):* R$ ${total.toFixed(2).replace('.', ',')}\n`;
             message += `*Forma de Pagamento:* ${paymentType} `;
             
