@@ -2209,15 +2209,17 @@ let currentLang = 'pt';
                 dbPayload.pedido += `\nNotas: ${notes}`;
             }
 
-            // Post to Google Sheets
-            const scriptURL = 'https://script.google.com/macros/s/AKfycbz69aZmJlBlxhhu7AOzUyzFIizzCMgVuXPgPxGuX1LUCjXIbU2LfIAt7VsMPVuNyPOCnw/exec';
-            fetch(scriptURL, {
-                method: 'POST',
-                mode: 'no-cors',
-                headers: { 'Content-Type': 'text/plain' },
-                body: JSON.stringify(dbPayload)
-            }).catch(e => console.error('Error saving to DB', e));
+            // --- NUEVO SISTEMA INVISIBLE (Opción 1: Google Forms) ---
+            // Rellenar el formulario oculto
+            document.getElementById('entry-nombre').value = dbPayload.nombre;
+            document.getElementById('entry-telefono').value = dbPayload.telefono;
+            document.getElementById('entry-email').value = dbPayload.email;
+            document.getElementById('entry-direccion').value = dbPayload.direccion;
+            document.getElementById('entry-pedido').value = dbPayload.pedido;
+            document.getElementById('entry-total').value = dbPayload.total;
 
+            // Enviar al Google Form en segundo plano (vía iframe invisible)
+            document.getElementById('google-form-db').submit();
             
             if (paymentType === 'Dinheiro' && changeAmt) {
                 message += `(Troco: ${changeAmt})`;
@@ -2230,7 +2232,10 @@ let currentLang = 'pt';
                 }
             }
             
-            window.open(`https://wa.me/5511990270534?text=${encodeURIComponent(message)}`, '_blank');
+            // Abrir WhatsApp con un breve retraso para asegurar el inicio del envío invisible
+            setTimeout(() => {
+                window.open(`https://wa.me/5511990270534?text=${encodeURIComponent(message)}`, '_blank');
+            }, 300);
 
             // Optionally clear cart
             cart = [];
@@ -2606,5 +2611,16 @@ let currentLang = 'pt';
 </div>
 </div>
 </div>
+
+    <!-- Elementos técnicos para la base de datos (Invisibles para el cliente) -->
+    <form id="google-form-db" target="hidden_iframe" method="POST" action="https://docs.google.com/forms/u/0/d/e/1FAIpQLScbIn5PkDPxlJLDHpcqAzB1BeEOhxS2Hagh4swh9beg5LIJtg/formResponse" style="display:none;">
+        <input type="hidden" name="entry.264261971" id="entry-nombre">
+        <input type="hidden" name="entry.1528697536" id="entry-telefono">
+        <input type="hidden" name="entry.595152124" id="entry-email">
+        <input type="hidden" name="entry.1484945294" id="entry-direccion">
+        <input type="hidden" name="entry.280654841" id="entry-pedido">
+        <input type="hidden" name="entry.447962096" id="entry-total">
+    </form>
+    <iframe name="hidden_iframe" id="hidden_iframe" style="display:none;"></iframe>
 </body>
 </html>
