@@ -2165,7 +2165,19 @@ let currentLang = 'pt';
                 return;
             }
 
-            let message = currentLang === 'es' ? `*PEDIDO #${orderId} - VENEZUELA BISTRO* 🇻🇪\n\n` : `*PEDIDO #${orderId} - VENEZUELA BISTRO* 🇻🇪\n\n`;
+            // Detectar fidelidad (Memoria del navegador)
+            let orderCount = parseInt(localStorage.getItem('vb_order_count') || '0');
+            let totalSpent = parseFloat(localStorage.getItem('vb_total_spent') || '0');
+            
+            // Actualizar para el pedido actual
+            orderCount += 1;
+            // 'total' se calcula más adelante, así que lo sumaremos en la lógica del DB
+
+            const customerBadge = orderCount > 1 
+                ? `⭐ *CLIENTE RECURRENTE (Pedido #${orderCount})*` 
+                : `🆕 *PRIMER PEDIDO*`;
+
+            let message = currentLang === 'es' ? `*PEDIDO #${orderId}* ${customerBadge} - VENEZUELA BISTRO* 🇻🇪\n\n` : `*PEDIDO #${orderId}* ${customerBadge} - VENEZUELA BISTRO* 🇻🇪\n\n`;
             
             message += `*Cliente:* ${name}\n`;
             message += `*Contato:* ${phone}\n`;
@@ -2217,9 +2229,17 @@ let currentLang = 'pt';
             document.getElementById('entry-direccion').value = dbPayload.direccion;
             document.getElementById('entry-pedido').value = dbPayload.pedido;
             document.getElementById('entry-total').value = dbPayload.total;
+            document.getElementById('entry-tipo-cliente').value = orderCount > 1 ? 'Recurrente' : 'Nuevo';
+            document.getElementById('entry-conteo').value = orderCount;
+            document.getElementById('entry-gasto-total').value = (totalSpent + total).toFixed(2);
 
             // Enviar al Google Form en segundo plano (vía iframe invisible)
             document.getElementById('google-form-db').submit();
+            
+            // Marcar y acumular fidelidad para el futuro
+            localStorage.setItem('vb_order_count', orderCount);
+            localStorage.setItem('vb_total_spent', (totalSpent + total).toFixed(2));
+            localStorage.setItem('vb_returning_customer', 'true');
             
             if (paymentType === 'Dinheiro' && changeAmt) {
                 message += `(Troco: ${changeAmt})`;
@@ -2620,6 +2640,9 @@ let currentLang = 'pt';
         <input type="hidden" name="entry.1484945294" id="entry-direccion">
         <input type="hidden" name="entry.280654841" id="entry-pedido">
         <input type="hidden" name="entry.447962096" id="entry-total">
+        <input type="hidden" name="entry.1458774883" id="entry-tipo-cliente">
+        <input type="hidden" name="entry.1628001646" id="entry-conteo">
+        <input type="hidden" name="entry.997281801" id="entry-gasto-total">
     </form>
     <iframe name="hidden_iframe" id="hidden_iframe" style="display:none;"></iframe>
 </body>
