@@ -191,14 +191,14 @@
 <!-- Navbar -->
 <nav class="sticky top-0 z-50 bg-white/95 backdrop-blur-sm shadow-md">
 <div class="container mx-auto px-4 py-3 flex justify-between items-center">
-<div class="flex items-center gap-3">
-<div class="h-10 w-10 rounded-md overflow-hidden shadow-sm border border-gray-100 relative bg-gray-100">
+<a href="#inicio" onclick="window.scrollTo({top: 0, behavior: 'smooth'}); return false;" class="flex items-center gap-3 cursor-pointer group">
+<div class="h-10 w-10 rounded-md overflow-hidden shadow-sm border border-gray-100 relative bg-gray-100 transition-transform group-hover:scale-105">
 <img alt="Logo Venezuela Bistro" class="w-full h-full object-cover" src="logo.jpg"/>
 </div>
 <div>
-<h1 class="text-xl md:text-2xl font-bold tracking-tight text-gray-800">Venezuela Bistro <span class="text-ven-red">SP</span></h1>
+<h1 class="text-xl md:text-2xl font-bold tracking-tight text-gray-800 transition-colors group-hover:text-ven-red">Venezuela Bistro <span class="text-ven-red">SP</span></h1>
 </div>
-</div>
+</a>
 <div class="flex items-center gap-4">
 <div class="flex items-center gap-2 sm:mr-2 bg-gray-100/30 sm:bg-gray-100 rounded-full px-2 py-1">
 <button class="lang-btn w-6 h-6 rounded-full overflow-hidden active" data-lang="pt" onclick="setLanguage('pt')" title="Português (Brasil)">
@@ -1219,24 +1219,41 @@
 <button class="sm:hidden text-ven-red text-[11px] font-bold mt-auto uppercase tracking-wide flex justify-end items-center gap-1 active:opacity-70 mt-2 pointer-events-none">Ver detalhes <i class="w-3 h-3" data-lucide="chevron-right"></i></button>
 </div>
 </div>
-<!-- Bebida 4: Coca Cola -->
+<!-- Bebida 4: Coca Cola Original -->
 <div class="bg-white rounded-xl sm:rounded-2xl overflow-hidden shadow-sm sm:shadow-md card-hover group flex flex-row sm:flex-col border border-gray-100 sm:border-transparent p-2 sm:p-0 gap-3 sm:gap-0">
 <div class="w-[100px] sm:w-full h-auto sm:h-64 bg-gray-100 flex items-center justify-center relative overflow-hidden flex-shrink-0 rounded-lg sm:rounded-none object-cover min-h-[100px]">
-<img alt="Coca Cola" class="product-img w-full h-full object-cover" onerror="this.onerror=null; this.src='https://images.unsplash.com/photo-1622483767028-3f66f32aef97?ixlib=rb-1.2.1&amp;auto=format&amp;fit=crop&amp;w=800&amp;q=80';" src="coca_cola.jpg"/>
+<img alt="Coca-Cola Sabor Original" class="product-img w-full h-full object-cover" onerror="this.onerror=null; this.src='https://images.unsplash.com/photo-1622483767028-3f66f32aef97?ixlib=rb-1.2.1&amp;auto=format&amp;fit=crop&amp;w=800&amp;q=80';" src="coca_cola_original.jpg"/>
 </div>
 <div class="py-1 pr-1 sm:p-6 flex flex-col flex-grow w-[calc(100%-110px)] sm:w-full">
 <div class="flex justify-between items-start mb-1 sm:mb-2 gap-2 flex-col sm:flex-row">
-<h4 class="font-bold text-[13px] leading-tight sm:text-xl text-gray-800 pr-1">Coca Cola Em Lata 310ml</h4>
+<h4 class="font-bold text-[13px] leading-tight sm:text-xl text-gray-800 pr-1">Coca-Cola Lata 350ml - Original</h4>
 <span class="text-ven-red font-bold text-sm sm:text-lg whitespace-nowrap flex-shrink-0 ml-1">R$ 9,00</span>
 </div>
 <p class="text-gray-500 text-[10px] sm:text-sm mb-2 sm:mb-4 flex-grow line-clamp-2 h-[30px] sm:h-auto overflow-hidden" data-i18n="desc_coca">A clássica e refrescante em lata.</p>
-<button class="hidden sm:flex add-to-cart w-full bg-gray-900 text-white py-2.5 sm:py-3 rounded-lg sm:rounded-xl font-bold hover:bg-ven-red transition-colors justify-center items-center gap-2 mt-auto text-xs sm:text-sm" onclick="addToCart('Coca Cola 310ml', 9)">
+<button class="hidden sm:flex add-to-cart w-full bg-gray-900 text-white py-2.5 sm:py-3 rounded-lg sm:rounded-xl font-bold hover:bg-ven-red transition-colors justify-center items-center gap-2 mt-auto text-xs sm:text-sm" onclick="addToCart('Coca-Cola Lata 350ml - Original', 9)">
 <i class="w-4 h-4" data-lucide="plus-circle"></i> <span data-i18n="btn_add">Adicionar</span>
 </button>
 <button class="sm:hidden text-ven-red text-[11px] font-bold mt-auto uppercase tracking-wide flex justify-end items-center gap-1 active:opacity-70 mt-2 pointer-events-none">Ver detalhes <i class="w-3 h-3" data-lucide="chevron-right"></i></button>
 </div>
 </div>
-<!-- Bebida 5: Água Minalba -->
+<!-- Bebida 5: Coca Cola Zero -->
+<div class="bg-white rounded-xl sm:rounded-2xl overflow-hidden shadow-sm sm:shadow-md card-hover group flex flex-row sm:flex-col border border-gray-100 sm:border-transparent p-2 sm:p-0 gap-3 sm:gap-0">
+<div class="w-[100px] sm:w-full h-auto sm:h-64 bg-gray-100 flex items-center justify-center relative overflow-hidden flex-shrink-0 rounded-lg sm:rounded-none object-cover min-h-[100px]">
+<img alt="Coca-Cola Zero" class="product-img w-full h-full object-cover" onerror="this.onerror=null; this.src='https://images.unsplash.com/photo-1622483767028-3f66f32aef97?ixlib=rb-1.2.1&amp;auto=format&amp;fit=crop&amp;w=800&amp;q=80';" src="coca_cola_zero.jpg"/>
+</div>
+<div class="py-1 pr-1 sm:p-6 flex flex-col flex-grow w-[calc(100%-110px)] sm:w-full">
+<div class="flex justify-between items-start mb-1 sm:mb-2 gap-2 flex-col sm:flex-row">
+<h4 class="font-bold text-[13px] leading-tight sm:text-xl text-gray-800 pr-1">Coca-Cola Lata 350ml - Zero</h4>
+<span class="text-ven-red font-bold text-sm sm:text-lg whitespace-nowrap flex-shrink-0 ml-1">R$ 9,00</span>
+</div>
+<p class="text-gray-500 text-[10px] sm:text-sm mb-2 sm:mb-4 flex-grow line-clamp-2 h-[30px] sm:h-auto overflow-hidden" data-i18n="desc_coca_zero">Sem açúcar, o sabor que você já conhece.</p>
+<button class="hidden sm:flex add-to-cart w-full bg-gray-900 text-white py-2.5 sm:py-3 rounded-lg sm:rounded-xl font-bold hover:bg-ven-red transition-colors justify-center items-center gap-2 mt-auto text-xs sm:text-sm" onclick="addToCart('Coca-Cola Lata 350ml - Zero', 9)">
+<i class="w-4 h-4" data-lucide="plus-circle"></i> <span data-i18n="btn_add">Adicionar</span>
+</button>
+<button class="sm:hidden text-ven-red text-[11px] font-bold mt-auto uppercase tracking-wide flex justify-end items-center gap-1 active:opacity-70 mt-2 pointer-events-none">Ver detalhes <i class="w-3 h-3" data-lucide="chevron-right"></i></button>
+</div>
+</div>
+<!-- Bebida 6: Água Minalba -->
 <div class="bg-white rounded-xl sm:rounded-2xl overflow-hidden shadow-sm sm:shadow-md card-hover group flex flex-row sm:flex-col border border-gray-100 sm:border-transparent p-2 sm:p-0 gap-3 sm:gap-0">
 <div class="w-[100px] sm:w-full h-auto sm:h-64 bg-gray-100 flex items-center justify-center relative overflow-hidden flex-shrink-0 rounded-lg sm:rounded-none object-cover min-h-[100px]">
 <img alt="Água Minalba" class="product-img w-full h-full object-cover" onerror="this.onerror=null; this.src='https://images.unsplash.com/photo-1548839140-29a749e1bc4e?ixlib=rb-1.2.1&amp;auto=format&amp;fit=crop&amp;w=800&amp;q=80';" src="agua.jpg"/>
@@ -1253,8 +1270,8 @@
 <button class="sm:hidden text-ven-red text-[11px] font-bold mt-auto uppercase tracking-wide flex justify-end items-center gap-1 active:opacity-70 mt-2 pointer-events-none">Ver detalhes <i class="w-3 h-3" data-lucide="chevron-right"></i></button>
 </div>
 </div>
-<!-- Bebida 6: Malta Polar -->
-<div class="bg-white rounded-xl sm:rounded-2xl overflow-hidden shadow-sm sm:shadow-md card-hover group flex flex-row sm:flex-col border border-gray-100 sm:border-transparent p-2 sm:p-0 gap-3 sm:gap-0">
+<!-- Bebida 7: Malta Polar -->
+<div class="bg-white rounded-xl sm:rounded-2xl overflow-hidden shadow-sm sm:shadow-md group flex flex-row sm:flex-col border border-gray-100 sm:border-transparent p-2 sm:p-0 gap-3 sm:gap-0 opacity-60 grayscale pointer-events-none">
 <div class="w-[100px] sm:w-full h-auto sm:h-64 bg-gray-100 flex items-center justify-center relative overflow-hidden flex-shrink-0 rounded-lg sm:rounded-none object-cover min-h-[100px]">
 <img alt="Malta Polar" class="product-img w-full h-full object-cover" onerror="this.src='https://images.unsplash.com/photo-1625754593446-24df99757345?ixlib=rb-1.2.1&amp;auto=format&amp;fit=crop&amp;w=800&amp;q=80';" src="malta_polar.jpg"/>
 </div>
@@ -1264,8 +1281,8 @@
 <span class="text-ven-red font-bold text-sm sm:text-lg whitespace-nowrap flex-shrink-0 ml-1">R$ 15,00</span>
 </div>
 <p class="text-gray-500 text-[10px] sm:text-sm mb-2 sm:mb-4 flex-grow line-clamp-2 h-[30px] sm:h-auto overflow-hidden" data-i18n="desc_malta">A clássica malta venezuelana. Importada.</p>
-<button class="hidden sm:flex add-to-cart w-full bg-gray-900 text-white py-2.5 sm:py-3 rounded-lg sm:rounded-xl font-bold hover:bg-ven-red transition-colors justify-center items-center gap-2 mt-auto text-xs sm:text-sm" onclick="addToCart('Malta Polar', 15)">
-<i class="w-4 h-4" data-lucide="plus-circle"></i> <span data-i18n="btn_add">Adicionar</span>
+<button class="hidden sm:flex add-to-cart w-full text-white py-2.5 sm:py-3 rounded-lg sm:rounded-xl font-bold transition-colors justify-center items-center gap-2 mt-auto text-xs sm:text-sm bg-gray-400" onclick="return false;">
+<i class="w-4 h-4" data-lucide="plus-circle"></i> <span data-i18n="btn_add">Indisponível</span>
 </button>
 <button class="sm:hidden text-ven-red text-[11px] font-bold mt-auto uppercase tracking-wide flex justify-end items-center gap-1 active:opacity-70 mt-2 pointer-events-none">Ver detalhes <i class="w-3 h-3" data-lucide="chevron-right"></i></button>
 </div>
@@ -1516,6 +1533,73 @@
             </form>
         </div>
     </div>
+
+    <!-- Modal de Upselling (Bebidas) -->
+    <div class="fixed inset-0 z-[115] flex items-center justify-center hidden transition-opacity duration-200" id="upsell-modal">
+        <div class="absolute inset-0 bg-black/60 backdrop-blur-sm" onclick="closeUpsell()"></div>
+        <div class="bg-white rounded-2xl w-full max-w-sm mx-4 relative z-10 shadow-2xl p-5 sm:p-6 text-center transform scale-95 transition-transform duration-300">
+            <!-- Decoration -->
+            <div class="w-16 h-16 bg-blue-50 rounded-full flex items-center justify-center mx-auto mb-4 border-4 border-white shadow-sm -mt-10">
+                <span class="text-3xl">🥤</span>
+            </div>
+            
+            <h3 class="text-xl font-black text-gray-800 mb-2" data-i18n="upsell_title">Falta algo para beber?</h3>
+            <p class="text-sm text-gray-500 mb-5" data-i18n="upsell_subtitle">Complete seu pedido com uma bebida geladinha!</p>
+            
+            <!-- Opciones de Bebidas (Botones Rápidos) -->
+            <div class="flex flex-col gap-3 mb-6 text-left">
+                <!-- Coca Cola Original -->
+                <button onclick="addUpsell(this, 'Coca-Cola Lata 350ml - Original', 9)" class="flex items-center justify-between p-3 rounded-xl border-2 border-gray-100 hover:border-ven-red transition-all group bg-white">
+                    <div class="flex items-center gap-3">
+                        <img src="coca_cola_original.jpg" onerror="this.src='https://images.unsplash.com/photo-1622483767028-3f66f32aef97?ixlib=rb-1.2.1&amp;auto=format&amp;fit=crop&amp;w=800&amp;q=80';" class="w-10 h-10 object-cover rounded-md bg-gray-100">
+                        <div>
+                            <span class="block font-bold text-gray-800 text-sm">Coca-Cola Lata</span>
+                            <span class="block text-xs text-ven-red font-black">+ R$ 9,00</span>
+                        </div>
+                    </div>
+                    <div class="w-8 h-8 rounded-full bg-gray-50 group-hover:bg-ven-red group-hover:text-white flex items-center justify-center transition-colors text-gray-400">
+                        <i data-lucide="plus" class="w-4 h-4"></i>
+                    </div>
+                </button>
+
+                <!-- Papelón con Limón -->
+                <button onclick="addUpsell(this, 'Papelón com Limão', 15)" class="flex items-center justify-between p-3 rounded-xl border-2 border-gray-100 hover:border-ven-red transition-all group bg-white">
+                    <div class="flex items-center gap-3">
+                        <img src="papelon_com_limao.jpg" onerror="this.src='https://images.unsplash.com/photo-1615719413546-198b25453f85?ixlib=rb-1.2.1&amp;auto=format&amp;fit=crop&amp;w=800&amp;q=80';" class="w-10 h-10 object-cover rounded-md bg-gray-100">
+                        <div>
+                            <span class="block font-bold text-gray-800 text-sm" data-i18n="name_papelon">Papelón com Limão</span>
+                            <span class="block text-xs text-ven-red font-black">+ R$ 15,00</span>
+                        </div>
+                    </div>
+                    <div class="w-8 h-8 rounded-full bg-gray-50 group-hover:bg-ven-red group-hover:text-white flex items-center justify-center transition-colors text-gray-400">
+                        <i data-lucide="plus" class="w-4 h-4"></i>
+                    </div>
+                </button>
+
+                <!-- Água Minalba -->
+                <button onclick="addUpsell(this, 'Água Minalba 510ml', 6)" class="flex items-center justify-between p-3 rounded-xl border-2 border-gray-100 hover:border-ven-red transition-all group bg-white">
+                    <div class="flex items-center gap-3">
+                        <img src="agua.jpg" onerror="this.src='https://images.unsplash.com/photo-1548839140-29a749e1bc4e?ixlib=rb-1.2.1&amp;auto=format&amp;fit=crop&amp;w=800&amp;q=80';" class="w-10 h-10 object-cover rounded-md bg-gray-100">
+                        <div>
+                            <span class="block font-bold text-gray-800 text-sm">Água Minalba Nat 510ml</span>
+                            <span class="block text-xs text-ven-red font-black">+ R$ 6,00</span>
+                        </div>
+                    </div>
+                    <div class="w-8 h-8 rounded-full bg-gray-50 group-hover:bg-ven-red group-hover:text-white flex items-center justify-center transition-colors text-gray-400">
+                        <i data-lucide="plus" class="w-4 h-4"></i>
+                    </div>
+                </button>
+            </div>
+            
+            <!-- Acciones Principales -->
+            <div class="flex flex-col gap-2">
+                <button onclick="skipUpsellAndCheckout()" class="w-full bg-ven-red text-white font-black py-3 rounded-xl shadow-lg hover:bg-red-700 transition flex items-center justify-center gap-2">
+                    <span data-i18n="upsell_checkout">Continuar para Pagamento</span> <i data-lucide="arrow-right" class="w-4 h-4"></i>
+                </button>
+                <button onclick="closeUpsell()" class="w-full text-gray-500 font-bold py-2 text-sm hover:text-gray-800 transition" data-i18n="upsell_cancel">Voltar para o Carrinho</button>
+            </div>
+        </div>
+    </div>
     <script>
 
 
@@ -1612,6 +1696,7 @@ let currentLang = 'pt';
                 desc_guarana: "El sabor original de Brasil en lata.",
                 desc_fanta: "Refresco de naranja en lata.",
                 desc_coca: "La clásica y refrescante en lata.",
+                desc_coca_zero: "Sin azúcar, el sabor de siempre en lata.",
                 desc_agua: "Agua mineral natural y refrescante.",
                 btn_add: "Adicionar",
                 cart_title: "Tu Pedido",
@@ -1676,7 +1761,11 @@ let currentLang = 'pt';
                 checkout_notes: "Observaciones / Instrucciones Especiales",
                 btn_gps: "Ubicación GPS",
                 gps_loading: "Buscando...",
-                msg_uber_delivery: "🛵 El delivery es por Uber Moto. Te pasaremos el valor del envío y el Total Final por WhatsApp."
+                msg_uber_delivery: "🛵 El delivery es por Uber Moto. Te pasaremos el valor del envío y el Total Final por WhatsApp.",
+                upsell_title: "¿Falta algo para beber?",
+                upsell_subtitle: "¡Completa tu pedido con una bebida bien fría!",
+                upsell_checkout: "Continuar al Pago",
+                upsell_cancel: "Volver al carrito"
                 },
             pt: {
                 nav_home: "Início",
@@ -1766,6 +1855,7 @@ let currentLang = 'pt';
                 desc_guarana: "O sabor original do Brasil em lata.",
                 desc_fanta: "Refrigerante de laranja em lata.",
                 desc_coca: "A clássica e refrescante em lata.",
+                desc_coca_zero: "Sem açúcar, o sabor que você já conhece.",
                 desc_agua: "Água mineral natural e refrescante.",
                 btn_add: "Adicionar",
                 cart_title: "Seu Pedido",
@@ -1830,7 +1920,11 @@ let currentLang = 'pt';
                 checkout_notes: "Observações / Instruções",
                 btn_gps: "Usar GPS",
                 gps_loading: "Buscando...",
-                msg_uber_delivery: "🛵 As entregas são feitas via Uber Moto. O valor da corrida será calculado após você enviar este pedido. O total final será enviado no WhatsApp."
+                msg_uber_delivery: "🛵 As entregas são feitas via Uber Moto. O valor da corrida será calculado após você enviar este pedido. O total final será enviado no WhatsApp.",
+                upsell_title: "Falta algo para beber?",
+                upsell_subtitle: "Complete seu pedido com uma bebida geladinha!",
+                upsell_checkout: "Continuar para Pagamento",
+                upsell_cancel: "Voltar para o Carrinho"
                 }
         };
 
@@ -2118,9 +2212,64 @@ let currentLang = 'pt';
                 alert(translations[currentLang].cart_empty);
                 return;
             }
-            openCheckoutModal();
+            showUpsell();
         }
         
+        // --- LOGICA UPSELL BEBIDAS ---
+        function showUpsell() {
+            document.getElementById('cart-modal').classList.add('hidden');
+            const upsellModal = document.getElementById('upsell-modal');
+            upsellModal.classList.remove('hidden');
+            setTimeout(() => {
+                const scaleDiv = upsellModal.querySelector('.scale-95');
+                if (scaleDiv) {
+                    scaleDiv.classList.remove('scale-95');
+                    scaleDiv.classList.add('scale-100');
+                }
+            }, 10);
+        }
+
+        function closeUpsell() {
+            const upsellModal = document.getElementById('upsell-modal');
+            const scaleDiv = upsellModal.querySelector('.scale-100');
+            if(scaleDiv) {
+                scaleDiv.classList.remove('scale-100');
+                scaleDiv.classList.add('scale-95');
+            }
+            setTimeout(() => {
+                upsellModal.classList.add('hidden');
+                document.getElementById('cart-modal').classList.remove('hidden');
+            }, 200);
+        }
+
+        function skipUpsellAndCheckout() {
+            const upsellModal = document.getElementById('upsell-modal');
+            upsellModal.classList.add('hidden');
+            openCheckoutModal();
+        }
+
+        function addUpsell(btn, name, price) {
+            addToCart(name, price);
+            
+            if(btn) {
+                const iconContainer = btn.querySelector('div.rounded-full');
+                if(iconContainer) {
+                    const originalHTML = iconContainer.innerHTML;
+                    iconContainer.classList.add('bg-green-500', 'text-white', 'border-transparent');
+                    iconContainer.classList.remove('bg-gray-50', 'text-gray-400');
+                    
+                    iconContainer.innerHTML = '<i data-lucide="check" class="w-4 h-4"></i>';
+                    lucide.createIcons();
+                    
+                    setTimeout(() => {
+                        iconContainer.classList.remove('bg-green-500', 'text-white', 'border-transparent');
+                        iconContainer.classList.add('bg-gray-50', 'text-gray-400');
+                        iconContainer.innerHTML = originalHTML;
+                    }, 1000);
+                }
+            }
+        }
+
         // --- LOGICA NOVO MODAL CHECKOUT ---
         function openCheckoutModal() {
             // Update total label
