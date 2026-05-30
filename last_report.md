@@ -1,4 +1,18 @@
-# Relatório de Pesquisa de Tendências - 2026-05-29 22:46:58
+# Relatório de Pesquisa de Tendências (Nuvem) - 2026-05-30 14:12:20
+
+## 🇺🇸 Mita: A Revolução Vegana Venezuelana que Conquista Washington com uma Estrela Michelin (Estados Unidos)
+**Restaurante:** Mita (Washington D.C.) | **Data:** Maio 2026 | [Link](https://mundour.com/)
+
+Mita, em Washington D.C., alcançou um marco ao obter uma estrela Michelin pela sua inovadora cozinha vegana de inspiração venezuelana. Liderado pelos chefs Miguel Guerra e Tatiana Mora, o restaurante redefine a gastronomia latina com uma abordagem plant-based, destacando os vegetais como o coração do sabor e oferecendo uma experiência culinária única e sustentável.
+
+--- 
+
+## 🇪🇸 La Cachapera Expande seu Sabor Venezuelano: Um Sucesso Retumbante na Gastronomia Europeia (España)
+**Restaurante:** La Cachapera (Madrid) | **Data:** Maio 2026 | [Link](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFxW4HmTGt6pfWHtkkUSYSzdPmMv8Cy5YYt1TJVcZXFtFTLnhIwkha738mb3_jdyhXftqkJzj7T8O20WvwtaiSt_tkReazgUtUL4EYj5BFjbz3wImZ6fAtLEdfuoUTVi0-KTQAWPP0Ptc4ScD0ev-Cn_4LTSS1W9XivyLvUMbAXmg8g6j70EEyc)
+
+La Cachapera consolida-se como líder da gastronomia venezuelana na Europa, abrindo sua sexta unidade na Espanha, incluindo Madrid. Desde 2015, seu conceito inovador centrado na cachapa e nos "cachinachos" tem cativado paladares. Oferece uma experiência sensorial completa com clássicos venezuelanos, música e estética caribenha, levando a alegria da Venezuela à Espanha.
+
+--- 
 
 ## 🇻🇪 Projeto Ubre: A Revolução Sustentável que Reivindica a Identidade Gastronômica Venezuelana (Venezuela)
 **Restaurante:** Proyecto Ubre (Caracas) | **Data:** Maio 2026 | [Link](https://www.expresoinfo.com/venezuela-rompe-barreras-a-traves-de-la-gastronomia/)
@@ -39,20 +53,6 @@ The Arepa Republic, o primeiro food truck de comida venezuelana no Canadá que h
 **Restaurante:** Restaurante Mérito (Lima) | **Data:** Maio 2026 | [Link](https://www.theworlds50best.com/discovery/Establishment/Peru/Lima/Merito.html)
 
 No Peru, chefs venezuelanos renomados como Juan Luis Martínez (do premiado restaurante Mérito) estão revolucionando a cena local. Pratos fusionam técnicas peruanas com a tradicional arepa e o molho guasacaca, ganhando grande admiração internacional de críticos e clientes.
-
---- 
-
-## 🇲🇽 Boom das Arepas e Tequeños nos Corredores Gastronômicos da Cidade do México (México)
-**Restaurante:** Órale Arepa (CDMX) | **Data:** Maio 2026 | [Link](https://oralearepa.com/)
-
-A comida venezuelana já faz parte do dia a dia na Cidade do México. A combinação do contraste doce-salgado de tequeños e arepas conquistou o paladar mexicano, encontrando grande espaço nos principais mercados gastronômicos da capital.
-
---- 
-
-## 🇪🇸 Sabores Autênticos em Madrid: O Sucesso do Asado Negro e Pabellón (Espanha)
-**Restaurante:** Con Sazón (Madrid) | **Data:** Maio 2026 | [Link](https://www.hola.com/cocina/20260417885438/restaurantes-venezolanos-madrid-autenticos/)
-
-A renomada revista Hola destacou recentemente os melhores endereços de comida venezuelana em Madrid. Pratos tradicionais como o Asado Negro e o Pabellón Criollo estão conquistando o paladar espanhol, atraindo tanto a grande comunidade venezuelana quanto os locais que buscam o verdadeiro sabor sul-americano.
 
 --- 
 
