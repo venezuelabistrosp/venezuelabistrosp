@@ -1,0 +1,18 @@
+# VENEZUELA BISTRO SP - SMTP CONFIGURATION
+# Copy this file to '.env' and fill in your details.
+# DO NOT commit the '.env' file to GitHub.
+
+# For Gmail, set SMTP_SERVER to smtp.gmail.com and SMTP_PORT to 465
+SMTP_SERVER=smtp.gmail.com
+SMTP_PORT=465
+
+# Your Gmail address:
+SMTP_EMAIL=venezuelabistrosp@gmail.com
+
+# Your Gmail APP PASSWORD (NOT your regular password).
+# How to get it:
+# 1. Enable 2-step verification on your Google account.
+# 2. Go to Security > App Passwords.
+# 3. Select app: 'Other (custom name)' -> name it 'Venezuela Bistro Agent'.
+# 4. Copy the generated 16-character code and paste it below without spaces.
+SMTP_PASSWORD=su_contraseña_de_app_de_16_caracteres
