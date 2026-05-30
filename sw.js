@@ -126,8 +126,12 @@ self.addEventListener("fetch", event => {
           return networkResponse;
         }
 
-        // Cache dynamic assets from libraries and Tailwind
+        // Cache dynamic assets from libraries, Tailwind, fonts, and ALL images
+        const isImage = event.request.destination === "image" ||
+                        event.request.url.match(/\.(png|jpe?g|gif|svg|webp|ico)/i);
+
         const isCachable = event.request.type === "basic" || 
+                           isImage ||
                            event.request.url.includes("tailwindcss.com") || 
                            event.request.url.includes("unpkg.com") || 
                            event.request.url.includes("googleapis") || 

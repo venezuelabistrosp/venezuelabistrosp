@@ -186,6 +186,30 @@
             .hide-on-mobile { display: none !important; }
         }
 
+            /* Hardware Acceleration for Cart and Modals */
+        #cart-panel, #product-detail-modal, #trend-detail-modal, .floating-dock {
+            will-change: transform, opacity;
+        }
+
+        /* PWA Install Promotion Banner Styles */
+        #pwa-install-banner {
+            will-change: transform, opacity;
+            box-shadow: 0 20px 25px -5px rgba(0, 0, 0, 0.3), 0 10px 10px -5px rgba(0, 0, 0, 0.2);
+        }
+
+        /* Shimmer skeleton screen effect */
+        @keyframes shimmer {
+            0% { background-position: -200% 0; }
+            100% { background-position: 200% 0; }
+        }
+        .shimmer-bg {
+            background: linear-gradient(90deg, #f3f4f6 25%, #e5e7eb 50%, #f3f4f6 75%);
+            background-size: 200% 100%;
+            animation: shimmer 1.5s infinite linear;
+        }
+        .skeleton-card {
+            will-change: opacity;
+        }
     </style>
 </head>
 <body class="antialiased relative" id="inicio">
@@ -207,12 +231,16 @@
 </a>
 <div class="flex items-center gap-2 sm:mr-2 bg-gray-100/30 sm:bg-gray-100 rounded-full px-2 py-1">
 <button class="lang-btn w-6 h-6 rounded-full overflow-hidden active" data-lang="pt" onclick="setLanguage('pt')" title="Português (Brasil)">
-<img alt="PT" class="w-full h-full object-cover" onerror="this.onerror=null; this.src='https://images.unsplash.com/photo-1615719413546-198b25453f85?ixlib=rb-1.2.1&amp;auto=format&amp;fit=crop&amp;w=800&amp;q=80';" src="https://upload.wikimedia.org/wikipedia/commons/0/05/Flag_of_Brazil.svg"/>
+<img loading="lazy" alt="PT" class="w-full h-full object-cover" onerror="this.onerror=null; this.src='https://images.unsplash.com/photo-1615719413546-198b25453f85?ixlib=rb-1.2.1&amp;auto=format&amp;fit=crop&amp;w=800&amp;q=80';" src="https://upload.wikimedia.org/wikipedia/commons/0/05/Flag_of_Brazil.svg"/>
 </button>
 <button class="lang-btn w-6 h-6 rounded-full overflow-hidden" data-lang="es" onclick="setLanguage('es')" title="Español">
-<img alt="ES" class="w-full h-full object-cover" onerror="this.onerror=null; this.src='https://images.unsplash.com/photo-1615719413546-198b25453f85?ixlib=rb-1.2.1&amp;auto=format&amp;fit=crop&amp;w=800&amp;q=80';" src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Flag_of_Spain.svg"/>
+<img loading="lazy" alt="ES" class="w-full h-full object-cover" onerror="this.onerror=null; this.src='https://images.unsplash.com/photo-1615719413546-198b25453f85?ixlib=rb-1.2.1&amp;auto=format&amp;fit=crop&amp;w=800&amp;q=80';" src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Flag_of_Spain.svg"/>
 </button>
 </div>
+<button class="hidden md:flex items-center gap-1.5 bg-ven-yellow text-stone-900 text-xs font-bold px-3.5 py-1.5 rounded-full hover:bg-yellow-400 active:scale-95 transition-all shadow-sm border border-stone-200" id="install-app-btn" style="display: none;">
+<i class="w-4 h-4 text-stone-950" data-lucide="download"></i>
+<span data-i18n="pwa_install_nav">Instalar App</span>
+</button>
 <button class="hidden md:block relative p-2 hover:bg-gray-100 rounded-full transition-colors group" id="cart-btn">
 <i class="text-gray-700 group-hover:text-ven-red transition-colors" data-lucide="shopping-cart"></i>
 <span class="absolute top-0 right-0 bg-ven-red text-white text-xs font-bold h-5 w-5 flex items-center justify-center rounded-full scale-0 transition-transform duration-200" id="cart-badge">0</span>
@@ -269,11 +297,11 @@
 </button>
 <div class="flex flex-wrap items-center justify-center sm:justify-start gap-2 bg-white/10 p-1.5 rounded-3xl sm:rounded-full backdrop-blur-sm border border-white/20 w-full sm:w-fit max-w-full">
 <a class="bg-white text-gray-900 font-bold py-1.5 sm:py-2 px-3 sm:px-4 rounded-full shadow-md hover:bg-gray-100 transition flex items-center justify-center gap-1.5 text-[10px] sm:text-xs" href="https://www.ifood.com.br/delivery/sao-paulo-sp/venezuela-bistro-sp-pirituba/d92a890e-00b0-4a0e-8f6e-801d405af09c" target="_blank">
-<img alt="iFood" class="h-3.5 sm:h-4 w-auto object-contain" onerror="this.onerror=null; this.src='logo-ifood.jpg';" src="logo-ifood.png"/>
+<img loading="lazy" alt="iFood" class="h-3.5 sm:h-4 w-auto object-contain" onerror="this.onerror=null; this.src='logo-ifood.jpg';" src="logo-ifood.png"/>
                         ifood
                     </a>
 <a class="bg-white text-gray-900 font-bold py-1.5 sm:py-2 px-3 sm:px-4 rounded-full shadow-md hover:bg-gray-100 transition flex items-center justify-center gap-1.5 text-[10px] sm:text-xs" href="https://oia.99app.com/dlp9/d7J7t5?share_media=WHATSAPP" target="_blank">
-<img alt="99" class="h-3.5 sm:h-4 w-auto object-contain rounded-sm" onerror="this.onerror=null; this.src='logo-99.jpg';" src="logo-99.png"/>
+<img loading="lazy" alt="99" class="h-3.5 sm:h-4 w-auto object-contain rounded-sm" onerror="this.onerror=null; this.src='logo-99.jpg';" src="logo-99.png"/>
                         99
                     </a>
 <a class="bg-[#25D366] text-white font-bold py-1.5 sm:py-2 px-3 sm:px-4 rounded-full shadow-md hover:bg-green-600 transition flex items-center justify-center gap-1.5 text-[10px] sm:text-xs" href="https://wa.me/5511990270534" target="_blank">
@@ -342,7 +370,7 @@
 <!-- Slide 1 -->
 <div class="w-full shrink-0 flex flex-col md:flex-row bg-white">
 <div class="w-full md:w-1/2 relative h-48 sm:h-64 md:h-[400px]">
-<img alt="História VZ" class="w-full h-full object-cover" src="historia.jpg"/>
+<img loading="lazy" alt="História VZ" class="w-full h-full object-cover" src="historia.jpg"/>
 <span class="absolute bottom-4 left-4 sm:bottom-6 sm:left-6 px-4 py-1.5 bg-ven-yellow text-gray-900 font-bold text-xs uppercase tracking-wider rounded-full shadow-md">Tradição</span>
 </div>
 <div class="w-full md:w-1/2 p-3 sm:p-6 md:p-10 flex flex-col justify-center text-left">
@@ -358,7 +386,7 @@
 <!-- Slide 2 -->
 <div class="w-full shrink-0 flex flex-col md:flex-row bg-gray-50/50">
 <div class="w-full md:w-1/2 relative h-48 sm:h-64 md:h-[400px]">
-<img alt="Reina Pepiada" class="w-full h-full object-cover" src="reina_historia.jpg"/>
+<img loading="lazy" alt="Reina Pepiada" class="w-full h-full object-cover" src="reina_historia.jpg"/>
 <span class="absolute bottom-4 left-4 sm:bottom-6 sm:left-6 px-4 py-1.5 bg-ven-blue text-white font-bold text-xs uppercase tracking-wider rounded-full shadow-md">Você Sabia?</span>
 </div>
 <div class="w-full md:w-1/2 p-3 sm:p-6 md:p-10 flex flex-col justify-center text-left">
@@ -376,7 +404,7 @@
 <!-- Slide 3 -->
 <div class="w-full shrink-0 flex flex-col md:flex-row bg-white">
 <div class="w-full md:w-1/2 relative h-48 sm:h-64 md:h-[400px]">
-<img alt="Família" class="w-full h-full object-cover" src="historia_3.jpg"/>
+<img loading="lazy" alt="Família" class="w-full h-full object-cover" src="historia_3.jpg"/>
 <span class="absolute bottom-4 left-4 sm:bottom-6 sm:left-6 px-4 py-1.5 bg-ven-red text-white font-bold text-xs uppercase tracking-wider rounded-full shadow-md">Família Bistro</span>
 </div>
 <div class="w-full md:w-1/2 p-3 sm:p-6 md:p-10 flex flex-col justify-center text-left">
@@ -431,7 +459,7 @@
 <!-- Slide 5: Sanduíche de Pernil Venezuelano (-30%) -->
                     <div class="w-full flex-shrink-0 flex flex-col md:flex-row relative bg-gray-900">
 <div class="w-full md:w-1/3 h-40 md:h-full relative overflow-hidden bg-black flex-shrink-0">
-<img src="sanduiche_pernil.jpg" onerror="this.src='https://images.unsplash.com/photo-1628840042765-356cda07504e?ixlib=rb-1.2.1&auto=format&fit=crop&w=800&q=80'" class="w-full h-full object-cover transform hover:scale-110 transition duration-700">
+<img loading="lazy" src="sanduiche_pernil.jpg" onerror="this.src='https://images.unsplash.com/photo-1628840042765-356cda07504e?ixlib=rb-1.2.1&auto=format&fit=crop&w=800&q=80'" class="w-full h-full object-cover transform hover:scale-110 transition duration-700">
 <div class="absolute inset-0 bg-gradient-to-t from-black/80 to-transparent md:hidden"></div>
 <div class="absolute top-2 left-2 sm:top-3 sm:left-3 bg-ven-red text-white font-black px-2 py-0.5 sm:px-3 sm:py-1 rounded-md sm:rounded-lg text-xs md:text-base shadow-lg border border-white/20 animate-pulse z-10">
                                 -30% OFF
@@ -455,7 +483,7 @@
 <!-- Slide 1: Combo Experiencia 1 (-52%) -->
                     <div class="w-full flex-shrink-0 flex flex-col md:flex-row relative bg-gray-900">
 <div class="w-full md:w-1/3 h-40 md:h-full relative overflow-hidden bg-black flex-shrink-0">
-<img class="w-full h-full object-cover transform hover:scale-110 transition duration-700" onerror="this.src='https://images.unsplash.com/photo-1615719413546-198b25453f85?ixlib=rb-1.2.1&amp;auto=format&amp;fit=crop&amp;w=800&amp;q=80'" src="promo_combo_1.jpg"/>
+<img loading="lazy" class="w-full h-full object-cover transform hover:scale-110 transition duration-700" onerror="this.src='https://images.unsplash.com/photo-1615719413546-198b25453f85?ixlib=rb-1.2.1&amp;auto=format&amp;fit=crop&amp;w=800&amp;q=80'" src="promo_combo_1.jpg"/>
 <div class="absolute inset-0 bg-gradient-to-t from-black/80 to-transparent md:hidden"></div>
 <div class="absolute top-2 left-2 sm:top-3 sm:left-3 bg-ven-red text-white font-black px-2 py-0.5 sm:px-3 sm:py-1 rounded-md sm:rounded-lg text-xs md:text-base shadow-lg border border-white/20 animate-pulse z-10">
                                 -52% OFF
@@ -479,7 +507,7 @@
 <!-- Slide 2: Experiencias Venezuelanas 2 (-52%) -->
                     <div class="w-full flex-shrink-0 flex flex-col md:flex-row relative bg-gray-900">
 <div class="w-full md:w-1/3 h-40 md:h-full relative overflow-hidden bg-black flex-shrink-0">
-<img class="w-full h-full object-cover transform hover:scale-110 transition duration-700" onerror="this.src='https://images.unsplash.com/photo-1628840042765-356cda07504e?ixlib=rb-1.2.1&amp;auto=format&amp;fit=crop&amp;w=800&amp;q=80'" src="combo_experiencia_2.jpg"/>
+<img loading="lazy" class="w-full h-full object-cover transform hover:scale-110 transition duration-700" onerror="this.src='https://images.unsplash.com/photo-1628840042765-356cda07504e?ixlib=rb-1.2.1&amp;auto=format&amp;fit=crop&amp;w=800&amp;q=80'" src="combo_experiencia_2.jpg"/>
 <div class="absolute inset-0 bg-gradient-to-t from-black/80 to-transparent md:hidden"></div>
 <div class="absolute top-2 left-2 sm:top-3 sm:left-3 bg-ven-red text-white font-black px-2 py-0.5 sm:px-3 sm:py-1 rounded-md sm:rounded-lg text-xs md:text-base shadow-lg border border-white/20 animate-pulse z-10">
                                 -52% OFF
@@ -503,7 +531,7 @@
 <!-- Slide 3: Combo Caracas (-30%) -->
                     <div class="w-full flex-shrink-0 flex flex-col md:flex-row relative bg-gray-900">
 <div class="w-full md:w-1/3 h-40 md:h-full relative overflow-hidden bg-black flex-shrink-0">
-<img class="w-full h-full object-cover transform hover:scale-110 transition duration-700" onerror="this.src='https://images.unsplash.com/photo-1606525437678-a400f2e34774?ixlib=rb-1.2.1&amp;auto=format&amp;fit=crop&amp;w=800&amp;q=80'" src="combo_caracas.jpg"/>
+<img loading="lazy" class="w-full h-full object-cover transform hover:scale-110 transition duration-700" onerror="this.src='https://images.unsplash.com/photo-1606525437678-a400f2e34774?ixlib=rb-1.2.1&amp;auto=format&amp;fit=crop&amp;w=800&amp;q=80'" src="combo_caracas.jpg"/>
 <div class="absolute inset-0 bg-gradient-to-t from-black/80 to-transparent md:hidden"></div>
 <div class="absolute top-2 left-2 sm:top-3 sm:left-3 bg-ven-red text-white font-black px-2 py-0.5 sm:px-3 sm:py-1 rounded-md sm:rounded-lg text-xs md:text-base shadow-lg border border-white/20 animate-pulse z-10" data-i18n="badge_promo_30">
                                 -30% OFF
@@ -527,7 +555,7 @@
 <!-- Slide 4: Combo Duo Venezuelano (-33%) -->
                     <div class="w-full flex-shrink-0 flex flex-col md:flex-row relative bg-gray-900">
 <div class="w-full md:w-1/3 h-40 md:h-full relative overflow-hidden bg-black flex-shrink-0">
-<img src="combo_duo_venezuelano.jpg" onerror="this.src='https://images.unsplash.com/photo-1543339308-43e59d6b73a6?ixlib=rb-1.2.1&auto=format&fit=crop&w=800&q=80'" class="w-full h-full object-cover transform hover:scale-110 transition duration-700">
+<img loading="lazy" src="combo_duo_venezuelano.jpg" onerror="this.src='https://images.unsplash.com/photo-1543339308-43e59d6b73a6?ixlib=rb-1.2.1&auto=format&fit=crop&w=800&q=80'" class="w-full h-full object-cover transform hover:scale-110 transition duration-700">
 <div class="absolute inset-0 bg-gradient-to-t from-black/80 to-transparent md:hidden"></div>
 <div class="absolute top-2 left-2 sm:top-3 sm:left-3 bg-ven-red text-white font-black px-2 py-0.5 sm:px-3 sm:py-1 rounded-md sm:rounded-lg text-xs md:text-base shadow-lg border border-white/20 animate-pulse z-10">
                                 -33% OFF
@@ -587,7 +615,7 @@
 <div class="bg-white rounded-xl sm:rounded-2xl overflow-hidden shadow-sm sm:shadow-md card-hover group flex flex-row sm:flex-col border border-gray-100 sm:border-transparent p-2 sm:p-0 gap-3 sm:gap-0 border-2 border-ven-yellow">
 <div class="w-[100px] sm:w-full h-auto sm:h-64 bg-gray-100 flex items-center justify-center relative overflow-hidden flex-shrink-0 rounded-lg sm:rounded-none object-cover min-h-[100px]">
 <div class="product-img-container w-full h-full">
-<img alt="Sanduíche de Pernil Venezuelano" class="product-img w-full h-full object-cover" onerror="this.src='https://images.unsplash.com/photo-1628840042765-356cda07504e?ixlib=rb-1.2.1&amp;auto=format&amp;fit=crop&amp;w=800&amp;q=80'" src="sanduiche_pernil.jpg"/>
+<img loading="lazy" alt="Sanduíche de Pernil Venezuelano" class="product-img w-full h-full object-cover" onerror="this.src='https://images.unsplash.com/photo-1628840042765-356cda07504e?ixlib=rb-1.2.1&amp;auto=format&amp;fit=crop&amp;w=800&amp;q=80'" src="sanduiche_pernil.jpg"/>
 </div>
 <span class="absolute bottom-2 right-2 bg-ven-red text-white px-2 py-1 sm:px-3 sm:py-1 text-[10px] sm:text-xs font-black rounded shadow z-10 animate-pulse">-30% OFF</span>
 </div>
@@ -619,7 +647,7 @@
 <div class="bg-white rounded-xl sm:rounded-2xl overflow-hidden shadow-sm sm:shadow-md card-hover group flex flex-row sm:flex-col border border-gray-100 sm:border-transparent p-2 sm:p-0 gap-3 sm:gap-0 border-2 border-ven-red">
 <div class="w-[100px] sm:w-full h-auto sm:h-64 bg-gray-100 flex items-center justify-center relative overflow-hidden flex-shrink-0 rounded-lg sm:rounded-none object-cover min-h-[100px]">
 <div class="product-img-container w-full h-full">
-<img alt="Experiências Venezuelanas 1" class="product-img w-full h-full object-cover" onerror="this.src='https://images.unsplash.com/photo-1615719413546-198b25453f85?ixlib=rb-1.2.1&amp;auto=format&amp;fit=crop&amp;w=800&amp;q=80'" src="combo_experiencia_1.jpg"/>
+<img loading="lazy" alt="Experiências Venezuelanas 1" class="product-img w-full h-full object-cover" onerror="this.src='https://images.unsplash.com/photo-1615719413546-198b25453f85?ixlib=rb-1.2.1&amp;auto=format&amp;fit=crop&amp;w=800&amp;q=80'" src="combo_experiencia_1.jpg"/>
 </div>
 <span class="absolute bottom-2 right-2 bg-ven-yellow px-2 py-1 sm:px-3 sm:py-1 text-[10px] sm:text-xs font-black rounded shadow text-gray-900 z-10" data-i18n="badge_promo">Promoção!</span>
 </div>
@@ -653,7 +681,7 @@
 <div class="bg-white rounded-xl sm:rounded-2xl overflow-hidden shadow-sm sm:shadow-md card-hover group flex flex-row sm:flex-col border border-gray-100 sm:border-transparent p-2 sm:p-0 gap-3 sm:gap-0 border-2 border-ven-blue">
 <div class="w-[100px] sm:w-full h-auto sm:h-64 bg-gray-100 flex items-center justify-center relative overflow-hidden flex-shrink-0 rounded-lg sm:rounded-none object-cover min-h-[100px]">
 <div class="product-img-container w-full h-full">
-<img alt="Experiências Venezuelanas 2" class="product-img w-full h-full object-cover" onerror="this.src='https://images.unsplash.com/photo-1628840042765-356cda07504e?ixlib=rb-1.2.1&amp;auto=format&amp;fit=crop&amp;w=800&amp;q=80'" src="combo_experiencia_2.jpg"/>
+<img loading="lazy" alt="Experiências Venezuelanas 2" class="product-img w-full h-full object-cover" onerror="this.src='https://images.unsplash.com/photo-1628840042765-356cda07504e?ixlib=rb-1.2.1&amp;auto=format&amp;fit=crop&amp;w=800&amp;q=80'" src="combo_experiencia_2.jpg"/>
 </div>
 <span class="absolute bottom-2 right-2 bg-ven-yellow px-2 py-1 sm:px-3 sm:py-1 text-[10px] sm:text-xs font-black rounded shadow text-gray-900 z-10" data-i18n="badge_promo">Promoção!</span>
 </div>
@@ -687,7 +715,7 @@
 <div class="bg-white rounded-xl sm:rounded-2xl overflow-hidden shadow-sm sm:shadow-md card-hover group flex flex-row sm:flex-col border border-gray-100 sm:border-transparent p-2 sm:p-0 gap-3 sm:gap-0 border-2 border-ven-yellow">
 <div class="w-[100px] sm:w-full h-auto sm:h-64 bg-gray-100 flex items-center justify-center relative overflow-hidden flex-shrink-0 rounded-lg sm:rounded-none object-cover min-h-[100px]">
 <div class="product-img-container w-full h-full">
-<img alt="Combo Caracas" class="product-img w-full h-full object-cover" onerror="this.src='https://images.unsplash.com/photo-1606525437678-a400f2e34774?ixlib=rb-1.2.1&amp;auto=format&amp;fit=crop&amp;w=800&amp;q=80'" src="combo_caracas.jpg"/>
+<img loading="lazy" alt="Combo Caracas" class="product-img w-full h-full object-cover" onerror="this.src='https://images.unsplash.com/photo-1606525437678-a400f2e34774?ixlib=rb-1.2.1&amp;auto=format&amp;fit=crop&amp;w=800&amp;q=80'" src="combo_caracas.jpg"/>
 </div>
 <span class="absolute bottom-2 right-2 bg-ven-red text-white px-2 py-1 sm:px-3 sm:py-1 text-[10px] sm:text-xs font-black rounded shadow z-10 animate-pulse" data-i18n="badge_promo_30">-30% OFF</span>
 </div>
@@ -713,7 +741,7 @@
 <div class="bg-white rounded-xl sm:rounded-2xl overflow-hidden shadow-sm sm:shadow-md card-hover group flex flex-row sm:flex-col border border-gray-100 sm:border-transparent p-2 sm:p-0 gap-3 sm:gap-0 border-2 border-ven-red">
 <div class="w-[100px] sm:w-full h-auto sm:h-64 bg-gray-100 flex items-center justify-center relative overflow-hidden flex-shrink-0 rounded-lg sm:rounded-none object-cover min-h-[100px]">
 <div class="product-img-container w-full h-full">
-<img alt="Combo Duo Venezuelano" class="product-img w-full h-full object-cover" onerror="this.src='https://images.unsplash.com/photo-1543339308-43e59d6b73a6?ixlib=rb-1.2.1&amp;auto=format&amp;fit=crop&amp;w=800&amp;q=80'" src="combo_duo_venezuelano.jpg"/>
+<img loading="lazy" alt="Combo Duo Venezuelano" class="product-img w-full h-full object-cover" onerror="this.src='https://images.unsplash.com/photo-1543339308-43e59d6b73a6?ixlib=rb-1.2.1&amp;auto=format&amp;fit=crop&amp;w=800&amp;q=80'" src="combo_duo_venezuelano.jpg"/>
 </div>
 <span class="absolute bottom-2 right-2 bg-ven-red text-white px-2 py-1 sm:px-3 sm:py-1 text-[10px] sm:text-xs font-black rounded shadow z-10 animate-pulse">-33% OFF</span>
 </div>
@@ -746,7 +774,7 @@
 <div class="bg-white rounded-xl sm:rounded-2xl overflow-hidden shadow-sm sm:shadow-md card-hover group flex flex-row sm:flex-col border border-gray-100 sm:border-transparent p-2 sm:p-0 gap-3 sm:gap-0">
 <div class="w-[100px] sm:w-full h-auto sm:h-64 bg-gray-100 flex items-center justify-center relative overflow-hidden flex-shrink-0 rounded-lg sm:rounded-none object-cover min-h-[100px]">
 <div class="product-img-container w-full h-full">
-<img alt="Arepa Pabellón" class="product-img w-full h-full object-cover" onerror="this.onerror=null; this.src='https://images.unsplash.com/photo-1615719413546-198b25453f85?ixlib=rb-1.2.1&amp;auto=format&amp;fit=crop&amp;w=800&amp;q=80';" src="arepa_pabellon.jpg"/>
+<img loading="lazy" alt="Arepa Pabellón" class="product-img w-full h-full object-cover" onerror="this.onerror=null; this.src='https://images.unsplash.com/photo-1615719413546-198b25453f85?ixlib=rb-1.2.1&amp;auto=format&amp;fit=crop&amp;w=800&amp;q=80';" src="arepa_pabellon.jpg"/>
 </div>
 <span class="absolute bottom-2 right-2 bg-white px-2 py-1 text-[10px] sm:text-xs font-bold rounded shadow text-gray-600 z-10" data-i18n="badge_popular">Popular</span>
 </div>
@@ -767,7 +795,7 @@
 <div class="bg-white rounded-xl sm:rounded-2xl overflow-hidden shadow-sm sm:shadow-md card-hover group flex flex-row sm:flex-col border border-gray-100 sm:border-transparent p-2 sm:p-0 gap-3 sm:gap-0">
 <div class="w-[100px] sm:w-full h-auto sm:h-64 bg-gray-100 flex items-center justify-center relative overflow-hidden flex-shrink-0 rounded-lg sm:rounded-none object-cover min-h-[100px]">
 <div class="product-img-container w-full h-full">
-<img alt="Arepa Reina pepeada" class="product-img w-full h-full object-cover" onerror="this.onerror=null; this.src='https://images.unsplash.com/photo-1615719413546-198b25453f85?ixlib=rb-1.2.1&amp;auto=format&amp;fit=crop&amp;w=800&amp;q=80';" src="arepa_reinapepeada.jpg"/>
+<img loading="lazy" alt="Arepa Reina pepeada" class="product-img w-full h-full object-cover" onerror="this.onerror=null; this.src='https://images.unsplash.com/photo-1615719413546-198b25453f85?ixlib=rb-1.2.1&amp;auto=format&amp;fit=crop&amp;w=800&amp;q=80';" src="arepa_reinapepeada.jpg"/>
 </div>
 </div>
 <div class="py-1 pr-1 sm:p-6 flex flex-col flex-grow w-[calc(100%-110px)] sm:w-full">
@@ -787,7 +815,7 @@
 <div class="bg-white rounded-xl sm:rounded-2xl overflow-hidden shadow-sm sm:shadow-md card-hover group flex flex-row sm:flex-col border border-gray-100 sm:border-transparent p-2 sm:p-0 gap-3 sm:gap-0">
 <div class="w-[100px] sm:w-full h-auto sm:h-64 bg-gray-100 flex items-center justify-center relative overflow-hidden flex-shrink-0 rounded-lg sm:rounded-none object-cover min-h-[100px]">
 <div class="product-img-container w-full h-full">
-<img alt="Arepa Pelúa" class="product-img w-full h-full object-cover" onerror="this.onerror=null; this.src='https://images.unsplash.com/photo-1615719413546-198b25453f85?ixlib=rb-1.2.1&amp;auto=format&amp;fit=crop&amp;w=800&amp;q=80';" src="arepa_pelua.jpg"/>
+<img loading="lazy" alt="Arepa Pelúa" class="product-img w-full h-full object-cover" onerror="this.onerror=null; this.src='https://images.unsplash.com/photo-1615719413546-198b25453f85?ixlib=rb-1.2.1&amp;auto=format&amp;fit=crop&amp;w=800&amp;q=80';" src="arepa_pelua.jpg"/>
 </div>
 </div>
 <div class="py-1 pr-1 sm:p-6 flex flex-col flex-grow w-[calc(100%-110px)] sm:w-full">
@@ -807,7 +835,7 @@
 <div class="bg-white rounded-xl sm:rounded-2xl overflow-hidden shadow-sm sm:shadow-md card-hover group flex flex-row sm:flex-col border border-gray-100 sm:border-transparent p-2 sm:p-0 gap-3 sm:gap-0">
 <div class="w-[100px] sm:w-full h-auto sm:h-64 bg-gray-100 flex items-center justify-center relative overflow-hidden flex-shrink-0 rounded-lg sm:rounded-none object-cover min-h-[100px]">
 <div class="product-img-container w-full h-full">
-<img alt="Arepa Catira" class="product-img w-full h-full object-cover" onerror="this.onerror=null; this.src='https://images.unsplash.com/photo-1615719413546-198b25453f85?ixlib=rb-1.2.1&amp;auto=format&amp;fit=crop&amp;w=800&amp;q=80';" src="arepa_catira.jpg"/>
+<img loading="lazy" alt="Arepa Catira" class="product-img w-full h-full object-cover" onerror="this.onerror=null; this.src='https://images.unsplash.com/photo-1615719413546-198b25453f85?ixlib=rb-1.2.1&amp;auto=format&amp;fit=crop&amp;w=800&amp;q=80';" src="arepa_catira.jpg"/>
 </div>
 </div>
 <div class="py-1 pr-1 sm:p-6 flex flex-col flex-grow w-[calc(100%-110px)] sm:w-full">
@@ -827,7 +855,7 @@
 <div class="bg-white rounded-xl sm:rounded-2xl overflow-hidden shadow-sm sm:shadow-md card-hover group flex flex-row sm:flex-col border border-gray-100 sm:border-transparent p-2 sm:p-0 gap-3 sm:gap-0">
 <div class="w-[100px] sm:w-full h-auto sm:h-64 bg-gray-100 flex items-center justify-center relative overflow-hidden flex-shrink-0 rounded-lg sm:rounded-none object-cover min-h-[100px]">
 <div class="product-img-container w-full h-full">
-<img alt="Arepa de Pernil" class="product-img w-full h-full object-cover" onerror="this.onerror=null; this.src='https://images.unsplash.com/photo-1615719413546-198b25453f85?ixlib=rb-1.2.1&amp;auto=format&amp;fit=crop&amp;w=800&amp;q=80';" src="arepa_pernil.jpg"/>
+<img loading="lazy" alt="Arepa de Pernil" class="product-img w-full h-full object-cover" onerror="this.onerror=null; this.src='https://images.unsplash.com/photo-1615719413546-198b25453f85?ixlib=rb-1.2.1&amp;auto=format&amp;fit=crop&amp;w=800&amp;q=80';" src="arepa_pernil.jpg"/>
 </div>
 </div>
 <div class="py-1 pr-1 sm:p-6 flex flex-col flex-grow w-[calc(100%-110px)] sm:w-full">
@@ -847,7 +875,7 @@
 <div class="bg-white rounded-xl sm:rounded-2xl overflow-hidden shadow-sm sm:shadow-md card-hover group flex flex-row sm:flex-col border border-gray-100 sm:border-transparent p-2 sm:p-0 gap-3 sm:gap-0">
 <div class="w-[100px] sm:w-full h-auto sm:h-64 bg-gray-100 flex items-center justify-center relative overflow-hidden flex-shrink-0 rounded-lg sm:rounded-none object-cover min-h-[100px]">
 <div class="product-img-container w-full h-full">
-<img alt="Arepa de Camarão" class="product-img w-full h-full object-cover" onerror="this.onerror=null; this.src='https://images.unsplash.com/photo-1615719413546-198b25453f85?ixlib=rb-1.2.1&amp;auto=format&amp;fit=crop&amp;w=800&amp;q=80';" src="arepa_camarao.jpg"/>
+<img loading="lazy" alt="Arepa de Camarão" class="product-img w-full h-full object-cover" onerror="this.onerror=null; this.src='https://images.unsplash.com/photo-1615719413546-198b25453f85?ixlib=rb-1.2.1&amp;auto=format&amp;fit=crop&amp;w=800&amp;q=80';" src="arepa_camarao.jpg"/>
 </div>
 </div>
 <div class="py-1 pr-1 sm:p-6 flex flex-col flex-grow w-[calc(100%-110px)] sm:w-full">
@@ -867,7 +895,7 @@
 <div class="bg-white rounded-xl sm:rounded-2xl overflow-hidden shadow-sm sm:shadow-md group flex flex-row sm:flex-col border border-gray-100 sm:border-transparent p-2 sm:p-0 gap-3 sm:gap-0 opacity-60 grayscale pointer-events-none">
 <div class="w-[100px] sm:w-full h-auto sm:h-64 bg-gray-100 flex items-center justify-center relative overflow-hidden flex-shrink-0 rounded-lg sm:rounded-none object-cover min-h-[100px]">
 <div class="product-img-container w-full h-full">
-<img alt="Arepa Vegetariana" class="product-img w-full h-full object-cover" onerror="this.onerror=null; this.src='https://images.unsplash.com/photo-1615719413546-198b25453f85?ixlib=rb-1.2.1&amp;auto=format&amp;fit=crop&amp;w=800&amp;q=80';" src="arepa_vegetariana.jpg"/>
+<img loading="lazy" alt="Arepa Vegetariana" class="product-img w-full h-full object-cover" onerror="this.onerror=null; this.src='https://images.unsplash.com/photo-1615719413546-198b25453f85?ixlib=rb-1.2.1&amp;auto=format&amp;fit=crop&amp;w=800&amp;q=80';" src="arepa_vegetariana.jpg"/>
 <div class="absolute inset-0 bg-black/50 z-20 flex items-center justify-center backdrop-blur-[2px]"><span class="text-white font-black px-3 py-1 bg-red-600 border border-red-800 rounded shadow-lg transform -rotate-12 text-[10px] sm:text-xs" data-i18n="out_of_stock_tag">Esgotado / Agotado</span></div></div>
 </div>
 <div class="py-1 pr-1 sm:p-6 flex flex-col flex-grow w-[calc(100%-110px)] sm:w-full">
@@ -893,7 +921,7 @@
 <div class="bg-white rounded-xl sm:rounded-2xl overflow-hidden shadow-sm sm:shadow-md card-hover group flex flex-row sm:flex-col border border-gray-100 sm:border-transparent p-2 sm:p-0 gap-3 sm:gap-0">
 <div class="w-[100px] sm:w-full h-auto sm:h-64 bg-gray-100 flex items-center justify-center relative overflow-hidden flex-shrink-0 rounded-lg sm:rounded-none object-cover min-h-[100px]">
 <div class="product-img-container w-full h-full">
-<img alt="Cachapa de Queijo" class="product-img w-full h-full object-cover" onerror="this.onerror=null; this.src='https://images.unsplash.com/photo-1628840042765-356cda07504e?ixlib=rb-1.2.1&amp;auto=format&amp;fit=crop&amp;w=800&amp;q=80';" src="cachapa_queijo.jpg"/>
+<img loading="lazy" alt="Cachapa de Queijo" class="product-img w-full h-full object-cover" onerror="this.onerror=null; this.src='https://images.unsplash.com/photo-1628840042765-356cda07504e?ixlib=rb-1.2.1&amp;auto=format&amp;fit=crop&amp;w=800&amp;q=80';" src="cachapa_queijo.jpg"/>
 </div>
 </div>
 <div class="py-1 pr-1 sm:p-6 flex flex-col flex-grow w-[calc(100%-110px)] sm:w-full">
@@ -913,7 +941,7 @@
 <div class="bg-white rounded-xl sm:rounded-2xl overflow-hidden shadow-sm sm:shadow-md card-hover group flex flex-row sm:flex-col border border-gray-100 sm:border-transparent p-2 sm:p-0 gap-3 sm:gap-0">
 <div class="w-[100px] sm:w-full h-auto sm:h-64 bg-gray-100 flex items-center justify-center relative overflow-hidden flex-shrink-0 rounded-lg sm:rounded-none object-cover min-h-[100px]">
 <div class="product-img-container w-full h-full">
-<img alt="Cachapa Carne Desfiada" class="product-img w-full h-full object-cover" onerror="this.onerror=null; this.src='https://images.unsplash.com/photo-1628840042765-356cda07504e?ixlib=rb-1.2.1&amp;auto=format&amp;fit=crop&amp;w=800&amp;q=80';" src="cachapa_carne.jpg"/>
+<img loading="lazy" alt="Cachapa Carne Desfiada" class="product-img w-full h-full object-cover" onerror="this.onerror=null; this.src='https://images.unsplash.com/photo-1628840042765-356cda07504e?ixlib=rb-1.2.1&amp;auto=format&amp;fit=crop&amp;w=800&amp;q=80';" src="cachapa_carne.jpg"/>
 </div>
 </div>
 <div class="py-1 pr-1 sm:p-6 flex flex-col flex-grow w-[calc(100%-110px)] sm:w-full">
@@ -933,7 +961,7 @@
 <div class="bg-white rounded-xl sm:rounded-2xl overflow-hidden shadow-sm sm:shadow-md card-hover group flex flex-row sm:flex-col border border-gray-100 sm:border-transparent p-2 sm:p-0 gap-3 sm:gap-0">
 <div class="w-[100px] sm:w-full h-auto sm:h-64 bg-gray-100 flex items-center justify-center relative overflow-hidden flex-shrink-0 rounded-lg sm:rounded-none object-cover min-h-[100px]">
 <div class="product-img-container w-full h-full">
-<img alt="Cachapa Pernil" class="product-img w-full h-full object-cover" onerror="this.onerror=null; this.src='https://images.unsplash.com/photo-1628840042765-356cda07504e?ixlib=rb-1.2.1&amp;auto=format&amp;fit=crop&amp;w=800&amp;q=80';" src="cachapa_pernil.jpg"/>
+<img loading="lazy" alt="Cachapa Pernil" class="product-img w-full h-full object-cover" onerror="this.onerror=null; this.src='https://images.unsplash.com/photo-1628840042765-356cda07504e?ixlib=rb-1.2.1&amp;auto=format&amp;fit=crop&amp;w=800&amp;q=80';" src="cachapa_pernil.jpg"/>
 </div>
 </div>
 <div class="py-1 pr-1 sm:p-6 flex flex-col flex-grow w-[calc(100%-110px)] sm:w-full">
@@ -953,7 +981,7 @@
 <div class="bg-white rounded-xl sm:rounded-2xl overflow-hidden shadow-sm sm:shadow-md card-hover group flex flex-row sm:flex-col border border-gray-100 sm:border-transparent p-2 sm:p-0 gap-3 sm:gap-0">
 <div class="w-[100px] sm:w-full h-auto sm:h-64 bg-gray-100 flex items-center justify-center relative overflow-hidden flex-shrink-0 rounded-lg sm:rounded-none object-cover min-h-[100px]">
 <div class="product-img-container w-full h-full">
-<img alt="Cachapa Pabellón" class="product-img w-full h-full object-cover" onerror="this.onerror=null; this.src='https://images.unsplash.com/photo-1628840042765-356cda07504e?ixlib=rb-1.2.1&amp;auto=format&amp;fit=crop&amp;w=800&amp;q=80';" src="cachapa_pabellon.jpg"/>
+<img loading="lazy" alt="Cachapa Pabellón" class="product-img w-full h-full object-cover" onerror="this.onerror=null; this.src='https://images.unsplash.com/photo-1628840042765-356cda07504e?ixlib=rb-1.2.1&amp;auto=format&amp;fit=crop&amp;w=800&amp;q=80';" src="cachapa_pabellon.jpg"/>
 </div>
 </div>
 <div class="py-1 pr-1 sm:p-6 flex flex-col flex-grow w-[calc(100%-110px)] sm:w-full">
@@ -973,7 +1001,7 @@
 <div class="bg-white rounded-xl sm:rounded-2xl overflow-hidden shadow-sm sm:shadow-md group flex flex-row sm:flex-col border border-gray-100 sm:border-transparent p-2 sm:p-0 gap-3 sm:gap-0 opacity-60 grayscale pointer-events-none">
 <div class="w-[100px] sm:w-full h-auto sm:h-64 bg-gray-100 flex items-center justify-center relative overflow-hidden flex-shrink-0 rounded-lg sm:rounded-none object-cover min-h-[100px]">
 <div class="product-img-container w-full h-full">
-<img alt="Cachapa Vegetal" class="product-img w-full h-full object-cover" onerror="this.onerror=null; this.src='https://images.unsplash.com/photo-1628840042765-356cda07504e?ixlib=rb-1.2.1&amp;auto=format&amp;fit=crop&amp;w=800&amp;q=80';" src="cachapa_veg.jpg"/>
+<img loading="lazy" alt="Cachapa Vegetal" class="product-img w-full h-full object-cover" onerror="this.onerror=null; this.src='https://images.unsplash.com/photo-1628840042765-356cda07504e?ixlib=rb-1.2.1&amp;auto=format&amp;fit=crop&amp;w=800&amp;q=80';" src="cachapa_veg.jpg"/>
 <div class="absolute inset-0 bg-black/50 z-20 flex items-center justify-center backdrop-blur-[2px]"><span class="text-white font-black px-3 py-1 bg-red-600 border border-red-800 rounded shadow-lg transform -rotate-12 text-[10px] sm:text-xs" data-i18n="out_of_stock_tag">Esgotado / Agotado</span></div></div>
 </div>
 <div class="py-1 pr-1 sm:p-6 flex flex-col flex-grow w-[calc(100%-110px)] sm:w-full">
@@ -993,7 +1021,7 @@
 <div class="bg-white rounded-xl sm:rounded-2xl overflow-hidden shadow-sm sm:shadow-md card-hover group flex flex-row sm:flex-col border border-gray-100 sm:border-transparent p-2 sm:p-0 gap-3 sm:gap-0">
 <div class="w-[100px] sm:w-full h-auto sm:h-64 bg-gray-100 flex items-center justify-center relative overflow-hidden flex-shrink-0 rounded-lg sm:rounded-none object-cover min-h-[100px]">
 <div class="product-img-container w-full h-full">
-<img alt="Cachapa com Cochino Frito" class="product-img w-full h-full object-cover" onerror="this.onerror=null; this.src='https://images.unsplash.com/photo-1628840042765-356cda07504e?ixlib=rb-1.2.1&amp;auto=format&amp;fit=crop&amp;w=800&amp;q=80';" src="cachapa_chicharrones.jpg"/>
+<img loading="lazy" alt="Cachapa com Cochino Frito" class="product-img w-full h-full object-cover" onerror="this.onerror=null; this.src='https://images.unsplash.com/photo-1628840042765-356cda07504e?ixlib=rb-1.2.1&amp;auto=format&amp;fit=crop&amp;w=800&amp;q=80';" src="cachapa_chicharrones.jpg"/>
 </div>
 </div>
 <div class="py-1 pr-1 sm:p-6 flex flex-col flex-grow w-[calc(100%-110px)] sm:w-full">
@@ -1019,7 +1047,7 @@
 <div class="bg-white rounded-xl sm:rounded-2xl overflow-hidden shadow-sm sm:shadow-md card-hover group flex flex-row sm:flex-col border border-gray-100 sm:border-transparent p-2 sm:p-0 gap-3 sm:gap-0">
 <div class="w-[100px] sm:w-full h-auto sm:h-64 bg-gray-100 flex items-center justify-center relative overflow-hidden flex-shrink-0 rounded-lg sm:rounded-none object-cover min-h-[100px]">
 <div class="product-img-container w-full h-full">
-<img alt="Empanada de Carne" class="product-img w-full h-full object-cover" onerror="this.onerror=null; this.src='https://images.unsplash.com/photo-1606525437678-a400f2e34774?ixlib=rb-1.2.1&amp;auto=format&amp;fit=crop&amp;w=800&amp;q=80';" src="empanada_carne.jpg"/>
+<img loading="lazy" alt="Empanada de Carne" class="product-img w-full h-full object-cover" onerror="this.onerror=null; this.src='https://images.unsplash.com/photo-1606525437678-a400f2e34774?ixlib=rb-1.2.1&amp;auto=format&amp;fit=crop&amp;w=800&amp;q=80';" src="empanada_carne.jpg"/>
 </div>
 </div>
 <div class="py-1 pr-1 sm:p-6 flex flex-col flex-grow w-[calc(100%-110px)] sm:w-full">
@@ -1039,7 +1067,7 @@
 <div class="bg-white rounded-xl sm:rounded-2xl overflow-hidden shadow-sm sm:shadow-md card-hover group flex flex-row sm:flex-col border border-gray-100 sm:border-transparent p-2 sm:p-0 gap-3 sm:gap-0">
 <div class="w-[100px] sm:w-full h-auto sm:h-64 bg-gray-100 flex items-center justify-center relative overflow-hidden flex-shrink-0 rounded-lg sm:rounded-none object-cover min-h-[100px]">
 <div class="product-img-container w-full h-full">
-<img alt="Empanada de Queijo" class="product-img w-full h-full object-cover" onerror="this.onerror=null; this.src='https://images.unsplash.com/photo-1606525437678-a400f2e34774?ixlib=rb-1.2.1&amp;auto=format&amp;fit=crop&amp;w=800&amp;q=80';" src="empanada_queijo.jpg"/>
+<img loading="lazy" alt="Empanada de Queijo" class="product-img w-full h-full object-cover" onerror="this.onerror=null; this.src='https://images.unsplash.com/photo-1606525437678-a400f2e34774?ixlib=rb-1.2.1&amp;auto=format&amp;fit=crop&amp;w=800&amp;q=80';" src="empanada_queijo.jpg"/>
 </div>
 </div>
 <div class="py-1 pr-1 sm:p-6 flex flex-col flex-grow w-[calc(100%-110px)] sm:w-full">
@@ -1059,7 +1087,7 @@
 <div class="bg-white rounded-xl sm:rounded-2xl overflow-hidden shadow-sm sm:shadow-md group flex flex-row sm:flex-col border border-gray-100 sm:border-transparent p-2 sm:p-0 gap-3 sm:gap-0 opacity-60 grayscale pointer-events-none">
 <div class="w-[100px] sm:w-full h-auto sm:h-64 bg-gray-100 flex items-center justify-center relative overflow-hidden flex-shrink-0 rounded-lg sm:rounded-none object-cover min-h-[100px]">
 <div class="product-img-container w-full h-full">
-<img alt="Pastelito Andino" class="product-img w-full h-full object-cover" onerror="this.onerror=null; this.src='https://images.unsplash.com/photo-1543339308-43e59d6b73a6?ixlib=rb-1.2.1&amp;auto=format&amp;fit=crop&amp;w=800&amp;q=80';" src="pastelito_andino.jpg"/>
+<img loading="lazy" alt="Pastelito Andino" class="product-img w-full h-full object-cover" onerror="this.onerror=null; this.src='https://images.unsplash.com/photo-1543339308-43e59d6b73a6?ixlib=rb-1.2.1&amp;auto=format&amp;fit=crop&amp;w=800&amp;q=80';" src="pastelito_andino.jpg"/>
 <div class="absolute inset-0 bg-black/50 z-20 flex items-center justify-center backdrop-blur-[2px]"><span class="text-white font-black px-3 py-1 bg-red-600 border border-red-800 rounded shadow-lg transform -rotate-12 text-[10px] sm:text-xs" data-i18n="out_of_stock_tag">Esgotado / Agotado</span></div></div>
 </div>
 <div class="py-1 pr-1 sm:p-6 flex flex-col flex-grow w-[calc(100%-110px)] sm:w-full">
@@ -1079,7 +1107,7 @@
 <div class="bg-white rounded-xl sm:rounded-2xl overflow-hidden shadow-sm sm:shadow-md card-hover group flex flex-row sm:flex-col border border-gray-100 sm:border-transparent p-2 sm:p-0 gap-3 sm:gap-0">
 <div class="w-[100px] sm:w-full h-auto sm:h-64 bg-gray-100 flex items-center justify-center relative overflow-hidden flex-shrink-0 rounded-lg sm:rounded-none object-cover min-h-[100px]">
 <div class="product-img-container w-full h-full">
-<img alt="Empanada Pelúa" class="product-img w-full h-full object-cover" onerror="this.onerror=null; this.src='https://images.unsplash.com/photo-1606525437678-a400f2e34774?ixlib=rb-1.2.1&amp;auto=format&amp;fit=crop&amp;w=800&amp;q=80';" src="empanada_pelua.jpg"/>
+<img loading="lazy" alt="Empanada Pelúa" class="product-img w-full h-full object-cover" onerror="this.onerror=null; this.src='https://images.unsplash.com/photo-1606525437678-a400f2e34774?ixlib=rb-1.2.1&amp;auto=format&amp;fit=crop&amp;w=800&amp;q=80';" src="empanada_pelua.jpg"/>
 </div>
 </div>
 <div class="py-1 pr-1 sm:p-6 flex flex-col flex-grow w-[calc(100%-110px)] sm:w-full">
@@ -1099,7 +1127,7 @@
 <div class="bg-white rounded-xl sm:rounded-2xl overflow-hidden shadow-sm sm:shadow-md card-hover group flex flex-row sm:flex-col border border-gray-100 sm:border-transparent p-2 sm:p-0 gap-3 sm:gap-0">
 <div class="w-[100px] sm:w-full h-auto sm:h-64 bg-gray-100 flex items-center justify-center relative overflow-hidden flex-shrink-0 rounded-lg sm:rounded-none object-cover min-h-[100px]">
 <div class="product-img-container w-full h-full">
-<img alt="Empanada de Cazón" class="product-img w-full h-full object-cover" onerror="this.onerror=null; this.src='https://images.unsplash.com/photo-1606525437678-a400f2e34774?ixlib=rb-1.2.1&amp;auto=format&amp;fit=crop&amp;w=800&amp;q=80';" src="empanada_cazon.jpg"/>
+<img loading="lazy" alt="Empanada de Cazón" class="product-img w-full h-full object-cover" onerror="this.onerror=null; this.src='https://images.unsplash.com/photo-1606525437678-a400f2e34774?ixlib=rb-1.2.1&amp;auto=format&amp;fit=crop&amp;w=800&amp;q=80';" src="empanada_cazon.jpg"/>
 </div>
 </div>
 <div class="py-1 pr-1 sm:p-6 flex flex-col flex-grow w-[calc(100%-110px)] sm:w-full">
@@ -1119,7 +1147,7 @@
 <div class="bg-white rounded-xl sm:rounded-2xl overflow-hidden shadow-sm sm:shadow-md card-hover group flex flex-row sm:flex-col border border-gray-100 sm:border-transparent p-2 sm:p-0 gap-3 sm:gap-0">
 <div class="w-[100px] sm:w-full h-auto sm:h-64 bg-gray-100 flex items-center justify-center relative overflow-hidden flex-shrink-0 rounded-lg sm:rounded-none object-cover min-h-[100px]">
 <div class="product-img-container w-full h-full">
-<img alt="Empanada Presunto e Queijo" class="product-img w-full h-full object-cover" onerror="this.onerror=null; this.src='https://images.unsplash.com/photo-1606525437678-a400f2e34774?ixlib=rb-1.2.1&amp;auto=format&amp;fit=crop&amp;w=800&amp;q=80';" src="empanada_presunto_queijo.jpg"/>
+<img loading="lazy" alt="Empanada Presunto e Queijo" class="product-img w-full h-full object-cover" onerror="this.onerror=null; this.src='https://images.unsplash.com/photo-1606525437678-a400f2e34774?ixlib=rb-1.2.1&amp;auto=format&amp;fit=crop&amp;w=800&amp;q=80';" src="empanada_presunto_queijo.jpg"/>
 </div>
 </div>
 <div class="py-1 pr-1 sm:p-6 flex flex-col flex-grow w-[calc(100%-110px)] sm:w-full">
@@ -1139,7 +1167,7 @@
 <div class="bg-white rounded-xl sm:rounded-2xl overflow-hidden shadow-sm sm:shadow-md card-hover group flex flex-row sm:flex-col border border-gray-100 sm:border-transparent p-2 sm:p-0 gap-3 sm:gap-0">
     <div class="w-[100px] sm:w-full h-auto sm:h-64 bg-gray-100 flex items-center justify-center relative overflow-hidden flex-shrink-0 rounded-lg sm:rounded-none object-cover min-h-[100px]">
         <div class="product-img-container w-full h-full">
-            <img alt="Empanada de Pabellón" class="product-img w-full h-full object-cover" onerror="this.onerror=null; this.src='https://images.unsplash.com/photo-1606525437678-a400f2e34774?ixlib=rb-1.2.1&amp;auto=format&amp;fit=crop&amp;w=800&amp;q=80';" src="empanada_pabellon.png"/>
+            <img loading="lazy" alt="Empanada de Pabellón" class="product-img w-full h-full object-cover" onerror="this.onerror=null; this.src='https://images.unsplash.com/photo-1606525437678-a400f2e34774?ixlib=rb-1.2.1&amp;auto=format&amp;fit=crop&amp;w=800&amp;q=80';" src="empanada_pabellon.png"/>
         </div>
     </div>
     <div class="py-1 pr-1 sm:p-6 flex flex-col flex-grow w-[calc(100%-110px)] sm:w-full">
@@ -1165,7 +1193,7 @@
 <div class="bg-white rounded-xl sm:rounded-2xl overflow-hidden shadow-sm sm:shadow-md card-hover group flex flex-row sm:flex-col border border-gray-100 sm:border-transparent p-2 sm:p-0 gap-3 sm:gap-0">
 <div class="w-[100px] sm:w-full h-auto sm:h-64 bg-gray-100 flex items-center justify-center relative overflow-hidden flex-shrink-0 rounded-lg sm:rounded-none object-cover min-h-[100px]">
 <div class="product-img-container w-full h-full">
-<img alt="Tequeños" class="product-img w-full h-full object-cover" onerror="this.onerror=null; this.src='https://images.unsplash.com/photo-1543339308-43e59d6b73a6?ixlib=rb-1.2.1&amp;auto=format&amp;fit=crop&amp;w=800&amp;q=80';" src="tequenos.jpg"/>
+<img loading="lazy" alt="Tequeños" class="product-img w-full h-full object-cover" onerror="this.onerror=null; this.src='https://images.unsplash.com/photo-1543339308-43e59d6b73a6?ixlib=rb-1.2.1&amp;auto=format&amp;fit=crop&amp;w=800&amp;q=80';" src="tequenos.jpg"/>
 </div>
 </div>
 <div class="py-1 pr-1 sm:p-6 flex flex-col flex-grow w-[calc(100%-110px)] sm:w-full">
@@ -1200,7 +1228,7 @@
 <!-- Bebida 1: Papelón con Limón -->
 <div class="bg-white rounded-xl sm:rounded-2xl overflow-hidden shadow-sm sm:shadow-md card-hover group flex flex-row sm:flex-col border border-gray-100 sm:border-transparent p-2 sm:p-0 gap-3 sm:gap-0">
 <div class="w-[100px] sm:w-full h-auto sm:h-64 bg-gray-100 flex items-center justify-center relative overflow-hidden flex-shrink-0 rounded-lg sm:rounded-none object-cover min-h-[100px]">
-<img alt="Papelón con Limão" class="product-img w-full h-full object-cover" onerror="this.onerror=null; this.src='https://images.unsplash.com/photo-1615719413546-198b25453f85?ixlib=rb-1.2.1&amp;auto=format&amp;fit=crop&amp;w=800&amp;q=80';" src="papelon_com_limao.jpg"/>
+<img loading="lazy" alt="Papelón con Limão" class="product-img w-full h-full object-cover" onerror="this.onerror=null; this.src='https://images.unsplash.com/photo-1615719413546-198b25453f85?ixlib=rb-1.2.1&amp;auto=format&amp;fit=crop&amp;w=800&amp;q=80';" src="papelon_com_limao.jpg"/>
 </div>
 <div class="py-1 pr-1 sm:p-6 flex flex-col flex-grow w-[calc(100%-110px)] sm:w-full">
 <div class="flex justify-between items-start mb-1 sm:mb-2 gap-2 flex-col sm:flex-row">
@@ -1217,7 +1245,7 @@
 <!-- Bebida 2: Guaraná Antarctica -->
 <div class="bg-white rounded-xl sm:rounded-2xl overflow-hidden shadow-sm sm:shadow-md group flex flex-row sm:flex-col border border-gray-100 sm:border-transparent p-2 sm:p-0 gap-3 sm:gap-0 opacity-60 grayscale pointer-events-none">
 <div class="w-[100px] sm:w-full h-auto sm:h-64 bg-gray-100 flex items-center justify-center relative overflow-hidden flex-shrink-0 rounded-lg sm:rounded-none object-cover min-h-[100px]">
-<img alt="Guaraná Antarctica" class="product-img w-full h-full object-cover" onerror="this.onerror=null; this.src='https://images.unsplash.com/photo-1622483767028-3f66f32aef97?ixlib=rb-1.2.1&amp;auto=format&amp;fit=crop&amp;w=800&amp;q=80';" src="guarana.jpg"/>
+<img loading="lazy" alt="Guaraná Antarctica" class="product-img w-full h-full object-cover" onerror="this.onerror=null; this.src='https://images.unsplash.com/photo-1622483767028-3f66f32aef97?ixlib=rb-1.2.1&amp;auto=format&amp;fit=crop&amp;w=800&amp;q=80';" src="guarana.jpg"/>
 </div>
 <div class="py-1 pr-1 sm:p-6 flex flex-col flex-grow w-[calc(100%-110px)] sm:w-full">
 <div class="flex justify-between items-start mb-1 sm:mb-2 gap-2 flex-col sm:flex-row">
@@ -1234,7 +1262,7 @@
 <!-- Bebida 3: Fanta Laranja -->
 <div class="bg-white rounded-xl sm:rounded-2xl overflow-hidden shadow-sm sm:shadow-md group flex flex-row sm:flex-col border border-gray-100 sm:border-transparent p-2 sm:p-0 gap-3 sm:gap-0 opacity-60 grayscale pointer-events-none">
 <div class="w-[100px] sm:w-full h-auto sm:h-64 bg-gray-100 flex items-center justify-center relative overflow-hidden flex-shrink-0 rounded-lg sm:rounded-none object-cover min-h-[100px]">
-<img alt="Fanta Laranja" class="product-img w-full h-full object-cover" onerror="this.onerror=null; this.src='https://images.unsplash.com/photo-1622483767028-3f66f32aef97?ixlib=rb-1.2.1&amp;auto=format&amp;fit=crop&amp;w=800&amp;q=80';" src="fanta.jpg"/>
+<img loading="lazy" alt="Fanta Laranja" class="product-img w-full h-full object-cover" onerror="this.onerror=null; this.src='https://images.unsplash.com/photo-1622483767028-3f66f32aef97?ixlib=rb-1.2.1&amp;auto=format&amp;fit=crop&amp;w=800&amp;q=80';" src="fanta.jpg"/>
 </div>
 <div class="py-1 pr-1 sm:p-6 flex flex-col flex-grow w-[calc(100%-110px)] sm:w-full">
 <div class="flex justify-between items-start mb-1 sm:mb-2 gap-2 flex-col sm:flex-row">
@@ -1251,7 +1279,7 @@
 <!-- Bebida 4: Coca Cola Original -->
 <div class="bg-white rounded-xl sm:rounded-2xl overflow-hidden shadow-sm sm:shadow-md card-hover group flex flex-row sm:flex-col border border-gray-100 sm:border-transparent p-2 sm:p-0 gap-3 sm:gap-0">
 <div class="w-[100px] sm:w-full h-auto sm:h-64 bg-gray-100 flex items-center justify-center relative overflow-hidden flex-shrink-0 rounded-lg sm:rounded-none object-cover min-h-[100px]">
-<img alt="Coca-Cola Sabor Original" class="product-img w-full h-full object-cover" onerror="this.onerror=null; this.src='https://images.unsplash.com/photo-1622483767028-3f66f32aef97?ixlib=rb-1.2.1&amp;auto=format&amp;fit=crop&amp;w=800&amp;q=80';" src="coca_cola_original.jpg"/>
+<img loading="lazy" alt="Coca-Cola Sabor Original" class="product-img w-full h-full object-cover" onerror="this.onerror=null; this.src='https://images.unsplash.com/photo-1622483767028-3f66f32aef97?ixlib=rb-1.2.1&amp;auto=format&amp;fit=crop&amp;w=800&amp;q=80';" src="coca_cola_original.jpg"/>
 </div>
 <div class="py-1 pr-1 sm:p-6 flex flex-col flex-grow w-[calc(100%-110px)] sm:w-full">
 <div class="flex justify-between items-start mb-1 sm:mb-2 gap-2 flex-col sm:flex-row">
@@ -1268,7 +1296,7 @@
 <!-- Bebida 5: Coca Cola Zero -->
 <div class="bg-white rounded-xl sm:rounded-2xl overflow-hidden shadow-sm sm:shadow-md card-hover group flex flex-row sm:flex-col border border-gray-100 sm:border-transparent p-2 sm:p-0 gap-3 sm:gap-0">
 <div class="w-[100px] sm:w-full h-auto sm:h-64 bg-gray-100 flex items-center justify-center relative overflow-hidden flex-shrink-0 rounded-lg sm:rounded-none object-cover min-h-[100px]">
-<img alt="Coca-Cola Zero" class="product-img w-full h-full object-cover" onerror="this.onerror=null; this.src='https://images.unsplash.com/photo-1622483767028-3f66f32aef97?ixlib=rb-1.2.1&amp;auto=format&amp;fit=crop&amp;w=800&amp;q=80';" src="coca_cola_zero.jpg"/>
+<img loading="lazy" alt="Coca-Cola Zero" class="product-img w-full h-full object-cover" onerror="this.onerror=null; this.src='https://images.unsplash.com/photo-1622483767028-3f66f32aef97?ixlib=rb-1.2.1&amp;auto=format&amp;fit=crop&amp;w=800&amp;q=80';" src="coca_cola_zero.jpg"/>
 </div>
 <div class="py-1 pr-1 sm:p-6 flex flex-col flex-grow w-[calc(100%-110px)] sm:w-full">
 <div class="flex justify-between items-start mb-1 sm:mb-2 gap-2 flex-col sm:flex-row">
@@ -1285,7 +1313,7 @@
 <!-- Bebida 6: Água Minalba -->
 <div class="bg-white rounded-xl sm:rounded-2xl overflow-hidden shadow-sm sm:shadow-md card-hover group flex flex-row sm:flex-col border border-gray-100 sm:border-transparent p-2 sm:p-0 gap-3 sm:gap-0">
 <div class="w-[100px] sm:w-full h-auto sm:h-64 bg-gray-100 flex items-center justify-center relative overflow-hidden flex-shrink-0 rounded-lg sm:rounded-none object-cover min-h-[100px]">
-<img alt="Água Minalba" class="product-img w-full h-full object-cover" onerror="this.onerror=null; this.src='https://images.unsplash.com/photo-1548839140-29a749e1bc4e?ixlib=rb-1.2.1&amp;auto=format&amp;fit=crop&amp;w=800&amp;q=80';" src="agua.jpg"/>
+<img loading="lazy" alt="Água Minalba" class="product-img w-full h-full object-cover" onerror="this.onerror=null; this.src='https://images.unsplash.com/photo-1548839140-29a749e1bc4e?ixlib=rb-1.2.1&amp;auto=format&amp;fit=crop&amp;w=800&amp;q=80';" src="agua.jpg"/>
 </div>
 <div class="py-1 pr-1 sm:p-6 flex flex-col flex-grow w-[calc(100%-110px)] sm:w-full">
 <div class="flex justify-between items-start mb-1 sm:mb-2 gap-2 flex-col sm:flex-row">
@@ -1302,7 +1330,7 @@
 <!-- Bebida 7: Malta Polar -->
 <div class="bg-white rounded-xl sm:rounded-2xl overflow-hidden shadow-sm sm:shadow-md group flex flex-row sm:flex-col border border-gray-100 sm:border-transparent p-2 sm:p-0 gap-3 sm:gap-0 opacity-60 grayscale pointer-events-none">
 <div class="w-[100px] sm:w-full h-auto sm:h-64 bg-gray-100 flex items-center justify-center relative overflow-hidden flex-shrink-0 rounded-lg sm:rounded-none object-cover min-h-[100px]">
-<img alt="Malta Polar" class="product-img w-full h-full object-cover" onerror="this.src='https://images.unsplash.com/photo-1625754593446-24df99757345?ixlib=rb-1.2.1&amp;auto=format&amp;fit=crop&amp;w=800&amp;q=80';" src="malta_polar.jpg"/>
+<img loading="lazy" alt="Malta Polar" class="product-img w-full h-full object-cover" onerror="this.src='https://images.unsplash.com/photo-1625754593446-24df99757345?ixlib=rb-1.2.1&amp;auto=format&amp;fit=crop&amp;w=800&amp;q=80';" src="malta_polar.jpg"/>
 </div>
 <div class="py-1 pr-1 sm:p-6 flex flex-col flex-grow w-[calc(100%-110px)] sm:w-full">
 <div class="flex justify-between items-start mb-1 sm:mb-2 gap-2 flex-col sm:flex-row">
@@ -1329,7 +1357,33 @@
             <div class="h-1 w-16 bg-ven-red mx-auto mt-3 rounded"></div>
         </div>
         <div class="grid grid-cols-1 md:grid-cols-2 gap-6 sm:gap-8 max-w-4xl mx-auto" id="trends-container">
-            <!-- Dynamically populated by trends.js -->
+            <!-- Skeleton Loading Shimmer (overwritten dynamically when trends.js loads) -->
+            <div class="skeleton-card bg-white rounded-2xl overflow-hidden shadow-sm border border-gray-100 p-5 flex flex-col gap-4 animate-pulse">
+                <div class="h-48 w-full rounded-xl shimmer-bg"></div>
+                <div class="flex justify-between items-center">
+                    <div class="h-3.5 w-24 rounded shimmer-bg"></div>
+                    <div class="h-3.5 w-16 rounded shimmer-bg"></div>
+                </div>
+                <div class="h-5 w-3/4 rounded shimmer-bg"></div>
+                <div class="flex flex-col gap-2">
+                    <div class="h-3.5 w-full rounded shimmer-bg"></div>
+                    <div class="h-3.5 w-5/6 rounded shimmer-bg"></div>
+                </div>
+                <div class="h-4 w-20 rounded mt-2 shimmer-bg"></div>
+            </div>
+            <div class="skeleton-card bg-white rounded-2xl overflow-hidden shadow-sm border border-gray-100 p-5 flex flex-col gap-4 animate-pulse">
+                <div class="h-48 w-full rounded-xl shimmer-bg"></div>
+                <div class="flex justify-between items-center">
+                    <div class="h-3.5 w-24 rounded shimmer-bg"></div>
+                    <div class="h-3.5 w-16 rounded shimmer-bg"></div>
+                </div>
+                <div class="h-5 w-3/4 rounded shimmer-bg"></div>
+                <div class="flex flex-col gap-2">
+                    <div class="h-3.5 w-full rounded shimmer-bg"></div>
+                    <div class="h-3.5 w-5/6 rounded shimmer-bg"></div>
+                </div>
+                <div class="h-4 w-20 rounded mt-2 shimmer-bg"></div>
+            </div>
         </div>
     </div>
 </section>
@@ -1548,7 +1602,7 @@
                     <p class="text-xs text-center text-gray-600 mb-3 font-medium" data-i18n="pix_instructions">Escaneie o QR Code ou copie a chave para pagar</p>
                     
                     <div class="bg-white p-2 rounded-xl shadow-sm border border-gray-200 mb-3">
-                        <img id="pix-qrcode" src="" alt="QR Code PIX" class="w-32 h-32 object-contain" />
+                        <img loading="lazy" id="pix-qrcode" src="" alt="QR Code PIX" class="w-32 h-32 object-contain" />
                     </div>
                     
                     <div class="w-full text-center">
@@ -1595,7 +1649,7 @@
                 <!-- Coca Cola Original -->
                 <button onclick="addUpsell(this, 'Coca-Cola Lata 350ml - Original', 9)" class="flex items-center justify-between p-3 rounded-xl border-2 border-gray-100 hover:border-ven-red transition-all group bg-white">
                     <div class="flex items-center gap-3">
-                        <img src="coca_cola_original.jpg" onerror="this.src='https://images.unsplash.com/photo-1622483767028-3f66f32aef97?ixlib=rb-1.2.1&amp;auto=format&amp;fit=crop&amp;w=800&amp;q=80';" class="w-10 h-10 object-cover rounded-md bg-gray-100">
+                        <img loading="lazy" src="coca_cola_original.jpg" onerror="this.src='https://images.unsplash.com/photo-1622483767028-3f66f32aef97?ixlib=rb-1.2.1&amp;auto=format&amp;fit=crop&amp;w=800&amp;q=80';" class="w-10 h-10 object-cover rounded-md bg-gray-100">
                         <div>
                             <span class="block font-bold text-gray-800 text-sm">Coca-Cola Lata</span>
                             <span class="block text-xs text-ven-red font-black">+ R$ 9,00</span>
@@ -1609,7 +1663,7 @@
                 <!-- Papelón con Limón -->
                 <button onclick="addUpsell(this, 'Papelón com Limão', 15)" class="flex items-center justify-between p-3 rounded-xl border-2 border-gray-100 hover:border-ven-red transition-all group bg-white">
                     <div class="flex items-center gap-3">
-                        <img src="papelon_com_limao.jpg" onerror="this.src='https://images.unsplash.com/photo-1615719413546-198b25453f85?ixlib=rb-1.2.1&amp;auto=format&amp;fit=crop&amp;w=800&amp;q=80';" class="w-10 h-10 object-cover rounded-md bg-gray-100">
+                        <img loading="lazy" src="papelon_com_limao.jpg" onerror="this.src='https://images.unsplash.com/photo-1615719413546-198b25453f85?ixlib=rb-1.2.1&amp;auto=format&amp;fit=crop&amp;w=800&amp;q=80';" class="w-10 h-10 object-cover rounded-md bg-gray-100">
                         <div>
                             <span class="block font-bold text-gray-800 text-sm" data-i18n="name_papelon">Papelón com Limão</span>
                             <span class="block text-xs text-ven-red font-black">+ R$ 15,00</span>
@@ -1623,7 +1677,7 @@
                 <!-- Água Minalba -->
                 <button onclick="addUpsell(this, 'Água Minalba 510ml', 6)" class="flex items-center justify-between p-3 rounded-xl border-2 border-gray-100 hover:border-ven-red transition-all group bg-white">
                     <div class="flex items-center gap-3">
-                        <img src="agua.jpg" onerror="this.src='https://images.unsplash.com/photo-1548839140-29a749e1bc4e?ixlib=rb-1.2.1&amp;auto=format&amp;fit=crop&amp;w=800&amp;q=80';" class="w-10 h-10 object-cover rounded-md bg-gray-100">
+                        <img loading="lazy" src="agua.jpg" onerror="this.src='https://images.unsplash.com/photo-1548839140-29a749e1bc4e?ixlib=rb-1.2.1&amp;auto=format&amp;fit=crop&amp;w=800&amp;q=80';" class="w-10 h-10 object-cover rounded-md bg-gray-100">
                         <div>
                             <span class="block font-bold text-gray-800 text-sm">Água Minalba Nat 510ml</span>
                             <span class="block text-xs text-ven-red font-black">+ R$ 6,00</span>
@@ -1815,7 +1869,10 @@ let currentLang = 'pt';
                 upsell_title: "¿Falta algo para beber?",
                 upsell_subtitle: "¡Completa tu pedido con una bebida bien fría!",
                 upsell_checkout: "Continuar al Pago",
-                upsell_cancel: "Volver al carrito"
+                upsell_cancel: "Volver al carrito",
+                pwa_install_nav: "Instalar App",
+                pwa_install_text: "Instala nuestra aplicación para acceso rápido, modo offline y ahorro de datos.",
+                pwa_install_btn: "Descargar Aplicación"
                 },
             pt: {
                 trends_subtitle: "Tendências & Novidades",
@@ -1979,7 +2036,10 @@ let currentLang = 'pt';
                 upsell_title: "Falta algo para beber?",
                 upsell_subtitle: "Complete seu pedido com uma bebida geladinha!",
                 upsell_checkout: "Continuar para Pagamento",
-                upsell_cancel: "Voltar para o Carrinho"
+                upsell_cancel: "Voltar para o Carrinho",
+                pwa_install_nav: "Baixar App",
+                pwa_install_text: "Instale nosso aplicativo para acesso rápido, modo offline e economia de dados.",
+                pwa_install_btn: "Baixar Aplicativo"
                 }
         };
 
@@ -2654,7 +2714,7 @@ let currentLang = 'pt';
                 
                 card.innerHTML = `
                     <div class="h-48 w-full overflow-hidden relative bg-gray-100">
-                        <img src="${item.image}" alt="${title}" class="w-full h-full object-cover group-hover:scale-105 transition-transform duration-500" onerror="this.src='https://images.unsplash.com/photo-1543339308-43e59d6b73a6?ixlib=rb-1.2.1&auto=format&fit=crop&w=800&q=80'">
+                        <img loading="lazy" src="${item.image}" alt="${title}" class="w-full h-full object-cover group-hover:scale-105 transition-transform duration-500" onerror="this.src='https://images.unsplash.com/photo-1543339308-43e59d6b73a6?ixlib=rb-1.2.1&auto=format&fit=crop&w=800&q=80'">
                         <div class="absolute top-3 left-3 bg-white/90 backdrop-blur-sm text-gray-800 text-[10px] sm:text-xs font-bold px-2.5 py-1 rounded-full shadow-sm flex items-center gap-1">
                             <span>${item.flag}</span>
                             <span>${item.country}</span>
@@ -3023,6 +3083,80 @@ let currentLang = 'pt';
             });
         }
 
+        // --- LOGICA DE INSTALACION DE PWA ---
+        let deferredPrompt;
+        const installBtn = document.getElementById('install-app-btn');
+        const installBanner = document.getElementById('pwa-install-banner');
+        const dismissBtn = document.getElementById('pwa-dismiss-btn');
+        const installAction = document.getElementById('pwa-install-action');
+
+        window.addEventListener('beforeinstallprompt', (e) => {
+            // Prevent the mini-infobar from appearing on mobile
+            e.preventDefault();
+            // Stash the event so it can be triggered later.
+            deferredPrompt = e;
+            
+            // Check if user has dismissed it in this session
+            const isDismissed = sessionStorage.getItem('pwa-install-dismissed');
+            
+            // Show the install button in navbar (desktop/tablet)
+            if (installBtn) {
+                installBtn.style.display = 'flex';
+            }
+            
+            // Show the mobile banner (only on mobile screens and if not dismissed)
+            if (installBanner && !isDismissed && window.innerWidth < 768) {
+                setTimeout(() => {
+                    installBanner.classList.remove('translate-y-32', 'opacity-0', 'pointer-events-none');
+                    installBanner.classList.add('translate-y-0', 'opacity-100');
+                }, 2000);
+            }
+        });
+
+        // Trigger PWA Installation
+        async function triggerPWAInstall() {
+            if (!deferredPrompt) return;
+            
+            // Hide promotion UI
+            hidePWAUI();
+            
+            // Show prompt
+            deferredPrompt.prompt();
+            
+            // Wait for user choice
+            const { outcome } = await deferredPrompt.userChoice;
+            console.log(`[PWA] User choice outcome: ${outcome}`);
+            
+            deferredPrompt = null;
+        }
+
+        function hidePWAUI() {
+            if (installBtn) installBtn.style.display = 'none';
+            if (installBanner) {
+                installBanner.classList.add('translate-y-32', 'opacity-0', 'pointer-events-none');
+                installBanner.classList.remove('translate-y-0', 'opacity-100');
+            }
+        }
+
+        if (installBtn) {
+            installBtn.addEventListener('click', triggerPWAInstall);
+        }
+        if (installAction) {
+            installAction.addEventListener('click', triggerPWAInstall);
+        }
+        if (dismissBtn) {
+            dismissBtn.addEventListener('click', () => {
+                sessionStorage.setItem('pwa-install-dismissed', 'true');
+                hidePWAUI();
+            });
+        }
+
+        window.addEventListener('appinstalled', (evt) => {
+            console.log('[PWA] App installed successfully');
+            hidePWAUI();
+            deferredPrompt = null;
+        });
+
         // --- CARGADOR DE PRUEBAS AUTOMATIZADAS (TDD) ---
         if (window.location.search.includes('run-tests=true')) {
             const testScript = document.createElement('script');
@@ -3042,7 +3176,7 @@ let currentLang = 'pt';
 <div class="overflow-y-auto flex-1 min-h-0 w-full flex flex-col custom-scroll pb-32 md:pb-28 overscroll-contain rounded-t-[2.5rem] md:rounded-[2.5rem]" style="-webkit-overflow-scrolling: touch;">
 <!-- Hero Image -->
 <div class="w-full h-64 sm:h-72 bg-[#f8f9fa] flex items-center justify-center relative overflow-hidden shrink-0">
-<img alt="Produto" class="w-full h-full object-cover" id="modal-product-img" src=""/>
+<img loading="lazy" alt="Produto" class="w-full h-full object-cover" id="modal-product-img" src=""/>
 <div class="absolute inset-x-0 bottom-0 h-24 bg-gradient-to-t from-white to-transparent pointer-events-none"></div>
 </div>
 <!-- Content -->
@@ -3089,7 +3223,7 @@ let currentLang = 'pt';
         <div class="overflow-y-auto flex-grow scrollbar-hide">
             <!-- Header Image -->
             <div class="h-56 sm:h-64 w-full overflow-hidden relative bg-gray-100 flex-shrink-0">
-                <img id="modal-trend-img" src="" alt="" class="w-full h-full object-cover">
+                <img loading="lazy" id="modal-trend-img" src="" alt="" class="w-full h-full object-cover">
                 <div class="absolute inset-0 bg-gradient-to-t from-black/60 to-transparent"></div>
                 <div class="absolute bottom-4 left-4 bg-white/90 backdrop-blur-sm text-gray-800 text-xs font-bold px-3 py-1 rounded-full shadow-sm flex items-center gap-1.5">
                     <span id="modal-trend-flag"></span>
@@ -3135,6 +3269,27 @@ let currentLang = 'pt';
         <input type="hidden" name="entry.1628001646" id="entry-conteo">
         <input type="hidden" name="entry.997281801" id="entry-gasto-total">
     </form>
+        <!-- Mobile Install Banner -->
+    <div id="pwa-install-banner" class="fixed bottom-24 left-1/2 transform -translate-x-1/2 w-[92%] max-w-[400px] bg-stone-900/95 backdrop-blur-md border border-stone-800 rounded-2xl p-4 shadow-2xl z-[150] flex flex-col gap-3 transition-all duration-300 translate-y-32 opacity-0 pointer-events-none">
+        <div class="flex items-start gap-3">
+            <div class="h-12 w-12 rounded-xl overflow-hidden shadow-md border border-white/10 shrink-0 bg-stone-800">
+                <img alt="App Logo" class="w-full h-full object-cover" src="app_icon_192.png"/>
+            </div>
+            <div class="flex-grow text-left">
+                <h4 class="text-white text-sm font-bold tracking-tight">Venezuela Bistro SP</h4>
+                <p class="text-stone-400 text-xs mt-0.5" data-i18n="pwa_install_text">Instale nuestro aplicativo para acceso rápido, modo offline y ahorro de datos.</p>
+            </div>
+            <button id="pwa-dismiss-btn" class="text-stone-400 hover:text-white p-1 rounded-full hover:bg-stone-800/50 transition-colors">
+                <i class="w-4.5 h-4.5" data-lucide="x"></i>
+            </button>
+        </div>
+        <div class="flex items-center gap-2 mt-1">
+            <button id="pwa-install-action" class="flex-grow bg-ven-red hover:bg-red-700 text-white text-xs font-bold py-2.5 px-4 rounded-xl shadow-md active:scale-[0.98] transition-all flex items-center justify-center gap-1.5">
+                <i class="w-4 h-4" data-lucide="download"></i>
+                <span data-i18n="pwa_install_btn">Descargar Aplicación</span>
+            </button>
+        </div>
+    </div>
     <iframe name="hidden_iframe" id="hidden_iframe" style="display:none;"></iframe>
 </body>
 </html>
