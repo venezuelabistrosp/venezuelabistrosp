@@ -1,4 +1,4 @@
-# Relatório de Pesquisa de Tendências (Nuvem) - 2026-05-29 22:19:52
+# Relatório de Pesquisa de Tendências - 2026-05-29 22:46:58
 
 ## 🇻🇪 Projeto Ubre: A Revolução Sustentável que Reivindica a Identidade Gastronômica Venezuelana (Venezuela)
 **Restaurante:** Proyecto Ubre (Caracas) | **Data:** Maio 2026 | [Link](https://www.expresoinfo.com/venezuela-rompe-barreras-a-traves-de-la-gastronomia/)
