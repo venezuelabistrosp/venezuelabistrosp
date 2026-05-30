@@ -5,6 +5,7 @@
 <meta charset="utf-8"/>
 <meta content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no" name="viewport"/>
 <title>Venezuela Bistro SP - Delivery</title>
+<link rel="manifest" href="manifest.json">
 <!-- Meta Tags para Comportamiento de App (PWA) -->
 <meta content="#CF142B" name="theme-color"/>
 <meta content="yes" name="apple-mobile-web-app-capable"/>
@@ -3012,7 +3013,24 @@ let currentLang = 'pt';
                 modal.classList.remove('flex');
             }, 300);
         }
-    </script>
+    
+        // --- REGISTRO DE SERVICE WORKER PARA PWA ---
+        if ('serviceWorker' in navigator) {
+            window.addEventListener('load', () => {
+                navigator.serviceWorker.register('sw.js')
+                    .then(reg => console.log('[Service Worker] Registered successfully', reg.scope))
+                    .catch(err => console.error('[Service Worker] Registration failed', err));
+            });
+        }
+
+        // --- CARGADOR DE PRUEBAS AUTOMATIZADAS (TDD) ---
+        if (window.location.search.includes('run-tests=true')) {
+            const testScript = document.createElement('script');
+            testScript.src = 'tests.js';
+            testScript.defer = true;
+            document.body.appendChild(testScript);
+        }
+</script>
 <!-- Product Detail Modal (Dribbble Style Bottom Sheet) -->
 <div class="fixed inset-0 z-[200] bg-black/60 backdrop-blur-sm hidden flex-col justify-end md:justify-center md:items-center transition-opacity opacity-0 duration-300 p-0 md:p-4" id="product-detail-modal">
 <div class="bg-white w-full md:max-w-[440px] rounded-t-[2.5rem] md:rounded-[2.5rem] max-h-[90vh] md:max-h-[85vh] flex flex-col relative shadow-2xl transform translate-y-full md:translate-y-10 transition-transform duration-300 ease-out overflow-hidden" id="product-modal-content">
