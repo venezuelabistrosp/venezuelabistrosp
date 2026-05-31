@@ -1,4 +1,18 @@
-# Relatório de Pesquisa de Tendências (Nuvem) - 2026-05-30 14:12:20
+# Relatório de Pesquisa de Tendências (Nuvem) - 2026-05-31 18:06:22
+
+## 🇨🇦 The Arepa Republic: A Arepa Venezuelana Conquista Toronto com Sabor e Tradição (Canadá)
+**Restaurante:** Arepa Republic (Toronto) | **Data:** Maio 2026 | [Link](https://eldiariovenezuela.com/2025/08/20/un-restaurante-venezolano-populariza-la-arepa-en-canada/)
+
+The Arepa Republic em Toronto popularizou a arepa venezuelana, adaptando-a ao paladar canadense. O chef Luis Manuel Córdoba oferece arepas assadas com recheios clássicos como o pabellón, a rumbera e a reina pepiada, introduzindo a rica gastronomia venezuelana a um público multicultural no mercado Waterworks.
+
+--- 
+
+## 🇪🇸 Franca em Barcelona: A "Cozinha Tradicional Inventada" que Redefine a Gastronomia (España)
+**Restaurante:** Franca (Barcelona) | **Data:** Maio 2026 | [Link](https://www.finedininglovers.es/noticias/nuevos-restaurantes-espana-2026)
+
+Franca, uma das aberturas mais esperadas em Barcelona para 2026, promete uma "cozinha tradicional inventada" por um trio internacional, incluindo um cofundador venezuelano. Este conceito inovador fundirá influências globais, redefinindo a tradição culinária com uma visão contemporânea e criativa.
+
+--- 
 
 ## 🇺🇸 Mita: A Revolução Vegana Venezuelana que Conquista Washington com uma Estrela Michelin (Estados Unidos)
 **Restaurante:** Mita (Washington D.C.) | **Data:** Maio 2026 | [Link](https://mundour.com/)
@@ -39,20 +53,6 @@ Em Lima, capital gastronômica, a cafeteria Demo, liderada pelo chef venezuelano
 **Restaurante:** DC Al Toque (Washington, D.C.) | **Data:** Maio 2026 | [Link](https://www.washingtonian.com/2026/04/28/dc-al-toque-venezuelan-restaurant-bakery/)
 
 'DC Al Toque' abre suas portas em Columbia Heights, Washington D.C., trazendo uma fusão única de padaria tradicional (cachitos, piñitas) e pratos emblemáticos como arepas de Pabellón, tequeños e o monumental pepito de um metro.
-
---- 
-
-## 🇨🇦 Arepa de Pabellón se Torna Favorita nos Mercados Gastronômicos de Toronto (Canadá)
-**Restaurante:** The Arepa Republic (Toronto) | **Data:** Maio 2026 | [Link](https://www.blogto.com/restaurants/arepa-republic-toronto/)
-
-The Arepa Republic, o primeiro food truck de comida venezuelana no Canadá que hoje conta com locais físicos em Toronto, cativa o público com sua deliciosa Arepa de Pabellón, a clássica Rumbera e tequeños crocantes, conforme destaca a resenha do blogTO.
-
---- 
-
-## 🇵🇪 Alta Gastronomia: Arepas e Guasacaca se Integram aos Pratos Típicos Peruanos (Peru)
-**Restaurante:** Restaurante Mérito (Lima) | **Data:** Maio 2026 | [Link](https://www.theworlds50best.com/discovery/Establishment/Peru/Lima/Merito.html)
-
-No Peru, chefs venezuelanos renomados como Juan Luis Martínez (do premiado restaurante Mérito) estão revolucionando a cena local. Pratos fusionam técnicas peruanas com a tradicional arepa e o molho guasacaca, ganhando grande admiração internacional de críticos e clientes.
 
 --- 
 
