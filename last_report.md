@@ -1,4 +1,18 @@
-# Relatório de Pesquisa de Tendências (Nuvem) - 2026-05-31 18:06:22
+# Relatório de Pesquisa de Tendências (Nuvem) - 2026-06-01 20:58:04
+
+## 🇵🇪 Mérito em Lima: Fusão Peruano-Venezuelana que Conquista os 50 Melhores do Mundo (Perú)
+**Restaurante:** Mérito (Lima) | **Data:** Maio 2026 | [Link](https://www.infobae.com/peru/2025/06/24/merito-el-restaurante-en-lima-de-un-chef-venezolano-que-aparece-en-la-lista-de-los-50-mejores-del-mundo/)
+
+O restaurante Mérito em Lima, liderado pelo chef venezuelano Juan Luis Martínez, subiu para a 26ª posição no The World's 50 Best Restaurants 2025. Sua proposta funde ingredientes e técnicas peruanas e venezuelanas, oferecendo uma experiência culinária dinâmica e criativa que celebra a diversidade gastronômica da região.
+
+--- 
+
+## 🇪🇸 Carupanadas em Madrid: Empanadas Playeras Venezuelanas Conquistam Espanha com Sabor Autêntico (España)
+**Restaurante:** Carupanadas (Madrid) | **Data:** Maio 2026 | [Link](https://www.hola.com/cocina/noticias/galeria/20260417251787/restaurantes-comida-venezolana-madrid-apartaco-cuchara-carupanadas-arepas-cachapas/1/)
+
+Carupanadas em Madrid transformou as empanadas playeras venezuelanas, especialmente as de cazón, em um fenômeno internacional. O que começou como um projeto caseiro, agora é uma marca premiada que vende mais de 40.000 unidades por mês, levando o autêntico sabor do leste venezuelano para a Espanha.
+
+--- 
 
 ## 🇨🇦 The Arepa Republic: A Arepa Venezuelana Conquista Toronto com Sabor e Tradição (Canadá)
 **Restaurante:** Arepa Republic (Toronto) | **Data:** Maio 2026 | [Link](https://eldiariovenezuela.com/2025/08/20/un-restaurante-venezolano-populariza-la-arepa-en-canada/)
@@ -39,20 +53,6 @@ O Projeto Ubre, liderado pelo chef Issam Koteich nos arredores de Caracas, foi p
 **Restaurante:** Emelina (Palm Beach) | **Data:** Maio 2026 | [Link](https://contrapunto.com/economia/ambiente/alvaro-perez-miranda-es-el-primer-venezolano-con-dos-restaurantes-con-estrella-michelin-en-estados-unidos/)
 
 Emelina em Palm Beach, Flórida, foi premiado com sua primeira estrela Michelin 2026. Sob o chef venezuelano Álvaro Pérez Miranda, oferece um inovador menu de degustação que reinterpreta a culinária cubana com criatividade e fusão. Esta conquista consolida Pérez Miranda como o único venezuelano nos EUA com dois restaurantes Michelin, destacando seu talento excepcional.
-
---- 
-
-## 🇵🇪 Demo: A Fusão Venezuelana que Conquista Lima e Eleva a Gastronomia Regional (Perú)
-**Restaurante:** Demo (Lima) | **Data:** Maio 2026 | [Link](https://la-razon.com/estados-unidos/2026/03/13/la-nueva-era-de-la-gastronomia-en-lima-el-exito-de-la-fusion-venezolana/)
-
-Em Lima, capital gastronômica, a cafeteria Demo, liderada pelo chef venezuelano Juan Luis Martínez, triunfa com pratos venezuelanos emblemáticos como cachapas e arepas. Com uma equipe majoritariamente venezuelana, o Demo oferece uma autêntica experiência que funde a culinária do Peru e da Venezuela, consolidando a influência venezuelana na culinária peruana.
-
---- 
-
-## 🇺🇸 Padaria e Sabor Venezuelano em Washington D.C.: A Estreia do 'DC Al Toque' (Estados Unidos)
-**Restaurante:** DC Al Toque (Washington, D.C.) | **Data:** Maio 2026 | [Link](https://www.washingtonian.com/2026/04/28/dc-al-toque-venezuelan-restaurant-bakery/)
-
-'DC Al Toque' abre suas portas em Columbia Heights, Washington D.C., trazendo uma fusão única de padaria tradicional (cachitos, piñitas) e pratos emblemáticos como arepas de Pabellón, tequeños e o monumental pepito de um metro.
 
 --- 
 
