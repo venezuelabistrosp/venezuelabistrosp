@@ -1,4 +1,11 @@
-# Relatório de Pesquisa de Tendências (Nuvem) - 2026-06-01 20:58:04
+# Relatório de Pesquisa de Tendências (Nuvem) - 2026-06-02 20:08:59
+
+## 🇪🇸 A Rota da Arepa 2025: Madrid Celebra a Rainha da Gastronomia Venezuelana com Sabor e Tradição (España)
+**Restaurante:** La Ruta de la Arepa (Madrid) | **Data:** Maio 2026 | [Link](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE7h-zKXZsp0j1p2u01VQicsQWIbUnBoE2-iso5gE0VJAhT0wCbQc19aBTgqTsbeqZaZqrxn5XQrgrsxDAnj5oVc4q6XpiWcsy0xxzk0AuVKZ8KdT6c3-Mv039Ma5wK3mh2TkKpAIJhhDgI2EfVlI5NsE8Ey9Awq05ZHWU34fyYevSenSiEKdbOjV783W1R2k0ByVJujdM0d786CkeX8GBDdOI5JIwIqJuZPiKMZsFUA8UApeWY7RxPD1JRX4lkZyyiNkVbEUdwL3VJPdW3mlzqEcRNoZMg9uMO07sX9dE2dRuDM0n9hgAHQSQcQajqNAhSmdOHxC8g-4XO)
+
+Madrid se rendeu ao sabor da Venezuela com A Rota da Arepa 2025. Este evento anual, que culminou com o III Grande Campeonato de Arepas, reuniu mais de 20 restaurantes. Ofereceu degustações, brunches e diversas propostas de arepas, consolidando a popularidade deste prato icônico na capital espanhola.
+
+--- 
 
 ## 🇵🇪 Mérito em Lima: Fusão Peruano-Venezuelana que Conquista os 50 Melhores do Mundo (Perú)
 **Restaurante:** Mérito (Lima) | **Data:** Maio 2026 | [Link](https://www.infobae.com/peru/2025/06/24/merito-el-restaurante-en-lima-de-un-chef-venezolano-que-aparece-en-la-lista-de-los-50-mejores-del-mundo/)
@@ -46,13 +53,6 @@ La Cachapera consolida-se como líder da gastronomia venezuelana na Europa, abri
 **Restaurante:** Proyecto Ubre (Caracas) | **Data:** Maio 2026 | [Link](https://www.expresoinfo.com/venezuela-rompe-barreras-a-traves-de-la-gastronomia/)
 
 O Projeto Ubre, liderado pelo chef Issam Koteich nos arredores de Caracas, foi premiado com o Prêmio Ibero-Americano de Gastronomia Sustentável 2026. Este projeto inovador integra uma fazenda ao restaurante, focando na produção própria e sustentabilidade. Sua proposta culinária, centrada no cordeiro, celebra a identidade venezuelana com um impacto real no país.
-
---- 
-
-## 🇺🇸 Emelina: O Brilho Michelin do Chef Venezuelano Álvaro Pérez Miranda na Flórida (Estados Unidos)
-**Restaurante:** Emelina (Palm Beach) | **Data:** Maio 2026 | [Link](https://contrapunto.com/economia/ambiente/alvaro-perez-miranda-es-el-primer-venezolano-con-dos-restaurantes-con-estrella-michelin-en-estados-unidos/)
-
-Emelina em Palm Beach, Flórida, foi premiado com sua primeira estrela Michelin 2026. Sob o chef venezuelano Álvaro Pérez Miranda, oferece um inovador menu de degustação que reinterpreta a culinária cubana com criatividade e fusão. Esta conquista consolida Pérez Miranda como o único venezuelano nos EUA com dois restaurantes Michelin, destacando seu talento excepcional.
 
 --- 
 
