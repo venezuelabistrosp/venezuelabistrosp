@@ -1,4 +1,18 @@
-# Relatório de Pesquisa de Tendências (Nuvem) - 2026-06-02 20:08:59
+# Relatório de Pesquisa de Tendências (Nuvem) - 2026-06-03 20:20:32
+
+## 🇺🇸 Emelina: A visão global venezuelana de Álvaro Pérez Miranda brilha com estrela Michelin em Palm Beach (Estados Unidos)
+**Restaurante:** Emelina (Palm Beach) | **Data:** Maio 2026 | [Link](https://contrapunto.com/cultura/gastronomia/alvaro-perez-miranda-es-el-primer-venezolano-con-dos-restaurantes-con-estrella-michelin-en-estados-unidos/)
+
+O empresário venezuelano Álvaro Pérez Miranda celebra uma nova estrela Michelin para Emelina em Palm Beach. Este restaurante oferece um menu de degustação que reinterpreta a tradição culinária cubana com liberdade e criatividade, fundindo influências diversas. Um marco que destaca a inovação e o talento venezuelano na alta gastronomia americana.
+
+--- 
+
+## 🇪🇸 El Encuentro Hispano: A fusão venezuelana-extremenha que conquista Cáceres com a Empanada La Cayetana (España)
+**Restaurante:** El Encuentro Hispano (Cáceres) | **Data:** Maio 2026 | [Link](https://elencuentrohispano.com/comida-venezolana-en-caceres-llega-a-extregusta-2025-con-sabor-autentico/)
+
+El Encuentro Hispano em Cáceres funde a gastronomia venezuelana com ingredientes extremenhos, destacando sua inovadora "Empanada La Cayetana" com queijo guayanês e presunto serrano. Sua participação no Extregusta 2025 consolida sua proposta única, levando os sabores autênticos da Venezuela à Espanha com um toque local e criativo.
+
+--- 
 
 ## 🇪🇸 A Rota da Arepa 2025: Madrid Celebra a Rainha da Gastronomia Venezuelana com Sabor e Tradição (España)
 **Restaurante:** La Ruta de la Arepa (Madrid) | **Data:** Maio 2026 | [Link](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE7h-zKXZsp0j1p2u01VQicsQWIbUnBoE2-iso5gE0VJAhT0wCbQc19aBTgqTsbeqZaZqrxn5XQrgrsxDAnj5oVc4q6XpiWcsy0xxzk0AuVKZ8KdT6c3-Mv039Ma5wK3mh2TkKpAIJhhDgI2EfVlI5NsE8Ey9Awq05ZHWU34fyYevSenSiEKdbOjV783W1R2k0ByVJujdM0d786CkeX8GBDdOI5JIwIqJuZPiKMZsFUA8UApeWY7RxPD1JRX4lkZyyiNkVbEUdwL3VJPdW3mlzqEcRNoZMg9uMO07sX9dE2dRuDM0n9hgAHQSQcQajqNAhSmdOHxC8g-4XO)
@@ -39,20 +53,6 @@ Franca, uma das aberturas mais esperadas em Barcelona para 2026, promete uma "co
 **Restaurante:** Mita (Washington D.C.) | **Data:** Maio 2026 | [Link](https://mundour.com/)
 
 Mita, em Washington D.C., alcançou um marco ao obter uma estrela Michelin pela sua inovadora cozinha vegana de inspiração venezuelana. Liderado pelos chefs Miguel Guerra e Tatiana Mora, o restaurante redefine a gastronomia latina com uma abordagem plant-based, destacando os vegetais como o coração do sabor e oferecendo uma experiência culinária única e sustentável.
-
---- 
-
-## 🇪🇸 La Cachapera Expande seu Sabor Venezuelano: Um Sucesso Retumbante na Gastronomia Europeia (España)
-**Restaurante:** La Cachapera (Madrid) | **Data:** Maio 2026 | [Link](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFxW4HmTGt6pfWHtkkUSYSzdPmMv8Cy5YYt1TJVcZXFtFTLnhIwkha738mb3_jdyhXftqkJzj7T8O20WvwtaiSt_tkReazgUtUL4EYj5BFjbz3wImZ6fAtLEdfuoUTVi0-KTQAWPP0Ptc4ScD0ev-Cn_4LTSS1W9XivyLvUMbAXmg8g6j70EEyc)
-
-La Cachapera consolida-se como líder da gastronomia venezuelana na Europa, abrindo sua sexta unidade na Espanha, incluindo Madrid. Desde 2015, seu conceito inovador centrado na cachapa e nos "cachinachos" tem cativado paladares. Oferece uma experiência sensorial completa com clássicos venezuelanos, música e estética caribenha, levando a alegria da Venezuela à Espanha.
-
---- 
-
-## 🇻🇪 Projeto Ubre: A Revolução Sustentável que Reivindica a Identidade Gastronômica Venezuelana (Venezuela)
-**Restaurante:** Proyecto Ubre (Caracas) | **Data:** Maio 2026 | [Link](https://www.expresoinfo.com/venezuela-rompe-barreras-a-traves-de-la-gastronomia/)
-
-O Projeto Ubre, liderado pelo chef Issam Koteich nos arredores de Caracas, foi premiado com o Prêmio Ibero-Americano de Gastronomia Sustentável 2026. Este projeto inovador integra uma fazenda ao restaurante, focando na produção própria e sustentabilidade. Sua proposta culinária, centrada no cordeiro, celebra a identidade venezuelana com um impacto real no país.
 
 --- 
 
