@@ -1,4 +1,25 @@
-# Relatório de Pesquisa de Tendências (Nuvem) - 2026-06-03 20:20:32
+# Relatório de Pesquisa de Tendências (Nuvem) - 2026-06-04 19:24:59
+
+## 🇧🇷 Atrio em São Paulo: Uma Viagem Sensorial Inesquecível pela Gastronomia Venezuelana (Brasil)
+**Restaurante:** Atrio (Sao Paulo) | **Data:** Maio 2026 | [Link](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGnxoV-pmAx_wjBMMAYJYt9UNURaWhwmFoBh2us46NRMxbtOeb_ZN9PGpLGE6VZ1O4MDhkoYIV7EQVaCup1NQy2S2XIc8AG457zvVFyea_iPoWxTaMT_g_BZbjyM9JGRCvYeB2S340vyOLCeNUsDvC5cQxKXsSlxxF1HzgpZEX-HuEtBnmIiMbrCY9gqnFdUs6JBQ5_Xy0rrgaP8NVMZ8YSC8VA)
+
+O restaurante Atrio em São Paulo, liderado pelos irmãos Schiavi Molina, lançou um inovador menu de degustação de 6 tempos. Esta "viagem sensorial" reinterpreta a culinária venezuelana com técnicas modernas, destacando pratos como o "Rompecolchón" e o "Pastel de Chucho", oferecendo uma experiência culinária única que celebra a rica identidade do país.
+
+--- 
+
+## 🇪🇸 Madrid Celebra a Arepa: Inovação e Fusão no III Campeonato Gastronômico (España)
+**Restaurante:** III Campeonato de Arepas de la Comunidad de Madrid (Madrid) | **Data:** Maio 2026 | [Link](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEDDeN3OrVV30njdq00Lk6txzStAt4qn0EnuOoWBAVrsJ8VEFEFmna-E2y_VocfSUuPQm1zX6x11Jbh-hpd172xE5_R4MVd4HyMlEkDGHEG4V6JOd40uvZbG8mZeIp_CDXEsZ8yhsmT_HNY6tWuBCKyMX4Vb9y8l7TM8CW6cOaekpG6WGw=)
+
+O III Campeonato de Arepas de Madrid, realizado em outubro de 2025, destacou a versatilidade da arepa como plataforma para fusão e tradição. Com propostas como a "Arepa Japo-Caribeña" vegana, o evento e a Rota da Arepa 2025 consolidaram este prato venezuelano como um ícone culinário em evolução, premiando a criatividade e o sabor.
+
+--- 
+
+## 🇻🇪 Projeto Ubre: Sustentabilidade e Raízes Venezuelanas Premiadas em 2026 (Venezuela)
+**Restaurante:** Proyecto Ubre (Caracas) | **Data:** Maio 2026 | [Link](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHaqsM4JheDtlFPmiohlkByVI5kDswVh2EvwhQFVDhKoXP2shCPdnUS2C0a4H6ebtN3ls32b2cJSIP0Nu9Rzkp0iMwBWnCRHbgUhmMGnCcoz4StTM_zvGMn6OElanqsVP74dClqw3_B-bPwQPu1Lps2cZrVQlZS-VkugpXZOxEj1k9CChUIIxtOdFcGfygGhRABBUzkgPbkhU3n0LwlIhLNTU5ebrWwUrV6cCQLbMTg1KjYPk6bhCrn3RwHMQGHahCZNUkMmk=)
+
+Projeto Ubre, liderado pelo chef Issam Koteich nos arredores de Caracas, foi reconhecido com o Galardão Ibero-americano de Gastronomia Sustentável 2026. Este projeto inovador integra a produção própria com o restaurante, focando no cordeiro e reivindicando a identidade venezuelana através de uma cozinha que honra as raízes e a sustentabilidade.
+
+--- 
 
 ## 🇺🇸 Emelina: A visão global venezuelana de Álvaro Pérez Miranda brilha com estrela Michelin em Palm Beach (Estados Unidos)
 **Restaurante:** Emelina (Palm Beach) | **Data:** Maio 2026 | [Link](https://contrapunto.com/cultura/gastronomia/alvaro-perez-miranda-es-el-primer-venezolano-con-dos-restaurantes-con-estrella-michelin-en-estados-unidos/)
@@ -32,27 +53,6 @@ O restaurante Mérito em Lima, liderado pelo chef venezuelano Juan Luis Martíne
 **Restaurante:** Carupanadas (Madrid) | **Data:** Maio 2026 | [Link](https://www.hola.com/cocina/noticias/galeria/20260417251787/restaurantes-comida-venezolana-madrid-apartaco-cuchara-carupanadas-arepas-cachapas/1/)
 
 Carupanadas em Madrid transformou as empanadas playeras venezuelanas, especialmente as de cazón, em um fenômeno internacional. O que começou como um projeto caseiro, agora é uma marca premiada que vende mais de 40.000 unidades por mês, levando o autêntico sabor do leste venezuelano para a Espanha.
-
---- 
-
-## 🇨🇦 The Arepa Republic: A Arepa Venezuelana Conquista Toronto com Sabor e Tradição (Canadá)
-**Restaurante:** Arepa Republic (Toronto) | **Data:** Maio 2026 | [Link](https://eldiariovenezuela.com/2025/08/20/un-restaurante-venezolano-populariza-la-arepa-en-canada/)
-
-The Arepa Republic em Toronto popularizou a arepa venezuelana, adaptando-a ao paladar canadense. O chef Luis Manuel Córdoba oferece arepas assadas com recheios clássicos como o pabellón, a rumbera e a reina pepiada, introduzindo a rica gastronomia venezuelana a um público multicultural no mercado Waterworks.
-
---- 
-
-## 🇪🇸 Franca em Barcelona: A "Cozinha Tradicional Inventada" que Redefine a Gastronomia (España)
-**Restaurante:** Franca (Barcelona) | **Data:** Maio 2026 | [Link](https://www.finedininglovers.es/noticias/nuevos-restaurantes-espana-2026)
-
-Franca, uma das aberturas mais esperadas em Barcelona para 2026, promete uma "cozinha tradicional inventada" por um trio internacional, incluindo um cofundador venezuelano. Este conceito inovador fundirá influências globais, redefinindo a tradição culinária com uma visão contemporânea e criativa.
-
---- 
-
-## 🇺🇸 Mita: A Revolução Vegana Venezuelana que Conquista Washington com uma Estrela Michelin (Estados Unidos)
-**Restaurante:** Mita (Washington D.C.) | **Data:** Maio 2026 | [Link](https://mundour.com/)
-
-Mita, em Washington D.C., alcançou um marco ao obter uma estrela Michelin pela sua inovadora cozinha vegana de inspiração venezuelana. Liderado pelos chefs Miguel Guerra e Tatiana Mora, o restaurante redefine a gastronomia latina com uma abordagem plant-based, destacando os vegetais como o coração do sabor e oferecendo uma experiência culinária única e sustentável.
 
 --- 
 
