@@ -1,4 +1,18 @@
-# Relatório de Pesquisa de Tendências (Nuvem) - 2026-06-04 19:24:59
+# Relatório de Pesquisa de Tendências (Nuvem) - 2026-06-05 18:59:21
+
+## 🇺🇸 DC Al Toque: O Autêntico Sabor Venezuelano Conquista Washington D.C. com Inovação. (Estados Unidos)
+**Restaurante:** DC Al Toque (Washington D.C.) | **Data:** Maio 2026 | [Link](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEGdl3iuOz2IsPDxbvv-ocfKe-A7uFII-5mAb2zB-OrTaWNSYHeJt0KmNdgZov7AVofMJproyACtxbt-IEi9ctKMKOCGrUKIzD548YyV7wj00T61oC4OfUfcnPyKdxBij-Ucw6gnBebZCnvrU3J-31hcUPP1CHfVRIqPOEwwc-vi1hutCVg8LB-40_QRq9dTK17cOMxEnuo1YoRTRKKTNiv-5BWZJsiLg==)
+
+DC Al Toque surge como um novo marco da gastronomia venezuelana em Washington D.C. Oferecendo desde o tradicional pavilhão crioulo até uma variada pastelaria, este restaurante e padaria conquistou o coração da capital americana, levando os sabores autênticos da Venezuela a um público diverso e exigente.
+
+--- 
+
+## 🇯🇵 MAZ em Tóquio: A Alta Cozinha Venezuelana Brilha com Duas Estrelas Michelin. (Japón)
+**Restaurante:** MAZ (Tokio) | **Data:** Maio 2026 | [Link](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHwWCxgcTUqo5joPplKw0I8ETcedAiZbFzAGcSQ-kc2_J396i12PURlYI5bz1uSBncwlUW6F_5fbL0qs22WXY0CS9PR0Y47roCjKXDi90hQB7nWCSiBlSc6NnCs2XtVg8xoiuuCMPaS8WCvFC7bgD1XWXxIX7tUo8hgzsPiBOLc93oeP4v8Xf-eUGlz6WR26A==)
+
+O restaurante MAZ em Tóquio, sob a direção do chef venezuelano Santiago Fernández, conquistou duas estrelas Michelin, consolidando sua posição na alta cozinha mundial. Fundindo a microestacionalidade japonesa com a filosofia da "Mater Iniciativa" e produtos peruanos, o MAZ oferece uma experiência culinária inovadora que destaca o talento venezuelano na cena gastronômica global.
+
+--- 
 
 ## 🇧🇷 Atrio em São Paulo: Uma Viagem Sensorial Inesquecível pela Gastronomia Venezuelana (Brasil)
 **Restaurante:** Atrio (Sao Paulo) | **Data:** Maio 2026 | [Link](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGnxoV-pmAx_wjBMMAYJYt9UNURaWhwmFoBh2us46NRMxbtOeb_ZN9PGpLGE6VZ1O4MDhkoYIV7EQVaCup1NQy2S2XIc8AG457zvVFyea_iPoWxTaMT_g_BZbjyM9JGRCvYeB2S340vyOLCeNUsDvC5cQxKXsSlxxF1HzgpZEX-HuEtBnmIiMbrCY9gqnFdUs6JBQ5_Xy0rrgaP8NVMZ8YSC8VA)
@@ -39,20 +53,6 @@ El Encuentro Hispano em Cáceres funde a gastronomia venezuelana com ingrediente
 **Restaurante:** La Ruta de la Arepa (Madrid) | **Data:** Maio 2026 | [Link](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE7h-zKXZsp0j1p2u01VQicsQWIbUnBoE2-iso5gE0VJAhT0wCbQc19aBTgqTsbeqZaZqrxn5XQrgrsxDAnj5oVc4q6XpiWcsy0xxzk0AuVKZ8KdT6c3-Mv039Ma5wK3mh2TkKpAIJhhDgI2EfVlI5NsE8Ey9Awq05ZHWU34fyYevSenSiEKdbOjV783W1R2k0ByVJujdM0d786CkeX8GBDdOI5JIwIqJuZPiKMZsFUA8UApeWY7RxPD1JRX4lkZyyiNkVbEUdwL3VJPdW3mlzqEcRNoZMg9uMO07sX9dE2dRuDM0n9hgAHQSQcQajqNAhSmdOHxC8g-4XO)
 
 Madrid se rendeu ao sabor da Venezuela com A Rota da Arepa 2025. Este evento anual, que culminou com o III Grande Campeonato de Arepas, reuniu mais de 20 restaurantes. Ofereceu degustações, brunches e diversas propostas de arepas, consolidando a popularidade deste prato icônico na capital espanhola.
-
---- 
-
-## 🇵🇪 Mérito em Lima: Fusão Peruano-Venezuelana que Conquista os 50 Melhores do Mundo (Perú)
-**Restaurante:** Mérito (Lima) | **Data:** Maio 2026 | [Link](https://www.infobae.com/peru/2025/06/24/merito-el-restaurante-en-lima-de-un-chef-venezolano-que-aparece-en-la-lista-de-los-50-mejores-del-mundo/)
-
-O restaurante Mérito em Lima, liderado pelo chef venezuelano Juan Luis Martínez, subiu para a 26ª posição no The World's 50 Best Restaurants 2025. Sua proposta funde ingredientes e técnicas peruanas e venezuelanas, oferecendo uma experiência culinária dinâmica e criativa que celebra a diversidade gastronômica da região.
-
---- 
-
-## 🇪🇸 Carupanadas em Madrid: Empanadas Playeras Venezuelanas Conquistam Espanha com Sabor Autêntico (España)
-**Restaurante:** Carupanadas (Madrid) | **Data:** Maio 2026 | [Link](https://www.hola.com/cocina/noticias/galeria/20260417251787/restaurantes-comida-venezolana-madrid-apartaco-cuchara-carupanadas-arepas-cachapas/1/)
-
-Carupanadas em Madrid transformou as empanadas playeras venezuelanas, especialmente as de cazón, em um fenômeno internacional. O que começou como um projeto caseiro, agora é uma marca premiada que vende mais de 40.000 unidades por mês, levando o autêntico sabor do leste venezuelano para a Espanha.
 
 --- 
 
