@@ -120,6 +120,36 @@ def generate_trends_via_gemini():
         print(f"[-] Error in Step 2 (Structuring Results): {e}")
         return []
 
+def download_image_via_imagen(prompt, filename):
+    """Attempts to generate an image using Google's native Imagen model via the GenAI SDK"""
+    api_key = os.environ.get("GEMINI_API_KEY")
+    if not api_key:
+        print("[-] GEMINI_API_KEY environment variable is missing. Cannot generate with Imagen.")
+        return False
+        
+    print(f"[*] Generating image via Imagen for prompt: '{prompt}'...")
+    try:
+        client = genai.Client(api_key=api_key)
+        response = client.models.generate_images(
+            model='imagen-3.0-generate-002',
+            prompt=prompt,
+            config=types.GenerateImagesConfig(
+                number_of_images=1,
+                aspect_ratio="4:3",
+                output_mime_type="image/png"
+            )
+        )
+        if response.generated_images:
+            response.generated_images[0].image.save(filename)
+            print(f"[+] Imagen image saved successfully as {filename}")
+            return True
+        else:
+            print("[-] No images returned in response from Imagen.")
+            return False
+    except Exception as e:
+        print(f"[-] Error generating image with Imagen: {e}")
+        return False
+
 def download_image_from_pollinations(prompt, filename):
     """Downloads an AI-generated image from Pollinations.ai and saves it locally"""
     encoded_prompt = urllib.parse.quote(prompt)
@@ -295,7 +325,11 @@ def main():
 
         # Download image for the trend
         image_filename = f"{item.get('id')}.png"
-        success = download_image_from_pollinations(item.get("image_prompt"), image_filename)
+        success = download_image_via_imagen(item.get("image_prompt"), image_filename)
+        if not success:
+            print("[*] Falling back to Pollinations.ai...")
+            success = download_image_from_pollinations(item.get("image_prompt"), image_filename)
+            
         if success:
             item["image"] = image_filename
         else:
