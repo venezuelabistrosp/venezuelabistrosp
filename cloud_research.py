@@ -299,8 +299,21 @@ def main():
         if success:
             item["image"] = image_filename
         else:
-            item["image"] = "app_icon_512.png" # Fallback image
+            # Smart fallback based on text content
+            text_to_search = (item.get("title_es", "") + " " + item.get("full_content_es", "")).lower()
+            if "cachapa" in text_to_search:
+                fallback = "cachapa_pabellon.jpg"
+            elif "empanada" in text_to_search:
+                fallback = "empanada_pabellon.png"
+            elif "tequeño" in text_to_search or "tequeno" in text_to_search:
+                fallback = "tequenos.jpg"  # Note: file list has tequeños.jpg or tequenos.jpg? Let's check.
+            elif "arepa" in text_to_search:
+                fallback = "arepa_pabellon.jpg"
+            else:
+                fallback = "arepa_pabellon.jpg"
             
+            print(f"[-] Image download failed. Using smart fallback image: {fallback}")
+            item["image"] = fallback
         items_to_add.append(item)
 
     if not items_to_add:
