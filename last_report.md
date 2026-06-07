@@ -1,4 +1,11 @@
-# Relatório de Pesquisa de Tendências (Nuvem) - 2026-06-05 18:59:21
+# Relatório de Pesquisa de Tendências (Nuvem) - 2026-06-07 18:07:09
+
+## 🇵🇪 Mérito em Lima: A Fusão Venezuelana-Peruana que Conquista a Alta Cozinha Mundial (Perú)
+**Restaurante:** Mérito (Lima) | **Data:** Maio 2026 | [Link](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHx0y-x6AgVB_u2LJ3N213C1NYsMCuvPCJSxUnx20znd5ZYTA33Z0N2NCYTCipUflQcC-FEpLh_xBzgJR1o6ID-98pm3VOIUIE3uygRKP3oxILs4Bsv57M6XXQtkmRA5xBWJWY_fjJ9DXyQM62gLi8w1mY1zlFWHFt8LN9uW2Emlc-CL1LjEuCtix1OZsnYN7S0zMY=)
+
+Mérito, liderado pelo chef venezuelano Juan Luis Martínez em Lima, Peru, posiciona-se como um dos melhores restaurantes do mundo. Sua proposta inovadora funde técnicas venezuelanas com ingredientes peruanos, oferecendo um menu mutável e surpreendente que redefine a alta cozinha latino-americana com pratos únicos e criativos.
+
+--- 
 
 ## 🇺🇸 DC Al Toque: O Autêntico Sabor Venezuelano Conquista Washington D.C. com Inovação. (Estados Unidos)
 **Restaurante:** DC Al Toque (Washington D.C.) | **Data:** Maio 2026 | [Link](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEGdl3iuOz2IsPDxbvv-ocfKe-A7uFII-5mAb2zB-OrTaWNSYHeJt0KmNdgZov7AVofMJproyACtxbt-IEi9ctKMKOCGrUKIzD548YyV7wj00T61oC4OfUfcnPyKdxBij-Ucw6gnBebZCnvrU3J-31hcUPP1CHfVRIqPOEwwc-vi1hutCVg8LB-40_QRq9dTK17cOMxEnuo1YoRTRKKTNiv-5BWZJsiLg==)
@@ -46,13 +53,6 @@ O empresário venezuelano Álvaro Pérez Miranda celebra uma nova estrela Michel
 **Restaurante:** El Encuentro Hispano (Cáceres) | **Data:** Maio 2026 | [Link](https://elencuentrohispano.com/comida-venezolana-en-caceres-llega-a-extregusta-2025-con-sabor-autentico/)
 
 El Encuentro Hispano em Cáceres funde a gastronomia venezuelana com ingredientes extremenhos, destacando sua inovadora "Empanada La Cayetana" com queijo guayanês e presunto serrano. Sua participação no Extregusta 2025 consolida sua proposta única, levando os sabores autênticos da Venezuela à Espanha com um toque local e criativo.
-
---- 
-
-## 🇪🇸 A Rota da Arepa 2025: Madrid Celebra a Rainha da Gastronomia Venezuelana com Sabor e Tradição (España)
-**Restaurante:** La Ruta de la Arepa (Madrid) | **Data:** Maio 2026 | [Link](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE7h-zKXZsp0j1p2u01VQicsQWIbUnBoE2-iso5gE0VJAhT0wCbQc19aBTgqTsbeqZaZqrxn5XQrgrsxDAnj5oVc4q6XpiWcsy0xxzk0AuVKZ8KdT6c3-Mv039Ma5wK3mh2TkKpAIJhhDgI2EfVlI5NsE8Ey9Awq05ZHWU34fyYevSenSiEKdbOjV783W1R2k0ByVJujdM0d786CkeX8GBDdOI5JIwIqJuZPiKMZsFUA8UApeWY7RxPD1JRX4lkZyyiNkVbEUdwL3VJPdW3mlzqEcRNoZMg9uMO07sX9dE2dRuDM0n9hgAHQSQcQajqNAhSmdOHxC8g-4XO)
-
-Madrid se rendeu ao sabor da Venezuela com A Rota da Arepa 2025. Este evento anual, que culminou com o III Grande Campeonato de Arepas, reuniu mais de 20 restaurantes. Ofereceu degustações, brunches e diversas propostas de arepas, consolidando a popularidade deste prato icônico na capital espanhola.
 
 --- 
 
