@@ -1,4 +1,25 @@
-# Relatório de Pesquisa de Tendências (Nuvem) - 2026-06-07 18:07:09
+# Relatório de Pesquisa de Tendências (Nuvem) - 2026-06-12 19:08:36
+
+## 🇪🇸 La Cachapera: O Sabor Venezuelano Conquista a Espanha com Expansão e Cachinachos Inovadores (España)
+**Restaurante:** La Cachapera (Madrid) | **Data:** Maio 2026 | [Link](https://www.profesionalhoreca.com/la-cachapera-abre-su-sexto-restaurante-en-espana/)
+
+La Cachapera, que começou como food truck, celebra a abertura de sua sexta unidade na Espanha, a segunda em Madrid. Seu sucesso reside na cachapa, seu prato principal, e na inovação com os "cachinachos". A marca oferece uma experiência caribenha completa, fundindo gastronomia, música e estética, consolidando sua presença e planos de expansão internacional.
+
+--- 
+
+## 🇺🇸 María Evans da Azú Pastelería: Prata no Global Chef Challenge, Levando o Cacau Venezuelano ao Mundo (Estados Unidos)
+**Restaurante:** Azú Pastelería (Chef María Evans) (Las Vegas) | **Data:** Maio 2026 | [Link](https://bienmesabe.com/noticia/la-venezolana-maria-evans-gana-plata-en-global-chef-de-las-vegas-y-pasa-a-la-final-mundial/)
+
+A chef venezuelana María Evans da Azú Pastelería ganhou a medalha de prata no Global Chef Challenge para as Américas em agosto de 2025. Sua sobremesa, que funde cacau e manga venezuelanos, garantiu-lhe um lugar na final mundial no País de Gales. Esta conquista destaca a excelência da pastelaria venezuelana e seus sabores únicos no cenário culinário internacional.
+
+--- 
+
+## 🇻🇪 Venezuela Brilha: Nomeada Melhor Destino Culinário da América do Sul nos World Travel Awards 2026 (Venezuela)
+**Restaurante:** World Travel Awards (WTA) (Venezuela) | **Data:** Maio 2026 | [Link](https://www.diariovea.com.ve/venezuela-es-nominada-a-mejor-destino-culinario-de-suramerica-en-wta-2026/)
+
+Em junho de 2026, a Venezuela foi nomeada "South America's Leading Culinary Destination" nos World Travel Awards. Este reconhecimento destaca a rica herança mestiça de sua gastronomia, seus contrastes de sabores e texturas, e seu profundo enraizamento histórico. A nomeação impulsiona o turismo gastronômico e apoia produtores e empreendedores locais.
+
+--- 
 
 ## 🇵🇪 Mérito em Lima: A Fusão Venezuelana-Peruana que Conquista a Alta Cozinha Mundial (Perú)
 **Restaurante:** Mérito (Lima) | **Data:** Maio 2026 | [Link](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHx0y-x6AgVB_u2LJ3N213C1NYsMCuvPCJSxUnx20znd5ZYTA33Z0N2NCYTCipUflQcC-FEpLh_xBzgJR1o6ID-98pm3VOIUIE3uygRKP3oxILs4Bsv57M6XXQtkmRA5xBWJWY_fjJ9DXyQM62gLi8w1mY1zlFWHFt8LN9uW2Emlc-CL1LjEuCtix1OZsnYN7S0zMY=)
@@ -32,27 +53,6 @@ O restaurante Atrio em São Paulo, liderado pelos irmãos Schiavi Molina, lanço
 **Restaurante:** III Campeonato de Arepas de la Comunidad de Madrid (Madrid) | **Data:** Maio 2026 | [Link](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEDDeN3OrVV30njdq00Lk6txzStAt4qn0EnuOoWBAVrsJ8VEFEFmna-E2y_VocfSUuPQm1zX6x11Jbh-hpd172xE5_R4MVd4HyMlEkDGHEG4V6JOd40uvZbG8mZeIp_CDXEsZ8yhsmT_HNY6tWuBCKyMX4Vb9y8l7TM8CW6cOaekpG6WGw=)
 
 O III Campeonato de Arepas de Madrid, realizado em outubro de 2025, destacou a versatilidade da arepa como plataforma para fusão e tradição. Com propostas como a "Arepa Japo-Caribeña" vegana, o evento e a Rota da Arepa 2025 consolidaram este prato venezuelano como um ícone culinário em evolução, premiando a criatividade e o sabor.
-
---- 
-
-## 🇻🇪 Projeto Ubre: Sustentabilidade e Raízes Venezuelanas Premiadas em 2026 (Venezuela)
-**Restaurante:** Proyecto Ubre (Caracas) | **Data:** Maio 2026 | [Link](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHaqsM4JheDtlFPmiohlkByVI5kDswVh2EvwhQFVDhKoXP2shCPdnUS2C0a4H6ebtN3ls32b2cJSIP0Nu9Rzkp0iMwBWnCRHbgUhmMGnCcoz4StTM_zvGMn6OElanqsVP74dClqw3_B-bPwQPu1Lps2cZrVQlZS-VkugpXZOxEj1k9CChUIIxtOdFcGfygGhRABBUzkgPbkhU3n0LwlIhLNTU5ebrWwUrV6cCQLbMTg1KjYPk6bhCrn3RwHMQGHahCZNUkMmk=)
-
-Projeto Ubre, liderado pelo chef Issam Koteich nos arredores de Caracas, foi reconhecido com o Galardão Ibero-americano de Gastronomia Sustentável 2026. Este projeto inovador integra a produção própria com o restaurante, focando no cordeiro e reivindicando a identidade venezuelana através de uma cozinha que honra as raízes e a sustentabilidade.
-
---- 
-
-## 🇺🇸 Emelina: A visão global venezuelana de Álvaro Pérez Miranda brilha com estrela Michelin em Palm Beach (Estados Unidos)
-**Restaurante:** Emelina (Palm Beach) | **Data:** Maio 2026 | [Link](https://contrapunto.com/cultura/gastronomia/alvaro-perez-miranda-es-el-primer-venezolano-con-dos-restaurantes-con-estrella-michelin-en-estados-unidos/)
-
-O empresário venezuelano Álvaro Pérez Miranda celebra uma nova estrela Michelin para Emelina em Palm Beach. Este restaurante oferece um menu de degustação que reinterpreta a tradição culinária cubana com liberdade e criatividade, fundindo influências diversas. Um marco que destaca a inovação e o talento venezuelano na alta gastronomia americana.
-
---- 
-
-## 🇪🇸 El Encuentro Hispano: A fusão venezuelana-extremenha que conquista Cáceres com a Empanada La Cayetana (España)
-**Restaurante:** El Encuentro Hispano (Cáceres) | **Data:** Maio 2026 | [Link](https://elencuentrohispano.com/comida-venezolana-en-caceres-llega-a-extregusta-2025-con-sabor-autentico/)
-
-El Encuentro Hispano em Cáceres funde a gastronomia venezuelana com ingredientes extremenhos, destacando sua inovadora "Empanada La Cayetana" com queijo guayanês e presunto serrano. Sua participação no Extregusta 2025 consolida sua proposta única, levando os sabores autênticos da Venezuela à Espanha com um toque local e criativo.
 
 --- 
 
