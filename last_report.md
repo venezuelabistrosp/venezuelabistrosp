@@ -1,4 +1,18 @@
-# Relatório de Pesquisa de Tendências (Nuvem) - 2026-06-12 19:08:36
+# Relatório de Pesquisa de Tendências (Nuvem) - 2026-06-13 18:10:18
+
+## 🇻🇪 Projeto Ubre e Cordero: A Alta Cozinha Venezuelana Sustentável Conquista a América Latina (Venezuela)
+**Restaurante:** Proyecto Ubre y Restaurante Cordero (Caracas) | **Data:** Maio 2026 | [Link](https://www.expreso.info/noticias/gastronomia/99602-venezuela-rompe-barreras-a-traves-de-la-gastronomia)
+
+O chef Issam Koteich eleva a gastronomia venezuelana com Projeto Ubre e Restaurante Cordero em Caracas. Premiado pela sustentabilidade e posicionado entre os melhores da América Latina, sua proposta foca no cordeiro orgânico de produção própria, reivindicando a identidade culinária do país com uma abordagem inovadora e ambientalmente consciente.
+
+--- 
+
+## 🇨🇴 Fusão Gastronômica na Anato 2025: Lechona Tolimense e Arepas com Toque Venezuelano (Colombia)
+**Restaurante:** Expositores del Tolima en Anato 2025 (Colombia) | **Data:** Maio 2026 | [Link](https://alaluzpublica.com/trufas-tacos-y-arepas-los-pasabocas-innovadores-de-lechona-que-conquistaron-paladares-en-anato-2025/)
+
+Na Anato 2025, chefs colombianos surpreenderam com inovações da lechona tolimense. Destacaram trufas de lechona com mangostão, arepitas boyacenses recheadas e tacos crocantes, mostrando como a gastronomia venezuelana inspira novas criações e formatos gourmet, celebrando a riqueza culinária da região andina.
+
+--- 
 
 ## 🇪🇸 La Cachapera: O Sabor Venezuelano Conquista a Espanha com Expansão e Cachinachos Inovadores (España)
 **Restaurante:** La Cachapera (Madrid) | **Data:** Maio 2026 | [Link](https://www.profesionalhoreca.com/la-cachapera-abre-su-sexto-restaurante-en-espana/)
@@ -39,20 +53,6 @@ DC Al Toque surge como um novo marco da gastronomia venezuelana em Washington D.
 **Restaurante:** MAZ (Tokio) | **Data:** Maio 2026 | [Link](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHwWCxgcTUqo5joPplKw0I8ETcedAiZbFzAGcSQ-kc2_J396i12PURlYI5bz1uSBncwlUW6F_5fbL0qs22WXY0CS9PR0Y47roCjKXDi90hQB7nWCSiBlSc6NnCs2XtVg8xoiuuCMPaS8WCvFC7bgD1XWXxIX7tUo8hgzsPiBOLc93oeP4v8Xf-eUGlz6WR26A==)
 
 O restaurante MAZ em Tóquio, sob a direção do chef venezuelano Santiago Fernández, conquistou duas estrelas Michelin, consolidando sua posição na alta cozinha mundial. Fundindo a microestacionalidade japonesa com a filosofia da "Mater Iniciativa" e produtos peruanos, o MAZ oferece uma experiência culinária inovadora que destaca o talento venezuelano na cena gastronômica global.
-
---- 
-
-## 🇧🇷 Atrio em São Paulo: Uma Viagem Sensorial Inesquecível pela Gastronomia Venezuelana (Brasil)
-**Restaurante:** Atrio (Sao Paulo) | **Data:** Maio 2026 | [Link](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGnxoV-pmAx_wjBMMAYJYt9UNURaWhwmFoBh2us46NRMxbtOeb_ZN9PGpLGE6VZ1O4MDhkoYIV7EQVaCup1NQy2S2XIc8AG457zvVFyea_iPoWxTaMT_g_BZbjyM9JGRCvYeB2S340vyOLCeNUsDvC5cQxKXsSlxxF1HzgpZEX-HuEtBnmIiMbrCY9gqnFdUs6JBQ5_Xy0rrgaP8NVMZ8YSC8VA)
-
-O restaurante Atrio em São Paulo, liderado pelos irmãos Schiavi Molina, lançou um inovador menu de degustação de 6 tempos. Esta "viagem sensorial" reinterpreta a culinária venezuelana com técnicas modernas, destacando pratos como o "Rompecolchón" e o "Pastel de Chucho", oferecendo uma experiência culinária única que celebra a rica identidade do país.
-
---- 
-
-## 🇪🇸 Madrid Celebra a Arepa: Inovação e Fusão no III Campeonato Gastronômico (España)
-**Restaurante:** III Campeonato de Arepas de la Comunidad de Madrid (Madrid) | **Data:** Maio 2026 | [Link](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEDDeN3OrVV30njdq00Lk6txzStAt4qn0EnuOoWBAVrsJ8VEFEFmna-E2y_VocfSUuPQm1zX6x11Jbh-hpd172xE5_R4MVd4HyMlEkDGHEG4V6JOd40uvZbG8mZeIp_CDXEsZ8yhsmT_HNY6tWuBCKyMX4Vb9y8l7TM8CW6cOaekpG6WGw=)
-
-O III Campeonato de Arepas de Madrid, realizado em outubro de 2025, destacou a versatilidade da arepa como plataforma para fusão e tradição. Com propostas como a "Arepa Japo-Caribeña" vegana, o evento e a Rota da Arepa 2025 consolidaram este prato venezuelano como um ícone culinário em evolução, premiando a criatividade e o sabor.
 
 --- 
 
