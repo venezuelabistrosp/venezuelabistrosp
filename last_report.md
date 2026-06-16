@@ -1,4 +1,25 @@
-# Relatório de Pesquisa de Tendências (Nuvem) - 2026-06-14 18:15:55
+# Relatório de Pesquisa de Tendências (Nuvem) - 2026-06-16 20:14:36
+
+## 🇧🇷 Atrio em São Paulo: Uma Viagem Culinária pela Venezuela com Sabor a Inovação (Brasil)
+**Restaurante:** Atrio (Sao Paulo) | **Data:** Maio 2026 | [Link](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH4x97SPTRAHgxuIlkNhpiPeQG-ONZR85qLZwIRdelpce5VnXhWdywe0SKatevYg8Y6nrxYXVj3U1gddwbE1Z-NPNlccu3YbCm1MJSRqv4KPhMmu0468h-eJyTuaFpwjie0Od_UF-lhlNTVqaetUIsKDg0snbyqq3O190pqmQ1TT52wo1b4JspruleDqdw558DMKxNg0SA8u--vS46rrxS_d9yo)
+
+Atrio em São Paulo redefine a alta cozinha venezuelana com um menu degustação de 6 tempos. Os irmãos Schiavi Molina apresentam pratos icónicos como o "Rompecolchón" e o "Pastel de Chucho" com um toque contemporâneo. Uma experiência sensorial que celebra a tradição e a inovação culinária da Venezuela no Brasil.
+
+--- 
+
+## 🇨🇦 The Arepa Republic: A Arepa Venezuelana Conquista os Paladares de Toronto (Canadá)
+**Restaurante:** The Arepa Republic (Toronto) | **Data:** Maio 2026 | [Link](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFkA6f3s6Nov6jJtaTy9fCEA0h70D4fmN0gNmZDkxZJV0LA67PtdFGLLx-UwclKkRuiLXlih4XYL6bQR58it4h9U-plLXk8LSomg28SFT1g5vUmoyWYKllSKdOdYMZrOJ82JnvKsw7e7ypQsY78BVhiARA2AzekJ7td2rJgl4e2kxh6rDy65oCG6D8K9QVoQLQOvXm7_xt6jOkY9Ko=)
+
+The Arepa Republic em Toronto conseguiu popularizar a arepa venezuelana no Canadá. Localizado em Waterworks, este restaurante de fast food oferece autênticos sabores venezuelanos, sendo a "arepa de pabellón" a favorita. O chef Luis Manuel Córdoba lidera esta iniciativa, tornando a arepa um prato conhecido e amado na vibrante cena culinária de Toronto.
+
+--- 
+
+## 🇺🇸 Tequenomania em Miami: Redefinindo o Tequeño Venezuelano com Inovação Gourmet (Estados Unidos)
+**Restaurante:** Tequenomania (Miami) | **Data:** Maio 2026 | [Link](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHoU65xuskUP6sb9YG1uyzAOWaOF_ILBL-bNk3s0tNry-rP5Yfvm5dK3mBmDDScXLu6LQK7C8b6lf5ngVLdFtl_shijat0exlRCJclLZQiitbf4F8HEWkXM)
+
+Tequenomania em Miami eleva o tequeño a um nível gourmet, oferecendo inovação e opções saudáveis. Com alternativas sem glúten de mandioca e banana-da-terra, e uma ampla gama de recheios, esta empresa combina receitas autênticas com ingredientes premium. É uma celebração da tradição venezuelana com um toque moderno e consciente.
+
+--- 
 
 ## 🇺🇸 Mita: A Revolução Vegana Venezuelana que Conquista uma Estrela Michelin em Washington D.C. (Estados Unidos)
 **Restaurante:** Mita (Washington D.C.) | **Data:** Maio 2026 | [Link](https://www.lanacion.com.ar/estados-unidos/son-venezolanos-y-crearon-un-restaurante-que-gano-una-estrella-michelin-en-estados-unidos-nid06072025/)
@@ -32,27 +53,6 @@ Na Anato 2025, chefs colombianos surpreenderam com inovações da lechona tolime
 **Restaurante:** La Cachapera (Madrid) | **Data:** Maio 2026 | [Link](https://www.profesionalhoreca.com/la-cachapera-abre-su-sexto-restaurante-en-espana/)
 
 La Cachapera, que começou como food truck, celebra a abertura de sua sexta unidade na Espanha, a segunda em Madrid. Seu sucesso reside na cachapa, seu prato principal, e na inovação com os "cachinachos". A marca oferece uma experiência caribenha completa, fundindo gastronomia, música e estética, consolidando sua presença e planos de expansão internacional.
-
---- 
-
-## 🇺🇸 María Evans da Azú Pastelería: Prata no Global Chef Challenge, Levando o Cacau Venezuelano ao Mundo (Estados Unidos)
-**Restaurante:** Azú Pastelería (Chef María Evans) (Las Vegas) | **Data:** Maio 2026 | [Link](https://bienmesabe.com/noticia/la-venezolana-maria-evans-gana-plata-en-global-chef-de-las-vegas-y-pasa-a-la-final-mundial/)
-
-A chef venezuelana María Evans da Azú Pastelería ganhou a medalha de prata no Global Chef Challenge para as Américas em agosto de 2025. Sua sobremesa, que funde cacau e manga venezuelanos, garantiu-lhe um lugar na final mundial no País de Gales. Esta conquista destaca a excelência da pastelaria venezuelana e seus sabores únicos no cenário culinário internacional.
-
---- 
-
-## 🇻🇪 Venezuela Brilha: Nomeada Melhor Destino Culinário da América do Sul nos World Travel Awards 2026 (Venezuela)
-**Restaurante:** World Travel Awards (WTA) (Venezuela) | **Data:** Maio 2026 | [Link](https://www.diariovea.com.ve/venezuela-es-nominada-a-mejor-destino-culinario-de-suramerica-en-wta-2026/)
-
-Em junho de 2026, a Venezuela foi nomeada "South America's Leading Culinary Destination" nos World Travel Awards. Este reconhecimento destaca a rica herança mestiça de sua gastronomia, seus contrastes de sabores e texturas, e seu profundo enraizamento histórico. A nomeação impulsiona o turismo gastronômico e apoia produtores e empreendedores locais.
-
---- 
-
-## 🇵🇪 Mérito em Lima: A Fusão Venezuelana-Peruana que Conquista a Alta Cozinha Mundial (Perú)
-**Restaurante:** Mérito (Lima) | **Data:** Maio 2026 | [Link](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHx0y-x6AgVB_u2LJ3N213C1NYsMCuvPCJSxUnx20znd5ZYTA33Z0N2NCYTCipUflQcC-FEpLh_xBzgJR1o6ID-98pm3VOIUIE3uygRKP3oxILs4Bsv57M6XXQtkmRA5xBWJWY_fjJ9DXyQM62gLi8w1mY1zlFWHFt8LN9uW2Emlc-CL1LjEuCtix1OZsnYN7S0zMY=)
-
-Mérito, liderado pelo chef venezuelano Juan Luis Martínez em Lima, Peru, posiciona-se como um dos melhores restaurantes do mundo. Sua proposta inovadora funde técnicas venezuelanas com ingredientes peruanos, oferecendo um menu mutável e surpreendente que redefine a alta cozinha latino-americana com pratos únicos e criativos.
 
 --- 
 
