@@ -1,4 +1,18 @@
-# Relatório de Pesquisa de Tendências (Nuvem) - 2026-06-16 20:14:36
+# Relatório de Pesquisa de Tendências (Nuvem) - 2026-06-17 19:27:32
+
+## 🇺🇸 Mita Restaurant: A Inovação Vegana Venezuelana Conquista Washington D.C. e uma Estrela Michelin (Estados Unidos)
+**Restaurante:** Mita Restaurant (Washington D.C.) | **Data:** Maio 2026 | [Link](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGhALmxTd-T8zu7fT52IJNXEq9mr37azkxLejZwLZJ93wB0DNjDrmBpQPE19PpCY7lV8dWeRGP1WcBHmrwOIJbnjEXngP7VDn6dEkWVVOdeuvG4WW9zzJcf6FHr6v-PT5znaT0_xpEcV36gNMlAL1QPWYQSDZHL_wjUL3Du11NnjGbmskLzO3EaBDBFjcKUJ05cCpLdP4C1eIyn8rYCIss2f5lTlkYimBQD3IAg-KeVtQpH8A2CTf_PuQUxjTb1Nvjs1qxHot-acDPgMKw==)
+
+O Mita Restaurant, liderado por chefs venezuelanos em Washington D.C., foi premiado com uma estrela Michelin pela sua inovadora cozinha latino-americana à base de plantas. Oferece uma experiência gourmet que reinterpreta sabores tradicionais, destacando pratos como arepas e berinjela ao estilo da avó, demonstrando o potencial da gastronomia venezuelana vegana a nível mundial.
+
+--- 
+
+## 🇻🇪 Projeto UBRE: A Gastronomia Sustentável Venezuelana Ganha Reconhecimento Ibero-Americano (Venezuela)
+**Restaurante:** Proyecto UBRE (Afueras de Caracas) | **Data:** Maio 2026 | [Link](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGDVVNTfhLyPKewNDwOaeKMFMTin6foLTIfbiItEowHFAvSrx72ETuv2lQCyUh1Mkkx8v6TULmjRVN5zQMsWmGKnjlCkCqDyZIvE7Bwu7efEb1dgNqnkDaQbVjjW15OnIl6zkj5Se5J-l5ZlSa6iP603XxOops5Vo-urq4Bot3fe0h4djHZn45XTD8dR855DnU-_YyroriLfF_PNeOpbvFz)
+
+O Projeto UBRE, nos arredores de Caracas, foi premiado com o Prêmio Ibero-Americano de Gastronomia Sustentável 2026. Este projeto inovador integra uma fazenda e um restaurante, focando na criação orgânica de ovelhas e numa cozinha liderada pelo chef Issam Koteich, que reivindica a identidade venezuelana através do cordeiro autoproduzido e da sustentabilidade.
+
+--- 
 
 ## 🇧🇷 Atrio em São Paulo: Uma Viagem Culinária pela Venezuela com Sabor a Inovação (Brasil)
 **Restaurante:** Atrio (Sao Paulo) | **Data:** Maio 2026 | [Link](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH4x97SPTRAHgxuIlkNhpiPeQG-ONZR85qLZwIRdelpce5VnXhWdywe0SKatevYg8Y6nrxYXVj3U1gddwbE1Z-NPNlccu3YbCm1MJSRqv4KPhMmu0468h-eJyTuaFpwjie0Od_UF-lhlNTVqaetUIsKDg0snbyqq3O190pqmQ1TT52wo1b4JspruleDqdw558DMKxNg0SA8u--vS46rrxS_d9yo)
@@ -39,20 +53,6 @@ Canaima Cafe, a nova joia da comida de rua venezuelana em Toronto, destaca-se po
 **Restaurante:** Proyecto Ubre y Restaurante Cordero (Caracas) | **Data:** Maio 2026 | [Link](https://www.expreso.info/noticias/gastronomia/99602-venezuela-rompe-barreras-a-traves-de-la-gastronomia)
 
 O chef Issam Koteich eleva a gastronomia venezuelana com Projeto Ubre e Restaurante Cordero em Caracas. Premiado pela sustentabilidade e posicionado entre os melhores da América Latina, sua proposta foca no cordeiro orgânico de produção própria, reivindicando a identidade culinária do país com uma abordagem inovadora e ambientalmente consciente.
-
---- 
-
-## 🇨🇴 Fusão Gastronômica na Anato 2025: Lechona Tolimense e Arepas com Toque Venezuelano (Colombia)
-**Restaurante:** Expositores del Tolima en Anato 2025 (Colombia) | **Data:** Maio 2026 | [Link](https://alaluzpublica.com/trufas-tacos-y-arepas-los-pasabocas-innovadores-de-lechona-que-conquistaron-paladares-en-anato-2025/)
-
-Na Anato 2025, chefs colombianos surpreenderam com inovações da lechona tolimense. Destacaram trufas de lechona com mangostão, arepitas boyacenses recheadas e tacos crocantes, mostrando como a gastronomia venezuelana inspira novas criações e formatos gourmet, celebrando a riqueza culinária da região andina.
-
---- 
-
-## 🇪🇸 La Cachapera: O Sabor Venezuelano Conquista a Espanha com Expansão e Cachinachos Inovadores (España)
-**Restaurante:** La Cachapera (Madrid) | **Data:** Maio 2026 | [Link](https://www.profesionalhoreca.com/la-cachapera-abre-su-sexto-restaurante-en-espana/)
-
-La Cachapera, que começou como food truck, celebra a abertura de sua sexta unidade na Espanha, a segunda em Madrid. Seu sucesso reside na cachapa, seu prato principal, e na inovação com os "cachinachos". A marca oferece uma experiência caribenha completa, fundindo gastronomia, música e estética, consolidando sua presença e planos de expansão internacional.
 
 --- 
 
