@@ -152,12 +152,20 @@ def download_image_via_imagen(prompt, filename):
 
 def download_image_from_pollinations(prompt, filename):
     """Downloads an AI-generated image from Pollinations.ai and saves it locally"""
+    import random
     encoded_prompt = urllib.parse.quote(prompt)
-    url = f"https://image.pollinations.ai/prompt/{encoded_prompt}?width=800&height=600&nologo=true&private=true"
+    seed = random.randint(1, 999999)
+    url = f"https://image.pollinations.ai/prompt/{encoded_prompt}?width=800&height=600&nologo=true&private=true&feed=false&seed={seed}"
+    
+    headers = {
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
+        "Accept": "text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8",
+        "Accept-Language": "en-US,en;q=0.9",
+    }
     
     print(f"[*] Generating and downloading image for prompt: '{prompt}'...")
     try:
-        response = requests.get(url, timeout=45)
+        response = requests.get(url, headers=headers, timeout=45)
         if response.status_code == 200:
             with open(filename, "wb") as f:
                 f.write(response.content)
