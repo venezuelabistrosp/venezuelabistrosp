@@ -5,13 +5,13 @@
 <meta charset="utf-8"/>
 <meta content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no" name="viewport"/>
 <title>Venezuela Bistro SP - Delivery</title>
-<link rel="manifest" href="manifest.json">
+<link href="manifest.json" rel="manifest"/>
 <!-- Meta Tags para Comportamiento de App (PWA) -->
 <meta content="#CF142B" name="theme-color"/>
 <meta content="yes" name="apple-mobile-web-app-capable"/>
 <meta content="black-translucent" name="apple-mobile-web-app-status-bar-style"/>
 <meta content="VE Bistro" name="apple-mobile-web-app-title"/>
-<link href="logo.jpg" rel="apple-touch-icon"/>
+<link href="logo.jpg" rel="apple-touch-icon">
 <link href="logo.jpg" rel="icon" type="image/jpeg"/>
 <!-- Tarjeta de Presentación para Redes Sociales (Open Graph) -->
 <meta content="Venezuela Bistro SP | O Verdadeiro Sabor Venezuelano" property="og:title"/>
@@ -218,12 +218,12 @@
             will-change: opacity;
         }
     </style>
-</head>
+</link></head>
 <body class="antialiased relative" id="inicio">
 <!-- Navbar -->
 <nav class="sticky top-0 z-50 bg-white/95 backdrop-blur-sm shadow-md">
 <div class="container mx-auto px-4 py-3 flex justify-between items-center">
-<a href="#inicio" onclick="window.scrollTo({top: 0, behavior: 'smooth'}); return false;" class="flex items-center gap-3 cursor-pointer group">
+<a class="flex items-center gap-3 cursor-pointer group" href="#inicio" onclick="window.scrollTo({top: 0, behavior: 'smooth'}); return false;">
 <div class="h-10 w-10 rounded-md overflow-hidden shadow-sm border border-gray-100 relative bg-gray-100 transition-transform group-hover:scale-105">
 <img alt="Logo Venezuela Bistro" class="w-full h-full object-cover" src="logo.jpg"/>
 </div>
@@ -232,16 +232,16 @@
 </div>
 </a>
 <div class="flex items-center gap-2 sm:gap-3">
-<a href="#trends-section" onclick="document.getElementById('trends-section').scrollIntoView({behavior: 'smooth'}); return false;" class="text-gray-700 hover:text-ven-red font-bold text-xs sm:text-sm px-3 py-1.5 rounded-full hover:bg-gray-100/60 transition-all flex items-center gap-1.5 active:scale-95">
+<a class="text-gray-700 hover:text-ven-red font-bold text-xs sm:text-sm px-3 py-1.5 rounded-full hover:bg-gray-100/60 transition-all flex items-center gap-1.5 active:scale-95" href="#trends-section" onclick="document.getElementById('trends-section').scrollIntoView({behavior: 'smooth'}); return false;">
 <i class="w-4 h-4 sm:w-4.5 sm:h-4.5 text-gray-600" data-lucide="book-open"></i>
 <span data-i18n="nav_blog">Blog</span>
 </a>
 <div class="flex items-center gap-2 sm:mr-2 bg-gray-100/30 sm:bg-gray-100 rounded-full px-2 py-1">
 <button class="lang-btn w-6 h-6 rounded-full overflow-hidden active" data-lang="pt" onclick="setLanguage('pt')" title="Português (Brasil)">
-<img loading="lazy" alt="PT" class="w-full h-full object-cover" onerror="this.onerror=null; this.src='https://images.unsplash.com/photo-1615719413546-198b25453f85?ixlib=rb-1.2.1&amp;auto=format&amp;fit=crop&amp;w=800&amp;q=80';" src="https://upload.wikimedia.org/wikipedia/commons/0/05/Flag_of_Brazil.svg"/>
+<img alt="PT" class="w-full h-full object-cover" loading="lazy" onerror="this.onerror=null; this.src='https://images.unsplash.com/photo-1615719413546-198b25453f85?ixlib=rb-1.2.1&amp;auto=format&amp;fit=crop&amp;w=800&amp;q=80';" src="https://upload.wikimedia.org/wikipedia/commons/0/05/Flag_of_Brazil.svg"/>
 </button>
 <button class="lang-btn w-6 h-6 rounded-full overflow-hidden" data-lang="es" onclick="setLanguage('es')" title="Español">
-<img loading="lazy" alt="ES" class="w-full h-full object-cover" onerror="this.onerror=null; this.src='https://images.unsplash.com/photo-1615719413546-198b25453f85?ixlib=rb-1.2.1&amp;auto=format&amp;fit=crop&amp;w=800&amp;q=80';" src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Flag_of_Spain.svg"/>
+<img alt="ES" class="w-full h-full object-cover" loading="lazy" onerror="this.onerror=null; this.src='https://images.unsplash.com/photo-1615719413546-198b25453f85?ixlib=rb-1.2.1&amp;auto=format&amp;fit=crop&amp;w=800&amp;q=80';" src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Flag_of_Spain.svg"/>
 </button>
 </div>
 <button class="hidden md:flex items-center gap-1.5 bg-ven-yellow text-stone-900 text-xs font-bold px-3.5 py-1.5 rounded-full hover:bg-yellow-400 active:scale-95 transition-all shadow-sm border border-stone-200" id="install-app-btn" style="display: none;">
@@ -284,7 +284,7 @@
 <header class="relative bg-gray-900 text-white overflow-hidden min-h-[40vh] md:min-h-[500px] hero-background flex flex-col">
 <!-- Imagen de banner visible solo en móvil al principio del header -->
 <div class="block md:hidden w-full aspect-[2/1] overflow-hidden relative border-b-4 border-ven-yellow">
-    <img src="Cover.jpg" alt="Venezuela Bistro Cover" class="w-full h-full object-cover object-center"/>
+<img alt="Venezuela Bistro Cover" class="w-full h-full object-cover object-center" src="Cover.jpg"/>
 </div>
 <div class="absolute inset-0 hero-overlay z-10 hidden md:block"></div>
 <div class="container mx-auto px-4 relative z-20 h-full flex flex-col justify-center items-start text-left pt-6 pb-8 md:pt-20 md:pb-8 sm:pt-28">
@@ -304,11 +304,11 @@
 </button>
 <div class="flex flex-wrap items-center justify-center sm:justify-start gap-2 bg-white/10 p-1.5 rounded-3xl sm:rounded-full backdrop-blur-sm border border-white/20 w-full sm:w-fit max-w-full">
 <a class="bg-white text-gray-900 font-bold py-1.5 sm:py-2 px-3 sm:px-4 rounded-full shadow-md hover:bg-gray-100 transition flex items-center justify-center gap-1.5 text-[10px] sm:text-xs" href="https://www.ifood.com.br/delivery/sao-paulo-sp/venezuela-bistro-sp-pirituba/d92a890e-00b0-4a0e-8f6e-801d405af09c" target="_blank">
-<img loading="lazy" alt="iFood" class="h-3.5 sm:h-4 w-auto object-contain" onerror="this.onerror=null; this.src='logo-ifood.jpg';" src="logo-ifood.png"/>
+<img alt="iFood" class="h-3.5 sm:h-4 w-auto object-contain" loading="lazy" onerror="this.onerror=null; this.src='logo-ifood.jpg';" src="logo-ifood.png"/>
                         ifood
                     </a>
 <a class="bg-white text-gray-900 font-bold py-1.5 sm:py-2 px-3 sm:px-4 rounded-full shadow-md hover:bg-gray-100 transition flex items-center justify-center gap-1.5 text-[10px] sm:text-xs" href="https://oia.99app.com/dlp9/d7J7t5?share_media=WHATSAPP" target="_blank">
-<img loading="lazy" alt="99" class="h-3.5 sm:h-4 w-auto object-contain rounded-sm" onerror="this.onerror=null; this.src='logo-99.jpg';" src="logo-99.png"/>
+<img alt="99" class="h-3.5 sm:h-4 w-auto object-contain rounded-sm" loading="lazy" onerror="this.onerror=null; this.src='logo-99.jpg';" src="logo-99.png"/>
                         99
                     </a>
 <a class="bg-[#25D366] text-white font-bold py-1.5 sm:py-2 px-3 sm:px-4 rounded-full shadow-md hover:bg-green-600 transition flex items-center justify-center gap-1.5 text-[10px] sm:text-xs" href="https://wa.me/5511990270534" target="_blank">
@@ -377,7 +377,7 @@
 <!-- Slide 1 -->
 <div class="w-full shrink-0 flex flex-col md:flex-row bg-white">
 <div class="w-full md:w-1/2 relative h-48 sm:h-64 md:h-[400px]">
-<img loading="lazy" alt="História VZ" class="w-full h-full object-cover" src="historia.jpg"/>
+<img alt="História VZ" class="w-full h-full object-cover" loading="lazy" src="historia.jpg"/>
 <span class="absolute bottom-4 left-4 sm:bottom-6 sm:left-6 px-4 py-1.5 bg-ven-yellow text-gray-900 font-bold text-xs uppercase tracking-wider rounded-full shadow-md">Tradição</span>
 </div>
 <div class="w-full md:w-1/2 p-3 sm:p-6 md:p-10 flex flex-col justify-center text-left">
@@ -393,7 +393,7 @@
 <!-- Slide 2 -->
 <div class="w-full shrink-0 flex flex-col md:flex-row bg-gray-50/50">
 <div class="w-full md:w-1/2 relative h-48 sm:h-64 md:h-[400px]">
-<img loading="lazy" alt="Reina Pepiada" class="w-full h-full object-cover" src="reina_historia.jpg"/>
+<img alt="Reina Pepiada" class="w-full h-full object-cover" loading="lazy" src="reina_historia.jpg"/>
 <span class="absolute bottom-4 left-4 sm:bottom-6 sm:left-6 px-4 py-1.5 bg-ven-blue text-white font-bold text-xs uppercase tracking-wider rounded-full shadow-md">Você Sabia?</span>
 </div>
 <div class="w-full md:w-1/2 p-3 sm:p-6 md:p-10 flex flex-col justify-center text-left">
@@ -411,7 +411,7 @@
 <!-- Slide 3 -->
 <div class="w-full shrink-0 flex flex-col md:flex-row bg-white">
 <div class="w-full md:w-1/2 relative h-48 sm:h-64 md:h-[400px]">
-<img loading="lazy" alt="Família" class="w-full h-full object-cover" src="historia_3.jpg"/>
+<img alt="Família" class="w-full h-full object-cover" loading="lazy" src="historia_3.jpg"/>
 <span class="absolute bottom-4 left-4 sm:bottom-6 sm:left-6 px-4 py-1.5 bg-ven-red text-white font-bold text-xs uppercase tracking-wider rounded-full shadow-md">Família Bistro</span>
 </div>
 <div class="w-full md:w-1/2 p-3 sm:p-6 md:p-10 flex flex-col justify-center text-left">
@@ -464,9 +464,9 @@
 <div class="relative w-full rounded-2xl overflow-hidden shadow-2xl bg-gray-900 border border-gray-800 group">
 <div class="flex transition-transform duration-500 ease-in-out h-auto md:h-64" id="promo-track">
 <!-- Slide 5: Sanduíche de Pernil Venezuelano (-30%) -->
-                    <div class="w-full flex-shrink-0 flex flex-col md:flex-row relative bg-gray-900">
+<div class="w-full flex-shrink-0 flex flex-col md:flex-row relative bg-gray-900">
 <div class="w-full md:w-1/3 h-40 md:h-full relative overflow-hidden bg-black flex-shrink-0">
-<img loading="lazy" src="sanduiche_pernil.jpg" onerror="this.src='https://images.unsplash.com/photo-1628840042765-356cda07504e?ixlib=rb-1.2.1&auto=format&fit=crop&w=800&q=80'" class="w-full h-full object-cover transform hover:scale-110 transition duration-700">
+<img class="w-full h-full object-cover transform hover:scale-110 transition duration-700" loading="lazy" onerror="this.src='https://images.unsplash.com/photo-1628840042765-356cda07504e?ixlib=rb-1.2.1&amp;auto=format&amp;fit=crop&amp;w=800&amp;q=80'" src="sanduiche_pernil.jpg"/>
 <div class="absolute inset-0 bg-gradient-to-t from-black/80 to-transparent md:hidden"></div>
 <div class="absolute top-2 left-2 sm:top-3 sm:left-3 bg-ven-red text-white font-black px-2 py-0.5 sm:px-3 sm:py-1 rounded-md sm:rounded-lg text-xs md:text-base shadow-lg border border-white/20 animate-pulse z-10">
                                 -30% OFF
@@ -482,20 +482,20 @@
 <span class="text-2xl sm:text-3xl font-black text-ven-yellow leading-none whitespace-nowrap">R$ 19,90</span>
 </div>
 <button class="bg-ven-red text-white py-2 sm:py-3 px-4 sm:px-6 rounded-lg sm:rounded-full font-bold hover:bg-ven-yellow hover:text-gray-900 transition-colors flex items-center justify-center gap-1.5 sm:gap-2 text-xs sm:text-sm md:text-base shadow-lg h-max w-full md:w-auto flex-shrink-0" onclick="goToCombos()">
-                                    <span>Mais Informações</span> <i class="w-4 h-4 sm:w-5 sm:h-5" data-lucide="arrow-right-circle"></i>
-                                </button>
+<span>Mais Informações</span> <i class="w-4 h-4 sm:w-5 sm:h-5" data-lucide="arrow-right-circle"></i>
+</button>
 </div>
 </div>
 </div>
 <!-- Slide 1: Combo Experiencia 1 (-52%) -->
-                    <div class="w-full flex-shrink-0 flex flex-col md:flex-row relative bg-gray-900">
+<div class="w-full flex-shrink-0 flex flex-col md:flex-row relative bg-gray-900">
 <div class="w-full md:w-1/3 h-40 md:h-full relative overflow-hidden bg-black flex-shrink-0">
-<img loading="lazy" class="w-full h-full object-cover transform hover:scale-110 transition duration-700" onerror="this.src='https://images.unsplash.com/photo-1615719413546-198b25453f85?ixlib=rb-1.2.1&amp;auto=format&amp;fit=crop&amp;w=800&amp;q=80'" src="promo_combo_1.jpg"/>
+<img class="w-full h-full object-cover transform hover:scale-110 transition duration-700" loading="lazy" onerror="this.src='https://images.unsplash.com/photo-1615719413546-198b25453f85?ixlib=rb-1.2.1&amp;auto=format&amp;fit=crop&amp;w=800&amp;q=80'" src="promo_combo_1.jpg">
 <div class="absolute inset-0 bg-gradient-to-t from-black/80 to-transparent md:hidden"></div>
 <div class="absolute top-2 left-2 sm:top-3 sm:left-3 bg-ven-red text-white font-black px-2 py-0.5 sm:px-3 sm:py-1 rounded-md sm:rounded-lg text-xs md:text-base shadow-lg border border-white/20 animate-pulse z-10">
                                 -52% OFF
                             </div>
-</div>
+</img></div>
 <div class="w-full md:w-2/3 p-4 sm:p-5 md:p-8 flex flex-col justify-center">
 <span class="text-ven-yellow font-bold text-[10px] sm:text-xs tracking-wider uppercase mb-1" data-i18n="promo_tag">Por Tempo Limitado</span>
 <h4 class="text-lg sm:text-2xl md:text-3xl font-bold text-white mb-1.5 sm:mb-2 leading-tight" data-i18n="name_combo_1">Experiências Venezuelanas 1</h4>
@@ -512,9 +512,9 @@
 </div>
 </div>
 <!-- Slide 2: Experiencias Venezuelanas 2 (-52%) -->
-                    <div class="w-full flex-shrink-0 flex flex-col md:flex-row relative bg-gray-900">
+<div class="w-full flex-shrink-0 flex flex-col md:flex-row relative bg-gray-900">
 <div class="w-full md:w-1/3 h-40 md:h-full relative overflow-hidden bg-black flex-shrink-0">
-<img loading="lazy" class="w-full h-full object-cover transform hover:scale-110 transition duration-700" onerror="this.src='https://images.unsplash.com/photo-1628840042765-356cda07504e?ixlib=rb-1.2.1&amp;auto=format&amp;fit=crop&amp;w=800&amp;q=80'" src="combo_experiencia_2.jpg"/>
+<img class="w-full h-full object-cover transform hover:scale-110 transition duration-700" loading="lazy" onerror="this.src='https://images.unsplash.com/photo-1628840042765-356cda07504e?ixlib=rb-1.2.1&amp;auto=format&amp;fit=crop&amp;w=800&amp;q=80'" src="combo_experiencia_2.jpg"/>
 <div class="absolute inset-0 bg-gradient-to-t from-black/80 to-transparent md:hidden"></div>
 <div class="absolute top-2 left-2 sm:top-3 sm:left-3 bg-ven-red text-white font-black px-2 py-0.5 sm:px-3 sm:py-1 rounded-md sm:rounded-lg text-xs md:text-base shadow-lg border border-white/20 animate-pulse z-10">
                                 -52% OFF
@@ -536,9 +536,9 @@
 </div>
 </div>
 <!-- Slide 3: Combo Caracas (-30%) -->
-                    <div class="w-full flex-shrink-0 flex flex-col md:flex-row relative bg-gray-900">
+<div class="w-full flex-shrink-0 flex flex-col md:flex-row relative bg-gray-900">
 <div class="w-full md:w-1/3 h-40 md:h-full relative overflow-hidden bg-black flex-shrink-0">
-<img loading="lazy" class="w-full h-full object-cover transform hover:scale-110 transition duration-700" onerror="this.src='https://images.unsplash.com/photo-1606525437678-a400f2e34774?ixlib=rb-1.2.1&amp;auto=format&amp;fit=crop&amp;w=800&amp;q=80'" src="combo_caracas.jpg"/>
+<img class="w-full h-full object-cover transform hover:scale-110 transition duration-700" loading="lazy" onerror="this.src='https://images.unsplash.com/photo-1606525437678-a400f2e34774?ixlib=rb-1.2.1&amp;auto=format&amp;fit=crop&amp;w=800&amp;q=80'" src="combo_caracas.jpg"/>
 <div class="absolute inset-0 bg-gradient-to-t from-black/80 to-transparent md:hidden"></div>
 <div class="absolute top-2 left-2 sm:top-3 sm:left-3 bg-ven-red text-white font-black px-2 py-0.5 sm:px-3 sm:py-1 rounded-md sm:rounded-lg text-xs md:text-base shadow-lg border border-white/20 animate-pulse z-10" data-i18n="badge_promo_30">
                                 -30% OFF
@@ -560,9 +560,9 @@
 </div>
 </div>
 <!-- Slide 4: Combo Duo Venezuelano (-33%) -->
-                    <div class="w-full flex-shrink-0 flex flex-col md:flex-row relative bg-gray-900">
+<div class="w-full flex-shrink-0 flex flex-col md:flex-row relative bg-gray-900">
 <div class="w-full md:w-1/3 h-40 md:h-full relative overflow-hidden bg-black flex-shrink-0">
-<img loading="lazy" src="combo_duo_venezuelano.jpg" onerror="this.src='https://images.unsplash.com/photo-1543339308-43e59d6b73a6?ixlib=rb-1.2.1&auto=format&fit=crop&w=800&q=80'" class="w-full h-full object-cover transform hover:scale-110 transition duration-700">
+<img class="w-full h-full object-cover transform hover:scale-110 transition duration-700" loading="lazy" onerror="this.src='https://images.unsplash.com/photo-1543339308-43e59d6b73a6?ixlib=rb-1.2.1&amp;auto=format&amp;fit=crop&amp;w=800&amp;q=80'" src="combo_duo_venezuelano.jpg"/>
 <div class="absolute inset-0 bg-gradient-to-t from-black/80 to-transparent md:hidden"></div>
 <div class="absolute top-2 left-2 sm:top-3 sm:left-3 bg-ven-red text-white font-black px-2 py-0.5 sm:px-3 sm:py-1 rounded-md sm:rounded-lg text-xs md:text-base shadow-lg border border-white/20 animate-pulse z-10">
                                 -33% OFF
@@ -578,12 +578,11 @@
 <span class="text-2xl sm:text-3xl font-black text-ven-yellow leading-none whitespace-nowrap">R$ 89,90</span>
 </div>
 <button class="bg-ven-red text-white py-2 sm:py-3 px-4 sm:px-6 rounded-lg sm:rounded-full font-bold hover:bg-ven-yellow hover:text-gray-900 transition-colors flex items-center justify-center gap-1.5 sm:gap-2 text-xs sm:text-sm md:text-base shadow-lg h-max w-full md:w-auto flex-shrink-0" onclick="goToCombos()">
-                                    <span>Mais Informações</span> <i class="w-4 h-4 sm:w-5 sm:h-5" data-lucide="arrow-right-circle"></i>
-                                </button>
+<span>Mais Informações</span> <i class="w-4 h-4 sm:w-5 sm:h-5" data-lucide="arrow-right-circle"></i>
+</button>
 </div>
 </div>
 </div>
-
 </div>
 <button class="absolute left-2 md:left-4 top-1/2 transform -translate-y-1/2 bg-gray-900 text-ven-yellow hover:bg-ven-red hover:text-white p-1 sm:p-2 md:p-3 rounded-full shadow-[0_4px_15px_rgba(0,0,0,0.6)] z-30 transition-all border-2 border-ven-yellow flex items-center justify-center cursor-pointer" id="prev-promo" title="Anterior">
 <i class="w-5 h-5 sm:w-6 sm:h-6 md:w-8 md:h-8" data-lucide="chevron-left"></i>
@@ -616,14 +615,14 @@
 <!-- SEÇÃO COMBOS -->
 <div class="menu-section grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6 sm:gap-8 scroll-mt-36" id="combos-section">
 <div class="col-span-full mb-2 mt-4">
-    <h3 class="text-2xl font-bold text-gray-800 pl-3 border-l-4 border-ven-red" data-i18n="cat_combos">Combos &amp; Promo</h3>
+<h3 class="text-2xl font-bold text-gray-800 pl-3 border-l-4 border-ven-red" data-i18n="cat_combos">Combos &amp; Promo</h3>
 </div>
 <!-- Combo 5: Sanduíche de Pernil Venezuelano -->
 <div class="bg-white rounded-xl sm:rounded-2xl overflow-hidden shadow-sm sm:shadow-md card-hover group flex flex-row sm:flex-col border border-gray-100 sm:border-transparent p-2 sm:p-0 gap-3 sm:gap-0 border-2 border-ven-yellow">
 <div class="w-[100px] sm:w-full h-auto sm:h-64 bg-gray-100 flex items-center justify-center relative overflow-hidden flex-shrink-0 rounded-lg sm:rounded-none object-cover min-h-[100px]">
 <div class="product-img-container w-full h-full">
-<img loading="lazy" alt="Sanduíche de Pernil Venezuelano" class="product-img w-full h-full object-cover" onerror="this.src='https://images.unsplash.com/photo-1628840042765-356cda07504e?ixlib=rb-1.2.1&amp;auto=format&amp;fit=crop&amp;w=800&amp;q=80'" src="sanduiche_pernil.jpg"/>
-</div>
+<img alt="Sanduíche de Pernil Venezuelano" class="product-img w-full h-full object-cover" loading="lazy" onerror="this.src='https://images.unsplash.com/photo-1628840042765-356cda07504e?ixlib=rb-1.2.1&amp;auto=format&amp;fit=crop&amp;w=800&amp;q=80'" src="sanduiche_pernil.jpg">
+</img></div>
 <span class="absolute bottom-2 right-2 bg-ven-red text-white px-2 py-1 sm:px-3 sm:py-1 text-[10px] sm:text-xs font-black rounded shadow z-10 animate-pulse">-30% OFF</span>
 </div>
 <div class="py-1 pr-1 sm:p-6 flex flex-col flex-grow w-[calc(100%-110px)] sm:w-full">
@@ -637,11 +636,11 @@
 <div class="text-gray-500 text-xs mb-3 sm:mb-4 flex-grow h-auto">
                                 Um verdadeiro clássico da gastronomia de lanches da Venezuela, pensado para satisfazer plenamente a fome de uma pessoa.
                                 <ul class="hide-on-mobile list-disc pl-4 space-y-1 text-left text-[11px] sm:text-xs mt-2">
-                                    <li><strong>Pão baguete artesanal:</strong> 15cm, com crosta de queijo parmesão.</li>
-                                    <li><strong>Pernil desfiado:</strong> Assado lentamente e super macio.</li>
-                                    <li><strong>Salada fresca:</strong> Alface e rodelas de tomates suculentos.</li>
-                                    <li><strong>Molhos clássicos:</strong> Maionese, ketchup e mostarda.</li>
-                                </ul>
+<li><strong>Pão baguete artesanal:</strong> 15cm, com crosta de queijo parmesão.</li>
+<li><strong>Pernil desfiado:</strong> Assado lentamente e super macio.</li>
+<li><strong>Salada fresca:</strong> Alface e rodelas de tomates suculentos.</li>
+<li><strong>Molhos clássicos:</strong> Maionese, ketchup e mostarda.</li>
+</ul>
 </div>
 <span class="portion-tag hidden sm:inline-block mb-3 sm:mb-4 w-max">Rende: 1 pessoa</span>
 <button class="hidden sm:flex add-to-cart w-full bg-ven-red text-white py-2.5 sm:py-3 rounded-lg sm:rounded-xl font-bold hover:bg-gray-900 transition-colors justify-center items-center gap-2 mt-auto text-xs sm:text-sm" onclick="addToCart('Sanduíche de Pernil Venezuelano', 19.90)">
@@ -654,7 +653,7 @@
 <div class="bg-white rounded-xl sm:rounded-2xl overflow-hidden shadow-sm sm:shadow-md card-hover group flex flex-row sm:flex-col border border-gray-100 sm:border-transparent p-2 sm:p-0 gap-3 sm:gap-0 border-2 border-ven-red">
 <div class="w-[100px] sm:w-full h-auto sm:h-64 bg-gray-100 flex items-center justify-center relative overflow-hidden flex-shrink-0 rounded-lg sm:rounded-none object-cover min-h-[100px]">
 <div class="product-img-container w-full h-full">
-<img loading="lazy" alt="Experiências Venezuelanas 1" class="product-img w-full h-full object-cover" onerror="this.src='https://images.unsplash.com/photo-1615719413546-198b25453f85?ixlib=rb-1.2.1&amp;auto=format&amp;fit=crop&amp;w=800&amp;q=80'" src="combo_experiencia_1.jpg"/>
+<img alt="Experiências Venezuelanas 1" class="product-img w-full h-full object-cover" loading="lazy" onerror="this.src='https://images.unsplash.com/photo-1615719413546-198b25453f85?ixlib=rb-1.2.1&amp;auto=format&amp;fit=crop&amp;w=800&amp;q=80'" src="combo_experiencia_1.jpg"/>
 </div>
 <span class="absolute bottom-2 right-2 bg-ven-yellow px-2 py-1 sm:px-3 sm:py-1 text-[10px] sm:text-xs font-black rounded shadow text-gray-900 z-10" data-i18n="badge_promo">Promoção!</span>
 </div>
@@ -688,7 +687,7 @@
 <div class="bg-white rounded-xl sm:rounded-2xl overflow-hidden shadow-sm sm:shadow-md card-hover group flex flex-row sm:flex-col border border-gray-100 sm:border-transparent p-2 sm:p-0 gap-3 sm:gap-0 border-2 border-ven-blue">
 <div class="w-[100px] sm:w-full h-auto sm:h-64 bg-gray-100 flex items-center justify-center relative overflow-hidden flex-shrink-0 rounded-lg sm:rounded-none object-cover min-h-[100px]">
 <div class="product-img-container w-full h-full">
-<img loading="lazy" alt="Experiências Venezuelanas 2" class="product-img w-full h-full object-cover" onerror="this.src='https://images.unsplash.com/photo-1628840042765-356cda07504e?ixlib=rb-1.2.1&amp;auto=format&amp;fit=crop&amp;w=800&amp;q=80'" src="combo_experiencia_2.jpg"/>
+<img alt="Experiências Venezuelanas 2" class="product-img w-full h-full object-cover" loading="lazy" onerror="this.src='https://images.unsplash.com/photo-1628840042765-356cda07504e?ixlib=rb-1.2.1&amp;auto=format&amp;fit=crop&amp;w=800&amp;q=80'" src="combo_experiencia_2.jpg"/>
 </div>
 <span class="absolute bottom-2 right-2 bg-ven-yellow px-2 py-1 sm:px-3 sm:py-1 text-[10px] sm:text-xs font-black rounded shadow text-gray-900 z-10" data-i18n="badge_promo">Promoção!</span>
 </div>
@@ -722,7 +721,7 @@
 <div class="bg-white rounded-xl sm:rounded-2xl overflow-hidden shadow-sm sm:shadow-md card-hover group flex flex-row sm:flex-col border border-gray-100 sm:border-transparent p-2 sm:p-0 gap-3 sm:gap-0 border-2 border-ven-yellow">
 <div class="w-[100px] sm:w-full h-auto sm:h-64 bg-gray-100 flex items-center justify-center relative overflow-hidden flex-shrink-0 rounded-lg sm:rounded-none object-cover min-h-[100px]">
 <div class="product-img-container w-full h-full">
-<img loading="lazy" alt="Combo Caracas" class="product-img w-full h-full object-cover" onerror="this.src='https://images.unsplash.com/photo-1606525437678-a400f2e34774?ixlib=rb-1.2.1&amp;auto=format&amp;fit=crop&amp;w=800&amp;q=80'" src="combo_caracas.jpg"/>
+<img alt="Combo Caracas" class="product-img w-full h-full object-cover" loading="lazy" onerror="this.src='https://images.unsplash.com/photo-1606525437678-a400f2e34774?ixlib=rb-1.2.1&amp;auto=format&amp;fit=crop&amp;w=800&amp;q=80'" src="combo_caracas.jpg"/>
 </div>
 <span class="absolute bottom-2 right-2 bg-ven-red text-white px-2 py-1 sm:px-3 sm:py-1 text-[10px] sm:text-xs font-black rounded shadow z-10 animate-pulse" data-i18n="badge_promo_30">-30% OFF</span>
 </div>
@@ -748,7 +747,7 @@
 <div class="bg-white rounded-xl sm:rounded-2xl overflow-hidden shadow-sm sm:shadow-md card-hover group flex flex-row sm:flex-col border border-gray-100 sm:border-transparent p-2 sm:p-0 gap-3 sm:gap-0 border-2 border-ven-red">
 <div class="w-[100px] sm:w-full h-auto sm:h-64 bg-gray-100 flex items-center justify-center relative overflow-hidden flex-shrink-0 rounded-lg sm:rounded-none object-cover min-h-[100px]">
 <div class="product-img-container w-full h-full">
-<img loading="lazy" alt="Combo Duo Venezuelano" class="product-img w-full h-full object-cover" onerror="this.src='https://images.unsplash.com/photo-1543339308-43e59d6b73a6?ixlib=rb-1.2.1&amp;auto=format&amp;fit=crop&amp;w=800&amp;q=80'" src="combo_duo_venezuelano.jpg"/>
+<img alt="Combo Duo Venezuelano" class="product-img w-full h-full object-cover" loading="lazy" onerror="this.src='https://images.unsplash.com/photo-1543339308-43e59d6b73a6?ixlib=rb-1.2.1&amp;auto=format&amp;fit=crop&amp;w=800&amp;q=80'" src="combo_duo_venezuelano.jpg"/>
 </div>
 <span class="absolute bottom-2 right-2 bg-ven-red text-white px-2 py-1 sm:px-3 sm:py-1 text-[10px] sm:text-xs font-black rounded shadow z-10 animate-pulse">-33% OFF</span>
 </div>
@@ -770,18 +769,17 @@
 <button class="sm:hidden text-ven-red text-[11px] font-bold mt-auto uppercase tracking-wide flex justify-end items-center gap-1 active:opacity-70 mt-2 pointer-events-none">Ver detalhes <i class="w-3 h-3" data-lucide="chevron-right"></i></button>
 </div>
 </div>
-
 </div>
 <!-- SEÇÃO AREPAS -->
 <div class="menu-section grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6 sm:gap-8 scroll-mt-36" id="arepas-section">
 <div class="col-span-full mb-2 mt-8">
-    <h3 class="text-2xl font-bold text-gray-800 pl-3 border-l-4 border-ven-red" data-i18n="cat_arepas">Arepas</h3>
+<h3 class="text-2xl font-bold text-gray-800 pl-3 border-l-4 border-ven-red" data-i18n="cat_arepas">Arepas</h3>
 </div>
 <!-- Item 1: Arepa Pabellón -->
 <div class="bg-white rounded-xl sm:rounded-2xl overflow-hidden shadow-sm sm:shadow-md card-hover group flex flex-row sm:flex-col border border-gray-100 sm:border-transparent p-2 sm:p-0 gap-3 sm:gap-0">
 <div class="w-[100px] sm:w-full h-auto sm:h-64 bg-gray-100 flex items-center justify-center relative overflow-hidden flex-shrink-0 rounded-lg sm:rounded-none object-cover min-h-[100px]">
 <div class="product-img-container w-full h-full">
-<img loading="lazy" alt="Arepa Pabellón" class="product-img w-full h-full object-cover" onerror="this.onerror=null; this.src='https://images.unsplash.com/photo-1615719413546-198b25453f85?ixlib=rb-1.2.1&amp;auto=format&amp;fit=crop&amp;w=800&amp;q=80';" src="arepa_pabellon.jpg"/>
+<img alt="Arepa Pabellón" class="product-img w-full h-full object-cover" loading="lazy" onerror="this.onerror=null; this.src='https://images.unsplash.com/photo-1615719413546-198b25453f85?ixlib=rb-1.2.1&amp;auto=format&amp;fit=crop&amp;w=800&amp;q=80';" src="arepa_pabellon.jpg"/>
 </div>
 <span class="absolute bottom-2 right-2 bg-white px-2 py-1 text-[10px] sm:text-xs font-bold rounded shadow text-gray-600 z-10" data-i18n="badge_popular">Popular</span>
 </div>
@@ -802,7 +800,7 @@
 <div class="bg-white rounded-xl sm:rounded-2xl overflow-hidden shadow-sm sm:shadow-md card-hover group flex flex-row sm:flex-col border border-gray-100 sm:border-transparent p-2 sm:p-0 gap-3 sm:gap-0">
 <div class="w-[100px] sm:w-full h-auto sm:h-64 bg-gray-100 flex items-center justify-center relative overflow-hidden flex-shrink-0 rounded-lg sm:rounded-none object-cover min-h-[100px]">
 <div class="product-img-container w-full h-full">
-<img loading="lazy" alt="Arepa Reina pepeada" class="product-img w-full h-full object-cover" onerror="this.onerror=null; this.src='https://images.unsplash.com/photo-1615719413546-198b25453f85?ixlib=rb-1.2.1&amp;auto=format&amp;fit=crop&amp;w=800&amp;q=80';" src="arepa_reinapepeada.jpg"/>
+<img alt="Arepa Reina pepeada" class="product-img w-full h-full object-cover" loading="lazy" onerror="this.onerror=null; this.src='https://images.unsplash.com/photo-1615719413546-198b25453f85?ixlib=rb-1.2.1&amp;auto=format&amp;fit=crop&amp;w=800&amp;q=80';" src="arepa_reinapepeada.jpg"/>
 </div>
 </div>
 <div class="py-1 pr-1 sm:p-6 flex flex-col flex-grow w-[calc(100%-110px)] sm:w-full">
@@ -822,7 +820,7 @@
 <div class="bg-white rounded-xl sm:rounded-2xl overflow-hidden shadow-sm sm:shadow-md card-hover group flex flex-row sm:flex-col border border-gray-100 sm:border-transparent p-2 sm:p-0 gap-3 sm:gap-0">
 <div class="w-[100px] sm:w-full h-auto sm:h-64 bg-gray-100 flex items-center justify-center relative overflow-hidden flex-shrink-0 rounded-lg sm:rounded-none object-cover min-h-[100px]">
 <div class="product-img-container w-full h-full">
-<img loading="lazy" alt="Arepa Pelúa" class="product-img w-full h-full object-cover" onerror="this.onerror=null; this.src='https://images.unsplash.com/photo-1615719413546-198b25453f85?ixlib=rb-1.2.1&amp;auto=format&amp;fit=crop&amp;w=800&amp;q=80';" src="arepa_pelua.jpg"/>
+<img alt="Arepa Pelúa" class="product-img w-full h-full object-cover" loading="lazy" onerror="this.onerror=null; this.src='https://images.unsplash.com/photo-1615719413546-198b25453f85?ixlib=rb-1.2.1&amp;auto=format&amp;fit=crop&amp;w=800&amp;q=80';" src="arepa_pelua.jpg"/>
 </div>
 </div>
 <div class="py-1 pr-1 sm:p-6 flex flex-col flex-grow w-[calc(100%-110px)] sm:w-full">
@@ -842,7 +840,7 @@
 <div class="bg-white rounded-xl sm:rounded-2xl overflow-hidden shadow-sm sm:shadow-md card-hover group flex flex-row sm:flex-col border border-gray-100 sm:border-transparent p-2 sm:p-0 gap-3 sm:gap-0">
 <div class="w-[100px] sm:w-full h-auto sm:h-64 bg-gray-100 flex items-center justify-center relative overflow-hidden flex-shrink-0 rounded-lg sm:rounded-none object-cover min-h-[100px]">
 <div class="product-img-container w-full h-full">
-<img loading="lazy" alt="Arepa Catira" class="product-img w-full h-full object-cover" onerror="this.onerror=null; this.src='https://images.unsplash.com/photo-1615719413546-198b25453f85?ixlib=rb-1.2.1&amp;auto=format&amp;fit=crop&amp;w=800&amp;q=80';" src="arepa_catira.jpg"/>
+<img alt="Arepa Catira" class="product-img w-full h-full object-cover" loading="lazy" onerror="this.onerror=null; this.src='https://images.unsplash.com/photo-1615719413546-198b25453f85?ixlib=rb-1.2.1&amp;auto=format&amp;fit=crop&amp;w=800&amp;q=80';" src="arepa_catira.jpg"/>
 </div>
 </div>
 <div class="py-1 pr-1 sm:p-6 flex flex-col flex-grow w-[calc(100%-110px)] sm:w-full">
@@ -862,7 +860,7 @@
 <div class="bg-white rounded-xl sm:rounded-2xl overflow-hidden shadow-sm sm:shadow-md card-hover group flex flex-row sm:flex-col border border-gray-100 sm:border-transparent p-2 sm:p-0 gap-3 sm:gap-0">
 <div class="w-[100px] sm:w-full h-auto sm:h-64 bg-gray-100 flex items-center justify-center relative overflow-hidden flex-shrink-0 rounded-lg sm:rounded-none object-cover min-h-[100px]">
 <div class="product-img-container w-full h-full">
-<img loading="lazy" alt="Arepa de Pernil" class="product-img w-full h-full object-cover" onerror="this.onerror=null; this.src='https://images.unsplash.com/photo-1615719413546-198b25453f85?ixlib=rb-1.2.1&amp;auto=format&amp;fit=crop&amp;w=800&amp;q=80';" src="arepa_pernil.jpg"/>
+<img alt="Arepa de Pernil" class="product-img w-full h-full object-cover" loading="lazy" onerror="this.onerror=null; this.src='https://images.unsplash.com/photo-1615719413546-198b25453f85?ixlib=rb-1.2.1&amp;auto=format&amp;fit=crop&amp;w=800&amp;q=80';" src="arepa_pernil.jpg"/>
 </div>
 </div>
 <div class="py-1 pr-1 sm:p-6 flex flex-col flex-grow w-[calc(100%-110px)] sm:w-full">
@@ -882,7 +880,7 @@
 <div class="bg-white rounded-xl sm:rounded-2xl overflow-hidden shadow-sm sm:shadow-md card-hover group flex flex-row sm:flex-col border border-gray-100 sm:border-transparent p-2 sm:p-0 gap-3 sm:gap-0">
 <div class="w-[100px] sm:w-full h-auto sm:h-64 bg-gray-100 flex items-center justify-center relative overflow-hidden flex-shrink-0 rounded-lg sm:rounded-none object-cover min-h-[100px]">
 <div class="product-img-container w-full h-full">
-<img loading="lazy" alt="Arepa de Camarão" class="product-img w-full h-full object-cover" onerror="this.onerror=null; this.src='https://images.unsplash.com/photo-1615719413546-198b25453f85?ixlib=rb-1.2.1&amp;auto=format&amp;fit=crop&amp;w=800&amp;q=80';" src="arepa_camarao.jpg"/>
+<img alt="Arepa de Camarão" class="product-img w-full h-full object-cover" loading="lazy" onerror="this.onerror=null; this.src='https://images.unsplash.com/photo-1615719413546-198b25453f85?ixlib=rb-1.2.1&amp;auto=format&amp;fit=crop&amp;w=800&amp;q=80';" src="arepa_camarao.jpg"/>
 </div>
 </div>
 <div class="py-1 pr-1 sm:p-6 flex flex-col flex-grow w-[calc(100%-110px)] sm:w-full">
@@ -902,7 +900,7 @@
 <div class="bg-white rounded-xl sm:rounded-2xl overflow-hidden shadow-sm sm:shadow-md group flex flex-row sm:flex-col border border-gray-100 sm:border-transparent p-2 sm:p-0 gap-3 sm:gap-0 opacity-60 grayscale pointer-events-none">
 <div class="w-[100px] sm:w-full h-auto sm:h-64 bg-gray-100 flex items-center justify-center relative overflow-hidden flex-shrink-0 rounded-lg sm:rounded-none object-cover min-h-[100px]">
 <div class="product-img-container w-full h-full">
-<img loading="lazy" alt="Arepa Vegetariana" class="product-img w-full h-full object-cover" onerror="this.onerror=null; this.src='https://images.unsplash.com/photo-1615719413546-198b25453f85?ixlib=rb-1.2.1&amp;auto=format&amp;fit=crop&amp;w=800&amp;q=80';" src="arepa_vegetariana.jpg"/>
+<img alt="Arepa Vegetariana" class="product-img w-full h-full object-cover" loading="lazy" onerror="this.onerror=null; this.src='https://images.unsplash.com/photo-1615719413546-198b25453f85?ixlib=rb-1.2.1&amp;auto=format&amp;fit=crop&amp;w=800&amp;q=80';" src="arepa_vegetariana.jpg"/>
 <div class="absolute inset-0 bg-black/50 z-20 flex items-center justify-center backdrop-blur-[2px]"><span class="text-white font-black px-3 py-1 bg-red-600 border border-red-800 rounded shadow-lg transform -rotate-12 text-[10px] sm:text-xs" data-i18n="out_of_stock_tag">Esgotado / Agotado</span></div></div>
 </div>
 <div class="py-1 pr-1 sm:p-6 flex flex-col flex-grow w-[calc(100%-110px)] sm:w-full">
@@ -922,13 +920,13 @@
 <!-- SEÇÃO CACHAPAS -->
 <div class="menu-section grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6 sm:gap-8 scroll-mt-36" id="cachapas-section">
 <div class="col-span-full mb-2 mt-8">
-    <h3 class="text-2xl font-bold text-gray-800 pl-3 border-l-4 border-ven-red" data-i18n="cat_cachapas">Cachapas</h3>
+<h3 class="text-2xl font-bold text-gray-800 pl-3 border-l-4 border-ven-red" data-i18n="cat_cachapas">Cachapas</h3>
 </div>
 <!-- Item 12: Cachapa Queijo -->
 <div class="bg-white rounded-xl sm:rounded-2xl overflow-hidden shadow-sm sm:shadow-md card-hover group flex flex-row sm:flex-col border border-gray-100 sm:border-transparent p-2 sm:p-0 gap-3 sm:gap-0">
 <div class="w-[100px] sm:w-full h-auto sm:h-64 bg-gray-100 flex items-center justify-center relative overflow-hidden flex-shrink-0 rounded-lg sm:rounded-none object-cover min-h-[100px]">
 <div class="product-img-container w-full h-full">
-<img loading="lazy" alt="Cachapa de Queijo" class="product-img w-full h-full object-cover" onerror="this.onerror=null; this.src='https://images.unsplash.com/photo-1628840042765-356cda07504e?ixlib=rb-1.2.1&amp;auto=format&amp;fit=crop&amp;w=800&amp;q=80';" src="cachapa_queijo.jpg"/>
+<img alt="Cachapa de Queijo" class="product-img w-full h-full object-cover" loading="lazy" onerror="this.onerror=null; this.src='https://images.unsplash.com/photo-1628840042765-356cda07504e?ixlib=rb-1.2.1&amp;auto=format&amp;fit=crop&amp;w=800&amp;q=80';" src="cachapa_queijo.jpg"/>
 </div>
 </div>
 <div class="py-1 pr-1 sm:p-6 flex flex-col flex-grow w-[calc(100%-110px)] sm:w-full">
@@ -948,7 +946,7 @@
 <div class="bg-white rounded-xl sm:rounded-2xl overflow-hidden shadow-sm sm:shadow-md card-hover group flex flex-row sm:flex-col border border-gray-100 sm:border-transparent p-2 sm:p-0 gap-3 sm:gap-0">
 <div class="w-[100px] sm:w-full h-auto sm:h-64 bg-gray-100 flex items-center justify-center relative overflow-hidden flex-shrink-0 rounded-lg sm:rounded-none object-cover min-h-[100px]">
 <div class="product-img-container w-full h-full">
-<img loading="lazy" alt="Cachapa Carne Desfiada" class="product-img w-full h-full object-cover" onerror="this.onerror=null; this.src='https://images.unsplash.com/photo-1628840042765-356cda07504e?ixlib=rb-1.2.1&amp;auto=format&amp;fit=crop&amp;w=800&amp;q=80';" src="cachapa_carne.jpg"/>
+<img alt="Cachapa Carne Desfiada" class="product-img w-full h-full object-cover" loading="lazy" onerror="this.onerror=null; this.src='https://images.unsplash.com/photo-1628840042765-356cda07504e?ixlib=rb-1.2.1&amp;auto=format&amp;fit=crop&amp;w=800&amp;q=80';" src="cachapa_carne.jpg"/>
 </div>
 </div>
 <div class="py-1 pr-1 sm:p-6 flex flex-col flex-grow w-[calc(100%-110px)] sm:w-full">
@@ -968,7 +966,7 @@
 <div class="bg-white rounded-xl sm:rounded-2xl overflow-hidden shadow-sm sm:shadow-md card-hover group flex flex-row sm:flex-col border border-gray-100 sm:border-transparent p-2 sm:p-0 gap-3 sm:gap-0">
 <div class="w-[100px] sm:w-full h-auto sm:h-64 bg-gray-100 flex items-center justify-center relative overflow-hidden flex-shrink-0 rounded-lg sm:rounded-none object-cover min-h-[100px]">
 <div class="product-img-container w-full h-full">
-<img loading="lazy" alt="Cachapa Pernil" class="product-img w-full h-full object-cover" onerror="this.onerror=null; this.src='https://images.unsplash.com/photo-1628840042765-356cda07504e?ixlib=rb-1.2.1&amp;auto=format&amp;fit=crop&amp;w=800&amp;q=80';" src="cachapa_pernil.jpg"/>
+<img alt="Cachapa Pernil" class="product-img w-full h-full object-cover" loading="lazy" onerror="this.onerror=null; this.src='https://images.unsplash.com/photo-1628840042765-356cda07504e?ixlib=rb-1.2.1&amp;auto=format&amp;fit=crop&amp;w=800&amp;q=80';" src="cachapa_pernil.jpg"/>
 </div>
 </div>
 <div class="py-1 pr-1 sm:p-6 flex flex-col flex-grow w-[calc(100%-110px)] sm:w-full">
@@ -988,7 +986,7 @@
 <div class="bg-white rounded-xl sm:rounded-2xl overflow-hidden shadow-sm sm:shadow-md card-hover group flex flex-row sm:flex-col border border-gray-100 sm:border-transparent p-2 sm:p-0 gap-3 sm:gap-0">
 <div class="w-[100px] sm:w-full h-auto sm:h-64 bg-gray-100 flex items-center justify-center relative overflow-hidden flex-shrink-0 rounded-lg sm:rounded-none object-cover min-h-[100px]">
 <div class="product-img-container w-full h-full">
-<img loading="lazy" alt="Cachapa Pabellón" class="product-img w-full h-full object-cover" onerror="this.onerror=null; this.src='https://images.unsplash.com/photo-1628840042765-356cda07504e?ixlib=rb-1.2.1&amp;auto=format&amp;fit=crop&amp;w=800&amp;q=80';" src="cachapa_pabellon.jpg"/>
+<img alt="Cachapa Pabellón" class="product-img w-full h-full object-cover" loading="lazy" onerror="this.onerror=null; this.src='https://images.unsplash.com/photo-1628840042765-356cda07504e?ixlib=rb-1.2.1&amp;auto=format&amp;fit=crop&amp;w=800&amp;q=80';" src="cachapa_pabellon.jpg"/>
 </div>
 </div>
 <div class="py-1 pr-1 sm:p-6 flex flex-col flex-grow w-[calc(100%-110px)] sm:w-full">
@@ -1008,7 +1006,7 @@
 <div class="bg-white rounded-xl sm:rounded-2xl overflow-hidden shadow-sm sm:shadow-md group flex flex-row sm:flex-col border border-gray-100 sm:border-transparent p-2 sm:p-0 gap-3 sm:gap-0 opacity-60 grayscale pointer-events-none">
 <div class="w-[100px] sm:w-full h-auto sm:h-64 bg-gray-100 flex items-center justify-center relative overflow-hidden flex-shrink-0 rounded-lg sm:rounded-none object-cover min-h-[100px]">
 <div class="product-img-container w-full h-full">
-<img loading="lazy" alt="Cachapa Vegetal" class="product-img w-full h-full object-cover" onerror="this.onerror=null; this.src='https://images.unsplash.com/photo-1628840042765-356cda07504e?ixlib=rb-1.2.1&amp;auto=format&amp;fit=crop&amp;w=800&amp;q=80';" src="cachapa_veg.jpg"/>
+<img alt="Cachapa Vegetal" class="product-img w-full h-full object-cover" loading="lazy" onerror="this.onerror=null; this.src='https://images.unsplash.com/photo-1628840042765-356cda07504e?ixlib=rb-1.2.1&amp;auto=format&amp;fit=crop&amp;w=800&amp;q=80';" src="cachapa_veg.jpg"/>
 <div class="absolute inset-0 bg-black/50 z-20 flex items-center justify-center backdrop-blur-[2px]"><span class="text-white font-black px-3 py-1 bg-red-600 border border-red-800 rounded shadow-lg transform -rotate-12 text-[10px] sm:text-xs" data-i18n="out_of_stock_tag">Esgotado / Agotado</span></div></div>
 </div>
 <div class="py-1 pr-1 sm:p-6 flex flex-col flex-grow w-[calc(100%-110px)] sm:w-full">
@@ -1028,7 +1026,7 @@
 <div class="bg-white rounded-xl sm:rounded-2xl overflow-hidden shadow-sm sm:shadow-md card-hover group flex flex-row sm:flex-col border border-gray-100 sm:border-transparent p-2 sm:p-0 gap-3 sm:gap-0">
 <div class="w-[100px] sm:w-full h-auto sm:h-64 bg-gray-100 flex items-center justify-center relative overflow-hidden flex-shrink-0 rounded-lg sm:rounded-none object-cover min-h-[100px]">
 <div class="product-img-container w-full h-full">
-<img loading="lazy" alt="Cachapa com Cochino Frito" class="product-img w-full h-full object-cover" onerror="this.onerror=null; this.src='https://images.unsplash.com/photo-1628840042765-356cda07504e?ixlib=rb-1.2.1&amp;auto=format&amp;fit=crop&amp;w=800&amp;q=80';" src="cachapa_chicharrones.jpg"/>
+<img alt="Cachapa com Cochino Frito" class="product-img w-full h-full object-cover" loading="lazy" onerror="this.onerror=null; this.src='https://images.unsplash.com/photo-1628840042765-356cda07504e?ixlib=rb-1.2.1&amp;auto=format&amp;fit=crop&amp;w=800&amp;q=80';" src="cachapa_chicharrones.jpg"/>
 </div>
 </div>
 <div class="py-1 pr-1 sm:p-6 flex flex-col flex-grow w-[calc(100%-110px)] sm:w-full">
@@ -1048,13 +1046,13 @@
 <!-- SEÇÃO EMPANADAS -->
 <div class="menu-section grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6 sm:gap-8 scroll-mt-36" id="empanadas-section">
 <div class="col-span-full mb-2 mt-8">
-    <h3 class="text-2xl font-bold text-gray-800 pl-3 border-l-4 border-ven-red">Empanadas</h3>
+<h3 class="text-2xl font-bold text-gray-800 pl-3 border-l-4 border-ven-red">Empanadas</h3>
 </div>
 <!-- Item 8: Empanada de Carne -->
 <div class="bg-white rounded-xl sm:rounded-2xl overflow-hidden shadow-sm sm:shadow-md card-hover group flex flex-row sm:flex-col border border-gray-100 sm:border-transparent p-2 sm:p-0 gap-3 sm:gap-0">
 <div class="w-[100px] sm:w-full h-auto sm:h-64 bg-gray-100 flex items-center justify-center relative overflow-hidden flex-shrink-0 rounded-lg sm:rounded-none object-cover min-h-[100px]">
 <div class="product-img-container w-full h-full">
-<img loading="lazy" alt="Empanada de Carne" class="product-img w-full h-full object-cover" onerror="this.onerror=null; this.src='https://images.unsplash.com/photo-1606525437678-a400f2e34774?ixlib=rb-1.2.1&amp;auto=format&amp;fit=crop&amp;w=800&amp;q=80';" src="empanada_carne.jpg"/>
+<img alt="Empanada de Carne" class="product-img w-full h-full object-cover" loading="lazy" onerror="this.onerror=null; this.src='https://images.unsplash.com/photo-1606525437678-a400f2e34774?ixlib=rb-1.2.1&amp;auto=format&amp;fit=crop&amp;w=800&amp;q=80';" src="empanada_carne.jpg"/>
 </div>
 </div>
 <div class="py-1 pr-1 sm:p-6 flex flex-col flex-grow w-[calc(100%-110px)] sm:w-full">
@@ -1074,7 +1072,7 @@
 <div class="bg-white rounded-xl sm:rounded-2xl overflow-hidden shadow-sm sm:shadow-md card-hover group flex flex-row sm:flex-col border border-gray-100 sm:border-transparent p-2 sm:p-0 gap-3 sm:gap-0">
 <div class="w-[100px] sm:w-full h-auto sm:h-64 bg-gray-100 flex items-center justify-center relative overflow-hidden flex-shrink-0 rounded-lg sm:rounded-none object-cover min-h-[100px]">
 <div class="product-img-container w-full h-full">
-<img loading="lazy" alt="Empanada de Queijo" class="product-img w-full h-full object-cover" onerror="this.onerror=null; this.src='https://images.unsplash.com/photo-1606525437678-a400f2e34774?ixlib=rb-1.2.1&amp;auto=format&amp;fit=crop&amp;w=800&amp;q=80';" src="empanada_queijo.jpg"/>
+<img alt="Empanada de Queijo" class="product-img w-full h-full object-cover" loading="lazy" onerror="this.onerror=null; this.src='https://images.unsplash.com/photo-1606525437678-a400f2e34774?ixlib=rb-1.2.1&amp;auto=format&amp;fit=crop&amp;w=800&amp;q=80';" src="empanada_queijo.jpg"/>
 </div>
 </div>
 <div class="py-1 pr-1 sm:p-6 flex flex-col flex-grow w-[calc(100%-110px)] sm:w-full">
@@ -1094,7 +1092,7 @@
 <div class="bg-white rounded-xl sm:rounded-2xl overflow-hidden shadow-sm sm:shadow-md group flex flex-row sm:flex-col border border-gray-100 sm:border-transparent p-2 sm:p-0 gap-3 sm:gap-0 opacity-60 grayscale pointer-events-none">
 <div class="w-[100px] sm:w-full h-auto sm:h-64 bg-gray-100 flex items-center justify-center relative overflow-hidden flex-shrink-0 rounded-lg sm:rounded-none object-cover min-h-[100px]">
 <div class="product-img-container w-full h-full">
-<img loading="lazy" alt="Pastelito Andino" class="product-img w-full h-full object-cover" onerror="this.onerror=null; this.src='https://images.unsplash.com/photo-1543339308-43e59d6b73a6?ixlib=rb-1.2.1&amp;auto=format&amp;fit=crop&amp;w=800&amp;q=80';" src="pastelito_andino.jpg"/>
+<img alt="Pastelito Andino" class="product-img w-full h-full object-cover" loading="lazy" onerror="this.onerror=null; this.src='https://images.unsplash.com/photo-1543339308-43e59d6b73a6?ixlib=rb-1.2.1&amp;auto=format&amp;fit=crop&amp;w=800&amp;q=80';" src="pastelito_andino.jpg"/>
 <div class="absolute inset-0 bg-black/50 z-20 flex items-center justify-center backdrop-blur-[2px]"><span class="text-white font-black px-3 py-1 bg-red-600 border border-red-800 rounded shadow-lg transform -rotate-12 text-[10px] sm:text-xs" data-i18n="out_of_stock_tag">Esgotado / Agotado</span></div></div>
 </div>
 <div class="py-1 pr-1 sm:p-6 flex flex-col flex-grow w-[calc(100%-110px)] sm:w-full">
@@ -1114,7 +1112,7 @@
 <div class="bg-white rounded-xl sm:rounded-2xl overflow-hidden shadow-sm sm:shadow-md card-hover group flex flex-row sm:flex-col border border-gray-100 sm:border-transparent p-2 sm:p-0 gap-3 sm:gap-0">
 <div class="w-[100px] sm:w-full h-auto sm:h-64 bg-gray-100 flex items-center justify-center relative overflow-hidden flex-shrink-0 rounded-lg sm:rounded-none object-cover min-h-[100px]">
 <div class="product-img-container w-full h-full">
-<img loading="lazy" alt="Empanada Pelúa" class="product-img w-full h-full object-cover" onerror="this.onerror=null; this.src='https://images.unsplash.com/photo-1606525437678-a400f2e34774?ixlib=rb-1.2.1&amp;auto=format&amp;fit=crop&amp;w=800&amp;q=80';" src="empanada_pelua.jpg"/>
+<img alt="Empanada Pelúa" class="product-img w-full h-full object-cover" loading="lazy" onerror="this.onerror=null; this.src='https://images.unsplash.com/photo-1606525437678-a400f2e34774?ixlib=rb-1.2.1&amp;auto=format&amp;fit=crop&amp;w=800&amp;q=80';" src="empanada_pelua.jpg"/>
 </div>
 </div>
 <div class="py-1 pr-1 sm:p-6 flex flex-col flex-grow w-[calc(100%-110px)] sm:w-full">
@@ -1134,7 +1132,7 @@
 <div class="bg-white rounded-xl sm:rounded-2xl overflow-hidden shadow-sm sm:shadow-md card-hover group flex flex-row sm:flex-col border border-gray-100 sm:border-transparent p-2 sm:p-0 gap-3 sm:gap-0">
 <div class="w-[100px] sm:w-full h-auto sm:h-64 bg-gray-100 flex items-center justify-center relative overflow-hidden flex-shrink-0 rounded-lg sm:rounded-none object-cover min-h-[100px]">
 <div class="product-img-container w-full h-full">
-<img loading="lazy" alt="Empanada de Cazón" class="product-img w-full h-full object-cover" onerror="this.onerror=null; this.src='https://images.unsplash.com/photo-1606525437678-a400f2e34774?ixlib=rb-1.2.1&amp;auto=format&amp;fit=crop&amp;w=800&amp;q=80';" src="empanada_cazon.jpg"/>
+<img alt="Empanada de Cazón" class="product-img w-full h-full object-cover" loading="lazy" onerror="this.onerror=null; this.src='https://images.unsplash.com/photo-1606525437678-a400f2e34774?ixlib=rb-1.2.1&amp;auto=format&amp;fit=crop&amp;w=800&amp;q=80';" src="empanada_cazon.jpg"/>
 </div>
 </div>
 <div class="py-1 pr-1 sm:p-6 flex flex-col flex-grow w-[calc(100%-110px)] sm:w-full">
@@ -1154,7 +1152,7 @@
 <div class="bg-white rounded-xl sm:rounded-2xl overflow-hidden shadow-sm sm:shadow-md card-hover group flex flex-row sm:flex-col border border-gray-100 sm:border-transparent p-2 sm:p-0 gap-3 sm:gap-0">
 <div class="w-[100px] sm:w-full h-auto sm:h-64 bg-gray-100 flex items-center justify-center relative overflow-hidden flex-shrink-0 rounded-lg sm:rounded-none object-cover min-h-[100px]">
 <div class="product-img-container w-full h-full">
-<img loading="lazy" alt="Empanada Presunto e Queijo" class="product-img w-full h-full object-cover" onerror="this.onerror=null; this.src='https://images.unsplash.com/photo-1606525437678-a400f2e34774?ixlib=rb-1.2.1&amp;auto=format&amp;fit=crop&amp;w=800&amp;q=80';" src="empanada_presunto_queijo.jpg"/>
+<img alt="Empanada Presunto e Queijo" class="product-img w-full h-full object-cover" loading="lazy" onerror="this.onerror=null; this.src='https://images.unsplash.com/photo-1606525437678-a400f2e34774?ixlib=rb-1.2.1&amp;auto=format&amp;fit=crop&amp;w=800&amp;q=80';" src="empanada_presunto_queijo.jpg"/>
 </div>
 </div>
 <div class="py-1 pr-1 sm:p-6 flex flex-col flex-grow w-[calc(100%-110px)] sm:w-full">
@@ -1172,35 +1170,35 @@
 </div>
 <!-- Item 10.8: Empanada de Pabellón -->
 <div class="bg-white rounded-xl sm:rounded-2xl overflow-hidden shadow-sm sm:shadow-md card-hover group flex flex-row sm:flex-col border border-gray-100 sm:border-transparent p-2 sm:p-0 gap-3 sm:gap-0">
-    <div class="w-[100px] sm:w-full h-auto sm:h-64 bg-gray-100 flex items-center justify-center relative overflow-hidden flex-shrink-0 rounded-lg sm:rounded-none object-cover min-h-[100px]">
-        <div class="product-img-container w-full h-full">
-            <img loading="lazy" alt="Empanada de Pabellón" class="product-img w-full h-full object-cover" onerror="this.onerror=null; this.src='https://images.unsplash.com/photo-1606525437678-a400f2e34774?ixlib=rb-1.2.1&amp;auto=format&amp;fit=crop&amp;w=800&amp;q=80';" src="empanada_pabellon.png"/>
-        </div>
-    </div>
-    <div class="py-1 pr-1 sm:p-6 flex flex-col flex-grow w-[calc(100%-110px)] sm:w-full">
-        <div class="flex justify-between items-start mb-1 sm:mb-2 gap-2 flex-col sm:flex-row">
-            <h4 class="font-bold text-[13px] leading-tight sm:text-xl text-gray-800 pr-1" data-i18n="name_emp_pabellon">Empanada de Pabellón</h4>
-            <span class="text-ven-red font-bold text-sm sm:text-lg whitespace-nowrap flex-shrink-0 ml-1">R$ 25,00</span>
-        </div>
-        <p class="text-gray-500 text-[10px] sm:text-sm mb-2 sm:mb-4 flex-grow line-clamp-2 h-[30px] sm:h-auto overflow-hidden" data-i18n="desc_emp_pabellon">A combinação definitiva do sabor venezuelano! Massa de milho dourada e super crocante por fora, recheada com nossa suculenta carne desfiada, feijão preto temperado na medida, fatias doces de banana da terra frita e queijo derretido. Acompanha nosso autêntico molho guasacaca.</p>
-        <span class="portion-tag hidden sm:inline-block mb-3 sm:mb-4 w-max" data-i18n="rend_300">Rende: 1 pessoa (300g)</span>
-        <button class="hidden sm:flex add-to-cart w-full bg-gray-900 text-white py-2.5 sm:py-3 rounded-lg sm:rounded-xl font-bold hover:bg-ven-red transition-colors justify-center items-center gap-2 mt-auto text-xs sm:text-sm" onclick="addToCart('Empanada de Pabellón', 25)">
-            <i class="w-4 h-4" data-lucide="plus-circle"></i> <span data-i18n="btn_add">Adicionar</span>
-        </button>
-        <button class="sm:hidden text-ven-red text-[11px] font-bold mt-auto uppercase tracking-wide flex justify-end items-center gap-1 active:opacity-70 mt-2 pointer-events-none">Ver detalhes <i class="w-3 h-3" data-lucide="chevron-right"></i></button>
-    </div>
+<div class="w-[100px] sm:w-full h-auto sm:h-64 bg-gray-100 flex items-center justify-center relative overflow-hidden flex-shrink-0 rounded-lg sm:rounded-none object-cover min-h-[100px]">
+<div class="product-img-container w-full h-full">
+<img alt="Empanada de Pabellón" class="product-img w-full h-full object-cover" loading="lazy" onerror="this.onerror=null; this.src='https://images.unsplash.com/photo-1606525437678-a400f2e34774?ixlib=rb-1.2.1&amp;auto=format&amp;fit=crop&amp;w=800&amp;q=80';" src="empanada_pabellon.png"/>
+</div>
+</div>
+<div class="py-1 pr-1 sm:p-6 flex flex-col flex-grow w-[calc(100%-110px)] sm:w-full">
+<div class="flex justify-between items-start mb-1 sm:mb-2 gap-2 flex-col sm:flex-row">
+<h4 class="font-bold text-[13px] leading-tight sm:text-xl text-gray-800 pr-1" data-i18n="name_emp_pabellon">Empanada de Pabellón</h4>
+<span class="text-ven-red font-bold text-sm sm:text-lg whitespace-nowrap flex-shrink-0 ml-1">R$ 25,00</span>
+</div>
+<p class="text-gray-500 text-[10px] sm:text-sm mb-2 sm:mb-4 flex-grow line-clamp-2 h-[30px] sm:h-auto overflow-hidden" data-i18n="desc_emp_pabellon">A combinação definitiva do sabor venezuelano! Massa de milho dourada e super crocante por fora, recheada com nossa suculenta carne desfiada, feijão preto temperado na medida, fatias doces de banana da terra frita e queijo derretido. Acompanha nosso autêntico molho guasacaca.</p>
+<span class="portion-tag hidden sm:inline-block mb-3 sm:mb-4 w-max" data-i18n="rend_300">Rende: 1 pessoa (300g)</span>
+<button class="hidden sm:flex add-to-cart w-full bg-gray-900 text-white py-2.5 sm:py-3 rounded-lg sm:rounded-xl font-bold hover:bg-ven-red transition-colors justify-center items-center gap-2 mt-auto text-xs sm:text-sm" onclick="addToCart('Empanada de Pabellón', 25)">
+<i class="w-4 h-4" data-lucide="plus-circle"></i> <span data-i18n="btn_add">Adicionar</span>
+</button>
+<button class="sm:hidden text-ven-red text-[11px] font-bold mt-auto uppercase tracking-wide flex justify-end items-center gap-1 active:opacity-70 mt-2 pointer-events-none">Ver detalhes <i class="w-3 h-3" data-lucide="chevron-right"></i></button>
+</div>
 </div>
 </div>
 <!-- SEÇÃO TEQUEÑOS -->
 <div class="menu-section grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6 sm:gap-8 scroll-mt-36" id="tequenos-section">
 <div class="col-span-full mb-2 mt-8">
-    <h3 class="text-2xl font-bold text-gray-800 pl-3 border-l-4 border-ven-red" data-i18n="cat_tequenos">Tequeños</h3>
+<h3 class="text-2xl font-bold text-gray-800 pl-3 border-l-4 border-ven-red" data-i18n="cat_tequenos">Tequeños</h3>
 </div>
 <!-- Item 11: Tequeños -->
 <div class="bg-white rounded-xl sm:rounded-2xl overflow-hidden shadow-sm sm:shadow-md card-hover group flex flex-row sm:flex-col border border-gray-100 sm:border-transparent p-2 sm:p-0 gap-3 sm:gap-0">
 <div class="w-[100px] sm:w-full h-auto sm:h-64 bg-gray-100 flex items-center justify-center relative overflow-hidden flex-shrink-0 rounded-lg sm:rounded-none object-cover min-h-[100px]">
 <div class="product-img-container w-full h-full">
-<img loading="lazy" alt="Tequeños" class="product-img w-full h-full object-cover" onerror="this.onerror=null; this.src='https://images.unsplash.com/photo-1543339308-43e59d6b73a6?ixlib=rb-1.2.1&amp;auto=format&amp;fit=crop&amp;w=800&amp;q=80';" src="tequenos.jpg"/>
+<img alt="Tequeños" class="product-img w-full h-full object-cover" loading="lazy" onerror="this.onerror=null; this.src='https://images.unsplash.com/photo-1543339308-43e59d6b73a6?ixlib=rb-1.2.1&amp;auto=format&amp;fit=crop&amp;w=800&amp;q=80';" src="tequenos.jpg"/>
 </div>
 </div>
 <div class="py-1 pr-1 sm:p-6 flex flex-col flex-grow w-[calc(100%-110px)] sm:w-full">
@@ -1220,7 +1218,7 @@
 <!-- SEÇÃO SOBREMESAS -->
 <div class="menu-section grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6 sm:gap-8 scroll-mt-36" id="sobremesas-section">
 <div class="col-span-full mb-2 mt-8">
-    <h3 class="text-2xl font-bold text-gray-800 pl-3 border-l-4 border-ven-red" data-i18n="cat_sobremesas">Sobremesas</h3>
+<h3 class="text-2xl font-bold text-gray-800 pl-3 border-l-4 border-ven-red" data-i18n="cat_sobremesas">Sobremesas</h3>
 </div>
 <!-- Placeholder -->
 <div class="w-full text-center text-gray-500 py-10 col-span-full">
@@ -1230,12 +1228,12 @@
 <!-- SEÇÃO BEBIDAS -->
 <div class="menu-section grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6 sm:gap-8 scroll-mt-36" id="bebidas-section">
 <div class="col-span-full mb-2 mt-8">
-    <h3 class="text-2xl font-bold text-gray-800 pl-3 border-l-4 border-ven-red" data-i18n="cat_drinks">Bebidas</h3>
+<h3 class="text-2xl font-bold text-gray-800 pl-3 border-l-4 border-ven-red" data-i18n="cat_drinks">Bebidas</h3>
 </div>
 <!-- Bebida 1: Papelón con Limón -->
 <div class="bg-white rounded-xl sm:rounded-2xl overflow-hidden shadow-sm sm:shadow-md card-hover group flex flex-row sm:flex-col border border-gray-100 sm:border-transparent p-2 sm:p-0 gap-3 sm:gap-0">
 <div class="w-[100px] sm:w-full h-auto sm:h-64 bg-gray-100 flex items-center justify-center relative overflow-hidden flex-shrink-0 rounded-lg sm:rounded-none object-cover min-h-[100px]">
-<img loading="lazy" alt="Papelón con Limão" class="product-img w-full h-full object-cover" onerror="this.onerror=null; this.src='https://images.unsplash.com/photo-1615719413546-198b25453f85?ixlib=rb-1.2.1&amp;auto=format&amp;fit=crop&amp;w=800&amp;q=80';" src="papelon_com_limao.jpg"/>
+<img alt="Papelón con Limão" class="product-img w-full h-full object-cover" loading="lazy" onerror="this.onerror=null; this.src='https://images.unsplash.com/photo-1615719413546-198b25453f85?ixlib=rb-1.2.1&amp;auto=format&amp;fit=crop&amp;w=800&amp;q=80';" src="papelon_com_limao.jpg"/>
 </div>
 <div class="py-1 pr-1 sm:p-6 flex flex-col flex-grow w-[calc(100%-110px)] sm:w-full">
 <div class="flex justify-between items-start mb-1 sm:mb-2 gap-2 flex-col sm:flex-row">
@@ -1252,7 +1250,7 @@
 <!-- Bebida 2: Guaraná Antarctica -->
 <div class="bg-white rounded-xl sm:rounded-2xl overflow-hidden shadow-sm sm:shadow-md group flex flex-row sm:flex-col border border-gray-100 sm:border-transparent p-2 sm:p-0 gap-3 sm:gap-0 opacity-60 grayscale pointer-events-none">
 <div class="w-[100px] sm:w-full h-auto sm:h-64 bg-gray-100 flex items-center justify-center relative overflow-hidden flex-shrink-0 rounded-lg sm:rounded-none object-cover min-h-[100px]">
-<img loading="lazy" alt="Guaraná Antarctica" class="product-img w-full h-full object-cover" onerror="this.onerror=null; this.src='https://images.unsplash.com/photo-1622483767028-3f66f32aef97?ixlib=rb-1.2.1&amp;auto=format&amp;fit=crop&amp;w=800&amp;q=80';" src="guarana.jpg"/>
+<img alt="Guaraná Antarctica" class="product-img w-full h-full object-cover" loading="lazy" onerror="this.onerror=null; this.src='https://images.unsplash.com/photo-1622483767028-3f66f32aef97?ixlib=rb-1.2.1&amp;auto=format&amp;fit=crop&amp;w=800&amp;q=80';" src="guarana.jpg"/>
 </div>
 <div class="py-1 pr-1 sm:p-6 flex flex-col flex-grow w-[calc(100%-110px)] sm:w-full">
 <div class="flex justify-between items-start mb-1 sm:mb-2 gap-2 flex-col sm:flex-row">
@@ -1269,7 +1267,7 @@
 <!-- Bebida 3: Fanta Laranja -->
 <div class="bg-white rounded-xl sm:rounded-2xl overflow-hidden shadow-sm sm:shadow-md group flex flex-row sm:flex-col border border-gray-100 sm:border-transparent p-2 sm:p-0 gap-3 sm:gap-0 opacity-60 grayscale pointer-events-none">
 <div class="w-[100px] sm:w-full h-auto sm:h-64 bg-gray-100 flex items-center justify-center relative overflow-hidden flex-shrink-0 rounded-lg sm:rounded-none object-cover min-h-[100px]">
-<img loading="lazy" alt="Fanta Laranja" class="product-img w-full h-full object-cover" onerror="this.onerror=null; this.src='https://images.unsplash.com/photo-1622483767028-3f66f32aef97?ixlib=rb-1.2.1&amp;auto=format&amp;fit=crop&amp;w=800&amp;q=80';" src="fanta.jpg"/>
+<img alt="Fanta Laranja" class="product-img w-full h-full object-cover" loading="lazy" onerror="this.onerror=null; this.src='https://images.unsplash.com/photo-1622483767028-3f66f32aef97?ixlib=rb-1.2.1&amp;auto=format&amp;fit=crop&amp;w=800&amp;q=80';" src="fanta.jpg"/>
 </div>
 <div class="py-1 pr-1 sm:p-6 flex flex-col flex-grow w-[calc(100%-110px)] sm:w-full">
 <div class="flex justify-between items-start mb-1 sm:mb-2 gap-2 flex-col sm:flex-row">
@@ -1286,7 +1284,7 @@
 <!-- Bebida 4: Coca Cola Original -->
 <div class="bg-white rounded-xl sm:rounded-2xl overflow-hidden shadow-sm sm:shadow-md card-hover group flex flex-row sm:flex-col border border-gray-100 sm:border-transparent p-2 sm:p-0 gap-3 sm:gap-0">
 <div class="w-[100px] sm:w-full h-auto sm:h-64 bg-gray-100 flex items-center justify-center relative overflow-hidden flex-shrink-0 rounded-lg sm:rounded-none object-cover min-h-[100px]">
-<img loading="lazy" alt="Coca-Cola Sabor Original" class="product-img w-full h-full object-cover" onerror="this.onerror=null; this.src='https://images.unsplash.com/photo-1622483767028-3f66f32aef97?ixlib=rb-1.2.1&amp;auto=format&amp;fit=crop&amp;w=800&amp;q=80';" src="coca_cola_original.jpg"/>
+<img alt="Coca-Cola Sabor Original" class="product-img w-full h-full object-cover" loading="lazy" onerror="this.onerror=null; this.src='https://images.unsplash.com/photo-1622483767028-3f66f32aef97?ixlib=rb-1.2.1&amp;auto=format&amp;fit=crop&amp;w=800&amp;q=80';" src="coca_cola_original.jpg"/>
 </div>
 <div class="py-1 pr-1 sm:p-6 flex flex-col flex-grow w-[calc(100%-110px)] sm:w-full">
 <div class="flex justify-between items-start mb-1 sm:mb-2 gap-2 flex-col sm:flex-row">
@@ -1303,7 +1301,7 @@
 <!-- Bebida 5: Coca Cola Zero -->
 <div class="bg-white rounded-xl sm:rounded-2xl overflow-hidden shadow-sm sm:shadow-md card-hover group flex flex-row sm:flex-col border border-gray-100 sm:border-transparent p-2 sm:p-0 gap-3 sm:gap-0">
 <div class="w-[100px] sm:w-full h-auto sm:h-64 bg-gray-100 flex items-center justify-center relative overflow-hidden flex-shrink-0 rounded-lg sm:rounded-none object-cover min-h-[100px]">
-<img loading="lazy" alt="Coca-Cola Zero" class="product-img w-full h-full object-cover" onerror="this.onerror=null; this.src='https://images.unsplash.com/photo-1622483767028-3f66f32aef97?ixlib=rb-1.2.1&amp;auto=format&amp;fit=crop&amp;w=800&amp;q=80';" src="coca_cola_zero.jpg"/>
+<img alt="Coca-Cola Zero" class="product-img w-full h-full object-cover" loading="lazy" onerror="this.onerror=null; this.src='https://images.unsplash.com/photo-1622483767028-3f66f32aef97?ixlib=rb-1.2.1&amp;auto=format&amp;fit=crop&amp;w=800&amp;q=80';" src="coca_cola_zero.jpg"/>
 </div>
 <div class="py-1 pr-1 sm:p-6 flex flex-col flex-grow w-[calc(100%-110px)] sm:w-full">
 <div class="flex justify-between items-start mb-1 sm:mb-2 gap-2 flex-col sm:flex-row">
@@ -1320,7 +1318,7 @@
 <!-- Bebida 6: Água Minalba -->
 <div class="bg-white rounded-xl sm:rounded-2xl overflow-hidden shadow-sm sm:shadow-md card-hover group flex flex-row sm:flex-col border border-gray-100 sm:border-transparent p-2 sm:p-0 gap-3 sm:gap-0">
 <div class="w-[100px] sm:w-full h-auto sm:h-64 bg-gray-100 flex items-center justify-center relative overflow-hidden flex-shrink-0 rounded-lg sm:rounded-none object-cover min-h-[100px]">
-<img loading="lazy" alt="Água Minalba" class="product-img w-full h-full object-cover" onerror="this.onerror=null; this.src='https://images.unsplash.com/photo-1548839140-29a749e1bc4e?ixlib=rb-1.2.1&amp;auto=format&amp;fit=crop&amp;w=800&amp;q=80';" src="agua.jpg"/>
+<img alt="Água Minalba" class="product-img w-full h-full object-cover" loading="lazy" onerror="this.onerror=null; this.src='https://images.unsplash.com/photo-1548839140-29a749e1bc4e?ixlib=rb-1.2.1&amp;auto=format&amp;fit=crop&amp;w=800&amp;q=80';" src="agua.jpg"/>
 </div>
 <div class="py-1 pr-1 sm:p-6 flex flex-col flex-grow w-[calc(100%-110px)] sm:w-full">
 <div class="flex justify-between items-start mb-1 sm:mb-2 gap-2 flex-col sm:flex-row">
@@ -1337,7 +1335,7 @@
 <!-- Bebida 7: Malta Polar -->
 <div class="bg-white rounded-xl sm:rounded-2xl overflow-hidden shadow-sm sm:shadow-md group flex flex-row sm:flex-col border border-gray-100 sm:border-transparent p-2 sm:p-0 gap-3 sm:gap-0 opacity-60 grayscale pointer-events-none">
 <div class="w-[100px] sm:w-full h-auto sm:h-64 bg-gray-100 flex items-center justify-center relative overflow-hidden flex-shrink-0 rounded-lg sm:rounded-none object-cover min-h-[100px]">
-<img loading="lazy" alt="Malta Polar" class="product-img w-full h-full object-cover" onerror="this.src='https://images.unsplash.com/photo-1625754593446-24df99757345?ixlib=rb-1.2.1&amp;auto=format&amp;fit=crop&amp;w=800&amp;q=80';" src="malta_polar.jpg"/>
+<img alt="Malta Polar" class="product-img w-full h-full object-cover" loading="lazy" onerror="this.src='https://images.unsplash.com/photo-1625754593446-24df99757345?ixlib=rb-1.2.1&amp;auto=format&amp;fit=crop&amp;w=800&amp;q=80';" src="malta_polar.jpg"/>
 </div>
 <div class="py-1 pr-1 sm:p-6 flex flex-col flex-grow w-[calc(100%-110px)] sm:w-full">
 <div class="flex justify-between items-start mb-1 sm:mb-2 gap-2 flex-col sm:flex-row">
@@ -1354,49 +1352,47 @@
 </div>
 </div>
 </div></section>
-
 <!-- SEÇÃO DE TENDÊNCIAS E NOVIDADES (FEED) -->
-<section id="trends-section" class="py-12 sm:py-16 bg-white border-b border-gray-100 scroll-mt-20">
-    <div class="container mx-auto px-4 max-w-6xl">
-        <div class="text-center mb-10 sm:mb-12">
-            <span class="text-ven-blue font-black tracking-widest text-xs sm:text-sm uppercase mb-1 block" data-i18n="trends_subtitle">Tendências da Comunidade</span>
-            <h3 class="text-xl sm:text-3xl font-black text-gray-900 leading-tight" data-i18n="trends_title">Mundo Arepa: O que há de novo?</h3>
-            <div class="h-1 w-16 bg-ven-red mx-auto mt-3 rounded"></div>
-        </div>
-        <div class="grid grid-cols-1 md:grid-cols-2 gap-6 sm:gap-8 max-w-4xl mx-auto" id="trends-container">
-            <!-- Skeleton Loading Shimmer (overwritten dynamically when trends.js loads) -->
-            <div class="skeleton-card bg-white rounded-2xl overflow-hidden shadow-sm border border-gray-100 p-5 flex flex-col gap-4 animate-pulse">
-                <div class="h-48 w-full rounded-xl shimmer-bg"></div>
-                <div class="flex justify-between items-center">
-                    <div class="h-3.5 w-24 rounded shimmer-bg"></div>
-                    <div class="h-3.5 w-16 rounded shimmer-bg"></div>
-                </div>
-                <div class="h-5 w-3/4 rounded shimmer-bg"></div>
-                <div class="flex flex-col gap-2">
-                    <div class="h-3.5 w-full rounded shimmer-bg"></div>
-                    <div class="h-3.5 w-5/6 rounded shimmer-bg"></div>
-                </div>
-                <div class="h-4 w-20 rounded mt-2 shimmer-bg"></div>
-            </div>
-            <div class="skeleton-card bg-white rounded-2xl overflow-hidden shadow-sm border border-gray-100 p-5 flex flex-col gap-4 animate-pulse">
-                <div class="h-48 w-full rounded-xl shimmer-bg"></div>
-                <div class="flex justify-between items-center">
-                    <div class="h-3.5 w-24 rounded shimmer-bg"></div>
-                    <div class="h-3.5 w-16 rounded shimmer-bg"></div>
-                </div>
-                <div class="h-5 w-3/4 rounded shimmer-bg"></div>
-                <div class="flex flex-col gap-2">
-                    <div class="h-3.5 w-full rounded shimmer-bg"></div>
-                    <div class="h-3.5 w-5/6 rounded shimmer-bg"></div>
-                </div>
-                <div class="h-4 w-20 rounded mt-2 shimmer-bg"></div>
-            </div>
-        </div>
-    </div>
+<section class="py-12 sm:py-16 bg-white border-b border-gray-100 scroll-mt-20" id="trends-section">
+<div class="container mx-auto px-4 max-w-6xl">
+<div class="text-center mb-10 sm:mb-12">
+<span class="text-ven-blue font-black tracking-widest text-xs sm:text-sm uppercase mb-1 block" data-i18n="trends_subtitle">Tendências da Comunidade</span>
+<h3 class="text-xl sm:text-3xl font-black text-gray-900 leading-tight" data-i18n="trends_title">Mundo Arepa: O que há de novo?</h3>
+<div class="h-1 w-16 bg-ven-red mx-auto mt-3 rounded"></div>
+</div>
+<div class="grid grid-cols-1 md:grid-cols-2 gap-6 sm:gap-8 max-w-4xl mx-auto" id="trends-container">
+<!-- Skeleton Loading Shimmer (overwritten dynamically when trends.js loads) -->
+<div class="skeleton-card bg-white rounded-2xl overflow-hidden shadow-sm border border-gray-100 p-5 flex flex-col gap-4 animate-pulse">
+<div class="h-48 w-full rounded-xl shimmer-bg"></div>
+<div class="flex justify-between items-center">
+<div class="h-3.5 w-24 rounded shimmer-bg"></div>
+<div class="h-3.5 w-16 rounded shimmer-bg"></div>
+</div>
+<div class="h-5 w-3/4 rounded shimmer-bg"></div>
+<div class="flex flex-col gap-2">
+<div class="h-3.5 w-full rounded shimmer-bg"></div>
+<div class="h-3.5 w-5/6 rounded shimmer-bg"></div>
+</div>
+<div class="h-4 w-20 rounded mt-2 shimmer-bg"></div>
+</div>
+<div class="skeleton-card bg-white rounded-2xl overflow-hidden shadow-sm border border-gray-100 p-5 flex flex-col gap-4 animate-pulse">
+<div class="h-48 w-full rounded-xl shimmer-bg"></div>
+<div class="flex justify-between items-center">
+<div class="h-3.5 w-24 rounded shimmer-bg"></div>
+<div class="h-3.5 w-16 rounded shimmer-bg"></div>
+</div>
+<div class="h-5 w-3/4 rounded shimmer-bg"></div>
+<div class="flex flex-col gap-2">
+<div class="h-3.5 w-full rounded shimmer-bg"></div>
+<div class="h-3.5 w-5/6 rounded shimmer-bg"></div>
+</div>
+<div class="h-4 w-20 rounded mt-2 shimmer-bg"></div>
+</div>
+</div>
+</div>
 </section>
-
 <!-- SECCIÓN DE MÚSICA VENEZOLANA (SPOTIFY) -->
-<section id="spotify-section" class="py-6 sm:py-16 bg-gray-50 text-gray-800 border-b-4 border-ven-yellow">
+<section class="py-6 sm:py-16 bg-gray-50 text-gray-800 border-b-4 border-ven-yellow" id="spotify-section">
 <div class="container mx-auto px-4">
 <div class="max-w-4xl mx-auto flex flex-col items-center">
 <div class="text-center mb-4 sm:mb-8">
@@ -1405,7 +1401,7 @@
 <p class="text-ven-red font-bold text-[10px] sm:text-sm tracking-wide uppercase" data-i18n="spotify_tagline">Ouça joropo, gaita zuliana, calipso, tambor e muito mais!</p>
 </div>
 <div class="shadow-md rounded-2xl overflow-hidden bg-white w-full max-w-[500px]">
-<iframe allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" allowfullscreen="" frameborder="0" height="352" loading="lazy" src="https://open.spotify.com/embed/playlist/4Az8aocHrrIIN6ZwF7IDrZ?utm_source=generator&theme=0" style="border-radius:12px" width="100%">
+<iframe allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" allowfullscreen="" frameborder="0" height="352" loading="lazy" src="https://open.spotify.com/embed/playlist/4Az8aocHrrIIN6ZwF7IDrZ?utm_source=generator&amp;theme=0" style="border-radius:12px" width="100%">
 </iframe>
 </div>
 <a class="mt-8 inline-flex items-center px-5 sm:px-6 py-2 sm:py-3 bg-green-500 hover:bg-green-600 rounded-full font-bold transition transform hover:scale-105 shadow-lg text-xs sm:text-sm" href="https://open.spotify.com/playlist/4Az8aocHrrIIN6ZwF7IDrZ" target="_blank">
@@ -1443,13 +1439,12 @@
 </a>
 </div>
 <div class="w-full md:w-2/3 h-64 sm:h-72 md:h-auto min-h-[250px] sm:min-h-[300px] relative">
-<iframe allowfullscreen="" class="absolute inset-0 w-full h-full" frameborder="0" height="100%" loading="lazy" src="https://maps.google.com/maps?q=Rua+Doutor+Ademar+Nobre+39,Sao+Paulo&t=&z=16&ie=UTF8&iwloc=&output=embed" style="border:0;" width="100%"></iframe>
+<iframe allowfullscreen="" class="absolute inset-0 w-full h-full" frameborder="0" height="100%" loading="lazy" src="https://maps.google.com/maps?q=Rua+Doutor+Ademar+Nobre+39,Sao+Paulo&amp;t=&amp;z=16&amp;ie=UTF8&amp;iwloc=&amp;output=embed" style="border:0;" width="100%"></iframe>
 </div>
 </div>
 </div>
 </section>
 <!-- Footer -->
-
 <footer class="bg-gray-900 text-white pt-8 pb-16">
 <div class="container mx-auto px-4 text-center">
 <h2 class="text-2xl font-bold mb-4">Venezuela Bistro <span class="text-ven-red">SP</span></h2>
@@ -1502,211 +1497,191 @@
 </div>
 </div>
 </div>
-
-    <!-- Modal de Checkout (Dados de Entrega) -->
-    <div id="checkout-modal" class="fixed inset-0 z-[120] flex items-center justify-center hidden">
-        <div class="absolute inset-0 bg-black/60 backdrop-blur-sm" onclick="closeCheckoutModal()"></div>
-        <div class="bg-white rounded-2xl w-full max-w-lg mx-4 relative z-10 shadow-2xl p-5 sm:p-6 flex flex-col max-h-[90vh] overflow-y-auto">
-            <h3 class="text-xl sm:text-2xl font-black text-[#00247D] mb-4 border-b pb-2" data-i18n="checkout_title">Detalhes da Entrega</h3>
-            
-            <form id="checkout-form" class="space-y-4">
-                <div class="flex gap-3 text-left">
-                    <div class="w-1/2">
-                        <label class="block text-xs sm:text-sm font-bold text-gray-700 mb-1" data-i18n="checkout_name">Nome</label>
-                        <input type="text" id="chk-name" class="w-full border border-gray-300 rounded-lg px-3 py-2 outline-none focus:border-ven-red" required>
-                    </div>
-                    <div class="w-1/2">
-                        <label class="block text-xs sm:text-sm font-bold text-gray-700 mb-1" data-i18n="checkout_phone">Telefone</label>
-                        <input type="tel" id="chk-phone" class="w-full border border-gray-300 rounded-lg px-3 py-2 outline-none focus:border-ven-red text-left" placeholder="DDD + Número" required>
-                    </div>
-                </div>
-                
-                <!-- Correo Electrónico -->
-                <div>
-                    <label class="block text-xs sm:text-sm font-bold text-gray-700 mb-1" data-i18n="checkout_email">E-mail (Opcional)</label>
-                    <input type="email" id="chk-email" class="w-full border border-gray-300 rounded-lg px-3 py-2 outline-none focus:border-ven-red" placeholder="seu@email.com">
-                </div>
-                
-                <!-- Tipo de Pedido -->
-                <div>
-                    <label class="block text-xs sm:text-sm font-bold text-gray-700 mb-2" data-i18n="checkout_type">Tipo de Pedido</label>
-                    <div class="flex flex-col gap-2">
-                        <label class="flex items-center gap-2 cursor-pointer bg-gray-50 p-2.5 rounded border border-gray-200 hover:border-ven-red transition-colors">
-                            <input type="radio" name="orderType" value="Delivery" checked class="accent-ven-red w-4 h-4 mt-0.5" onchange="toggleDeliveryFields()">
-                            <span data-i18n="type_delivery" class="text-xs sm:text-sm font-bold text-gray-800">Delivery (Nós enviamos)</span>
-                        </label>
-                        <label class="flex items-center gap-2 cursor-pointer bg-gray-50 p-2.5 rounded border border-gray-200 hover:border-ven-red transition-colors">
-                            <input type="radio" name="orderType" value="Mando Buscar" class="accent-ven-red w-4 h-4 mt-0.5" onchange="toggleDeliveryFields()">
-                            <span data-i18n="type_uber_client" class="text-xs sm:text-sm font-bold text-gray-800">Vou mandar buscar (Seu motorista)</span>
-                        </label>
-                        <label class="flex items-center gap-2 cursor-pointer bg-gray-50 p-2.5 rounded border border-gray-200 hover:border-ven-red transition-colors">
-                            <input type="radio" name="orderType" value="Retirada" class="accent-ven-red w-4 h-4 mt-0.5" onchange="toggleDeliveryFields()">
-                            <span data-i18n="type_pickup" class="text-xs sm:text-sm font-bold text-gray-800">Retirada na Loja</span>
-                        </label>
-                    </div>
-                </div>
-                
-                <!-- Mensagem de Uber Delivery Oculta por padrão -->
-                <div id="uber-warning" class="bg-[#FFF8E1] border border-[#FFE082] rounded-lg p-3 hidden">
-                    <p class="text-xs text-[#F57F17] font-bold leading-relaxed" data-i18n="msg_uber_delivery">
+<!-- Modal de Checkout (Dados de Entrega) -->
+<div class="fixed inset-0 z-[120] flex items-center justify-center hidden" id="checkout-modal">
+<div class="absolute inset-0 bg-black/60 backdrop-blur-sm" onclick="closeCheckoutModal()"></div>
+<div class="bg-white rounded-2xl w-full max-w-lg mx-4 relative z-10 shadow-2xl p-5 sm:p-6 flex flex-col max-h-[90vh] overflow-y-auto">
+<h3 class="text-xl sm:text-2xl font-black text-[#00247D] mb-4 border-b pb-2" data-i18n="checkout_title">Detalhes da Entrega</h3>
+<form class="space-y-4" id="checkout-form">
+<div class="flex gap-3 text-left">
+<div class="w-1/2">
+<label class="block text-xs sm:text-sm font-bold text-gray-700 mb-1" data-i18n="checkout_name">Nome</label>
+<input class="w-full border border-gray-300 rounded-lg px-3 py-2 outline-none focus:border-ven-red" id="chk-name" required="" type="text"/>
+</div>
+<div class="w-1/2">
+<label class="block text-xs sm:text-sm font-bold text-gray-700 mb-1" data-i18n="checkout_phone">Telefone</label>
+<input class="w-full border border-gray-300 rounded-lg px-3 py-2 outline-none focus:border-ven-red text-left" id="chk-phone" placeholder="DDD + Número" required="" type="tel"/>
+</div>
+</div>
+<!-- Correo Electrónico -->
+<div>
+<label class="block text-xs sm:text-sm font-bold text-gray-700 mb-1" data-i18n="checkout_email">E-mail (Opcional)</label>
+<input class="w-full border border-gray-300 rounded-lg px-3 py-2 outline-none focus:border-ven-red" id="chk-email" placeholder="seu@email.com" type="email"/>
+</div>
+<!-- Tipo de Pedido -->
+<div>
+<label class="block text-xs sm:text-sm font-bold text-gray-700 mb-2" data-i18n="checkout_type">Tipo de Pedido</label>
+<div class="flex flex-col gap-2">
+<label class="flex items-center gap-2 cursor-pointer bg-gray-50 p-2.5 rounded border border-gray-200 hover:border-ven-red transition-colors">
+<input checked="" class="accent-ven-red w-4 h-4 mt-0.5" name="orderType" onchange="toggleDeliveryFields()" type="radio" value="Delivery"/>
+<span class="text-xs sm:text-sm font-bold text-gray-800" data-i18n="type_delivery">Delivery (Nós enviamos)</span>
+</label>
+<label class="flex items-center gap-2 cursor-pointer bg-gray-50 p-2.5 rounded border border-gray-200 hover:border-ven-red transition-colors">
+<input class="accent-ven-red w-4 h-4 mt-0.5" name="orderType" onchange="toggleDeliveryFields()" type="radio" value="Mando Buscar"/>
+<span class="text-xs sm:text-sm font-bold text-gray-800" data-i18n="type_uber_client">Vou mandar buscar (Seu motorista)</span>
+</label>
+<label class="flex items-center gap-2 cursor-pointer bg-gray-50 p-2.5 rounded border border-gray-200 hover:border-ven-red transition-colors">
+<input class="accent-ven-red w-4 h-4 mt-0.5" name="orderType" onchange="toggleDeliveryFields()" type="radio" value="Retirada"/>
+<span class="text-xs sm:text-sm font-bold text-gray-800" data-i18n="type_pickup">Retirada na Loja</span>
+</label>
+</div>
+</div>
+<!-- Mensagem de Uber Delivery Oculta por padrão -->
+<div class="bg-[#FFF8E1] border border-[#FFE082] rounded-lg p-3 hidden" id="uber-warning">
+<p class="text-xs text-[#F57F17] font-bold leading-relaxed" data-i18n="msg_uber_delivery">
                         🛵 As entregas são feitas via Uber Moto. O valor da corrida será calculado após você enviar este pedido. O total final será enviado no WhatsApp.
                     </p>
-                </div>
-
-                <!-- Campos de Delivery -->
-                <div id="delivery-fields" class="space-y-4 bg-gray-50 p-3 rounded-lg border border-gray-100 hidden">
-                    <div>
-                        <div class="flex justify-between items-end mb-1">
-                            <label class="block text-sm font-bold text-gray-700" data-i18n="checkout_address">Endereço (Rua, Número)</label>
-                            <button type="button" onclick="getLocation()" id="btn-gps" class="text-xs text-[#00247D] font-bold flex items-center gap-1 hover:text-[#C8102E] transition-colors bg-blue-50 px-2 py-1 rounded">
-                                <svg class="w-3 h-3" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M17.657 16.657L13.414 20.9a1.998 1.998 0 01-2.827 0l-4.244-4.243a8 8 0 1111.314 0z"></path><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M15 11a3 3 0 11-6 0 3 3 0 016 0z"></path></svg>
-                                <span data-i18n="btn_gps">Usar GPS</span>
-                            </button>
-                        </div>
-                        <input type="text" id="chk-address" class="w-full border border-gray-300 rounded-lg px-3 py-2 outline-none focus:border-ven-red transition-colors duration-300" placeholder="Ex: Rua Doutor Ademar Nobre, 39">
-                    </div>
-                    <div class="flex gap-3">
-                        <div class="w-1/2">
-                            <label class="block text-sm font-bold text-gray-700 mb-1" data-i18n="checkout_neighborhood">Bairro</label>
-                            <input type="text" id="chk-neighborhood" class="w-full border border-gray-300 rounded-lg px-3 py-2 outline-none focus:border-ven-red">
-                        </div>
-                        <div class="w-1/2">
-                            <label class="block text-sm font-bold text-gray-700 mb-1" data-i18n="checkout_reference">Referência</label>
-                            <input type="text" id="chk-reference" class="w-full border border-gray-300 rounded-lg px-3 py-2 outline-none focus:border-ven-red">
-                        </div>
-                    </div>
-                </div>
-
-                <!-- Notas -->
-                <div>
-                    <label class="block text-xs sm:text-sm font-bold text-gray-700 mb-1" data-i18n="checkout_notes">Observações / Instruções</label>
-                    <textarea id="chk-notes" class="w-full border border-gray-300 rounded-lg px-3 py-2 outline-none focus:border-ven-red text-sm" rows="2" placeholder="..."></textarea>
-                </div>
-
-                <!-- Forma de Pagamento -->
-                <div class="pt-2 border-t">
-                    <label class="block text-sm font-bold text-gray-700 mb-2" data-i18n="checkout_payment">Forma de Pagamento</label>
-                    <select id="chk-payment" class="w-full border border-gray-300 rounded-lg px-3 py-2.5 outline-none focus:border-ven-red bg-white font-medium" onchange="onPaymentChange()">
-                        <option value="PIX" data-i18n="pay_pix">PIX</option>
-                        <option value="Cartão" data-i18n="pay_card">Cartão (Levar maquininha)</option>
-                        <option value="Dinheiro" data-i18n="pay_cash">Dinheiro</option>
-                    </select>
-                </div>
-                
-                <!-- Troco (Aparece se Dinheiro) -->
-                <div id="cash-fields" class="hidden">
-                    <label class="block text-sm font-bold text-gray-700 mb-1" data-i18n="checkout_change">Precisa de troco? (Para quanto?)</label>
-                    <input type="text" id="chk-change" class="w-full border border-gray-300 rounded-lg px-3 py-2 outline-none focus:border-ven-red" placeholder="Ex: Troco para 50">
-                </div>
-
-                <!-- PIX Módulo (Aparece se PIX) -->
-                <div id="pix-fields" class="bg-[#e4fcfa] border border-[#20b2aa] rounded-xl p-4 flex flex-col items-center mt-2 relative overflow-hidden">
-                    <div class="absolute top-0 left-0 w-full h-1 bg-[#20b2aa]"></div>
-                    <div class="flex items-center gap-2 mb-2 w-full justify-center text-[#20b2aa]">
-                        <svg class="w-6 h-6" viewBox="0 0 24 24" fill="currentColor"><path d="M12 22L4 12L12 2L20 12L12 22ZM12 4.8L6.2 12L12 19.2L17.8 12L12 4.8ZM12 8.5L8.5 12L12 15.5L15.5 12L12 8.5Z"/></svg>
-                        <span class="font-black text-lg">Área PIX</span>
-                    </div>
-                    <p class="text-xs text-center text-gray-600 mb-3 font-medium" data-i18n="pix_instructions">Escaneie o QR Code ou copie a chave para pagar</p>
-                    
-                    <div class="bg-white p-2 rounded-xl shadow-sm border border-gray-200 mb-3">
-                        <img loading="lazy" id="pix-qrcode" src="" alt="QR Code PIX" class="w-32 h-32 object-contain" />
-                    </div>
-                    
-                    <div class="w-full text-center">
-                        <p class="text-xs text-gray-500 font-bold mb-1" data-i18n="pix_key">Chave PIX (Email):</p>
-                        <p class="font-black text-[#00247D] text-sm break-all mb-2">davlin1974@gmail.com</p>
-                        <button type="button" onclick="copyPixKey()" class="w-full bg-[#20b2aa] hover:bg-[#1a928c] text-white font-bold py-2 rounded-lg text-sm shadow-md transition-colors flex items-center justify-center gap-2" id="btn-copy">
-                            <i data-lucide="copy" class="w-4 h-4"></i> <span data-i18n="btn_copy_pix">Copiar Chave PIX</span>
-                        </button>
-                    </div>
-                </div>
-
-                <!-- Resumo & Botões -->
-                <div class="flex items-center justify-between border-t pt-4 mt-2">
-                    <div>
-                        <span class="text-xs text-gray-500 font-bold block">Total BRL</span>
-                        <span class="text-xl sm:text-2xl font-black text-ven-red inline-block" id="chk-total">R$ 0,00</span>
-                    </div>
-                </div>
-
-                <div class="flex gap-2">
-                    <button type="button" onclick="closeCheckoutModal()" class="w-1/3 bg-gray-200 text-gray-700 font-bold py-3 rounded-xl transition hover:bg-gray-300" data-i18n="checkout_cancel">Cancelar</button>
-                    <button type="button" onclick="submitCheckout()" class="w-2/3 bg-[#25D366] text-white font-black py-3 rounded-xl shadow-[0_5px_15px_rgba(37,211,102,0.3)] hover:bg-[#1DA851] transition flex items-center justify-center gap-2">
-                        <svg class="w-5 h-5" fill="currentColor" viewBox="0 0 24 24"><path d="M17.472 14.382c-.297-.149-1.758-.867-2.03-.967-.273-.099-.471-.148-.67.15-.197.297-.767.966-.94 1.164-.173.199-.347.223-.644.075-.297-.15-1.255-.463-2.39-1.305-.885-.653-1.48-1.459-1.653-1.756-.173-.297-.018-.458.13-.606.134-.133.298-.347.446-.52.149-.174.198-.298.298-.497.099-.198.05-.371-.025-.52-.075-.149-.669-1.612-.916-2.207-.242-.579-.487-.5-.669-.51-.173-.008-.371-.01-.57-.01-.198 0-.52.074-.792.372-.272.297-1.04 1.016-1.04 2.479 0 1.462 1.065 2.875 1.213 3.074.149.198 2.096 3.2 5.077 4.487.709.306 1.262.489 1.694.625.712.227 1.36.195 1.871.118.571-.085 1.758-.719 2.006-1.413.248-.694.248-1.289.173-1.413-.074-.124-.272-.198-.57-.347m-5.421 7.403h-.004a9.87 9.87 0 01-5.031-1.378l-.361-.214-3.741.982.998-3.648-.235-.374a9.86 9.86 0 01-1.51-5.26c.001-5.45 4.436-9.884 9.888-9.884 2.64 0 5.122 1.03 6.988 2.898a9.825 9.825 0 012.893 6.994c-.003 5.45-4.437 9.884-9.885 9.884m8.413-18.297A11.815 11.815 0 0012.05 0C5.495 0 .16 5.335.157 11.892c0 2.096.547 4.142 1.588 5.945L.057 24l6.305-1.654a11.882 11.882 0 005.683 1.448h.005c6.554 0 11.89-5.335 11.893-11.893a11.821 11.821 0 00-3.48-8.413z"/></svg> <span data-i18n="checkout_btn">Enviar Pedido</span>
-                    </button>
-                </div>
-            </form>
-        </div>
-    </div>
-
-    <!-- Modal de Upselling (Bebidas) -->
-    <div class="fixed inset-0 z-[115] flex items-center justify-center hidden transition-opacity duration-200" id="upsell-modal">
-        <div class="absolute inset-0 bg-black/60 backdrop-blur-sm" onclick="closeUpsell()"></div>
-        <div class="bg-white rounded-2xl w-full max-w-sm mx-4 relative z-10 shadow-2xl p-5 sm:p-6 text-center transform scale-95 transition-transform duration-300">
-            <!-- Decoration -->
-            <div class="w-16 h-16 bg-blue-50 rounded-full flex items-center justify-center mx-auto mb-4 border-4 border-white shadow-sm -mt-10">
-                <span class="text-3xl">🥤</span>
-            </div>
-            
-            <h3 class="text-xl font-black text-gray-800 mb-2" data-i18n="upsell_title">Falta algo para beber?</h3>
-            <p class="text-sm text-gray-500 mb-5" data-i18n="upsell_subtitle">Complete seu pedido com uma bebida geladinha!</p>
-            
-            <!-- Opciones de Bebidas (Botones Rápidos) -->
-            <div class="flex flex-col gap-3 mb-6 text-left">
-                <!-- Coca Cola Original -->
-                <button onclick="addUpsell(this, 'Coca-Cola Lata 350ml - Original', 9)" class="flex items-center justify-between p-3 rounded-xl border-2 border-gray-100 hover:border-ven-red transition-all group bg-white">
-                    <div class="flex items-center gap-3">
-                        <img loading="lazy" src="coca_cola_original.jpg" onerror="this.src='https://images.unsplash.com/photo-1622483767028-3f66f32aef97?ixlib=rb-1.2.1&amp;auto=format&amp;fit=crop&amp;w=800&amp;q=80';" class="w-10 h-10 object-cover rounded-md bg-gray-100">
-                        <div>
-                            <span class="block font-bold text-gray-800 text-sm">Coca-Cola Lata</span>
-                            <span class="block text-xs text-ven-red font-black">+ R$ 9,00</span>
-                        </div>
-                    </div>
-                    <div class="w-8 h-8 rounded-full bg-gray-50 group-hover:bg-ven-red group-hover:text-white flex items-center justify-center transition-colors text-gray-400">
-                        <i data-lucide="plus" class="w-4 h-4"></i>
-                    </div>
-                </button>
-
-                <!-- Papelón con Limón -->
-                <button onclick="addUpsell(this, 'Papelón com Limão', 15)" class="flex items-center justify-between p-3 rounded-xl border-2 border-gray-100 hover:border-ven-red transition-all group bg-white">
-                    <div class="flex items-center gap-3">
-                        <img loading="lazy" src="papelon_com_limao.jpg" onerror="this.src='https://images.unsplash.com/photo-1615719413546-198b25453f85?ixlib=rb-1.2.1&amp;auto=format&amp;fit=crop&amp;w=800&amp;q=80';" class="w-10 h-10 object-cover rounded-md bg-gray-100">
-                        <div>
-                            <span class="block font-bold text-gray-800 text-sm" data-i18n="name_papelon">Papelón com Limão</span>
-                            <span class="block text-xs text-ven-red font-black">+ R$ 15,00</span>
-                        </div>
-                    </div>
-                    <div class="w-8 h-8 rounded-full bg-gray-50 group-hover:bg-ven-red group-hover:text-white flex items-center justify-center transition-colors text-gray-400">
-                        <i data-lucide="plus" class="w-4 h-4"></i>
-                    </div>
-                </button>
-
-                <!-- Água Minalba -->
-                <button onclick="addUpsell(this, 'Água Minalba 510ml', 6)" class="flex items-center justify-between p-3 rounded-xl border-2 border-gray-100 hover:border-ven-red transition-all group bg-white">
-                    <div class="flex items-center gap-3">
-                        <img loading="lazy" src="agua.jpg" onerror="this.src='https://images.unsplash.com/photo-1548839140-29a749e1bc4e?ixlib=rb-1.2.1&amp;auto=format&amp;fit=crop&amp;w=800&amp;q=80';" class="w-10 h-10 object-cover rounded-md bg-gray-100">
-                        <div>
-                            <span class="block font-bold text-gray-800 text-sm">Água Minalba Nat 510ml</span>
-                            <span class="block text-xs text-ven-red font-black">+ R$ 6,00</span>
-                        </div>
-                    </div>
-                    <div class="w-8 h-8 rounded-full bg-gray-50 group-hover:bg-ven-red group-hover:text-white flex items-center justify-center transition-colors text-gray-400">
-                        <i data-lucide="plus" class="w-4 h-4"></i>
-                    </div>
-                </button>
-            </div>
-            
-            <!-- Acciones Principales -->
-            <div class="flex flex-col gap-2">
-                <button onclick="skipUpsellAndCheckout()" class="w-full bg-ven-red text-white font-black py-3 rounded-xl shadow-lg hover:bg-red-700 transition flex items-center justify-center gap-2">
-                    <span data-i18n="upsell_checkout">Continuar para Pagamento</span> <i data-lucide="arrow-right" class="w-4 h-4"></i>
-                </button>
-                <button onclick="closeUpsell()" class="w-full text-gray-500 font-bold py-2 text-sm hover:text-gray-800 transition" data-i18n="upsell_cancel">Voltar para o Carrinho</button>
-            </div>
-        </div>
-    </div>
-    <script src="trends.js"></script>
-    <script>
+</div>
+<!-- Campos de Delivery -->
+<div class="space-y-4 bg-gray-50 p-3 rounded-lg border border-gray-100 hidden" id="delivery-fields">
+<div>
+<div class="flex justify-between items-end mb-1">
+<label class="block text-sm font-bold text-gray-700" data-i18n="checkout_address">Endereço (Rua, Número)</label>
+<button class="text-xs text-[#00247D] font-bold flex items-center gap-1 hover:text-[#C8102E] transition-colors bg-blue-50 px-2 py-1 rounded" id="btn-gps" onclick="getLocation()" type="button">
+<svg class="w-3 h-3" fill="none" stroke="currentColor" viewbox="0 0 24 24"><path d="M17.657 16.657L13.414 20.9a1.998 1.998 0 01-2.827 0l-4.244-4.243a8 8 0 1111.314 0z" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"></path><path d="M15 11a3 3 0 11-6 0 3 3 0 016 0z" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"></path></svg>
+<span data-i18n="btn_gps">Usar GPS</span>
+</button>
+</div>
+<input class="w-full border border-gray-300 rounded-lg px-3 py-2 outline-none focus:border-ven-red transition-colors duration-300" id="chk-address" placeholder="Ex: Rua Doutor Ademar Nobre, 39" type="text"/>
+</div>
+<div class="flex gap-3">
+<div class="w-1/2">
+<label class="block text-sm font-bold text-gray-700 mb-1" data-i18n="checkout_neighborhood">Bairro</label>
+<input class="w-full border border-gray-300 rounded-lg px-3 py-2 outline-none focus:border-ven-red" id="chk-neighborhood" type="text"/>
+</div>
+<div class="w-1/2">
+<label class="block text-sm font-bold text-gray-700 mb-1" data-i18n="checkout_reference">Referência</label>
+<input class="w-full border border-gray-300 rounded-lg px-3 py-2 outline-none focus:border-ven-red" id="chk-reference" type="text"/>
+</div>
+</div>
+</div>
+<!-- Notas -->
+<div>
+<label class="block text-xs sm:text-sm font-bold text-gray-700 mb-1" data-i18n="checkout_notes">Observações / Instruções</label>
+<textarea class="w-full border border-gray-300 rounded-lg px-3 py-2 outline-none focus:border-ven-red text-sm" id="chk-notes" placeholder="..." rows="2"></textarea>
+</div>
+<!-- Forma de Pagamento -->
+<div class="pt-2 border-t">
+<label class="block text-sm font-bold text-gray-700 mb-2" data-i18n="checkout_payment">Forma de Pagamento</label>
+<select class="w-full border border-gray-300 rounded-lg px-3 py-2.5 outline-none focus:border-ven-red bg-white font-medium" id="chk-payment" onchange="onPaymentChange()">
+<option data-i18n="pay_pix" value="PIX">PIX</option>
+<option data-i18n="pay_card" value="Cartão">Cartão (Levar maquininha)</option>
+<option data-i18n="pay_cash" value="Dinheiro">Dinheiro</option>
+</select>
+</div>
+<!-- Troco (Aparece se Dinheiro) -->
+<div class="hidden" id="cash-fields">
+<label class="block text-sm font-bold text-gray-700 mb-1" data-i18n="checkout_change">Precisa de troco? (Para quanto?)</label>
+<input class="w-full border border-gray-300 rounded-lg px-3 py-2 outline-none focus:border-ven-red" id="chk-change" placeholder="Ex: Troco para 50" type="text"/>
+</div>
+<!-- PIX Módulo (Aparece se PIX) -->
+<div class="bg-[#e4fcfa] border border-[#20b2aa] rounded-xl p-4 flex flex-col items-center mt-2 relative overflow-hidden" id="pix-fields">
+<div class="absolute top-0 left-0 w-full h-1 bg-[#20b2aa]"></div>
+<div class="flex items-center gap-2 mb-2 w-full justify-center text-[#20b2aa]">
+<svg class="w-6 h-6" fill="currentColor" viewbox="0 0 24 24"><path d="M12 22L4 12L12 2L20 12L12 22ZM12 4.8L6.2 12L12 19.2L17.8 12L12 4.8ZM12 8.5L8.5 12L12 15.5L15.5 12L12 8.5Z"></path></svg>
+<span class="font-black text-lg">Área PIX</span>
+</div>
+<p class="text-xs text-center text-gray-600 mb-3 font-medium" data-i18n="pix_instructions">Escaneie o QR Code ou copie a chave para pagar</p>
+<div class="bg-white p-2 rounded-xl shadow-sm border border-gray-200 mb-3">
+<img alt="QR Code PIX" class="w-32 h-32 object-contain" id="pix-qrcode" loading="lazy" src=""/>
+</div>
+<div class="w-full text-center">
+<p class="text-xs text-gray-500 font-bold mb-1" data-i18n="pix_key">Chave PIX (Email):</p>
+<p class="font-black text-[#00247D] text-sm break-all mb-2">davlin1974@gmail.com</p>
+<button class="w-full bg-[#20b2aa] hover:bg-[#1a928c] text-white font-bold py-2 rounded-lg text-sm shadow-md transition-colors flex items-center justify-center gap-2" id="btn-copy" onclick="copyPixKey()" type="button">
+<i class="w-4 h-4" data-lucide="copy"></i> <span data-i18n="btn_copy_pix">Copiar Chave PIX</span>
+</button>
+</div>
+</div>
+<!-- Resumo & Botões -->
+<div class="flex items-center justify-between border-t pt-4 mt-2">
+<div>
+<span class="text-xs text-gray-500 font-bold block">Total BRL</span>
+<span class="text-xl sm:text-2xl font-black text-ven-red inline-block" id="chk-total">R$ 0,00</span>
+</div>
+</div>
+<div class="flex gap-2">
+<button class="w-1/3 bg-gray-200 text-gray-700 font-bold py-3 rounded-xl transition hover:bg-gray-300" data-i18n="checkout_cancel" onclick="closeCheckoutModal()" type="button">Cancelar</button>
+<button class="w-2/3 bg-[#25D366] text-white font-black py-3 rounded-xl shadow-[0_5px_15px_rgba(37,211,102,0.3)] hover:bg-[#1DA851] transition flex items-center justify-center gap-2" onclick="submitCheckout()" type="button">
+<svg class="w-5 h-5" fill="currentColor" viewbox="0 0 24 24"><path d="M17.472 14.382c-.297-.149-1.758-.867-2.03-.967-.273-.099-.471-.148-.67.15-.197.297-.767.966-.94 1.164-.173.199-.347.223-.644.075-.297-.15-1.255-.463-2.39-1.305-.885-.653-1.48-1.459-1.653-1.756-.173-.297-.018-.458.13-.606.134-.133.298-.347.446-.52.149-.174.198-.298.298-.497.099-.198.05-.371-.025-.52-.075-.149-.669-1.612-.916-2.207-.242-.579-.487-.5-.669-.51-.173-.008-.371-.01-.57-.01-.198 0-.52.074-.792.372-.272.297-1.04 1.016-1.04 2.479 0 1.462 1.065 2.875 1.213 3.074.149.198 2.096 3.2 5.077 4.487.709.306 1.262.489 1.694.625.712.227 1.36.195 1.871.118.571-.085 1.758-.719 2.006-1.413.248-.694.248-1.289.173-1.413-.074-.124-.272-.198-.57-.347m-5.421 7.403h-.004a9.87 9.87 0 01-5.031-1.378l-.361-.214-3.741.982.998-3.648-.235-.374a9.86 9.86 0 01-1.51-5.26c.001-5.45 4.436-9.884 9.888-9.884 2.64 0 5.122 1.03 6.988 2.898a9.825 9.825 0 012.893 6.994c-.003 5.45-4.437 9.884-9.885 9.884m8.413-18.297A11.815 11.815 0 0012.05 0C5.495 0 .16 5.335.157 11.892c0 2.096.547 4.142 1.588 5.945L.057 24l6.305-1.654a11.882 11.882 0 005.683 1.448h.005c6.554 0 11.89-5.335 11.893-11.893a11.821 11.821 0 00-3.48-8.413z"></path></svg> <span data-i18n="checkout_btn">Enviar Pedido</span>
+</button>
+</div>
+</form>
+</div>
+</div>
+<!-- Modal de Upselling (Bebidas) -->
+<div class="fixed inset-0 z-[115] flex items-center justify-center hidden transition-opacity duration-200" id="upsell-modal">
+<div class="absolute inset-0 bg-black/60 backdrop-blur-sm" onclick="closeUpsell()"></div>
+<div class="bg-white rounded-2xl w-full max-w-sm mx-4 relative z-10 shadow-2xl p-5 sm:p-6 text-center transform scale-95 transition-transform duration-300">
+<!-- Decoration -->
+<div class="w-16 h-16 bg-blue-50 rounded-full flex items-center justify-center mx-auto mb-4 border-4 border-white shadow-sm -mt-10">
+<span class="text-3xl">🥤</span>
+</div>
+<h3 class="text-xl font-black text-gray-800 mb-2" data-i18n="upsell_title">Falta algo para beber?</h3>
+<p class="text-sm text-gray-500 mb-5" data-i18n="upsell_subtitle">Complete seu pedido com uma bebida geladinha!</p>
+<!-- Opciones de Bebidas (Botones Rápidos) -->
+<div class="flex flex-col gap-3 mb-6 text-left">
+<!-- Coca Cola Original -->
+<button class="flex items-center justify-between p-3 rounded-xl border-2 border-gray-100 hover:border-ven-red transition-all group bg-white" onclick="addUpsell(this, 'Coca-Cola Lata 350ml - Original', 9)">
+<div class="flex items-center gap-3">
+<img class="w-10 h-10 object-cover rounded-md bg-gray-100" loading="lazy" onerror="this.src='https://images.unsplash.com/photo-1622483767028-3f66f32aef97?ixlib=rb-1.2.1&amp;auto=format&amp;fit=crop&amp;w=800&amp;q=80';" src="coca_cola_original.jpg"/>
+<div>
+<span class="block font-bold text-gray-800 text-sm">Coca-Cola Lata</span>
+<span class="block text-xs text-ven-red font-black">+ R$ 9,00</span>
+</div>
+</div>
+<div class="w-8 h-8 rounded-full bg-gray-50 group-hover:bg-ven-red group-hover:text-white flex items-center justify-center transition-colors text-gray-400">
+<i class="w-4 h-4" data-lucide="plus"></i>
+</div>
+</button>
+<!-- Papelón con Limón -->
+<button class="flex items-center justify-between p-3 rounded-xl border-2 border-gray-100 hover:border-ven-red transition-all group bg-white" onclick="addUpsell(this, 'Papelón com Limão', 15)">
+<div class="flex items-center gap-3">
+<img class="w-10 h-10 object-cover rounded-md bg-gray-100" loading="lazy" onerror="this.src='https://images.unsplash.com/photo-1615719413546-198b25453f85?ixlib=rb-1.2.1&amp;auto=format&amp;fit=crop&amp;w=800&amp;q=80';" src="papelon_com_limao.jpg"/>
+<div>
+<span class="block font-bold text-gray-800 text-sm" data-i18n="name_papelon">Papelón com Limão</span>
+<span class="block text-xs text-ven-red font-black">+ R$ 15,00</span>
+</div>
+</div>
+<div class="w-8 h-8 rounded-full bg-gray-50 group-hover:bg-ven-red group-hover:text-white flex items-center justify-center transition-colors text-gray-400">
+<i class="w-4 h-4" data-lucide="plus"></i>
+</div>
+</button>
+<!-- Água Minalba -->
+<button class="flex items-center justify-between p-3 rounded-xl border-2 border-gray-100 hover:border-ven-red transition-all group bg-white" onclick="addUpsell(this, 'Água Minalba 510ml', 6)">
+<div class="flex items-center gap-3">
+<img class="w-10 h-10 object-cover rounded-md bg-gray-100" loading="lazy" onerror="this.src='https://images.unsplash.com/photo-1548839140-29a749e1bc4e?ixlib=rb-1.2.1&amp;auto=format&amp;fit=crop&amp;w=800&amp;q=80';" src="agua.jpg"/>
+<div>
+<span class="block font-bold text-gray-800 text-sm">Água Minalba Nat 510ml</span>
+<span class="block text-xs text-ven-red font-black">+ R$ 6,00</span>
+</div>
+</div>
+<div class="w-8 h-8 rounded-full bg-gray-50 group-hover:bg-ven-red group-hover:text-white flex items-center justify-center transition-colors text-gray-400">
+<i class="w-4 h-4" data-lucide="plus"></i>
+</div>
+</button>
+</div>
+<!-- Acciones Principales -->
+<div class="flex flex-col gap-2">
+<button class="w-full bg-ven-red text-white font-black py-3 rounded-xl shadow-lg hover:bg-red-700 transition flex items-center justify-center gap-2" onclick="skipUpsellAndCheckout()">
+<span data-i18n="upsell_checkout">Continuar para Pagamento</span> <i class="w-4 h-4" data-lucide="arrow-right"></i>
+</button>
+<button class="w-full text-gray-500 font-bold py-2 text-sm hover:text-gray-800 transition" data-i18n="upsell_cancel" onclick="closeUpsell()">Voltar para o Carrinho</button>
+</div>
+</div>
+</div>
+<script src="trends.js"></script>
+<script>
 
 
 let currentLang = 'pt';
@@ -3183,9 +3158,9 @@ let currentLang = 'pt';
 <div class="overflow-y-auto flex-1 min-h-0 w-full flex flex-col custom-scroll pb-32 md:pb-28 overscroll-contain rounded-t-[2.5rem] md:rounded-[2.5rem]" style="-webkit-overflow-scrolling: touch;">
 <!-- Hero Image -->
 <div class="w-full h-64 sm:h-72 bg-[#f8f9fa] flex items-center justify-center relative overflow-hidden shrink-0">
-<img loading="lazy" alt="Produto" class="w-full h-full object-cover" id="modal-product-img" src=""/>
+<img alt="Produto" class="w-full h-full object-cover" id="modal-product-img" loading="lazy" src="">
 <div class="absolute inset-x-0 bottom-0 h-24 bg-gradient-to-t from-white to-transparent pointer-events-none"></div>
-</div>
+</img></div>
 <!-- Content -->
 <div class="px-6 py-2 flex flex-col shrink-0 z-10 -mt-6 bg-white rounded-t-[2.5rem] relative min-h-[50vh]">
 <div class="flex justify-between items-start mb-3 pt-6">
@@ -3217,86 +3192,79 @@ let currentLang = 'pt';
 </div>
 </div>
 </div>
-
 <!-- Trend/Blog Detail Modal -->
-<div id="trend-detail-modal" class="fixed inset-0 z-[200] bg-black/60 backdrop-blur-sm hidden flex-col justify-end md:justify-center md:items-center transition-opacity opacity-0 duration-300 p-0 md:p-4" onclick="if(event.target.id === 'trend-detail-modal') closeTrendModal()">
-    <div id="trend-modal-content" class="bg-white w-full md:max-w-[600px] rounded-t-[2.5rem] md:rounded-[2.5rem] max-h-[90vh] md:max-h-[85vh] flex flex-col relative shadow-2xl transform translate-y-full md:translate-y-10 transition-transform duration-300 ease-out overflow-hidden text-left">
-        <!-- Close Button -->
-        <button class="absolute top-4 right-4 bg-white/85 backdrop-blur rounded-full p-2.5 z-30 shadow-sm text-gray-800 hover:bg-gray-100 transition-colors" onclick="closeTrendModal()">
-            <svg class="w-5 h-5" fill="none" stroke="currentColor" stroke-width="2.5" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" d="M6 18L18 6M6 6l12 12"/></svg>
-        </button>
-
-        <!-- Scrollable content -->
-        <div class="overflow-y-auto flex-grow scrollbar-hide">
-            <!-- Header Image -->
-            <div class="h-56 sm:h-64 w-full overflow-hidden relative bg-gray-100 flex-shrink-0">
-                <img loading="lazy" id="modal-trend-img" src="" alt="" class="w-full h-full object-cover">
-                <div class="absolute inset-0 bg-gradient-to-t from-black/60 to-transparent"></div>
-                <div class="absolute bottom-4 left-4 bg-white/90 backdrop-blur-sm text-gray-800 text-xs font-bold px-3 py-1 rounded-full shadow-sm flex items-center gap-1.5">
-                    <span id="modal-trend-flag"></span>
-                    <span id="modal-trend-country"></span>
-                </div>
-            </div>
-
-            <!-- Content Area -->
-            <div class="p-6 sm:p-8 flex flex-col text-left">
-                <div class="flex items-center justify-between text-xs text-gray-400 mb-3 font-semibold">
-                    <span id="modal-trend-restaurant" class="text-ven-blue"></span>
-                    <span id="modal-trend-date"></span>
-                </div>
-                
-                <h3 id="modal-trend-title" class="font-black text-xl sm:text-2xl text-gray-900 mb-4 leading-tight"></h3>
-                
-                <div id="modal-trend-content" class="text-gray-600 text-xs sm:text-sm md:text-base leading-relaxed space-y-4 pr-1 font-medium">
-                    <!-- Content -->
-                </div>
-            </div>
-        </div>
-
-        <!-- Footer Action -->
-        <div class="p-5 border-t border-gray-100 bg-gray-50 flex flex-col sm:flex-row items-center justify-between gap-4">
-            <span class="text-xs text-gray-400 font-semibold uppercase tracking-wider" id="modal-trend-ref-label">Fonte Original:</span>
-            <a id="modal-trend-url" href="" target="_blank" class="w-full sm:w-auto bg-ven-red text-white py-3 px-6 rounded-full font-bold hover:bg-ven-blue hover:scale-[1.02] active:scale-[0.98] transition-all flex items-center justify-center gap-2 text-xs sm:text-sm shadow-md">
-                <span id="modal-trend-btn-text">Ler Artigo Original</span>
-                <svg class="w-4 h-4" fill="none" stroke="currentColor" stroke-width="2.5" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" d="M10 6H6a2 2 0 00-2 2v10a2 2 0 002 2h10a2 2 0 002-2v-4M14 4h6m0 0v6m0-6L10 14"/></svg>
-            </a>
-        </div>
-    </div>
+<div class="fixed inset-0 z-[200] bg-black/60 backdrop-blur-sm hidden flex-col justify-end md:justify-center md:items-center transition-opacity opacity-0 duration-300 p-0 md:p-4" id="trend-detail-modal" onclick="if(event.target.id === 'trend-detail-modal') closeTrendModal()">
+<div class="bg-white w-full md:max-w-[600px] rounded-t-[2.5rem] md:rounded-[2.5rem] max-h-[90vh] md:max-h-[85vh] flex flex-col relative shadow-2xl transform translate-y-full md:translate-y-10 transition-transform duration-300 ease-out overflow-hidden text-left" id="trend-modal-content">
+<!-- Close Button -->
+<button class="absolute top-4 right-4 bg-white/85 backdrop-blur rounded-full p-2.5 z-30 shadow-sm text-gray-800 hover:bg-gray-100 transition-colors" onclick="closeTrendModal()">
+<svg class="w-5 h-5" fill="none" stroke="currentColor" stroke-width="2.5" viewbox="0 0 24 24"><path d="M6 18L18 6M6 6l12 12" stroke-linecap="round" stroke-linejoin="round"></path></svg>
+</button>
+<!-- Scrollable content -->
+<div class="overflow-y-auto flex-grow scrollbar-hide">
+<!-- Header Image -->
+<div class="h-56 sm:h-64 w-full overflow-hidden relative bg-gray-100 flex-shrink-0">
+<img alt="" class="w-full h-full object-cover" id="modal-trend-img" loading="lazy" src=""/>
+<div class="absolute inset-0 bg-gradient-to-t from-black/60 to-transparent"></div>
+<div class="absolute bottom-4 left-4 bg-white/90 backdrop-blur-sm text-gray-800 text-xs font-bold px-3 py-1 rounded-full shadow-sm flex items-center gap-1.5">
+<span id="modal-trend-flag"></span>
+<span id="modal-trend-country"></span>
 </div>
-
-    <!-- Elementos técnicos para la base de datos (Invisibles para el cliente) -->
-    <form id="google-form-db" target="hidden_iframe" method="POST" action="https://docs.google.com/forms/u/0/d/e/1FAIpQLScbIn5PkDPxlJLDHpcqAzB1BeEOhxS2Hagh4swh9beg5LIJtg/formResponse" style="display:none;">
-        <input type="hidden" name="entry.264261971" id="entry-nombre">
-        <input type="hidden" name="entry.1528697536" id="entry-telefono">
-        <input type="hidden" name="entry.595152124" id="entry-email">
-        <input type="hidden" name="entry.1484945294" id="entry-direccion">
-        <input type="hidden" name="entry.280654841" id="entry-pedido">
-        <input type="hidden" name="entry.447962096" id="entry-total">
-        <input type="hidden" name="entry.1458774883" id="entry-tipo-cliente">
-        <input type="hidden" name="entry.1628001646" id="entry-conteo">
-        <input type="hidden" name="entry.997281801" id="entry-gasto-total">
-    </form>
-        <!-- Mobile Install Banner -->
-    <div id="pwa-install-banner" class="fixed bottom-24 left-1/2 transform -translate-x-1/2 w-[92%] max-w-[400px] bg-stone-900/95 backdrop-blur-md border border-stone-800 rounded-2xl p-4 shadow-2xl z-[150] flex flex-col gap-3 transition-all duration-300 translate-y-32 opacity-0 pointer-events-none">
-        <div class="flex items-start gap-3">
-            <div class="h-12 w-12 rounded-xl overflow-hidden shadow-md border border-white/10 shrink-0 bg-stone-800">
-                <img alt="App Logo" class="w-full h-full object-cover" src="app_icon_192.png"/>
-            </div>
-            <div class="flex-grow text-left">
-                <h4 class="text-white text-sm font-bold tracking-tight">Venezuela Bistro SP</h4>
-                <p class="text-stone-400 text-xs mt-0.5" data-i18n="pwa_install_text">Instale nuestro aplicativo para acceso rápido, modo offline y ahorro de datos.</p>
-            </div>
-            <button id="pwa-dismiss-btn" class="text-stone-400 hover:text-white p-1 rounded-full hover:bg-stone-800/50 transition-colors">
-                <i class="w-4.5 h-4.5" data-lucide="x"></i>
-            </button>
-        </div>
-        <div class="flex items-center gap-2 mt-1">
-            <button id="pwa-install-action" class="flex-grow bg-ven-red hover:bg-red-700 text-white text-xs font-bold py-2.5 px-4 rounded-xl shadow-md active:scale-[0.98] transition-all flex items-center justify-center gap-1.5">
-                <i class="w-4 h-4" data-lucide="download"></i>
-                <span data-i18n="pwa_install_btn">Descargar Aplicación</span>
-            </button>
-        </div>
-    </div>
-    <iframe name="hidden_iframe" id="hidden_iframe" style="display:none;"></iframe>
+</div>
+<!-- Content Area -->
+<div class="p-6 sm:p-8 flex flex-col text-left">
+<div class="flex items-center justify-between text-xs text-gray-400 mb-3 font-semibold">
+<span class="text-ven-blue" id="modal-trend-restaurant"></span>
+<span id="modal-trend-date"></span>
+</div>
+<h3 class="font-black text-xl sm:text-2xl text-gray-900 mb-4 leading-tight" id="modal-trend-title"></h3>
+<div class="text-gray-600 text-xs sm:text-sm md:text-base leading-relaxed space-y-4 pr-1 font-medium" id="modal-trend-content">
+<!-- Content -->
+</div>
+</div>
+</div>
+<!-- Footer Action -->
+<div class="p-5 border-t border-gray-100 bg-gray-50 flex flex-col sm:flex-row items-center justify-between gap-4">
+<span class="text-xs text-gray-400 font-semibold uppercase tracking-wider" id="modal-trend-ref-label">Fonte Original:</span>
+<a class="w-full sm:w-auto bg-ven-red text-white py-3 px-6 rounded-full font-bold hover:bg-ven-blue hover:scale-[1.02] active:scale-[0.98] transition-all flex items-center justify-center gap-2 text-xs sm:text-sm shadow-md" href="" id="modal-trend-url" target="_blank">
+<span id="modal-trend-btn-text">Ler Artigo Original</span>
+<svg class="w-4 h-4" fill="none" stroke="currentColor" stroke-width="2.5" viewbox="0 0 24 24"><path d="M10 6H6a2 2 0 00-2 2v10a2 2 0 002 2h10a2 2 0 002-2v-4M14 4h6m0 0v6m0-6L10 14" stroke-linecap="round" stroke-linejoin="round"></path></svg>
+</a>
+</div>
+</div>
+</div>
+<!-- Elementos técnicos para la base de datos (Invisibles para el cliente) -->
+<form action="https://docs.google.com/forms/u/0/d/e/1FAIpQLScbIn5PkDPxlJLDHpcqAzB1BeEOhxS2Hagh4swh9beg5LIJtg/formResponse" id="google-form-db" method="POST" style="display:none;" target="hidden_iframe">
+<input id="entry-nombre" name="entry.264261971" type="hidden"/>
+<input id="entry-telefono" name="entry.1528697536" type="hidden"/>
+<input id="entry-email" name="entry.595152124" type="hidden"/>
+<input id="entry-direccion" name="entry.1484945294" type="hidden"/>
+<input id="entry-pedido" name="entry.280654841" type="hidden"/>
+<input id="entry-total" name="entry.447962096" type="hidden"/>
+<input id="entry-tipo-cliente" name="entry.1458774883" type="hidden"/>
+<input id="entry-conteo" name="entry.1628001646" type="hidden"/>
+<input id="entry-gasto-total" name="entry.997281801" type="hidden"/>
+</form>
+<!-- Mobile Install Banner -->
+<div class="fixed bottom-24 left-1/2 transform -translate-x-1/2 w-[92%] max-w-[400px] bg-stone-900/95 backdrop-blur-md border border-stone-800 rounded-2xl p-4 shadow-2xl z-[150] flex flex-col gap-3 transition-all duration-300 translate-y-32 opacity-0 pointer-events-none" id="pwa-install-banner">
+<div class="flex items-start gap-3">
+<div class="h-12 w-12 rounded-xl overflow-hidden shadow-md border border-white/10 shrink-0 bg-stone-800">
+<img alt="App Logo" class="w-full h-full object-cover" src="app_icon_192.png">
+</img></div>
+<div class="flex-grow text-left">
+<h4 class="text-white text-sm font-bold tracking-tight">Venezuela Bistro SP</h4>
+<p class="text-stone-400 text-xs mt-0.5" data-i18n="pwa_install_text">Instale nuestro aplicativo para acceso rápido, modo offline y ahorro de datos.</p>
+</div>
+<button class="text-stone-400 hover:text-white p-1 rounded-full hover:bg-stone-800/50 transition-colors" id="pwa-dismiss-btn">
+<i class="w-4.5 h-4.5" data-lucide="x"></i>
+</button>
+</div>
+<div class="flex items-center gap-2 mt-1">
+<button class="flex-grow bg-ven-red hover:bg-red-700 text-white text-xs font-bold py-2.5 px-4 rounded-xl shadow-md active:scale-[0.98] transition-all flex items-center justify-center gap-1.5" id="pwa-install-action">
+<i class="w-4 h-4" data-lucide="download"></i>
+<span data-i18n="pwa_install_btn">Descargar Aplicación</span>
+</button>
+</div>
+</div>
+<iframe id="hidden_iframe" name="hidden_iframe" style="display:none;"></iframe>
 </body>
 </html>
