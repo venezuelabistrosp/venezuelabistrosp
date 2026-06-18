@@ -269,3 +269,151 @@ def get_all_product_names(file_path):
         if wrapper:
             product_names.append(h4.get_text().strip())
     return sorted(list(set(product_names)))
+
+
+def change_product_price(file_path, product_name, new_price):
+    """Updates the price of a product in the HTML layout and add-to-cart button."""
+    if not os.path.exists(file_path):
+        return False
+    with open(file_path, 'r', encoding='utf-8') as f:
+        content = f.read()
+    soup = BeautifulSoup(content, 'html.parser')
+    found = False
+    
+    h4s = soup.find_all('h4')
+    for h4 in h4s:
+        h4_text = h4.get_text().strip().lower()
+        target_normalized = product_name.strip().lower()
+        
+        wrapper = h4.parent
+        while wrapper and not (wrapper.name == 'div' and wrapper.get('class') and 'bg-white' in wrapper.get('class') and any('rounded-xl' in c or 'rounded-2xl' in c for c in wrapper.get('class'))):
+            wrapper = wrapper.parent
+            
+        if not wrapper:
+            continue
+            
+        matches = False
+        if h4_text == target_normalized:
+            matches = True
+        else:
+            img = wrapper.find('img')
+            if img and img.get('alt', '').strip().lower() == target_normalized:
+                matches = True
+                
+        if matches:
+            found = True
+            # 1. Update price span
+            price_span = wrapper.find('span', class_='text-ven-red')
+            if price_span:
+                price_formatted = f"R$ {new_price:.2f}".replace('.', ',')
+                price_span.string = price_formatted
+                
+            # 2. Update button onclick
+            btn = wrapper.find('button', class_='add-to-cart')
+            if btn:
+                onclick = btn.get('onclick', '')
+                if 'addToCart' in onclick:
+                    btn['onclick'] = f"addToCart('{h4.get_text().strip()}', {int(new_price)})"
+            break
+            
+    if found:
+        with open(file_path, 'w', encoding='utf-8') as f:
+            f.write(str(soup))
+    return found
+
+
+def edit_product_description(file_path, product_name, new_desc_pt, new_desc_es):
+    """Updates the product description inline and in JS localization blocks."""
+    if not os.path.exists(file_path):
+        return False
+    with open(file_path, 'r', encoding='utf-8') as f:
+        content = f.read()
+    soup = BeautifulSoup(content, 'html.parser')
+    found = False
+    
+    h4s = soup.find_all('h4')
+    for h4 in h4s:
+        h4_text = h4.get_text().strip().lower()
+        target_normalized = product_name.strip().lower()
+        
+        wrapper = h4.parent
+        while wrapper and not (wrapper.name == 'div' and wrapper.get('class') and 'bg-white' in wrapper.get('class') and any('rounded-xl' in c or 'rounded-2xl' in c for c in wrapper.get('class'))):
+            wrapper = wrapper.parent
+            
+        if not wrapper:
+            continue
+            
+        matches = False
+        if h4_text == target_normalized:
+            matches = True
+        else:
+            img = wrapper.find('img')
+            if img and img.get('alt', '').strip().lower() == target_normalized:
+                matches = True
+                
+        if matches:
+            found = True
+            # 1. Locate paragraph
+            desc_p = wrapper.find('p', class_='text-gray-500')
+            if desc_p:
+                desc_p.string = new_desc_pt
+                
+                # 2. Update JS translations
+                desc_key = desc_p.get('data-i18n')
+                if desc_key:
+                    content_updated = str(soup)
+                    matches_js = list(re.finditer(rf'({desc_key}\s*:\s*["\'])(.*?)(["\'])', content_updated))
+                    if len(matches_js) >= 2:
+                        # Match 1 (pt)
+                        start1, end1 = matches_js[1].span(2)
+                        content_updated = content_updated[:start1] + new_desc_pt + content_updated[end1:]
+                        # Match 0 (es)
+                        start0, end0 = matches_js[0].span(2)
+                        content_updated = content_updated[:start0] + new_desc_es + content_updated[end0:]
+                    
+                    with open(file_path, 'w', encoding='utf-8') as f:
+                        f.write(content_updated)
+                    return True
+            break
+            
+    if found:
+        with open(file_path, 'w', encoding='utf-8') as f:
+            f.write(str(soup))
+    return found
+
+
+def add_blog_post_to_json(file_path, new_item):
+    """Prepends a new blog post item to the JSON data file."""
+    if not os.path.exists(file_path):
+        data = []
+    else:
+        with open(file_path, 'r', encoding='utf-8') as f:
+            try:
+                data = json.load(f)
+            except Exception:
+                data = []
+    data.insert(0, new_item)
+    with open(file_path, 'w', encoding='utf-8') as f:
+        json.dump(data, f, ensure_ascii=False, indent=2)
+    return True
+
+
+def add_blog_post_to_js(file_path, new_item):
+    """Prepends a new blog post item to the JS trends array."""
+    if not os.path.exists(file_path):
+        return False
+    with open(file_path, 'r', encoding='utf-8') as f:
+        content = f.read()
+        
+    item_str = json.dumps(new_item, ensure_ascii=False, indent=2)
+    item_str_indented = "\n".join(["  " + line for line in item_str.split("\n")])
+    
+    # Prepend right after const VENEZUELA_BISTRO_TRENDS = [
+    pattern = r'(const\s+VENEZUELA_BISTRO_TRENDS\s*=\s*\[)'
+    replacement = r'\1\n' + item_str_indented + ','
+    
+    new_content = re.sub(pattern, replacement, content, count=1)
+    
+    with open(file_path, 'w', encoding='utf-8') as f:
+        f.write(new_content)
+    return True

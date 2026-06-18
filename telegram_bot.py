@@ -3,8 +3,19 @@ import json
 import time
 import subprocess
 import requests
+import urllib.parse
+from datetime import datetime
 from google import genai
-from bistro_manager import toggle_product_stock, update_schedule_hours, add_new_product, get_all_product_names
+from bistro_manager import (
+    toggle_product_stock, 
+    update_schedule_hours, 
+    add_new_product, 
+    get_all_product_names,
+    change_product_price,
+    edit_product_description,
+    add_blog_post_to_json,
+    add_blog_post_to_js
+)
 
 def load_env(env_path=".env"):
     """Loads key-value pairs from .env file into os.environ for local testing."""
@@ -75,6 +86,44 @@ def run_git_commands(commit_message, files_to_add=None):
             subprocess.run(["git", "rebase", "--abort"], capture_output=True)
         return False
 
+def download_image_from_pollinations(prompt, filename):
+    """Downloads an AI-generated image from Pollinations.ai and saves it locally."""
+    import random
+    encoded_prompt = urllib.parse.quote(prompt)
+    seed = random.randint(1, 999999)
+    url = f"https://image.pollinations.ai/prompt/{encoded_prompt}?width=800&height=600&nologo=true&private=true&feed=false&seed={seed}"
+    
+    headers = {
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
+        "Accept": "text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8",
+        "Accept-Language": "en-US,en;q=0.9",
+    }
+    
+    print(f"[*] Generating and downloading image for prompt: '{prompt}'...")
+    try:
+        response = requests.get(url, headers=headers, timeout=45)
+        if response.status_code == 200:
+            with open(filename, "wb") as f:
+                f.write(response.content)
+            print(f"[+] Image saved successfully as {filename}")
+            return True
+        else:
+            print(f"[-] Failed to generate image from Pollinations: HTTP {response.status_code}")
+            return False
+    except Exception as e:
+        print(f"[-] Error downloading image: {e}")
+        return False
+
+def datetime_current_month_year():
+    """Returns the current month (in Portuguese) and year (e.g., 'Maio 2026')."""
+    months_pt = {
+        1: "Janeiro", 2: "Fevereiro", 3: "Março", 4: "Abril", 5: "Maio", 6: "Junho",
+        7: "Julho", 8: "Agosto", 9: "Setembro", 10: "Outubro", 11: "Novembro", 12: "Dezembro"
+    }
+    now = datetime.now()
+    month_name = months_pt.get(now.month, "Junho")
+    return f"{month_name} {now.year}"
+
 def parse_command_with_gemini(message_text, product_list=None):
     """Uses Gemini 2.5 Flash to parse natural language owner messages into JSON actions."""
     api_key = os.environ.get("GEMINI_API_KEY")
@@ -107,7 +156,33 @@ def parse_command_with_gemini(message_text, product_list=None):
        - Mensajes de ejemplo: "Horario hoy: cerrado por lluvia", "Horario domingo: 12:00 a 19:00", "Horario: de 11:00 a 22:00 de martes a domingo".
        - Formato de respuesta JSON: {{"action": "schedule", "hours_pt": "Texto formateado en portugués", "hours_es": "Texto formateado en español", "hours_html": "Texto predeterminado para la cabecera HTML"}}
        
-    4. Acción desconocida / No clasificada:
+    4. Cambiar el precio de un producto:
+       - Mensajes de ejemplo: "Cambiar precio de Arepa de Pabellón a R$ 48,00", "coca-cola zero a 10 reales", "cambiar precio de tequeños a 25".
+       - Formato de respuesta JSON: {{"action": "change_price", "target": "Nombre exacto del producto", "price": float}}
+       - Regla crítica: El campo 'target' debe ser el nombre oficial de la lista. El precio debe ser un número decimal.
+       
+    5. Editar la descripción de un producto:
+       - Mensajes de ejemplo: "Cambiar descripción de Arepa Reina Pepeada a: Deliciosa arepa reina de la casa.", "descripción de tequeños ahora es: Dedos de queso fritos envueltos en masa crujiente."
+       - Formato de respuesta JSON: {{"action": "edit_description", "target": "Nombre exacto del producto", "desc_es": "Descripción redactada de forma atractiva en español", "desc_pt": "Descripción redactada de forma atractiva traducida al portugués"}}
+       - Regla crítica: El campo 'target' debe ser el nombre oficial de la lista. Traduce la nueva descripción de forma apetitosa a ambos idiomas.
+       
+    6. Publicar una noticia / post en el blog:
+       - Mensajes de ejemplo: "Publicar noticia: Mañana abrimos a las 8 am para la copa américa!", "noticia blog: Nueva arepa de pernil disponible en Sao Paulo."
+       - Formato de respuesta JSON: {{
+           "action": "publish_news",
+           "title_es": "Título atractivo y periodístico en español (ej. 'Venezuela Bistro transmite en vivo la Copa América en São Paulo')",
+           "title_pt": "Título atractivo y periodístico traducido al portugués",
+           "summary_es": "Resumen corto en español (una frase de 15-20 palabras)",
+           "summary_pt": "Resumen corto en portugués",
+           "full_content_es": "Contenido expandido y detallado en español (aproximadamente 100 palabras) sobre la noticia",
+           "full_content_pt": "Contenido expandido y detallado traducido al portugués (aproximadamente 100 palabras)",
+           "country": "Brasil",
+           "flag": "🇧🇷",
+           "restaurant": "Venezuela Bistro SP",
+           "image_prompt": "Un prompt en inglés de 10-12 palabras para generar una foto realista que represente la noticia gastronómica (sin textos ni logos en la imagen)"
+         }}
+       
+    7. Acción desconocida / No clasificada:
        - Si no coincide con ninguna acción.
        - Formato de respuesta JSON: {{"action": "unknown"}}
        
@@ -185,6 +260,76 @@ def parse_product_upload(caption_text):
         print("[-] Error calling Gemini to parse product caption:", e)
         return None
 
+def publish_news_post(token, chat_id, cmd, photo_list=None):
+    """Generates and prepends a bilingual news post, generating or using the uploaded photo."""
+    send_telegram_message(token, chat_id, "🔄 Redactando post de blog bilingüe y preparando imagen...")
+    
+    import random
+    slug = f"trend-{cmd.get('restaurant', 'bistro').lower().replace(' ', '-')}-{int(time.time())}"
+    
+    image_filename = f"{slug}.png"
+    local_image_path = os.path.join(os.getcwd(), image_filename)
+    
+    image_success = False
+    if photo_list:
+        # User uploaded their own photo
+        largest_photo = photo_list[-1]
+        file_id = largest_photo["file_id"]
+        file_path_info = get_telegram_file_path(token, file_id)
+        if file_path_info and file_path_info.get("ok"):
+            file_path = file_path_info["result"]["file_path"]
+            image_url = f"https://api.telegram.org/file/bot{token}/{file_path}"
+            try:
+                r = requests.get(image_url, stream=True, timeout=20)
+                if r.status_code == 200:
+                    with open(local_image_path, 'wb') as f:
+                        for chunk in r.iter_content(1024):
+                            f.write(chunk)
+                    image_success = True
+            except Exception as e:
+                print("[-] Error downloading user photo:", e)
+    else:
+        # Generate image using Pollinations.ai
+        image_prompt = cmd.get("image_prompt", "Gourmet Venezuelan food, professional dining photography")
+        image_success = download_image_from_pollinations(image_prompt, local_image_path)
+        
+    if not image_success:
+        image_filename = "historia.jpg" # Fallback to existing image
+        
+    # Construct trend item
+    new_item = {
+        "id": slug,
+        "country": cmd.get("country", "Brasil"),
+        "flag": cmd.get("flag", "🇧🇷"),
+        "restaurant": cmd.get("restaurant", "Venezuela Bistro SP"),
+        "date": datetime_current_month_year(),
+        "url": "https://venezuelabistrosp.github.io/venezuelabistrosp/",
+        "title_es": cmd.get("title_es", ""),
+        "title_pt": cmd.get("title_pt", ""),
+        "summary_es": cmd.get("summary_es", ""),
+        "summary_pt": cmd.get("summary_pt", ""),
+        "full_content_es": cmd.get("full_content_es", ""),
+        "full_content_pt": cmd.get("full_content_pt", ""),
+        "image_prompt": cmd.get("image_prompt", ""),
+        "image": image_filename
+    }
+    
+    # Save to data and script files
+    add_blog_post_to_json("scraped_data.json", new_item)
+    add_blog_post_to_js("trends.js", new_item)
+    
+    # Stage and push
+    files_to_commit = ["trends.js", "scraped_data.json"]
+    if image_success:
+        files_to_commit.append(image_filename)
+        
+    commit_msg = f"Telegram Bot: Publicada noticia: {cmd.get('title_es', '')[:30]}..."
+    success = run_git_commands(commit_msg, files_to_commit)
+    if success:
+        send_telegram_message(token, chat_id, f"✅ ¡Noticia publicada con éxito! Título: `{cmd.get('title_es')}`. Estará visible en el blog en unos 2 minutos.")
+    else:
+        send_telegram_message(token, chat_id, "⚠️ La noticia fue creada localmente pero falló subir los archivos a GitHub.")
+
 def handle_message(token, message):
     """Processes an incoming Telegram message."""
     text = message.get("text", "")
@@ -198,23 +343,38 @@ def handle_message(token, message):
             "¡Hola David! Bienvenido al panel de control de Venezuela Bistro SP 📲🍔\n\n"
             "Estas son las acciones que puedo realizar:\n\n"
             "1. **Pausar un plato (Agotado):**\n"
-            "   Escribe 'Pausar Arepa Vegetariana' o '/pausar Arepa Vegetariana'.\n\n"
+            "   Escribe 'Pausar Arepa Vegetariana'.\n\n"
             "2. **Activar un plato (Disponible):**\n"
-            "   Escribe 'Activar Arepa Vegetariana' o '/activar Arepa Vegetariana'.\n\n"
+            "   Escribe 'Activar Arepa Vegetariana'.\n\n"
             "3. **Cambiar Horario:**\n"
-            "   Escribe 'Horario domingo: 12:00 a 19:00' o 'Horario hoy: cerrado por lluvia'.\n\n"
-            "4. **Agregar nuevo plato con foto:**\n"
+            "   Escribe 'Horario domingo: 12:00 a 19:00'.\n\n"
+            "4. **Cambiar Precio:**\n"
+            "   Escribe 'Cambiar precio de Arepa de Pabellón a R$ 48,00'.\n\n"
+            "5. **Editar Descripción:**\n"
+            "   Escribe 'Cambiar descripción de Arepa Reina Pepeada a: [Nueva descripción]'.\n\n"
+            "6. **Publicar Noticia en el Blog:**\n"
+            "   Escribe 'Publicar noticia: [Texto de la noticia]' o envía una foto con ese pie de foto.\n\n"
+            "7. **Agregar nuevo plato con foto:**\n"
             "   Envía una foto de comida y agrégale este pie de foto (caption):\n"
             "   *Nombre: Arepa de Pernil*\n"
             "   *Precio: R$ 32,00*\n"
             "   *Categoría: arepas*\n"
-            "   *Descripción: Rellena con pernil asado y salsa.*"
+            "   *Descripción: Rellena con pernil asado.*"
         )
         send_telegram_message(token, chat_id, welcome_msg)
         return
 
-    # 2. Product Upload with Photo
+    # 2. News or Product Upload with Photo
     if photo and caption:
+        is_news = any(kw in caption.lower() for kw in ["noticia", "publicar", "blog", "post", "novedad"])
+        if is_news:
+            cmd = parse_command_with_gemini(caption)
+            if cmd and cmd.get("action") == "publish_news":
+                publish_news_post(token, chat_id, cmd, photo)
+            else:
+                send_telegram_message(token, chat_id, "❌ No pude interpretar los detalles de la noticia en el pie de foto.")
+            return
+            
         send_telegram_message(token, chat_id, "🔄 Procesando foto y descripción de nuevo plato...")
         details = parse_product_upload(caption)
         if not details or "price" not in details or "category" not in details:
@@ -334,11 +494,48 @@ def handle_message(token, message):
                     send_telegram_message(token, chat_id, "⚠️ Cambiado localmente pero falló subirlo a GitHub.")
             else:
                 send_telegram_message(token, chat_id, "❌ Error al actualizar los horarios en los archivos HTML.")
+                
+        elif action == "change_price":
+            price = cmd.get("price")
+            send_telegram_message(token, chat_id, f"🔄 Cambiando precio de `{target}` a R$ {price:.2f}...")
+            updated_index = change_product_price("index.html", target, price)
+            updated_redesign = change_product_price("index_redesign.html", target, price)
+            
+            if updated_index or updated_redesign:
+                commit_msg = f"Telegram Bot: Cambiado precio de {target} a R$ {price:.2f}"
+                success = run_git_commands(commit_msg, ["index.html", "index_redesign.html"])
+                if success:
+                    send_telegram_message(token, chat_id, f"✅ ¡Hecho! Precio de `{target}` actualizado a R$ {price:.2f} en la web.")
+                else:
+                    send_telegram_message(token, chat_id, "⚠️ Cambiado localmente pero falló subirlo a GitHub.")
+            else:
+                send_telegram_message(token, chat_id, f"❌ No encontré ningún producto con el nombre `{target}` en el menú.")
+                
+        elif action == "edit_description":
+            desc_es = cmd.get("desc_es")
+            desc_pt = cmd.get("desc_pt")
+            send_telegram_message(token, chat_id, f"🔄 Editando descripción de `{target}`...")
+            updated_index = edit_product_description("index.html", target, desc_pt, desc_es)
+            updated_redesign = edit_product_description("index_redesign.html", target, desc_pt, desc_es)
+            
+            if updated_index or updated_redesign:
+                commit_msg = f"Telegram Bot: Editada descripción de {target}"
+                success = run_git_commands(commit_msg, ["index.html", "index_redesign.html"])
+                if success:
+                    send_telegram_message(token, chat_id, f"✅ ¡Hecho! Descripción de `{target}` actualizada con éxito en la web.")
+                else:
+                    send_telegram_message(token, chat_id, "⚠️ Cambiado localmente pero falló subirlo a GitHub.")
+            else:
+                send_telegram_message(token, chat_id, f"❌ No encontré ningún producto con el nombre `{target}` en el menú.")
+                
+        elif action == "publish_news":
+            publish_news_post(token, chat_id, cmd, None)
+            
         else:
             send_telegram_message(
                 token, 
                 chat_id, 
-                "🤔 No entendí esa orden. Recuerda que puedes pausar/activar productos (ej: 'Pausar arepa vegetariana') o cambiar el horario (ej: 'Horario domingo: 12:00 a 19:00')."
+                "🤔 No entendí esa orden. Recuerda que puedes pausar/activar productos, cambiar precios, editar descripciones, cambiar horarios o publicar noticias."
             )
 
 def main():
