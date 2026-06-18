@@ -1,4 +1,4 @@
-const CACHE_NAME = "venebistro-cache-v1";
+const CACHE_NAME = "venebistro-cache-v2";
 const STATIC_ASSETS = [
   "./",
   "./index.html",
@@ -92,18 +92,39 @@ self.addEventListener("activate", event => {
   self.clients.claim();
 });
 
-// Fetching: Network fallback to Cache (and cache CDNs dynamically)
+// Fetching: Network First for HTML navigation, Stale-While-Revalidate for static assets
 self.addEventListener("fetch", event => {
   // Avoid caching Google Apps Script Webhook or POST requests
   if (event.request.method !== "GET") {
     return;
   }
 
-  // Intercept and cache requests dynamically
+  // 1. Network First strategy for HTML pages/navigation to keep stock/hours live
+  if (event.request.mode === "navigate" || event.request.url.endsWith(".html") || event.request.url.endsWith("/")) {
+    event.respondWith(
+      fetch(event.request).then(networkResponse => {
+        if (networkResponse && networkResponse.status === 200) {
+          const responseToCache = networkResponse.clone();
+          caches.open(CACHE_NAME).then(cache => cache.put(event.request, responseToCache));
+          return networkResponse;
+        }
+        return networkResponse;
+      }).catch(() => {
+        return caches.match(event.request).then(cachedResponse => {
+          if (cachedResponse) {
+            return cachedResponse;
+          }
+          return caches.match("./index.html") || caches.match("./index_redesign.html");
+        });
+      })
+    );
+    return;
+  }
+
+  // 2. Stale-While-Revalidate strategy for assets and images
   event.respondWith(
     caches.match(event.request).then(cachedResponse => {
       if (cachedResponse) {
-        // Return from cache, but fetch fresh in the background for local files to update cache (Stale-While-Revalidate)
         const isCDN = event.request.url.includes("googleapis") || 
                       event.request.url.includes("gstatic") || 
                       event.request.url.includes("unpkg.com") || 
@@ -120,13 +141,12 @@ self.addEventListener("fetch", event => {
         return cachedResponse;
       }
 
-      // If not in cache, fetch from network and cache it
+      // If not in cache, fetch and cache dynamically
       return fetch(event.request).then(networkResponse => {
         if (!networkResponse || networkResponse.status !== 200) {
           return networkResponse;
         }
 
-        // Cache dynamic assets from libraries, Tailwind, fonts, and ALL images
         const isImage = event.request.destination === "image" ||
                         event.request.url.match(/\.(png|jpe?g|gif|svg|webp|ico)/i);
 
@@ -146,10 +166,8 @@ self.addEventListener("fetch", event => {
 
         return networkResponse;
       }).catch(() => {
-        // Fallback offline response for HTML navigation if offline and not in cache
-        if (event.request.mode === "navigate") {
-          return caches.match("./index.html") || caches.match("./index_redesign.html");
-        }
+        // Fallback offline response
+        return caches.match("./index.html") || caches.match("./index_redesign.html");
       });
     })
   );
