@@ -23,7 +23,7 @@
 <script src="https://cdn.tailwindcss.com"></script>
 <!-- Fonts -->
 <link href="https://fonts.googleapis.com/css2?family=Outfit:wght@400;500;600;700;900&amp;display=swap" rel="stylesheet"/>
-<link href="https://fonts.googleapis.com/css2?family=Dancing+Script:wght@700&amp;display=swap" rel="stylesheet">
+<link href="https://fonts.googleapis.com/css2?family=Dancing+Script:wght@700&amp;display=swap" rel="stylesheet"/>
 <!-- Icons (Lucide) -->
 <script src="https://unpkg.com/lucide@latest"></script>
 <style>
@@ -292,7 +292,7 @@
             will-change: opacity;
         }
     </style>
-</link></head>
+</head>
 <body class="antialiased relative" id="inicio">
 <!-- Navbar -->
 <nav class="sticky top-0 z-50 bg-[#FAF8F5]/85 backdrop-blur-md border-b border-stone-200/60 transition-all duration-300">
@@ -357,20 +357,22 @@
 <!-- Hero Section -->
 <header class="relative bg-stone-950 text-white overflow-hidden min-h-[75vh] md:min-h-[580px] flex flex-col md:flex-row md:items-center hero-background">
 <!-- Imagen de banner visible solo en móvil al principio del header -->
-<div class="block md:hidden w-full aspect-[2/1] overflow-hidden relative border-b-4 border-ven-yellow">
-<img alt="Venezuela Bistro Cover" class="w-full h-full object-cover object-center" src="Cover.jpg"/>
+<div class="block md:hidden w-full overflow-hidden relative border-b-4 border-ven-yellow">
+<img alt="Venezuela Bistro Cover" class="w-full h-auto" src="Cover.jpg"/>
 </div>
-<div class="absolute inset-0 hero-overlay z-10 bg-gradient-to-r from-stone-950/90 via-stone-900/60 to-transparent hidden md:block"></div>
-<div class="container mx-auto px-4 relative z-20 pt-6 pb-8 md:pt-24 md:pb-16 flex flex-col justify-center items-start text-left">
+<div class="absolute inset-0 hero-overlay z-10 bg-[linear-gradient(to_right,rgba(0,0,0,0.9)_0%,rgba(0,0,0,0.6)_18%,rgba(0,0,0,0)_32%)] hidden md:block"></div>
+<div class="container mx-auto px-4 relative z-20 md:h-[420px] flex flex-col justify-center md:justify-between items-start text-left pt-6 pb-8 md:py-2 sm:pt-28">
+<div class="flex flex-col items-start max-w-xl md:max-w-[340px]">
 <span class="inline-block py-1 px-3 rounded-full bg-ven-yellow text-stone-950 font-bold text-[10px] sm:text-xs mb-3 animate-float border border-white/20 backdrop-blur-md shadow-md" data-i18n="hero_badge">
                  Sabor Autêntico em São Paulo
             </span>
-<h2 class="text-2xl sm:text-3xl md:text-6xl font-black mb-3 leading-tight tracking-tight drop-shadow-sm">
+<h2 class="text-2xl sm:text-3xl md:text-4xl font-black mb-3 leading-tight tracking-tight drop-shadow-sm" style="text-shadow: 0 2px 4px rgba(0,0,0,0.9);">
 <span data-i18n="hero_title_1">O Verdadeiro Sabor</span> <br class="hidden md:inline"/> <span class="text-ven-yellow" data-i18n="hero_title_2">Venezuelano</span>
 </h2>
-<p class="text-xs sm:text-sm md:text-lg text-stone-200 mb-5 sm:mb-8 max-w-md leading-relaxed drop-shadow-sm" data-i18n="hero_subtitle">
+<p class="text-xs sm:text-sm md:text-sm text-stone-200 mb-4 leading-relaxed drop-shadow-sm" data-i18n="hero_subtitle" style="text-shadow: 0 1px 3px rgba(0,0,0,0.9);">
                 Arepas, empanadas, cachapas e mais. Feitas à mão com amor e tradição.
             </p>
+</div>
 <div class="flex flex-col sm:flex-row items-stretch sm:items-center gap-4 w-full sm:w-auto">
 <button class="bg-ven-red text-white font-bold py-3 px-6 rounded-full shadow-lg hover:shadow-ven-red/20 transform transition hover:scale-105 active:scale-97 flex items-center justify-center gap-2 text-xs md:text-sm w-full sm:w-auto" onclick="document.getElementById('menu-section').scrollIntoView({behavior: 'smooth'})">
 <span data-i18n="btn_view_menu">Ver Cardápio</span>
@@ -410,7 +412,7 @@
 </div>
 <div class="flex flex-col justify-center">
 <p class="font-bold text-stone-850 text-[10px] sm:text-sm leading-tight tracking-tight" data-i18n="info_hours_title">Horário</p>
-<p class="text-[9px] sm:text-xs text-stone-500 block font-medium mt-0.5" data-i18n="info_hours_val">11:00 - 22:00 (Ter-Dom)</p>
+<p class="text-[9px] sm:text-xs text-stone-500 block font-medium mt-0.5" data-i18n="info_hours_val">17:30 - 23:30 (Hoje/Hoy)</p>
 </div>
 </div>
 <div class="flex flex-col sm:flex-row items-center justify-center gap-1.5 sm:gap-4 text-center sm:text-left px-1 sm:px-4 w-1/3">
@@ -1780,7 +1782,7 @@ let currentLang = 'pt';
                 btn_more_info: "Más Información",
                 info_loc_title: "Ubicación",
                 info_hours_title: "Horario",
-                info_hours_val: "11:00 - 22:00 (Mar-Dom)",
+                info_hours_val: "Hoy Lunes: 17:30 - 23:30",
                 about_subtitle: "Nuestra Historia",
                 about_title: "Más que comida, es cultura.",
                 about_p1: "En Venezuela Bistro SP, cada plato cuenta una historia. Desde la masa de maíz pilado que amasamos cada mañana, hasta los guisos cocinados a fuego lento como lo hacían nuestras abuelas.",
@@ -1947,7 +1949,7 @@ let currentLang = 'pt';
                 btn_more_info: "Mais Informações",
                 info_loc_title: "Localização",
                 info_hours_title: "Horário",
-                info_hours_val: "11:00 - 22:00 (Seg-Sáb)",
+                info_hours_val: "Hoje Segunda: 17:30 - 23:30",
                 about_subtitle: "Nossa História",
                 about_title: "Mais que comida, é cultura.",
                 about_p1: "No Venezuela Bistro SP, cada prato conta uma história. Desde a massa de milho pilado que amassamos toda manhã, até os ensopados cozidos em fogo baixo como faziam nossas avós.",
