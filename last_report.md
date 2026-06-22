@@ -1,4 +1,11 @@
-# Relatório de Pesquisa de Tendências (Nuvem) - 2026-06-20 18:15:57
+# Relatório de Pesquisa de Tendências (Nuvem) - 2026-06-22 20:10:02
+
+## 🇧🇷 Atrio em São Paulo: Uma Viagem de Alta Cozinha pela Venezuela Andina e Caribenha (Brasil)
+**Restaurante:** Atrio (Sao Paulo) | **Data:** Maio 2026 | [Link](https://bienmesabe.com/noticia/sao-paulo-ya-tiene-donde-comer-venezolano-atrio-estrena-menu-a-6-tiempos/)
+
+Atrio, reconhecido no Brasil, lançou um exclusivo menu degustação de seis tempos dedicado à gastronomia venezuelana. Criado pelos irmãos Schiavi Molina, este menu reinterpreta pratos tradicionais como o "Rompecolchón" e o "Pastel de Chucho", elevando a culinária venezuelana à alta gastronomia em São Paulo.
+
+--- 
 
 ## 🇺🇸 DC Al Toque: A Alta Cozinha Venezuelana Conquista Washington D.C. com Sabores Autênticos (Estados Unidos)
 **Restaurante:** DC Al Toque (Washington D.C.) | **Data:** Maio 2026 | [Link](https://2001online.com/zona2001/orgullo-tricolor-el-primer-restaurante-venezolano-a-la-carta-llega-a-washington-dc-esta-semana/)
@@ -46,13 +53,6 @@ La Cachapera, de Madrid, revoluciona a gastronomia venezuelana com seus "cachina
 **Restaurante:** Mérito y Demo (Lima) | **Data:** Maio 2026 | [Link](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFTdlKOOqKRArTGmOK1bi6yde_t1QR2KsbxzQdYz5KU2cAd47jTfb5bXW9BgDqgB-ZPmxqe_m8jR7F8X22O_1OFfkbJ9ujiazF9v466wPF_32DZ6JcdxN9s2iXSvGm0JeOeluY2XEVz40r5zQEunt3IDlr1TtG-gXht8MsGbtRy6xeGoxcEo5VLWBco8khzZjO5lSO2r-Uot-KkkrqMv6Xww08M4eY=)
 
 O chef venezuelano Juan Luis Martínez eleva a gastronomia de seu país em Lima com seus restaurantes Mérito e Demo. Mérito, reconhecido mundialmente, fusiona magistralmente sabores peruanos e venezuelanos, enquanto Demo oferece clássicos como cachapas e arepas com um toque gourmet, consolidando a presença venezuelana na alta cozinha.
-
---- 
-
-## 🇻🇪 Arepa Food Fest 2026: Caracas Celebra a Arepa com Inovação e Sabor Inédito (Venezuela)
-**Restaurante:** Arepa Food Fest 2026 (Caracas) | **Data:** Maio 2026 | [Link](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFFnQvV-H9gLCxvIvapmlRU4aPOML1EPMwa8ZixKKToU1NE5zSqva3XljtLLL1iLZemlGsUK-sIj0FlDGo3w5-AsmSvj6lwotZleaCYMcuggA1jvUlZTMV9H_Y9BvC8axEXegP2NMI9BCHpXK-U5oaBVGHD7sEeYNrcTl1RvgbdfgRNkyfL8u4=)
-
-O Arepa Food Fest 2026 em Caracas transforma a arepa em uma obra de arte culinária. Doze restaurantes apresentam criações audaciosas, desde recheios asiáticos até fusões com chucho margariteño e cochinita pibil, demonstrando a versatilidade e o espírito inovador deste prato emblemático venezuelano.
 
 --- 
 
