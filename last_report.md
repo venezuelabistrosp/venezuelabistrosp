@@ -1,4 +1,11 @@
-# Relatório de Pesquisa de Tendências (Nuvem) - 2026-06-22 20:10:02
+# Relatório de Pesquisa de Tendências (Nuvem) - 2026-06-23 19:10:42
+
+## 🇻🇪 Projeto Ubre: A Gastronomia Sustentável Venezuelana que Conquista o Mundo com Identidade (Venezuela)
+**Restaurante:** Proyecto Ubre (Caracas) | **Data:** Maio 2026 | [Link](https://tendenciainternacional.com/gastronomia-venezolana-a-siete-anos-del-blindaje-legal-que-abrio-las-puertas-al-reconocimiento-mundial/)
+
+Projeto Ubre, nos arredores de Caracas, foi premiado com o Galardão Ibero-Americano de Gastronomia Sustentável 2026. Este projeto inovador integra fazenda e restaurante, destacando a identidade venezuelana através do cordeiro e uma produção própria e sustentável. Sua abordagem busca valorizar a matéria-prima local e projetar a culinária venezuelana além de suas fronteiras, consolidando-se como um referente de sustentabilidade e tradição.
+
+--- 
 
 ## 🇧🇷 Atrio em São Paulo: Uma Viagem de Alta Cozinha pela Venezuela Andina e Caribenha (Brasil)
 **Restaurante:** Atrio (Sao Paulo) | **Data:** Maio 2026 | [Link](https://bienmesabe.com/noticia/sao-paulo-ya-tiene-donde-comer-venezolano-atrio-estrena-menu-a-6-tiempos/)
@@ -46,13 +53,6 @@ O evento Gastromaníacos 2025 em Maturín foi uma celebração da culinária ven
 **Restaurante:** La Cachapera (Madrid) | **Data:** Maio 2026 | [Link](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFitsXULdWMTqpDOsTdINXlS2WT0tf4768qMCstVkV4eVEwAFgWGdRxhlaT9QfGkYZHCMjCVx6agXYb7qCGkJhETPsyjoyFYTnwov0in7ttC0EYrrknYNisMddcOhjSRLxSrTnxdGGTJiECRc_6WSmWuBdyRhyBBpLkEn9i7VneLw0ZX7f1b6KWX7ZqPPukpjBkaOFb_YCKq7gnadrlGXDzoHJSn-2NYdZuxkveEVo20mn8oqlWPLuGmk_PZv3AFCDlp_iJItfgi)
 
 La Cachapera, de Madrid, revoluciona a gastronomia venezuelana com seus "cachinachos", uma fusão de cachapa e nachos. Este restaurante expande-se pela Espanha e Europa, oferecendo uma experiência culinária única que celebra a cachapa, arepas e empanadas, levando o autêntico sabor venezuelano a novos horizontes.
-
---- 
-
-## 🇵🇪 Juan Luis Martínez: A Alta Cozinha Venezuelana Brilha em Lima com Fusão Inovadora (Perú)
-**Restaurante:** Mérito y Demo (Lima) | **Data:** Maio 2026 | [Link](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFTdlKOOqKRArTGmOK1bi6yde_t1QR2KsbxzQdYz5KU2cAd47jTfb5bXW9BgDqgB-ZPmxqe_m8jR7F8X22O_1OFfkbJ9ujiazF9v466wPF_32DZ6JcdxN9s2iXSvGm0JeOeluY2XEVz40r5zQEunt3IDlr1TtG-gXht8MsGbtRy6xeGoxcEo5VLWBco8khzZjO5lSO2r-Uot-KkkrqMv6Xww08M4eY=)
-
-O chef venezuelano Juan Luis Martínez eleva a gastronomia de seu país em Lima com seus restaurantes Mérito e Demo. Mérito, reconhecido mundialmente, fusiona magistralmente sabores peruanos e venezuelanos, enquanto Demo oferece clássicos como cachapas e arepas com um toque gourmet, consolidando a presença venezuelana na alta cozinha.
 
 --- 
 
