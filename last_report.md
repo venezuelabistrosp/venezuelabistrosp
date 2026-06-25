@@ -1,4 +1,18 @@
-# Relatório de Pesquisa de Tendências (Nuvem) - 2026-06-23 19:10:42
+# Relatório de Pesquisa de Tendências (Nuvem) - 2026-06-25 19:08:27
+
+## 🇺🇸 Mita: Culinária Venezuelana Vegana que Conquista Washington D.C. com uma Estrela Michelin (Estados Unidos)
+**Restaurante:** Mita (Washington D.C.) | **Data:** Maio 2026 | [Link](https://mundour.com/2025/05/20/chefs-venezolanos-triunfan-en-eeuu-su-restaurante-vegano-mita-gana-una-estrella-michelin/)
+
+Mita, o inovador restaurante vegano dos chefs venezuelanos Miguel Guerra e Tatiana Mora em Washington D.C., foi premiado com uma estrela Michelin em maio de 2025. Sua proposta reinventa a culinária venezuelana com pratos à base de plantas como as "canastas de arepas" e o "crudo de sandía", mostrando que tradição e sustentabilidade podem andar juntas.
+
+--- 
+
+## 🇻🇪 Chef Session 2026: Uma Experiência Sensorial Inesquecível na Ilha de Margarita (Venezuela)
+**Restaurante:** Chef Session 2026 (Pampatar, Isla de Margarita) | **Data:** Maio 2026 | [Link](https://mundour.com/margarita/el-evento-gastronomico-del-ano-asi-sera-el-chef-session-2026-en-margarita/)
+
+A Ilha de Margarita sediará o Chef Session 2026, um evento culinário que funde alta gastronomia, arte e música. Organizado pelo Chef Luis Escobar, promete uma experiência sensorial única com propostas vanguardistas de renomados cozinheiros. Destaca-se a valorização de produtos locais icônicos, consolidando Margarita como epicentro gastronômico.
+
+--- 
 
 ## 🇻🇪 Projeto Ubre: A Gastronomia Sustentável Venezuelana que Conquista o Mundo com Identidade (Venezuela)
 **Restaurante:** Proyecto Ubre (Caracas) | **Data:** Maio 2026 | [Link](https://tendenciainternacional.com/gastronomia-venezolana-a-siete-anos-del-blindaje-legal-que-abrio-las-puertas-al-reconocimiento-mundial/)
@@ -39,20 +53,6 @@ O Restaurante Cordero em Caracas, liderado pelo chef Issam Koteich, redefine a g
 **Restaurante:** Venezuela (Nominación World Travel Awards 2026) | **Data:** Maio 2026 | [Link](https://www.venevision.com/noticias/nacionales/venezuela-fue-nominada-como-destino-culinario-lider-de-sudamerica-1002221)
 
 A Venezuela foi nomeada como 'Principal Destino Culinário da América do Sul' nos prestigiados World Travel Awards 2026. Este reconhecimento celebra a rica herança mestiça de sua culinária, seus contrastes de sabores e texturas, e seu profundo enraizamento histórico. A nomeação impulsiona o turismo gastronômico e apoia produtores e empreendedores locais.
-
---- 
-
-## 🇻🇪 Gastromaníacos 2025: Um Festival de Sabores Venezuelanos em Maturín (Venezuela)
-**Restaurante:** Gastromaníacos 2025 (Maturín) | **Data:** Maio 2026 | [Link](https://saboresyviajes.com/los-mejores-chefs-de-venezuela-se-daran-cita-en-gastromaniacos-2025-este-24-25-y-26-de-octubre-en-maturin/)
-
-O evento Gastromaníacos 2025 em Maturín foi uma celebração da culinária venezuelana, reunindo chefs renomados como Ricardo Chaneton. Ofereceu degustações, cozinhas ao vivo e palestras magistrais, destacando desde a padaria caraquenha até o ají margariteño e os hambúrgueres maracuchos. Uma homenagem à diversidade culinária e aos produtos autóctones do país.
-
---- 
-
-## 🇪🇸 La Cachapera Conquista Espanha com seus Inovadores "Cachinachos" e Sabor Venezuelano (España)
-**Restaurante:** La Cachapera (Madrid) | **Data:** Maio 2026 | [Link](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFitsXULdWMTqpDOsTdINXlS2WT0tf4768qMCstVkV4eVEwAFgWGdRxhlaT9QfGkYZHCMjCVx6agXYb7qCGkJhETPsyjoyFYTnwov0in7ttC0EYrrknYNisMddcOhjSRLxSrTnxdGGTJiECRc_6WSmWuBdyRhyBBpLkEn9i7VneLw0ZX7f1b6KWX7ZqPPukpjBkaOFb_YCKq7gnadrlGXDzoHJSn-2NYdZuxkveEVo20mn8oqlWPLuGmk_PZv3AFCDlp_iJItfgi)
-
-La Cachapera, de Madrid, revoluciona a gastronomia venezuelana com seus "cachinachos", uma fusão de cachapa e nachos. Este restaurante expande-se pela Espanha e Europa, oferecendo uma experiência culinária única que celebra a cachapa, arepas e empanadas, levando o autêntico sabor venezuelano a novos horizontes.
 
 --- 
 
