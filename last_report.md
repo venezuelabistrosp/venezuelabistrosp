@@ -1,4 +1,11 @@
-# Relatório de Pesquisa de Tendências (Nuvem) - 2026-06-25 19:08:27
+# Relatório de Pesquisa de Tendências (Nuvem) - 2026-06-26 18:55:00
+
+## 🇵🇪 Mérito e Demo em Lima: A Fusão Peruano-Venezuelana que Revoluciona a Cena Gastronômica (Perú)
+**Restaurante:** Mérito y Demo (Lima) | **Data:** Maio 2026 | [Link](https://www.eldiariony.com/2026/03/13/la-nueva-era-de-la-gastronomia-en-lima-el-exito-de-la-fusion-venezolana/)
+
+Em Lima, os restaurantes Mérito e Demo, sob a direção do chef venezuelano Juan Luis Martínez, estão liderando uma inovadora fusão culinária peruano-venezuelana. O Mérito, reconhecido entre os 50 melhores do mundo, oferece alta gastronomia, enquanto o Demo encanta com cachapas, arepas e tequeños sem glúten. Esta proposta celebra a riqueza de ambas as culturas, atraindo comensais de todo o mundo.
+
+--- 
 
 ## 🇺🇸 Mita: Culinária Venezuelana Vegana que Conquista Washington D.C. com uma Estrela Michelin (Estados Unidos)
 **Restaurante:** Mita (Washington D.C.) | **Data:** Maio 2026 | [Link](https://mundour.com/2025/05/20/chefs-venezolanos-triunfan-en-eeuu-su-restaurante-vegano-mita-gana-una-estrella-michelin/)
@@ -46,13 +53,6 @@ La Mansión del Chowfan em Madrid oferece uma inovadora fusão de cozinha canton
 **Restaurante:** Restaurante Cordero (Caracas) | **Data:** Maio 2026 | [Link](https://expreso.info/2026/02/08/venezuela-rompe-barreras-a-traves-de-la-gastronomia/)
 
 O Restaurante Cordero em Caracas, liderado pelo chef Issam Koteich, redefine a gastronomia com seu 'Projeto Ubre'. Este modelo sustentável integra uma fazenda própria para a criação orgânica de cordeiros, garantindo frescor e qualidade. Reconhecido entre os 50 Melhores da América Latina e premiado por sua sustentabilidade, Cordero é uma referência de inovação culinária venezuelana.
-
---- 
-
-## 🇻🇪 Venezuela Brilha: Nomeada como Principal Destino Culinário da América do Sul em 2026 (Venezuela)
-**Restaurante:** Venezuela (Nominación World Travel Awards 2026) | **Data:** Maio 2026 | [Link](https://www.venevision.com/noticias/nacionales/venezuela-fue-nominada-como-destino-culinario-lider-de-sudamerica-1002221)
-
-A Venezuela foi nomeada como 'Principal Destino Culinário da América do Sul' nos prestigiados World Travel Awards 2026. Este reconhecimento celebra a rica herança mestiça de sua culinária, seus contrastes de sabores e texturas, e seu profundo enraizamento histórico. A nomeação impulsiona o turismo gastronômico e apoia produtores e empreendedores locais.
 
 --- 
 
