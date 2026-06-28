@@ -1,4 +1,11 @@
-# Relatório de Pesquisa de Tendências (Nuvem) - 2026-06-26 18:55:00
+# Relatório de Pesquisa de Tendências (Nuvem) - 2026-06-28 18:07:16
+
+## 🇨🇦 The Arepa Republic: Levando o Sabor Venezuelano para Todo o Canadá (Canadá)
+**Restaurante:** The Arepa Republic (Toronto) | **Data:** Maio 2026 | [Link](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEbth6PR1gVLl65v_cNy1Gbr3OyB7Ot8ZAX2z6RNprTXvMrfD6M037XPp5ex_HKnQ95egQZNLv17gnVJpwKpKnNRFHrFEoHS78TJDP68y5cLecAc-qKdqGX4Zn1xEJIBCBHaYkgievXqKuqIQdeD-VdUQqN7Eh-XRVn8YW6Ew10)
+
+The Arepa Republic em Toronto, fundado por Luis Manuel Córdoba, busca estabelecer a arepa venezuelana como uma franquia líder no Canadá. Com planos de expansão para Quebec e Montreal, este restaurante oferece arepas de pabellón, patacones e tequeños, consolidando a presença da autêntica gastronomia venezuelana no mercado canadense.
+
+--- 
 
 ## 🇵🇪 Mérito e Demo em Lima: A Fusão Peruano-Venezuelana que Revoluciona a Cena Gastronômica (Perú)
 **Restaurante:** Mérito y Demo (Lima) | **Data:** Maio 2026 | [Link](https://www.eldiariony.com/2026/03/13/la-nueva-era-de-la-gastronomia-en-lima-el-exito-de-la-fusion-venezolana/)
@@ -46,13 +53,6 @@ DC Al Toque se estabelece como o primeiro restaurante venezuelano à la carte em
 **Restaurante:** La Mansión del Chowfan (Madrid) | **Data:** Maio 2026 | [Link](https://www.elnacional.com/estilo-de-vida/la-cocina-fusion-chino-venezolana-se-abre-paso-en-espana-desde-la-mansion-del-chowfan/)
 
 La Mansión del Chowfan em Madrid oferece uma inovadora fusão de cozinha cantonesa e venezuelana, um legado familiar de Robert González Chang. Seu 'arroz chinês venezuelano' é a estrela, atraindo uma clientela diversa que busca sabores únicos. Este restaurante é um testemunho de como a tradição e a criatividade podem se unir para criar experiências culinárias memoráveis.
-
---- 
-
-## 🇻🇪 Cordero (Caracas): A Revolução Sustentável que Conquista a Alta Cozinha Venezuelana (Venezuela)
-**Restaurante:** Restaurante Cordero (Caracas) | **Data:** Maio 2026 | [Link](https://expreso.info/2026/02/08/venezuela-rompe-barreras-a-traves-de-la-gastronomia/)
-
-O Restaurante Cordero em Caracas, liderado pelo chef Issam Koteich, redefine a gastronomia com seu 'Projeto Ubre'. Este modelo sustentável integra uma fazenda própria para a criação orgânica de cordeiros, garantindo frescor e qualidade. Reconhecido entre os 50 Melhores da América Latina e premiado por sua sustentabilidade, Cordero é uma referência de inovação culinária venezuelana.
 
 --- 
 
