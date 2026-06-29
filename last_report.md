@@ -1,4 +1,18 @@
-# Relatório de Pesquisa de Tendências (Nuvem) - 2026-06-28 18:07:16
+# Relatório de Pesquisa de Tendências (Nuvem) - 2026-06-29 19:07:02
+
+## 🇪🇸 La Cachapera: O Sabor Venezuelano Conquista a Espanha com suas Inovadoras Cachapas e Cachinachos (España)
+**Restaurante:** La Cachapera (Alicante) | **Data:** Maio 2026 | [Link](https://www.informacion.es/ocio/gastronomia/2026/06/29/templo-cachapa-planea-abrir-alicante-restaurante-104381273.html)
+
+La Cachapera, nascida como food truck, expande-se na Espanha a partir de Alicante, levando a autêntica cachapa venezuelana e seus inovadores "cachinachos". Com planos de chegar a Málaga, Bilbao, Sevilha, Zaragoza, Lisboa e Paris, esta cadeia busca consolidar a gastronomia venezuelana como uma experiência culinária única e não apenas como fast food.
+
+--- 
+
+## 🇻🇪 Venezuela Brilha: Indicada a "Principal Destino Culinário da América do Sul" no WTA 2026 (Venezuela)
+**Restaurante:** Venezuela (World Travel Awards 2026) | **Data:** Maio 2026 | [Link](https://primicia.com.ve/nacion/venezuela-es-nominada-a-mejor-destino-culinario-de-sudamerica-en-wta-2026/)
+
+A Venezuela foi indicada a "Principal Destino Culinário da América do Sul" nos prestigiados World Travel Awards 2026. Este reconhecimento global celebra a rica herança mestiça de sua gastronomia, a diversidade de sabores doces e salgados, suas texturas memoráveis e suas profundas raízes históricas, consolidando sua crescente proeminência no cenário culinário mundial.
+
+--- 
 
 ## 🇨🇦 The Arepa Republic: Levando o Sabor Venezuelano para Todo o Canadá (Canadá)
 **Restaurante:** The Arepa Republic (Toronto) | **Data:** Maio 2026 | [Link](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEbth6PR1gVLl65v_cNy1Gbr3OyB7Ot8ZAX2z6RNprTXvMrfD6M037XPp5ex_HKnQ95egQZNLv17gnVJpwKpKnNRFHrFEoHS78TJDP68y5cLecAc-qKdqGX4Zn1xEJIBCBHaYkgievXqKuqIQdeD-VdUQqN7Eh-XRVn8YW6Ew10)
@@ -39,20 +53,6 @@ Projeto Ubre, nos arredores de Caracas, foi premiado com o Galardão Ibero-Ameri
 **Restaurante:** Atrio (Sao Paulo) | **Data:** Maio 2026 | [Link](https://bienmesabe.com/noticia/sao-paulo-ya-tiene-donde-comer-venezolano-atrio-estrena-menu-a-6-tiempos/)
 
 Atrio, reconhecido no Brasil, lançou um exclusivo menu degustação de seis tempos dedicado à gastronomia venezuelana. Criado pelos irmãos Schiavi Molina, este menu reinterpreta pratos tradicionais como o "Rompecolchón" e o "Pastel de Chucho", elevando a culinária venezuelana à alta gastronomia em São Paulo.
-
---- 
-
-## 🇺🇸 DC Al Toque: A Alta Cozinha Venezuelana Conquista Washington D.C. com Sabores Autênticos (Estados Unidos)
-**Restaurante:** DC Al Toque (Washington D.C.) | **Data:** Maio 2026 | [Link](https://2001online.com/zona2001/orgullo-tricolor-el-primer-restaurante-venezolano-a-la-carta-llega-a-washington-dc-esta-semana/)
-
-DC Al Toque se estabelece como o primeiro restaurante venezuelano à la carte em Washington D.C., elevando a gastronomia criolla. Oferece desde o clássico pabellón até um impressionante pepito de um metro, junto a uma padaria artesanal com cachitos e piñitas. Uma experiência culinária autêntica que transcende o tradicional.
-
---- 
-
-## 🇪🇸 La Mansión del Chowfan: A Requintada Fusão Sino-Venezuelana que Cativa Madrid (España)
-**Restaurante:** La Mansión del Chowfan (Madrid) | **Data:** Maio 2026 | [Link](https://www.elnacional.com/estilo-de-vida/la-cocina-fusion-chino-venezolana-se-abre-paso-en-espana-desde-la-mansion-del-chowfan/)
-
-La Mansión del Chowfan em Madrid oferece uma inovadora fusão de cozinha cantonesa e venezuelana, um legado familiar de Robert González Chang. Seu 'arroz chinês venezuelano' é a estrela, atraindo uma clientela diversa que busca sabores únicos. Este restaurante é um testemunho de como a tradição e a criatividade podem se unir para criar experiências culinárias memoráveis.
 
 --- 
 
