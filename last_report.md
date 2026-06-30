@@ -1,4 +1,18 @@
-# Relatório de Pesquisa de Tendências (Nuvem) - 2026-06-29 19:07:02
+# Relatório de Pesquisa de Tendências (Nuvem) - 2026-06-30 18:59:42
+
+## 🇺🇸 DC Al Toque: A Nova Joia Venezuelana em Washington D.C. com Sabores Autênticos e Fusões (Estados Unidos)
+**Restaurante:** DC Al Toque (Washington D.C.) | **Data:** Maio 2026 | [Link](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHYXtRGlSRUD5JBnPDOpRV6U9xnHf-61Ah1W4wCUniY9w0Z5zfNNTDjLSZVJ69L04w80YR22CD5m_NissrkpQ8R_L8lxnShiJH-5byL6JxnZqXjl1ISHlVOgPmWg1-Y3DRHpnUyRWd8Tua52h3vjkOfdxDwOYpP8UG8842cDKutn_xcXMwsUKj8NnjXhplVJveTy177KqKwMOkqWwq153O2H8rze0etCA==)
+
+DC Al Toque, inaugurado em abril de 2026 em Washington D.C., está revolucionando a cena culinária venezuelana. Oferece um menu extenso que vai além das arepas, incluindo parrilladas, o tradicional pabellón criollo e o inovador "pepito de um metro". Suas fusões como o "shawarma arabezolano" e o arroz chinês venezuelano prometem uma experiência gastronômica única.
+
+--- 
+
+## 🇪🇸 La Cachapera Conquista a Espanha: O Sabor Tradicional Venezuelano Expande-se pela Europa (España)
+**Restaurante:** La Cachapera (Madrid) | **Data:** Maio 2026 | [Link](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFbx6Rlbmq-3KXRFp_0cVEAYevmXFV7HTbbHHyFbJfsVCHVJ_IrAL7S0Hlk2sIYsvLmhWwBEpoOn-iVTANkuCvCjz5tyIitwqS2tTaQgkX9DFj-1_H0nJjhNcSRSNQboZZb8GteELV9_3WawOfUBZHOFIexVQpV1OKJ1x2WDFBxPBxs69eFoAA-Cq0vVKzXdxDzzncpSJ5PJevUai9JsxOjLBvFsyouC_wZ1wBTqF-6NQxT3A3TY_7CzwWNVJ2GL0Dd_dOEfzgj)
+
+La Cachapera, a bem-sucedida cadeia de comida venezuelana, continua sua expansão imparável na Espanha, abrindo sua sexta unidade em junho de 2026. Especializada em cachapas e arepas, esta marca consolida-se como a referência da restauração venezuelana organizada na Europa, com planos de crescimento internacional. Um verdadeiro marco para a gastronomia do país.
+
+--- 
 
 ## 🇪🇸 La Cachapera: O Sabor Venezuelano Conquista a Espanha com suas Inovadoras Cachapas e Cachinachos (España)
 **Restaurante:** La Cachapera (Alicante) | **Data:** Maio 2026 | [Link](https://www.informacion.es/ocio/gastronomia/2026/06/29/templo-cachapa-planea-abrir-alicante-restaurante-104381273.html)
@@ -39,20 +53,6 @@ Mita, o inovador restaurante vegano dos chefs venezuelanos Miguel Guerra e Tatia
 **Restaurante:** Chef Session 2026 (Pampatar, Isla de Margarita) | **Data:** Maio 2026 | [Link](https://mundour.com/margarita/el-evento-gastronomico-del-ano-asi-sera-el-chef-session-2026-en-margarita/)
 
 A Ilha de Margarita sediará o Chef Session 2026, um evento culinário que funde alta gastronomia, arte e música. Organizado pelo Chef Luis Escobar, promete uma experiência sensorial única com propostas vanguardistas de renomados cozinheiros. Destaca-se a valorização de produtos locais icônicos, consolidando Margarita como epicentro gastronômico.
-
---- 
-
-## 🇻🇪 Projeto Ubre: A Gastronomia Sustentável Venezuelana que Conquista o Mundo com Identidade (Venezuela)
-**Restaurante:** Proyecto Ubre (Caracas) | **Data:** Maio 2026 | [Link](https://tendenciainternacional.com/gastronomia-venezolana-a-siete-anos-del-blindaje-legal-que-abrio-las-puertas-al-reconocimiento-mundial/)
-
-Projeto Ubre, nos arredores de Caracas, foi premiado com o Galardão Ibero-Americano de Gastronomia Sustentável 2026. Este projeto inovador integra fazenda e restaurante, destacando a identidade venezuelana através do cordeiro e uma produção própria e sustentável. Sua abordagem busca valorizar a matéria-prima local e projetar a culinária venezuelana além de suas fronteiras, consolidando-se como um referente de sustentabilidade e tradição.
-
---- 
-
-## 🇧🇷 Atrio em São Paulo: Uma Viagem de Alta Cozinha pela Venezuela Andina e Caribenha (Brasil)
-**Restaurante:** Atrio (Sao Paulo) | **Data:** Maio 2026 | [Link](https://bienmesabe.com/noticia/sao-paulo-ya-tiene-donde-comer-venezolano-atrio-estrena-menu-a-6-tiempos/)
-
-Atrio, reconhecido no Brasil, lançou um exclusivo menu degustação de seis tempos dedicado à gastronomia venezuelana. Criado pelos irmãos Schiavi Molina, este menu reinterpreta pratos tradicionais como o "Rompecolchón" e o "Pastel de Chucho", elevando a culinária venezuelana à alta gastronomia em São Paulo.
 
 --- 
 
