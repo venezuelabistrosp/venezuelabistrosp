@@ -1,4 +1,18 @@
-# Relatório de Pesquisa de Tendências (Nuvem) - 2026-06-30 18:59:42
+# Relatório de Pesquisa de Tendências (Nuvem) - 2026-07-01 19:01:38
+
+## 🇻🇪 Projeto Ubre: A Gastronomia Sustentável Venezuelana que Conquista Prêmios Internacionais (Venezuela)
+**Restaurante:** Proyecto Ubre (Caracas) | **Data:** Maio 2026 | [Link](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFjjIDwCNh_4hz7eIE2qrdukHBHVxGhbWeWqONDjif6zhU5ufcfJLQhPX37NiwR_ASe9iaIUX72fHYByoId3ps97FJd9crZLtlooDy_GOZXpvfbwzudNuzdUNQMyV6icmQ5igWRmrScazRejiXFa__QBRq5EpfygAm1zqZu0ukZVj1BUHNKEXLN0lKKnG2XX4A2_sYZOJygFM5eY50FK75PyQ==)
+
+Projeto Ubre, localizado nos arredores de Caracas, é uma referência em gastronomia sustentável que integra fazenda e restaurante. Reconhecido com o Galardão Ibero-americano de Gastronomia 2026, seu menu foca no cordeiro orgânico de produção própria, reivindicando a identidade culinária venezuelana com uma abordagem "do campo ao prato".
+
+--- 
+
+## 🇵🇦 ArepaSOS: Chefs de Elite Unem Forças no Panamá pela Venezuela com Arepas Gourmet (Panamá)
+**Restaurante:** ArepaSOS: Una Arepa por Venezuela (Ciudad de Panamá) | **Data:** Maio 2026 | [Link](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE0Ju0vA54-2lahCh-_Puf2enhtDLJDPoVF2FPTiiLkeAorJApFCGGHLeu90t22ZGHoO2Yzier4QVTn2YvoFCoZTCTTWRWtRPGYocSgbN8Dm6IkSycE3VVDlarWIU_aQVZGjEsqMI3PpgrYR-C5c6AwnIhaPXCSzpkCnxb5icatz1SRxgUBa1tnocjk8FhaR6FVJYg7-KIEAo7HmGEJBjF9wYurokVWIA-BV4s1-1zP_BMyV8vPmyCLOThqpvsvuSsalV7tHtsP5uk731qySDLRxVt_uK4j2L7ds1AYGg==)
+
+O evento ArepaSOS: Uma Arepa por Venezuela, celebrado na Cidade do Panamá, reuniu oito chefs internacionais para criar versões gourmet da arepa. Esta iniciativa solidária, realizada em La Arepería, arrecadou fundos para famílias venezuelanas afetadas por terremotos, transformando o icônico prato em um símbolo de ajuda e diversidade culinária.
+
+--- 
 
 ## 🇺🇸 DC Al Toque: A Nova Joia Venezuelana em Washington D.C. com Sabores Autênticos e Fusões (Estados Unidos)
 **Restaurante:** DC Al Toque (Washington D.C.) | **Data:** Maio 2026 | [Link](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHYXtRGlSRUD5JBnPDOpRV6U9xnHf-61Ah1W4wCUniY9w0Z5zfNNTDjLSZVJ69L04w80YR22CD5m_NissrkpQ8R_L8lxnShiJH-5byL6JxnZqXjl1ISHlVOgPmWg1-Y3DRHpnUyRWd8Tua52h3vjkOfdxDwOYpP8UG8842cDKutn_xcXMwsUKj8NnjXhplVJveTy177KqKwMOkqWwq153O2H8rze0etCA==)
@@ -39,20 +53,6 @@ The Arepa Republic em Toronto, fundado por Luis Manuel Córdoba, busca estabelec
 **Restaurante:** Mérito y Demo (Lima) | **Data:** Maio 2026 | [Link](https://www.eldiariony.com/2026/03/13/la-nueva-era-de-la-gastronomia-en-lima-el-exito-de-la-fusion-venezolana/)
 
 Em Lima, os restaurantes Mérito e Demo, sob a direção do chef venezuelano Juan Luis Martínez, estão liderando uma inovadora fusão culinária peruano-venezuelana. O Mérito, reconhecido entre os 50 melhores do mundo, oferece alta gastronomia, enquanto o Demo encanta com cachapas, arepas e tequeños sem glúten. Esta proposta celebra a riqueza de ambas as culturas, atraindo comensais de todo o mundo.
-
---- 
-
-## 🇺🇸 Mita: Culinária Venezuelana Vegana que Conquista Washington D.C. com uma Estrela Michelin (Estados Unidos)
-**Restaurante:** Mita (Washington D.C.) | **Data:** Maio 2026 | [Link](https://mundour.com/2025/05/20/chefs-venezolanos-triunfan-en-eeuu-su-restaurante-vegano-mita-gana-una-estrella-michelin/)
-
-Mita, o inovador restaurante vegano dos chefs venezuelanos Miguel Guerra e Tatiana Mora em Washington D.C., foi premiado com uma estrela Michelin em maio de 2025. Sua proposta reinventa a culinária venezuelana com pratos à base de plantas como as "canastas de arepas" e o "crudo de sandía", mostrando que tradição e sustentabilidade podem andar juntas.
-
---- 
-
-## 🇻🇪 Chef Session 2026: Uma Experiência Sensorial Inesquecível na Ilha de Margarita (Venezuela)
-**Restaurante:** Chef Session 2026 (Pampatar, Isla de Margarita) | **Data:** Maio 2026 | [Link](https://mundour.com/margarita/el-evento-gastronomico-del-ano-asi-sera-el-chef-session-2026-en-margarita/)
-
-A Ilha de Margarita sediará o Chef Session 2026, um evento culinário que funde alta gastronomia, arte e música. Organizado pelo Chef Luis Escobar, promete uma experiência sensorial única com propostas vanguardistas de renomados cozinheiros. Destaca-se a valorização de produtos locais icônicos, consolidando Margarita como epicentro gastronômico.
 
 --- 
 
