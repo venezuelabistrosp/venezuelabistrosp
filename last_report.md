@@ -1,4 +1,18 @@
-# Relatório de Pesquisa de Tendências (Nuvem) - 2026-07-01 19:01:38
+# Relatório de Pesquisa de Tendências (Nuvem) - 2026-07-02 18:27:53
+
+## 🇵🇪 Mérito em Lima: A Fusão Venezuelana-Peruana que Conquista o Paladar Mundial (Perú)
+**Restaurante:** Mérito (Lima) | **Data:** Maio 2026 | [Link](https://www.animalpolitico.com/tendencias/gastronomia/restaurante-venezolano-peru-mejores-mundo)
+
+Mérito, do chef venezuelano Juan Luis Martínez em Lima, Peru, é uma referência na alta gastronomia. Reconhecido entre os 50 melhores do mundo em 2025, funde raízes venezuelanas com a rica culinária peruana. Seu sucesso demonstra a integração e o impacto da cozinha venezuelana na cena culinária global.
+
+--- 
+
+## 🇧🇷 Atrio em São Paulo: Uma Viagem Gastronômica pela Venezuela em 6 Tempos (Brasil)
+**Restaurante:** Atrio (Sao Paulo) | **Data:** Maio 2026 | [Link](https://elestimulo.com/sao-paulo-ya-tiene-donde-comer-venezolano-atrio-estrena-menu-a-6-tiempos/)
+
+Atrio, em São Paulo, Brasil, posicionou-se em 2025 entre os 100 melhores restaurantes do país. Em novembro de 2025, lançou um inovador menu degustação de 6 tempos, exclusivamente venezuelano, que reinterpreta sabores ancestrais com técnicas contemporâneas. Uma experiência culinária que celebra a riqueza cultural da Venezuela.
+
+--- 
 
 ## 🇻🇪 Projeto Ubre: A Gastronomia Sustentável Venezuelana que Conquista Prêmios Internacionais (Venezuela)
 **Restaurante:** Proyecto Ubre (Caracas) | **Data:** Maio 2026 | [Link](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFjjIDwCNh_4hz7eIE2qrdukHBHVxGhbWeWqONDjif6zhU5ufcfJLQhPX37NiwR_ASe9iaIUX72fHYByoId3ps97FJd9crZLtlooDy_GOZXpvfbwzudNuzdUNQMyV6icmQ5igWRmrScazRejiXFa__QBRq5EpfygAm1zqZu0ukZVj1BUHNKEXLN0lKKnG2XX4A2_sYZOJygFM5eY50FK75PyQ==)
@@ -39,20 +53,6 @@ La Cachapera, nascida como food truck, expande-se na Espanha a partir de Alicant
 **Restaurante:** Venezuela (World Travel Awards 2026) | **Data:** Maio 2026 | [Link](https://primicia.com.ve/nacion/venezuela-es-nominada-a-mejor-destino-culinario-de-sudamerica-en-wta-2026/)
 
 A Venezuela foi indicada a "Principal Destino Culinário da América do Sul" nos prestigiados World Travel Awards 2026. Este reconhecimento global celebra a rica herança mestiça de sua gastronomia, a diversidade de sabores doces e salgados, suas texturas memoráveis e suas profundas raízes históricas, consolidando sua crescente proeminência no cenário culinário mundial.
-
---- 
-
-## 🇨🇦 The Arepa Republic: Levando o Sabor Venezuelano para Todo o Canadá (Canadá)
-**Restaurante:** The Arepa Republic (Toronto) | **Data:** Maio 2026 | [Link](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEbth6PR1gVLl65v_cNy1Gbr3OyB7Ot8ZAX2z6RNprTXvMrfD6M037XPp5ex_HKnQ95egQZNLv17gnVJpwKpKnNRFHrFEoHS78TJDP68y5cLecAc-qKdqGX4Zn1xEJIBCBHaYkgievXqKuqIQdeD-VdUQqN7Eh-XRVn8YW6Ew10)
-
-The Arepa Republic em Toronto, fundado por Luis Manuel Córdoba, busca estabelecer a arepa venezuelana como uma franquia líder no Canadá. Com planos de expansão para Quebec e Montreal, este restaurante oferece arepas de pabellón, patacones e tequeños, consolidando a presença da autêntica gastronomia venezuelana no mercado canadense.
-
---- 
-
-## 🇵🇪 Mérito e Demo em Lima: A Fusão Peruano-Venezuelana que Revoluciona a Cena Gastronômica (Perú)
-**Restaurante:** Mérito y Demo (Lima) | **Data:** Maio 2026 | [Link](https://www.eldiariony.com/2026/03/13/la-nueva-era-de-la-gastronomia-en-lima-el-exito-de-la-fusion-venezolana/)
-
-Em Lima, os restaurantes Mérito e Demo, sob a direção do chef venezuelano Juan Luis Martínez, estão liderando uma inovadora fusão culinária peruano-venezuelana. O Mérito, reconhecido entre os 50 melhores do mundo, oferece alta gastronomia, enquanto o Demo encanta com cachapas, arepas e tequeños sem glúten. Esta proposta celebra a riqueza de ambas as culturas, atraindo comensais de todo o mundo.
 
 --- 
 
