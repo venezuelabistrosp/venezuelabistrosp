@@ -1,4 +1,18 @@
-# Relatório de Pesquisa de Tendências (Nuvem) - 2026-07-02 18:27:53
+# Relatório de Pesquisa de Tendências (Nuvem) - 2026-07-03 18:15:30
+
+## 🇨🇦 The Arepa Republic: A Arepa Venezuelana Conquista o Canadá e se Prepara para Franquear (Canadá)
+**Restaurante:** The Arepa Republic (Toronto) | **Data:** Maio 2026 | [Link](https://eldiario.com/2025/08/20/un-restaurante-venezolano-populariza-la-arepa-en-canada/)
+
+The Arepa Republic em Toronto está elevando a arepa venezuelana a novos patamares no Canadá. Com a arepa de pabellón como sua estrela, este conceito de fast-food busca consolidar a arepa como um prato popular e se tornar a primeira franquia de arepas venezuelanas no mercado canadense, expandindo para Quebec e Montreal.
+
+--- 
+
+## 🇺🇸 Casa Ora e Lulla's: A Alta Cozinha e Confeitaria Venezuelana Brilha com Michelin em Nova York (Estados Unidos)
+**Restaurante:** Casa Ora y Lulla's Bakery & Cocktails (Nueva York) | **Data:** Maio 2026 | [Link](https://larepublica.pe/mundo/estados-unidos/2025/04/20/nueva-york-el-primer-restaurante-venezolano-clasificado-por-michelin-y-que-apoya-a-inmigrantes-a-buscar-asilo-en-eeuu-ivo-diaz-casa-ora-lullas-bakery-and-cocktails-1725357)
+
+Casa Ora consolidou-se como o primeiro restaurante venezuelano com classificação Michelin em Nova York, oferecendo alta cozinha tradicional e apoio social a imigrantes. O chef Ivo Díaz expandiu sua visão com a Lulla's Bakery & Cocktails no Brooklyn, uma padaria venezuelana que transcende o convencional, elevando a gastronomia do país nos EUA.
+
+--- 
 
 ## 🇵🇪 Mérito em Lima: A Fusão Venezuelana-Peruana que Conquista o Paladar Mundial (Perú)
 **Restaurante:** Mérito (Lima) | **Data:** Maio 2026 | [Link](https://www.animalpolitico.com/tendencias/gastronomia/restaurante-venezolano-peru-mejores-mundo)
@@ -39,20 +53,6 @@ DC Al Toque, inaugurado em abril de 2026 em Washington D.C., está revolucionand
 **Restaurante:** La Cachapera (Madrid) | **Data:** Maio 2026 | [Link](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFbx6Rlbmq-3KXRFp_0cVEAYevmXFV7HTbbHHyFbJfsVCHVJ_IrAL7S0Hlk2sIYsvLmhWwBEpoOn-iVTANkuCvCjz5tyIitwqS2tTaQgkX9DFj-1_H0nJjhNcSRSNQboZZb8GteELV9_3WawOfUBZHOFIexVQpV1OKJ1x2WDFBxPBxs69eFoAA-Cq0vVKzXdxDzzncpSJ5PJevUai9JsxOjLBvFsyouC_wZ1wBTqF-6NQxT3A3TY_7CzwWNVJ2GL0Dd_dOEfzgj)
 
 La Cachapera, a bem-sucedida cadeia de comida venezuelana, continua sua expansão imparável na Espanha, abrindo sua sexta unidade em junho de 2026. Especializada em cachapas e arepas, esta marca consolida-se como a referência da restauração venezuelana organizada na Europa, com planos de crescimento internacional. Um verdadeiro marco para a gastronomia do país.
-
---- 
-
-## 🇪🇸 La Cachapera: O Sabor Venezuelano Conquista a Espanha com suas Inovadoras Cachapas e Cachinachos (España)
-**Restaurante:** La Cachapera (Alicante) | **Data:** Maio 2026 | [Link](https://www.informacion.es/ocio/gastronomia/2026/06/29/templo-cachapa-planea-abrir-alicante-restaurante-104381273.html)
-
-La Cachapera, nascida como food truck, expande-se na Espanha a partir de Alicante, levando a autêntica cachapa venezuelana e seus inovadores "cachinachos". Com planos de chegar a Málaga, Bilbao, Sevilha, Zaragoza, Lisboa e Paris, esta cadeia busca consolidar a gastronomia venezuelana como uma experiência culinária única e não apenas como fast food.
-
---- 
-
-## 🇻🇪 Venezuela Brilha: Indicada a "Principal Destino Culinário da América do Sul" no WTA 2026 (Venezuela)
-**Restaurante:** Venezuela (World Travel Awards 2026) | **Data:** Maio 2026 | [Link](https://primicia.com.ve/nacion/venezuela-es-nominada-a-mejor-destino-culinario-de-sudamerica-en-wta-2026/)
-
-A Venezuela foi indicada a "Principal Destino Culinário da América do Sul" nos prestigiados World Travel Awards 2026. Este reconhecimento global celebra a rica herança mestiça de sua gastronomia, a diversidade de sabores doces e salgados, suas texturas memoráveis e suas profundas raízes históricas, consolidando sua crescente proeminência no cenário culinário mundial.
 
 --- 
 
