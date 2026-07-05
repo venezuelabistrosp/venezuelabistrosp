@@ -1,4 +1,11 @@
-# Relatório de Pesquisa de Tendências (Nuvem) - 2026-07-03 18:15:30
+# Relatório de Pesquisa de Tendências (Nuvem) - 2026-07-05 18:06:12
+
+## 🇵🇪 "Por la Cachapa": Lima Une Chefs Latino-americanos em um Festival Gastronômico Solidário (Perú)
+**Restaurante:** "Por la Cachapa" (Lima) | **Data:** Maio 2026 | [Link](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGt2mMNxr-h_XxeBOL55_cAiJ4IaWpv15SolA-flLNtSe4BY48qluzEd7ZTxMVtCFngfV6MQxIdsuFo4phnZVn5SA_2lj4Ezkm1qU0QOdKKo5UK8vq2CCnOIfJBJUmZJEaQvU5wVG9twyPv450-JOp90ef8y6F8mkNPW_JkU9NpgaPfhE5iBaRnlLYa1qiyNnqVDUaQHpTNgIDNtCIzhum9ttHaGhhdU0jMxTHEH_kJDJyCY0ghp2ea)
+
+O evento "Por la Cachapa" em Lima, Peru, reuniu mais de 30 restaurantes para criar versões inovadoras da cachapa venezuelana. Impulsionado por Juan Luis Martínez, 100% da arrecadação foi destinada à World Central Kitchen, demonstrando solidariedade e diversidade culinária.
+
+--- 
 
 ## 🇨🇦 The Arepa Republic: A Arepa Venezuelana Conquista o Canadá e se Prepara para Franquear (Canadá)
 **Restaurante:** The Arepa Republic (Toronto) | **Data:** Maio 2026 | [Link](https://eldiario.com/2025/08/20/un-restaurante-venezolano-populariza-la-arepa-en-canada/)
@@ -46,13 +53,6 @@ O evento ArepaSOS: Uma Arepa por Venezuela, celebrado na Cidade do Panamá, reun
 **Restaurante:** DC Al Toque (Washington D.C.) | **Data:** Maio 2026 | [Link](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHYXtRGlSRUD5JBnPDOpRV6U9xnHf-61Ah1W4wCUniY9w0Z5zfNNTDjLSZVJ69L04w80YR22CD5m_NissrkpQ8R_L8lxnShiJH-5byL6JxnZqXjl1ISHlVOgPmWg1-Y3DRHpnUyRWd8Tua52h3vjkOfdxDwOYpP8UG8842cDKutn_xcXMwsUKj8NnjXhplVJveTy177KqKwMOkqWwq153O2H8rze0etCA==)
 
 DC Al Toque, inaugurado em abril de 2026 em Washington D.C., está revolucionando a cena culinária venezuelana. Oferece um menu extenso que vai além das arepas, incluindo parrilladas, o tradicional pabellón criollo e o inovador "pepito de um metro". Suas fusões como o "shawarma arabezolano" e o arroz chinês venezuelano prometem uma experiência gastronômica única.
-
---- 
-
-## 🇪🇸 La Cachapera Conquista a Espanha: O Sabor Tradicional Venezuelano Expande-se pela Europa (España)
-**Restaurante:** La Cachapera (Madrid) | **Data:** Maio 2026 | [Link](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFbx6Rlbmq-3KXRFp_0cVEAYevmXFV7HTbbHHyFbJfsVCHVJ_IrAL7S0Hlk2sIYsvLmhWwBEpoOn-iVTANkuCvCjz5tyIitwqS2tTaQgkX9DFj-1_H0nJjhNcSRSNQboZZb8GteELV9_3WawOfUBZHOFIexVQpV1OKJ1x2WDFBxPBxs69eFoAA-Cq0vVKzXdxDzzncpSJ5PJevUai9JsxOjLBvFsyouC_wZ1wBTqF-6NQxT3A3TY_7CzwWNVJ2GL0Dd_dOEfzgj)
-
-La Cachapera, a bem-sucedida cadeia de comida venezuelana, continua sua expansão imparável na Espanha, abrindo sua sexta unidade em junho de 2026. Especializada em cachapas e arepas, esta marca consolida-se como a referência da restauração venezuelana organizada na Europa, com planos de crescimento internacional. Um verdadeiro marco para a gastronomia do país.
 
 --- 
 
