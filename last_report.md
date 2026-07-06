@@ -1,4 +1,18 @@
-# Relatório de Pesquisa de Tendências (Nuvem) - 2026-07-05 18:06:12
+# Relatório de Pesquisa de Tendências (Nuvem) - 2026-07-06 18:57:42
+
+## 🇪🇸 La Cachapera conquista Espanha: cachapas e cachinachos inovadores que encantam paladares. (España)
+**Restaurante:** La Cachapera (Madrid) | **Data:** Maio 2026 | [Link](https://profesionalhoreca.com/la-cachapera-abre-su-segundo-local-en-madrid-y-suma-ya-6-restaurantes-en-espana/)
+
+La Cachapera expande seu sucesso na Espanha com a abertura de sua segunda unidade em Madrid, totalizando seis restaurantes. Sua proposta se destaca pelas autênticas cachapas venezuelanas e pelos inovadores "cachinachos", uma fusão crocante que reinventa o prato tradicional. Um crescimento notável que celebra a gastronomia venezuelana.
+
+--- 
+
+## 🇨🇴 Bogotá celebra "Oda à Venezuela": jantar solidário que exalta a riqueza culinária. (Colombia)
+**Restaurante:** "Oda a Venezuela" (Bogotá) | **Data:** Maio 2026 | [Link](https://www.excelenciasgourmet.com/noticia/oda-venezuela-cena-solidaria-en-bogota)
+
+Bogotá acolheu "Oda à Venezuela", um jantar solidário em julho de 2026 que destacou a gastronomia venezuelana. Em colaboração com o Kilómetro Venezuela, o evento apresentou um "mapa comestível" com ingredientes locais e reinterpretações de pratos tradicionais, unindo culturas através de sabores únicos e apoio a produtores.
+
+--- 
 
 ## 🇵🇪 "Por la Cachapa": Lima Une Chefs Latino-americanos em um Festival Gastronômico Solidário (Perú)
 **Restaurante:** "Por la Cachapa" (Lima) | **Data:** Maio 2026 | [Link](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGt2mMNxr-h_XxeBOL55_cAiJ4IaWpv15SolA-flLNtSe4BY48qluzEd7ZTxMVtCFngfV6MQxIdsuFo4phnZVn5SA_2lj4Ezkm1qU0QOdKKo5UK8vq2CCnOIfJBJUmZJEaQvU5wVG9twyPv450-JOp90ef8y6F8mkNPW_JkU9NpgaPfhE5iBaRnlLYa1qiyNnqVDUaQHpTNgIDNtCIzhum9ttHaGhhdU0jMxTHEH_kJDJyCY0ghp2ea)
@@ -39,20 +53,6 @@ Atrio, em São Paulo, Brasil, posicionou-se em 2025 entre os 100 melhores restau
 **Restaurante:** Proyecto Ubre (Caracas) | **Data:** Maio 2026 | [Link](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFjjIDwCNh_4hz7eIE2qrdukHBHVxGhbWeWqONDjif6zhU5ufcfJLQhPX37NiwR_ASe9iaIUX72fHYByoId3ps97FJd9crZLtlooDy_GOZXpvfbwzudNuzdUNQMyV6icmQ5igWRmrScazRejiXFa__QBRq5EpfygAm1zqZu0ukZVj1BUHNKEXLN0lKKnG2XX4A2_sYZOJygFM5eY50FK75PyQ==)
 
 Projeto Ubre, localizado nos arredores de Caracas, é uma referência em gastronomia sustentável que integra fazenda e restaurante. Reconhecido com o Galardão Ibero-americano de Gastronomia 2026, seu menu foca no cordeiro orgânico de produção própria, reivindicando a identidade culinária venezuelana com uma abordagem "do campo ao prato".
-
---- 
-
-## 🇵🇦 ArepaSOS: Chefs de Elite Unem Forças no Panamá pela Venezuela com Arepas Gourmet (Panamá)
-**Restaurante:** ArepaSOS: Una Arepa por Venezuela (Ciudad de Panamá) | **Data:** Maio 2026 | [Link](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE0Ju0vA54-2lahCh-_Puf2enhtDLJDPoVF2FPTiiLkeAorJApFCGGHLeu90t22ZGHoO2Yzier4QVTn2YvoFCoZTCTTWRWtRPGYocSgbN8Dm6IkSycE3VVDlarWIU_aQVZGjEsqMI3PpgrYR-C5c6AwnIhaPXCSzpkCnxb5icatz1SRxgUBa1tnocjk8FhaR6FVJYg7-KIEAo7HmGEJBjF9wYurokVWIA-BV4s1-1zP_BMyV8vPmyCLOThqpvsvuSsalV7tHtsP5uk731qySDLRxVt_uK4j2L7ds1AYGg==)
-
-O evento ArepaSOS: Uma Arepa por Venezuela, celebrado na Cidade do Panamá, reuniu oito chefs internacionais para criar versões gourmet da arepa. Esta iniciativa solidária, realizada em La Arepería, arrecadou fundos para famílias venezuelanas afetadas por terremotos, transformando o icônico prato em um símbolo de ajuda e diversidade culinária.
-
---- 
-
-## 🇺🇸 DC Al Toque: A Nova Joia Venezuelana em Washington D.C. com Sabores Autênticos e Fusões (Estados Unidos)
-**Restaurante:** DC Al Toque (Washington D.C.) | **Data:** Maio 2026 | [Link](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHYXtRGlSRUD5JBnPDOpRV6U9xnHf-61Ah1W4wCUniY9w0Z5zfNNTDjLSZVJ69L04w80YR22CD5m_NissrkpQ8R_L8lxnShiJH-5byL6JxnZqXjl1ISHlVOgPmWg1-Y3DRHpnUyRWd8Tua52h3vjkOfdxDwOYpP8UG8842cDKutn_xcXMwsUKj8NnjXhplVJveTy177KqKwMOkqWwq153O2H8rze0etCA==)
-
-DC Al Toque, inaugurado em abril de 2026 em Washington D.C., está revolucionando a cena culinária venezuelana. Oferece um menu extenso que vai além das arepas, incluindo parrilladas, o tradicional pabellón criollo e o inovador "pepito de um metro". Suas fusões como o "shawarma arabezolano" e o arroz chinês venezuelano prometem uma experiência gastronômica única.
 
 --- 
 
