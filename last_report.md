@@ -1,4 +1,25 @@
-# Relatório de Pesquisa de Tendências (Nuvem) - 2026-07-06 18:57:42
+# Relatório de Pesquisa de Tendências (Nuvem) - 2026-07-08 18:21:03
+
+## 🇨🇦 A Arepa Venezuelana Conquista o Canadá: The Arepa Republic Lidera a Expansão (Canadá)
+**Restaurante:** Arepa Republic (Toronto) | **Data:** Maio 2026 | [Link](https://eldiario.com/2025/08/20/restaurante-venezolano-arepa-mercado-canadiense/)
+
+The Arepa Republic em Toronto está revolucionando o mercado canadense, popularizando a arepa entre o público não latino-americano. Com planos de franquia, este restaurante destaca-se pelas suas arepas de pabellón, rumbera e reina pepiada, oferecendo uma autêntica experiência culinária venezuelana e explicando o contexto cultural de cada prato.
+
+--- 
+
+## 🇺🇸 Chefs de Miami Unem Forças pela Venezuela em um Evento Gastronômico Solidário (Estados Unidos)
+**Restaurante:** United for Venezuela (Miami Beach) | **Data:** Maio 2026 | [Link](https://www.bienmesabe.com/miami-este-es-el-sabor-de-una-comunidad-cuando-se-une-por-venezuela/)
+
+United for Venezuela é um evento beneficente em Miami Beach que reunirá 20 chefs, venezuelanos e internacionais, para criar pratos inéditos inspirados na cultura venezuelana. A iniciativa, que acontecerá em julho de 2026, destinará todos os fundos à World Central Kitchen para apoiar trabalhos de emergência em La Guaira, Venezuela.
+
+--- 
+
+## 🇺🇸 Jhoanes Bakery: Luxo e Arte na Confeitaria Venezuelana de Nova York (Estados Unidos)
+**Restaurante:** Jhoanes Bakery (Astoria) | **Data:** Maio 2026 | [Link](https://noticiasdeaqui.net/pastelero-venezolano-se-ha-ganado-a-pulso-estar-entre-los-mejores-de-nueva-york/)
+
+Jhoanes Bakery em Astoria, Nova York, liderada por Jhoanes Estupiñan, consolidou-se como uma das melhores confeitarias da cidade. Suas criações são "obras de arte" com ingredientes de alta qualidade como ouro 24 quilates e chocolates exóticos, elevando a confeitaria venezuelana a um nível de sofisticação e luxo.
+
+--- 
 
 ## 🇪🇸 La Cachapera conquista Espanha: cachapas e cachinachos inovadores que encantam paladares. (España)
 **Restaurante:** La Cachapera (Madrid) | **Data:** Maio 2026 | [Link](https://profesionalhoreca.com/la-cachapera-abre-su-segundo-local-en-madrid-y-suma-ya-6-restaurantes-en-espana/)
@@ -32,27 +53,6 @@ The Arepa Republic em Toronto está elevando a arepa venezuelana a novos patamar
 **Restaurante:** Casa Ora y Lulla's Bakery & Cocktails (Nueva York) | **Data:** Maio 2026 | [Link](https://larepublica.pe/mundo/estados-unidos/2025/04/20/nueva-york-el-primer-restaurante-venezolano-clasificado-por-michelin-y-que-apoya-a-inmigrantes-a-buscar-asilo-en-eeuu-ivo-diaz-casa-ora-lullas-bakery-and-cocktails-1725357)
 
 Casa Ora consolidou-se como o primeiro restaurante venezuelano com classificação Michelin em Nova York, oferecendo alta cozinha tradicional e apoio social a imigrantes. O chef Ivo Díaz expandiu sua visão com a Lulla's Bakery & Cocktails no Brooklyn, uma padaria venezuelana que transcende o convencional, elevando a gastronomia do país nos EUA.
-
---- 
-
-## 🇵🇪 Mérito em Lima: A Fusão Venezuelana-Peruana que Conquista o Paladar Mundial (Perú)
-**Restaurante:** Mérito (Lima) | **Data:** Maio 2026 | [Link](https://www.animalpolitico.com/tendencias/gastronomia/restaurante-venezolano-peru-mejores-mundo)
-
-Mérito, do chef venezuelano Juan Luis Martínez em Lima, Peru, é uma referência na alta gastronomia. Reconhecido entre os 50 melhores do mundo em 2025, funde raízes venezuelanas com a rica culinária peruana. Seu sucesso demonstra a integração e o impacto da cozinha venezuelana na cena culinária global.
-
---- 
-
-## 🇧🇷 Atrio em São Paulo: Uma Viagem Gastronômica pela Venezuela em 6 Tempos (Brasil)
-**Restaurante:** Atrio (Sao Paulo) | **Data:** Maio 2026 | [Link](https://elestimulo.com/sao-paulo-ya-tiene-donde-comer-venezolano-atrio-estrena-menu-a-6-tiempos/)
-
-Atrio, em São Paulo, Brasil, posicionou-se em 2025 entre os 100 melhores restaurantes do país. Em novembro de 2025, lançou um inovador menu degustação de 6 tempos, exclusivamente venezuelano, que reinterpreta sabores ancestrais com técnicas contemporâneas. Uma experiência culinária que celebra a riqueza cultural da Venezuela.
-
---- 
-
-## 🇻🇪 Projeto Ubre: A Gastronomia Sustentável Venezuelana que Conquista Prêmios Internacionais (Venezuela)
-**Restaurante:** Proyecto Ubre (Caracas) | **Data:** Maio 2026 | [Link](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFjjIDwCNh_4hz7eIE2qrdukHBHVxGhbWeWqONDjif6zhU5ufcfJLQhPX37NiwR_ASe9iaIUX72fHYByoId3ps97FJd9crZLtlooDy_GOZXpvfbwzudNuzdUNQMyV6icmQ5igWRmrScazRejiXFa__QBRq5EpfygAm1zqZu0ukZVj1BUHNKEXLN0lKKnG2XX4A2_sYZOJygFM5eY50FK75PyQ==)
-
-Projeto Ubre, localizado nos arredores de Caracas, é uma referência em gastronomia sustentável que integra fazenda e restaurante. Reconhecido com o Galardão Ibero-americano de Gastronomia 2026, seu menu foca no cordeiro orgânico de produção própria, reivindicando a identidade culinária venezuelana com uma abordagem "do campo ao prato".
 
 --- 
 
