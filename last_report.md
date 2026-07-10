@@ -1,4 +1,11 @@
-# Relatório de Pesquisa de Tendências (Nuvem) - 2026-07-08 18:21:03
+# Relatório de Pesquisa de Tendências (Nuvem) - 2026-07-10 18:25:21
+
+## 🇺🇸 Casa Ora: A Gastronomia Venezuelana Conquista Estrelas Michelin com Impacto Social em Nova Iorque (Estados Unidos)
+**Restaurante:** Casa Ora (Nueva York) | **Data:** Maio 2026 | [Link](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHbbVOSA3WexbHJ7Cpgchmo8K-t9a78gugkpkoXxc7J55qLeFAwcQ_sAyZ7f4DzzKuaCyQGxKh394shJR2Ve4BTI45Tpnb0J09NUGQVVBNBhtnyRKaMZ73mL3po1s_x4gwQlE1ffGnRR4klUk92nmUV9PEcsLsz_SG4yYQx4Wecg87POVTV49We6Z4Ahpdrsrjs1sI0aqH7HL5HLNUyBl5MV9AMF6Xsq3RmZraI42zK4pKy7THFIPSuVbOUc14oRFLBeQWRVq8i251eq1yVmVJ-BVvlZYqHw3PpcR8P41neNRp7m7S9J6rI-jhBcng6E3bM3AfQMiGwIbn)
+
+Casa Ora em Nova Iorque fez história ao ser o primeiro restaurante venezuelano a receber uma distinção Michelin. Sob a direção do chef Ivo Díaz, oferece uma cozinha venezuelana de alta qualidade que funde tradição e inovação. Além da sua excelência culinária, o restaurante destaca-se pelo seu compromisso social, destinando parte das suas receitas para apoiar imigrantes em processo de asilo.
+
+--- 
 
 ## 🇨🇦 A Arepa Venezuelana Conquista o Canadá: The Arepa Republic Lidera a Expansão (Canadá)
 **Restaurante:** Arepa Republic (Toronto) | **Data:** Maio 2026 | [Link](https://eldiario.com/2025/08/20/restaurante-venezolano-arepa-mercado-canadiense/)
@@ -46,13 +53,6 @@ O evento "Por la Cachapa" em Lima, Peru, reuniu mais de 30 restaurantes para cri
 **Restaurante:** The Arepa Republic (Toronto) | **Data:** Maio 2026 | [Link](https://eldiario.com/2025/08/20/un-restaurante-venezolano-populariza-la-arepa-en-canada/)
 
 The Arepa Republic em Toronto está elevando a arepa venezuelana a novos patamares no Canadá. Com a arepa de pabellón como sua estrela, este conceito de fast-food busca consolidar a arepa como um prato popular e se tornar a primeira franquia de arepas venezuelanas no mercado canadense, expandindo para Quebec e Montreal.
-
---- 
-
-## 🇺🇸 Casa Ora e Lulla's: A Alta Cozinha e Confeitaria Venezuelana Brilha com Michelin em Nova York (Estados Unidos)
-**Restaurante:** Casa Ora y Lulla's Bakery & Cocktails (Nueva York) | **Data:** Maio 2026 | [Link](https://larepublica.pe/mundo/estados-unidos/2025/04/20/nueva-york-el-primer-restaurante-venezolano-clasificado-por-michelin-y-que-apoya-a-inmigrantes-a-buscar-asilo-en-eeuu-ivo-diaz-casa-ora-lullas-bakery-and-cocktails-1725357)
-
-Casa Ora consolidou-se como o primeiro restaurante venezuelano com classificação Michelin em Nova York, oferecendo alta cozinha tradicional e apoio social a imigrantes. O chef Ivo Díaz expandiu sua visão com a Lulla's Bakery & Cocktails no Brooklyn, uma padaria venezuelana que transcende o convencional, elevando a gastronomia do país nos EUA.
 
 --- 
 
