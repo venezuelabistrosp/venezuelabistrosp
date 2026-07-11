@@ -1,4 +1,25 @@
-# Relatório de Pesquisa de Tendências (Nuvem) - 2026-07-10 18:25:21
+# Relatório de Pesquisa de Tendências (Nuvem) - 2026-07-11 17:57:42
+
+## 🇻🇪 IA revoluciona a arepa venezuelana: Cocina Venezolana AI redefine a tradição culinária. (Venezuela)
+**Restaurante:** Herramienta "Cocina Venezolana AI" (Global) | **Data:** Maio 2026 | [Link](https://blog.aichef.pro/12-mejores-arepas-venezolanas-con-rellenos-tradicionales-usando-app-cocina-venezolana-ai/)
+
+A ferramenta "Cocina Venezolana AI" está transformando a preparação de arepas, permitindo a chefs e entusiastas criar versões gourmet e fusões inovadoras. Desde a otimização de receitas até a geração de imagens hiper-realistas, esta tecnologia impulsiona a criatividade e eficiência na culinária venezuelana, adaptando o prato icônico a novas tendências globais.
+
+--- 
+
+## 🇺🇸 Panitas Bakery em Miami: A revolução da comida venezuelana congelada chega à sua casa. (Estados Unidos)
+**Restaurante:** Panitas Bakery (Miami) | **Data:** Maio 2026 | [Link]()
+
+Panitas Bakery em Miami prepara-se para lançar uma inovadora linha de produtos venezuelanos congelados e pré-cozidos. Esta iniciativa visa levar a autenticidade de empanadas, tequeños e arepas diretamente aos lares, oferecendo conveniência sem sacrificar o sabor tradicional. Uma solução perfeita para desfrutar da gastronomia venezuelana com facilidade.
+
+--- 
+
+## 🇲🇽 Órale Arepa brilha no FOOD&WINE FESTIVAL 2026 do México: Sabor venezuelano para o mundo. (México)
+**Restaurante:** FOOD&WINE FESTIVAL 2026: Mirando al Sur con "Órale Arepa" (Ciudad de México) | **Data:** Maio 2026 | [Link]()
+
+O prestigiado FOOD&WINE FESTIVAL 2026 na Cidade do México receberá "Órale Arepa", destacando a crescente influência da gastronomia venezuelana. Este evento de nível mundial, com mais de 80 chefs, celebra a diversidade culinária latino-americana, consolidando a arepa como um prato global e a culinária venezuelana na cena internacional.
+
+--- 
 
 ## 🇺🇸 Casa Ora: A Gastronomia Venezuelana Conquista Estrelas Michelin com Impacto Social em Nova Iorque (Estados Unidos)
 **Restaurante:** Casa Ora (Nueva York) | **Data:** Maio 2026 | [Link](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHbbVOSA3WexbHJ7Cpgchmo8K-t9a78gugkpkoXxc7J55qLeFAwcQ_sAyZ7f4DzzKuaCyQGxKh394shJR2Ve4BTI45Tpnb0J09NUGQVVBNBhtnyRKaMZ73mL3po1s_x4gwQlE1ffGnRR4klUk92nmUV9PEcsLsz_SG4yYQx4Wecg87POVTV49We6Z4Ahpdrsrjs1sI0aqH7HL5HLNUyBl5MV9AMF6Xsq3RmZraI42zK4pKy7THFIPSuVbOUc14oRFLBeQWRVq8i251eq1yVmVJ-BVvlZYqHw3PpcR8P41neNRp7m7S9J6rI-jhBcng6E3bM3AfQMiGwIbn)
@@ -32,27 +53,6 @@ Jhoanes Bakery em Astoria, Nova York, liderada por Jhoanes Estupiñan, consolido
 **Restaurante:** La Cachapera (Madrid) | **Data:** Maio 2026 | [Link](https://profesionalhoreca.com/la-cachapera-abre-su-segundo-local-en-madrid-y-suma-ya-6-restaurantes-en-espana/)
 
 La Cachapera expande seu sucesso na Espanha com a abertura de sua segunda unidade em Madrid, totalizando seis restaurantes. Sua proposta se destaca pelas autênticas cachapas venezuelanas e pelos inovadores "cachinachos", uma fusão crocante que reinventa o prato tradicional. Um crescimento notável que celebra a gastronomia venezuelana.
-
---- 
-
-## 🇨🇴 Bogotá celebra "Oda à Venezuela": jantar solidário que exalta a riqueza culinária. (Colombia)
-**Restaurante:** "Oda a Venezuela" (Bogotá) | **Data:** Maio 2026 | [Link](https://www.excelenciasgourmet.com/noticia/oda-venezuela-cena-solidaria-en-bogota)
-
-Bogotá acolheu "Oda à Venezuela", um jantar solidário em julho de 2026 que destacou a gastronomia venezuelana. Em colaboração com o Kilómetro Venezuela, o evento apresentou um "mapa comestível" com ingredientes locais e reinterpretações de pratos tradicionais, unindo culturas através de sabores únicos e apoio a produtores.
-
---- 
-
-## 🇵🇪 "Por la Cachapa": Lima Une Chefs Latino-americanos em um Festival Gastronômico Solidário (Perú)
-**Restaurante:** "Por la Cachapa" (Lima) | **Data:** Maio 2026 | [Link](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGt2mMNxr-h_XxeBOL55_cAiJ4IaWpv15SolA-flLNtSe4BY48qluzEd7ZTxMVtCFngfV6MQxIdsuFo4phnZVn5SA_2lj4Ezkm1qU0QOdKKo5UK8vq2CCnOIfJBJUmZJEaQvU5wVG9twyPv450-JOp90ef8y6F8mkNPW_JkU9NpgaPfhE5iBaRnlLYa1qiyNnqVDUaQHpTNgIDNtCIzhum9ttHaGhhdU0jMxTHEH_kJDJyCY0ghp2ea)
-
-O evento "Por la Cachapa" em Lima, Peru, reuniu mais de 30 restaurantes para criar versões inovadoras da cachapa venezuelana. Impulsionado por Juan Luis Martínez, 100% da arrecadação foi destinada à World Central Kitchen, demonstrando solidariedade e diversidade culinária.
-
---- 
-
-## 🇨🇦 The Arepa Republic: A Arepa Venezuelana Conquista o Canadá e se Prepara para Franquear (Canadá)
-**Restaurante:** The Arepa Republic (Toronto) | **Data:** Maio 2026 | [Link](https://eldiario.com/2025/08/20/un-restaurante-venezolano-populariza-la-arepa-en-canada/)
-
-The Arepa Republic em Toronto está elevando a arepa venezuelana a novos patamares no Canadá. Com a arepa de pabellón como sua estrela, este conceito de fast-food busca consolidar a arepa como um prato popular e se tornar a primeira franquia de arepas venezuelanas no mercado canadense, expandindo para Quebec e Montreal.
 
 --- 
 
