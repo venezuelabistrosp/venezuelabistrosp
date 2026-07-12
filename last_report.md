@@ -1,4 +1,18 @@
-# Relatório de Pesquisa de Tendências (Nuvem) - 2026-07-11 17:57:42
+# Relatório de Pesquisa de Tendências (Nuvem) - 2026-07-12 18:01:55
+
+## 🇺🇸 Casa Ora: A Alta Cozinha Venezuelana do Brooklyn que Alimenta a Alma e Apoia Imigrantes (Estados Unidos)
+**Restaurante:** Casa Ora (Brooklyn) | **Data:** Maio 2026 | [Link](https://larepublica.pe/mundo/estados-unidos/2025/04/20/nueva-york-el-primer-restaurante-venezolano-clasificado-por-michelin-y-que-apoya-a-inmigrantes-a-buscar-asilo-en-eeuu-ivo-diaz-lullas-bakery-cocktails-el-chamo-1896898)
+
+Casa Ora no Brooklyn, Nova York, é mais que um restaurante com estrela Michelin; é um farol de esperança. Oferece requintada alta cozinha venezuelana enquanto fornece apoio crucial a imigrantes que buscam asilo. Seu compromisso social e excelência culinária o tornam uma tendência gastronômica e humanitária.
+
+--- 
+
+## 🇵🇪 A Cachapa Une a América Latina: Um Evento Solidário que Alimenta a Esperança e a Gastronomia (Perú)
+**Restaurante:** Evento Solidario 'Por la Cachapa' (Latinoamérica) | **Data:** Maio 2026 | [Link](https://www.infobae.com/peru/2026/07/03/por-la-cachapa-mas-de-30-restaurantes-de-peru-y-latinoamerica-se-unen-este-domingo-para-recaudar-fondos-por-venezuela/)
+
+O evento 'Por la Cachapa' demonstrou o poder unificador da gastronomia venezuelana. Mais de 30 restaurantes no Peru e na América Latina uniram-se para oferecer suas versões da cachapa, arrecadando fundos para a World Central Kitchen. Uma iniciativa que destaca a solidariedade e o sabor venezuelano.
+
+--- 
 
 ## 🇻🇪 IA revoluciona a arepa venezuelana: Cocina Venezolana AI redefine a tradição culinária. (Venezuela)
 **Restaurante:** Herramienta "Cocina Venezolana AI" (Global) | **Data:** Maio 2026 | [Link](https://blog.aichef.pro/12-mejores-arepas-venezolanas-con-rellenos-tradicionales-usando-app-cocina-venezolana-ai/)
@@ -39,20 +53,6 @@ The Arepa Republic em Toronto está revolucionando o mercado canadense, populari
 **Restaurante:** United for Venezuela (Miami Beach) | **Data:** Maio 2026 | [Link](https://www.bienmesabe.com/miami-este-es-el-sabor-de-una-comunidad-cuando-se-une-por-venezuela/)
 
 United for Venezuela é um evento beneficente em Miami Beach que reunirá 20 chefs, venezuelanos e internacionais, para criar pratos inéditos inspirados na cultura venezuelana. A iniciativa, que acontecerá em julho de 2026, destinará todos os fundos à World Central Kitchen para apoiar trabalhos de emergência em La Guaira, Venezuela.
-
---- 
-
-## 🇺🇸 Jhoanes Bakery: Luxo e Arte na Confeitaria Venezuelana de Nova York (Estados Unidos)
-**Restaurante:** Jhoanes Bakery (Astoria) | **Data:** Maio 2026 | [Link](https://noticiasdeaqui.net/pastelero-venezolano-se-ha-ganado-a-pulso-estar-entre-los-mejores-de-nueva-york/)
-
-Jhoanes Bakery em Astoria, Nova York, liderada por Jhoanes Estupiñan, consolidou-se como uma das melhores confeitarias da cidade. Suas criações são "obras de arte" com ingredientes de alta qualidade como ouro 24 quilates e chocolates exóticos, elevando a confeitaria venezuelana a um nível de sofisticação e luxo.
-
---- 
-
-## 🇪🇸 La Cachapera conquista Espanha: cachapas e cachinachos inovadores que encantam paladares. (España)
-**Restaurante:** La Cachapera (Madrid) | **Data:** Maio 2026 | [Link](https://profesionalhoreca.com/la-cachapera-abre-su-segundo-local-en-madrid-y-suma-ya-6-restaurantes-en-espana/)
-
-La Cachapera expande seu sucesso na Espanha com a abertura de sua segunda unidade em Madrid, totalizando seis restaurantes. Sua proposta se destaca pelas autênticas cachapas venezuelanas e pelos inovadores "cachinachos", uma fusão crocante que reinventa o prato tradicional. Um crescimento notável que celebra a gastronomia venezuelana.
 
 --- 
 
