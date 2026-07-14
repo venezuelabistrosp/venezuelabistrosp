@@ -1,4 +1,25 @@
-# Relatório de Pesquisa de Tendências (Nuvem) - 2026-07-13 18:47:26
+# Relatório de Pesquisa de Tendências (Nuvem) - 2026-07-14 18:07:17
+
+## 🇺🇸 Casa Ora: A Alta Cozinha Venezuelana Conquista Nova York com sua Primeira Estrela Michelin (Estados Unidos)
+**Restaurante:** Casa Ora (Nueva York) | **Data:** Maio 2026 | [Link](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFuvFFPpiJMu8C-ktAczUoYxG4pv_Yi4GsQfuOw69-GO5h40McoW8X7-BnZXd8XLdR77ea-wT0qrlVv6WX9Jn-tFjm3KxaUapyJwjyekQ3WeaI1_LrylngAOf9qFGIBe5rn84iIkxnz_buc9Y3B5fFTgexoBbxpAnUvDuUuD7PNdQ8B0tE20hVE8rfVZO67UXyXqxjhV2kFBMBh-wLzRxCPwfxAZULTRAszf7sNPgRy40u6Vv3BdTlIFUwqS_0yRieeAq0tj9ZBXFluE7lP4uXDyn-K9cmCowRplCIxyJhSdsPRjVk7DWy68Y2kvFEXng20Ort-ieLg2AO)
+
+Casa Ora em Nova York tornou-se o primeiro restaurante venezuelano a receber uma distinção Michelin, elevando a gastronomia do país à alta cozinha. Sob a direção do chef Ivo Díaz, este estabelecimento redefine os sabores tradicionais, oferecendo uma experiência culinária sofisticada que celebra a riqueza cultural da Venezuela.
+
+--- 
+
+## 🇻🇪 Projeto Ubre: A Gastronomia Sustentável Venezuelana Brilha com Reconhecimento Ibero-americano (Venezuela)
+**Restaurante:** Proyecto Ubre (Afueras de Caracas) | **Data:** Maio 2026 | [Link](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGmIGfsJKEAUTK3zqICDz_JirLoRg2TXcBKuRcu87F0361tN9xVD6fOg2-r_zpNKe6l2aSXYgqcyeR4r-L8LDZ4ff8I33ubJv5fFsojQlnj2D-i-Ukede7PyDxG3E2DoswlRAre-ZVZGbQg4djfduZraR6v2lVlHEitiqWhNoejxCC5GyoaOdfEVVVjwEZ6K5c9CJ-nT6yvJU80A-Hm61N7mg==)
+
+Projeto Ubre, localizado nos arredores de Caracas, foi premiado com o Galardão Ibero-americano de Gastronomia 2026 por sua abordagem sustentável. Liderado pelo chef Issam Koteich, este restaurante integra a fazenda com a mesa, produzindo sua própria matéria-prima, com ênfase especial na carne de cordeiro, destacando a identidade culinária venezuelana.
+
+--- 
+
+## 🇪🇸 La Cachapera: O Sabor Autêntico da Venezuela Conquista a Europa com sua Expansão (España)
+**Restaurante:** La Cachapera (Madrid) | **Data:** Maio 2026 | [Link](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHfZerAVcbwdaW0TyD0EoplCUNyFt9CDcX5WbdZC61aV6hL1ASS7pqW0yuLM1plftXepQgCtc-XPAI2LLDrDcjq6NTWsnCA_pSRcOt2vYGaK1n8ZWfjLlT_B9j2xH4s7K2rVCAlVkKR0eC3_iZUHCgLq-daoqWB8WiZ5f5HaMN0IaA16uD0zh_Ht76i4MUKyz-W7-yEGGS-csja_rSHb5yku7xm7QPPvs4-JHylVIxPCEQLdlrbFXqhJjxIHWgX4eYOMMZBGd3q)
+
+La Cachapera, uma cadeia especializada em cachapas venezuelanas, continua sua bem-sucedida expansão pela Europa. Com seis unidades na Espanha e planos de abertura em Lisboa e Paris, esta empresa transformou um food truck em uma referência da gastronomia venezuelana, levando o delicioso crepe de milho tenro a um público internacional.
+
+--- 
 
 ## 🇵🇪 Por la Cachapa: Um Festival Gastronômico Solidário que Revoluciona a Culinária Venezuelana na América Latina (Perú)
 **Restaurante:** Por la Cachapa (Lima) | **Data:** Maio 2026 | [Link](https://www.infobae.com/peru/2026/07/03/por-la-cachapa-mas-de-30-restaurantes-de-peru-y-latinoamerica-se-unen-este-domingo-para-recaudar-fondos-por-venezuela/)
@@ -32,27 +53,6 @@ Casa Ora no Brooklyn, Nova York, é mais que um restaurante com estrela Michelin
 **Restaurante:** Evento Solidario 'Por la Cachapa' (Latinoamérica) | **Data:** Maio 2026 | [Link](https://www.infobae.com/peru/2026/07/03/por-la-cachapa-mas-de-30-restaurantes-de-peru-y-latinoamerica-se-unen-este-domingo-para-recaudar-fondos-por-venezuela/)
 
 O evento 'Por la Cachapa' demonstrou o poder unificador da gastronomia venezuelana. Mais de 30 restaurantes no Peru e na América Latina uniram-se para oferecer suas versões da cachapa, arrecadando fundos para a World Central Kitchen. Uma iniciativa que destaca a solidariedade e o sabor venezuelano.
-
---- 
-
-## 🇻🇪 IA revoluciona a arepa venezuelana: Cocina Venezolana AI redefine a tradição culinária. (Venezuela)
-**Restaurante:** Herramienta "Cocina Venezolana AI" (Global) | **Data:** Maio 2026 | [Link](https://blog.aichef.pro/12-mejores-arepas-venezolanas-con-rellenos-tradicionales-usando-app-cocina-venezolana-ai/)
-
-A ferramenta "Cocina Venezolana AI" está transformando a preparação de arepas, permitindo a chefs e entusiastas criar versões gourmet e fusões inovadoras. Desde a otimização de receitas até a geração de imagens hiper-realistas, esta tecnologia impulsiona a criatividade e eficiência na culinária venezuelana, adaptando o prato icônico a novas tendências globais.
-
---- 
-
-## 🇺🇸 Panitas Bakery em Miami: A revolução da comida venezuelana congelada chega à sua casa. (Estados Unidos)
-**Restaurante:** Panitas Bakery (Miami) | **Data:** Maio 2026 | [Link]()
-
-Panitas Bakery em Miami prepara-se para lançar uma inovadora linha de produtos venezuelanos congelados e pré-cozidos. Esta iniciativa visa levar a autenticidade de empanadas, tequeños e arepas diretamente aos lares, oferecendo conveniência sem sacrificar o sabor tradicional. Uma solução perfeita para desfrutar da gastronomia venezuelana com facilidade.
-
---- 
-
-## 🇲🇽 Órale Arepa brilha no FOOD&WINE FESTIVAL 2026 do México: Sabor venezuelano para o mundo. (México)
-**Restaurante:** FOOD&WINE FESTIVAL 2026: Mirando al Sur con "Órale Arepa" (Ciudad de México) | **Data:** Maio 2026 | [Link]()
-
-O prestigiado FOOD&WINE FESTIVAL 2026 na Cidade do México receberá "Órale Arepa", destacando a crescente influência da gastronomia venezuelana. Este evento de nível mundial, com mais de 80 chefs, celebra a diversidade culinária latino-americana, consolidando a arepa como um prato global e a culinária venezuelana na cena internacional.
 
 --- 
 
