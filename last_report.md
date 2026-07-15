@@ -1,4 +1,25 @@
-# Relatório de Pesquisa de Tendências (Nuvem) - 2026-07-14 18:07:17
+# Relatório de Pesquisa de Tendências (Nuvem) - 2026-07-15 18:12:14
+
+## 🇵🇪 Fusão Venezuelana-Peruana Conquista Lima: Mérito e Demo Redefinem a Gastronomia (Perú)
+**Restaurante:** Mérito y Demo (Lima) | **Data:** Maio 2026 | [Link](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEM4XPa2iHNCO5YbfQy3vcpZmgWNbmNAXDtYiYqtoYlFEc6_IiLXejGAutEGSS-5Mno23F4-uX_1449b15kPeitib6QCJGGW2SbbWEnl7-Q1TlbEHF3t3tyTqUJpyYwYmofaG4C_a5cearx3ie4swuRxeFfkJuQvjTxW7X0PF2VH9ZdudhCP7HFT1qY8KATvoPyMmwXXCQZ51Qe9D26X_L3smLMrX8=)
+
+Em Lima, os restaurantes Mérito e Demo do chef Juan Luis Martínez estão revolucionando a cena culinária. Fundindo magistralmente sabores peruanos e venezuelanos, oferecem desde cachapas e arepas no Demo até combinações inovadoras com guasacaca e ceviche no Mérito, reconhecido entre os melhores do mundo. Uma proposta que celebra a versatilidade da arepa.
+
+--- 
+
+## 🇺🇸 Lulla's Bakery: A Doce Revolução Venezuelana com Compromisso Social no Brooklyn (Estados Unidos)
+**Restaurante:** Lulla's Bakery & Cocktails (Brooklyn, Nueva York) | **Data:** Maio 2026 | [Link](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGR9QBGYl9Duqabz9BlHw0Y2FlHGJnimC1KXAUAqIKYS2vtsbr_WM1E3bezTXdtf5EP46089aVWSopj07DVaNn7Hf5ARrRBz8yGEE8hym38NMj2REfwMROqbC2_2lkbhunq2Al7GFpe7M72PoYUVB54VFTtCKmtDDShNdGCdrJbh4Oxlpw-Wz5XsQTYBP9TqTo0P8l5NkRG6rnHPDmK6Pre9C_OJcIQf3kLapnsKOaoOm0NXumW67SDYqFOoKbamOMnaTaEZIi1NYSz4jUgj2nc__EF1ImVNZ5tD5JnRp8t6PhI_4KxyGgI2PRNHkgWvBUUCo_EaEExbbPA)
+
+Ivo Díaz, chef venezuelano, abre Lulla's Bakery & Cocktails, a primeira padaria venezuelana no Brooklyn. Este novo espaço complementa seu restaurante Casa Ora, reconhecido pelo Michelin, e reforça seu compromisso social ao apoiar imigrantes. Uma proposta que combina a rica confeitaria venezuelana com uma missão humanitária no coração de Nova York.
+
+--- 
+
+## 🇨🇦 The Arepa Republic: O Sabor Venezuelano Conquista Toronto com sua Emblemática Arepa (Canadá)
+**Restaurante:** The Arepa Republic (Toronto) | **Data:** Maio 2026 | [Link](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEAwWK2UHkiLRYDAjPu93RlsBKa9imWJBMJRRgzkQqFIn6LcgAoBZaPlqVM-RCtpMsSPXQzAtzLbvh9Q8eEyzZyEYxxIl4nOdbw_JrRq2fJbHkaSr16j6th43rOFPkiW6fIRj_YPP1w6J6k72-KRA3aZ7vkr9pAy6R0YlOY6OYx)
+
+No vibrante mercado de Waterworks em Toronto, The Arepa Republic conseguiu posicionar a arepa venezuelana como um prato estrela. Desde 2024, este restaurante oferece uma autêntica experiência culinária, destacando a arepa de pabellón, que cativou locais e turistas, demonstrando a versatilidad e o apelo global da gastronomia venezuelana.
+
+--- 
 
 ## 🇺🇸 Casa Ora: A Alta Cozinha Venezuelana Conquista Nova York com sua Primeira Estrela Michelin (Estados Unidos)
 **Restaurante:** Casa Ora (Nueva York) | **Data:** Maio 2026 | [Link](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFuvFFPpiJMu8C-ktAczUoYxG4pv_Yi4GsQfuOw69-GO5h40McoW8X7-BnZXd8XLdR77ea-wT0qrlVv6WX9Jn-tFjm3KxaUapyJwjyekQ3WeaI1_LrylngAOf9qFGIBe5rn84iIkxnz_buc9Y3B5fFTgexoBbxpAnUvDuUuD7PNdQ8B0tE20hVE8rfVZO67UXyXqxjhV2kFBMBh-wLzRxCPwfxAZULTRAszf7sNPgRy40u6Vv3BdTlIFUwqS_0yRieeAq0tj9ZBXFluE7lP4uXDyn-K9cmCowRplCIxyJhSdsPRjVk7DWy68Y2kvFEXng20Ort-ieLg2AO)
@@ -32,27 +53,6 @@ O evento "Por la Cachapa" em Lima e outras cidades latino-americanas uniu mais d
 **Restaurante:** Proyecto Ubre (Caracas) | **Data:** Maio 2026 | [Link](https://www.expreso.info/noticias/venezuela/145455_venezuela-rompe-barreras-a-traves-de-la-gastronomia)
 
 Projeto Ubre, nos arredores de Caracas, foi premiado com o Galardão Ibero-Americano de Gastronomia Sustentável 2026. Liderado pelo chef Issam Koteich, este projeto inovador integra uma fazenda e um restaurante, produzindo grande parte de seus ingredientes. Seu foco na culinária do cordeiro reivindica a identidade venezuelana, buscando um impacto real e projetando a gastronomia do país internacionalmente.
-
---- 
-
-## 🇺🇸 DC Al Toque: A Nova Joia Gastronômica Venezuelana que Conquista Washington D.C. (Estados Unidos)
-**Restaurante:** DC Al Toque (Washington D.C.) | **Data:** Maio 2026 | [Link](https://www.washingtonian.com/2026/04/28/a-new-venezuelan-restaurant-and-bakery-is-humming-along-on-14th-street/)
-
-DC Al Toque, inaugurado em abril de 2026 em Washington D.C., é um novo restaurante e padaria venezuelana que oferece uma proposta culinária diversa. Além das arepas, seu extenso menu celebra a riqueza da gastronomia venezuelana, destacando o emblemático pavilhão crioulo. Este estabelecimento promete ser um ponto de referência para quem busca autênticos sabores venezuelanos na capital americana.
-
---- 
-
-## 🇺🇸 Casa Ora: A Alta Cozinha Venezuelana do Brooklyn que Alimenta a Alma e Apoia Imigrantes (Estados Unidos)
-**Restaurante:** Casa Ora (Brooklyn) | **Data:** Maio 2026 | [Link](https://larepublica.pe/mundo/estados-unidos/2025/04/20/nueva-york-el-primer-restaurante-venezolano-clasificado-por-michelin-y-que-apoya-a-inmigrantes-a-buscar-asilo-en-eeuu-ivo-diaz-lullas-bakery-cocktails-el-chamo-1896898)
-
-Casa Ora no Brooklyn, Nova York, é mais que um restaurante com estrela Michelin; é um farol de esperança. Oferece requintada alta cozinha venezuelana enquanto fornece apoio crucial a imigrantes que buscam asilo. Seu compromisso social e excelência culinária o tornam uma tendência gastronômica e humanitária.
-
---- 
-
-## 🇵🇪 A Cachapa Une a América Latina: Um Evento Solidário que Alimenta a Esperança e a Gastronomia (Perú)
-**Restaurante:** Evento Solidario 'Por la Cachapa' (Latinoamérica) | **Data:** Maio 2026 | [Link](https://www.infobae.com/peru/2026/07/03/por-la-cachapa-mas-de-30-restaurantes-de-peru-y-latinoamerica-se-unen-este-domingo-para-recaudar-fondos-por-venezuela/)
-
-O evento 'Por la Cachapa' demonstrou o poder unificador da gastronomia venezuelana. Mais de 30 restaurantes no Peru e na América Latina uniram-se para oferecer suas versões da cachapa, arrecadando fundos para a World Central Kitchen. Uma iniciativa que destaca a solidariedade e o sabor venezuelano.
 
 --- 
 
