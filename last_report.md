@@ -1,4 +1,18 @@
-# Relatório de Pesquisa de Tendências (Nuvem) - 2026-07-15 18:12:14
+# Relatório de Pesquisa de Tendências (Nuvem) - 2026-07-16 18:09:18
+
+## 🇵🇪 Mérito em Lima: A Fusão Peruano-Venezuelana que Conquista o Paladar Mundial (Perú)
+**Restaurante:** Mérito (Lima) | **Data:** Maio 2026 | [Link](https://eldiariony.com/2026/03/13/la-nueva-era-de-la-gastronomia-en-lima-el-exito-de-la-fusion-venezolana/)
+
+O chef venezuelano Juan Luis Martínez eleva a culinária em Lima com o Mérito, fundindo magistralmente sabores peruanos e venezuelanos. Reconhecido entre os 50 melhores do mundo e da América Latina, sua proposta inclui também o "Demo", uma cafeteria que celebra pratos venezuelanos icônicos, consolidando a influência culinária da Venezuela no Peru.
+
+--- 
+
+## 🇻🇪 Venezuela Brilha: Nomeada Principal Destino Culinário da América do Sul no WTA 2026 (Venezuela)
+**Restaurante:** World Travel Awards 2026 (Venezuela) | **Data:** Maio 2026 | [Link](https://diariovea.com.ve/venezuela-es-nominada-a-mejor-destino-culinario-de-suramerica-en-wta-2026/)
+
+A Venezuela foi nomeada "Principal Destino Culinário da América do Sul" nos prestigiados World Travel Awards 2026. Este reconhecimento celebra sua rica herança mestiça, a diversidade de sabores e texturas, e o impacto do turismo gastronômico, impulsionando produtores e empreendedores locais no setor agroalimentar.
+
+--- 
 
 ## 🇵🇪 Fusão Venezuelana-Peruana Conquista Lima: Mérito e Demo Redefinem a Gastronomia (Perú)
 **Restaurante:** Mérito y Demo (Lima) | **Data:** Maio 2026 | [Link](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEM4XPa2iHNCO5YbfQy3vcpZmgWNbmNAXDtYiYqtoYlFEc6_IiLXejGAutEGSS-5Mno23F4-uX_1449b15kPeitib6QCJGGW2SbbWEnl7-Q1TlbEHF3t3tyTqUJpyYwYmofaG4C_a5cearx3ie4swuRxeFfkJuQvjTxW7X0PF2VH9ZdudhCP7HFT1qY8KATvoPyMmwXXCQZ51Qe9D26X_L3smLMrX8=)
@@ -39,20 +53,6 @@ Projeto Ubre, localizado nos arredores de Caracas, foi premiado com o Galardão 
 **Restaurante:** La Cachapera (Madrid) | **Data:** Maio 2026 | [Link](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHfZerAVcbwdaW0TyD0EoplCUNyFt9CDcX5WbdZC61aV6hL1ASS7pqW0yuLM1plftXepQgCtc-XPAI2LLDrDcjq6NTWsnCA_pSRcOt2vYGaK1n8ZWfjLlT_B9j2xH4s7K2rVCAlVkKR0eC3_iZUHCgLq-daoqWB8WiZ5f5HaMN0IaA16uD0zh_Ht76i4MUKyz-W7-yEGGS-csja_rSHb5yku7xm7QPPvs4-JHylVIxPCEQLdlrbFXqhJjxIHWgX4eYOMMZBGd3q)
 
 La Cachapera, uma cadeia especializada em cachapas venezuelanas, continua sua bem-sucedida expansão pela Europa. Com seis unidades na Espanha e planos de abertura em Lisboa e Paris, esta empresa transformou um food truck em uma referência da gastronomia venezuelana, levando o delicioso crepe de milho tenro a um público internacional.
-
---- 
-
-## 🇵🇪 Por la Cachapa: Um Festival Gastronômico Solidário que Revoluciona a Culinária Venezuelana na América Latina (Perú)
-**Restaurante:** Por la Cachapa (Lima) | **Data:** Maio 2026 | [Link](https://www.infobae.com/peru/2026/07/03/por-la-cachapa-mas-de-30-restaurantes-de-peru-y-latinoamerica-se-unen-este-domingo-para-recaudar-fondos-por-venezuela/)
-
-O evento "Por la Cachapa" em Lima e outras cidades latino-americanas uniu mais de 30 restaurantes para reinterpretar a cachapa venezuelana. Com versões marinhas, hambúrgueres e toques indianos, este festival beneficente arrecadou fundos para a World Central Kitchen, apoiando comunidades venezuelanas afetadas por terremotos, mostrando a versatilidade e o espírito solidário da gastronomia.
-
---- 
-
-## 🇻🇪 Projeto Ubre: A Gastronomia Sustentável Venezuelana que Conquista a Ibero-América com Sabor a Cordeiro (Venezuela)
-**Restaurante:** Proyecto Ubre (Caracas) | **Data:** Maio 2026 | [Link](https://www.expreso.info/noticias/venezuela/145455_venezuela-rompe-barreras-a-traves-de-la-gastronomia)
-
-Projeto Ubre, nos arredores de Caracas, foi premiado com o Galardão Ibero-Americano de Gastronomia Sustentável 2026. Liderado pelo chef Issam Koteich, este projeto inovador integra uma fazenda e um restaurante, produzindo grande parte de seus ingredientes. Seu foco na culinária do cordeiro reivindica a identidade venezuelana, buscando um impacto real e projetando a gastronomia do país internacionalmente.
 
 --- 
 
