@@ -134,6 +134,31 @@ def toggle_product_stock(file_path, product_name, make_out_of_stock):
     return found
 
 
+def update_service_worker_cache_version(sw_path):
+    """Increments or updates the cache name/version in sw.js to invalidate cache for PWA users."""
+    if not os.path.exists(sw_path):
+        print(f"[-] sw.js not found at: {sw_path}")
+        return False
+        
+    with open(sw_path, 'r', encoding='utf-8') as f:
+        content = f.read()
+        
+    import time
+    timestamp = int(time.time())
+    new_cache_name = f'const CACHE_NAME = "venebistro-cache-{timestamp}";'
+    
+    pattern = r'const\s+CACHE_NAME\s*=\s*["\'](.*?)["\'];'
+    if re.search(pattern, content):
+        updated_content = re.sub(pattern, new_cache_name, content)
+        with open(sw_path, 'w', encoding='utf-8') as f:
+            f.write(updated_content)
+        print(f"[+] sw.js cache name updated to: venebistro-cache-{timestamp}")
+        return True
+    else:
+        print("[-] CACHE_NAME variable not found in sw.js")
+        return False
+
+
 def update_schedule_hours(file_path, new_hours_pt, new_hours_es, new_hours_html):
     """Updates operating hours in HTML elements and translations script."""
     if not os.path.exists(file_path):

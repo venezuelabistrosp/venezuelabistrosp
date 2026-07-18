@@ -338,7 +338,7 @@
 </div>
 <div class="flex flex-col justify-center">
 <p class="font-bold text-gray-800 text-[11px] sm:text-base leading-tight" data-i18n="info_hours_title">Horário</p>
-<p class="text-[9px] sm:text-sm text-gray-600 block" data-i18n="info_hours_val">17:30 - 23:30 (Hoje/Hoy)</p>
+<p class="text-[9px] sm:text-sm text-gray-600 block" data-i18n="info_hours_val">18:30 às 23:30</p>
 </div>
 </div>
 <div class="flex flex-col sm:flex-row items-center justify-center gap-0.5 sm:gap-4 text-center sm:text-left px-1 sm:px-4 w-1/3">
@@ -676,11 +676,11 @@
 </div>
 </div>
 <!-- Item: Pabellón Criollo Venezolano -->
-<div class="bg-white rounded-xl sm:rounded-2xl overflow-hidden shadow-sm sm:shadow-md card-hover group flex flex-row sm:flex-col border border-gray-100 sm:border-transparent p-2 sm:p-0 gap-3 sm:gap-0 border-2 border-ven-yellow">
+<div class="bg-white rounded-xl sm:rounded-2xl overflow-hidden shadow-sm sm:shadow-md group flex flex-row sm:flex-col border border-gray-100 sm:border-transparent p-2 sm:p-0 gap-3 sm:gap-0 border-2 border-ven-yellow opacity-60 grayscale pointer-events-none">
 <div class="w-[100px] sm:w-full h-auto sm:h-64 bg-gray-100 flex items-center justify-center relative overflow-hidden flex-shrink-0 rounded-lg sm:rounded-none object-cover min-h-[100px]">
 <div class="product-img-container w-full h-full">
 <img alt="Pabellón Criollo Venezolano" class="product-img w-full h-full object-cover" loading="lazy" onerror="this.src='https://images.unsplash.com/photo-1615719413546-198b25453f85?ixlib=rb-1.2.1&amp;auto=format&amp;fit=crop&amp;w=800&amp;q=80'" src="pabellon_criollo.jpg"/>
-</div>
+<div class="absolute inset-0 bg-black/50 z-20 flex items-center justify-center backdrop-blur-[2px]"><span class="text-white font-black px-3 py-1 bg-red-600 border border-red-800 rounded shadow-lg transform -rotate-12 text-[10px] sm:text-xs" data-i18n="out_of_stock_tag">Esgotado / Agotado</span></div></div>
 <span class="absolute bottom-2 right-2 bg-ven-red text-white px-2 py-1 sm:px-3 sm:py-1 text-[10px] sm:text-xs font-black rounded shadow z-10 animate-pulse">-34% OFF</span>
 </div>
 <div class="py-1 pr-1 sm:p-6 flex flex-col flex-grow w-[calc(100%-110px)] sm:w-full">
@@ -701,8 +701,8 @@
 </ul>
 </div>
 <span class="portion-tag hidden sm:inline-block mb-3 sm:mb-4 w-max" data-i18n="rend_1_pessoa">Rende: 1 pessoa</span>
-<button class="hidden sm:flex add-to-cart w-full bg-ven-red text-white py-2.5 sm:py-3 rounded-lg sm:rounded-xl font-bold hover:bg-gray-900 transition-colors justify-center items-center gap-2 mt-auto text-xs sm:text-sm" onclick="addToCart('Pabellón Criollo Venezolano', 29.90)">
-<i class="w-4 h-4" data-lucide="shopping-bag"></i> <span data-i18n="btn_add">Adicionar</span>
+<button class="hidden sm:flex add-to-cart w-full bg-ven-red text-white py-2.5 sm:py-3 rounded-lg sm:rounded-xl font-bold transition-colors justify-center items-center gap-2 mt-auto text-xs sm:text-sm bg-gray-400" onclick="return false;">
+<i class="w-4 h-4" data-lucide="shopping-bag"></i> <span data-i18n="btn_add">Indisponível</span>
 </button>
 <button class="sm:hidden text-ven-red text-[11px] font-bold mt-auto uppercase tracking-wide flex justify-end items-center gap-1 active:opacity-70 mt-2 pointer-events-none">Ver detalhes <i class="w-3 h-3" data-lucide="chevron-right"></i></button>
 </div>
@@ -1253,11 +1253,11 @@
 <h3 class="text-2xl font-bold text-gray-800 pl-3 border-l-4 border-ven-red" data-i18n="cat_tequenos">Tequeños</h3>
 </div>
 <!-- Item 11: Tequeños -->
-<div class="bg-white rounded-xl sm:rounded-2xl overflow-hidden shadow-sm sm:shadow-md card-hover group flex flex-row sm:flex-col border border-gray-100 sm:border-transparent p-2 sm:p-0 gap-3 sm:gap-0">
+<div class="bg-white rounded-xl sm:rounded-2xl overflow-hidden shadow-sm sm:shadow-md group flex flex-row sm:flex-col border border-gray-100 sm:border-transparent p-2 sm:p-0 gap-3 sm:gap-0 opacity-60 grayscale pointer-events-none">
 <div class="w-[100px] sm:w-full h-auto sm:h-64 bg-gray-100 flex items-center justify-center relative overflow-hidden flex-shrink-0 rounded-lg sm:rounded-none object-cover min-h-[100px]">
 <div class="product-img-container w-full h-full">
 <img alt="Tequeños" class="product-img w-full h-full object-cover" loading="lazy" onerror="this.onerror=null; this.src='https://images.unsplash.com/photo-1543339308-43e59d6b73a6?ixlib=rb-1.2.1&amp;auto=format&amp;fit=crop&amp;w=800&amp;q=80';" src="tequenos.jpg"/>
-</div>
+<div class="absolute inset-0 bg-black/50 z-20 flex items-center justify-center backdrop-blur-[2px]"><span class="text-white font-black px-3 py-1 bg-red-600 border border-red-800 rounded shadow-lg transform -rotate-12 text-[10px] sm:text-xs" data-i18n="out_of_stock_tag">Esgotado / Agotado</span></div></div>
 </div>
 <div class="py-1 pr-1 sm:p-6 flex flex-col flex-grow w-[calc(100%-110px)] sm:w-full">
 <div class="flex justify-between items-start mb-1 sm:mb-2 gap-2 flex-col sm:flex-row">
@@ -1266,8 +1266,8 @@
 </div>
 <p class="text-gray-500 text-[10px] sm:text-sm mb-2 sm:mb-4 flex-grow line-clamp-2 h-[30px] sm:h-auto overflow-hidden" data-i18n="desc_tequenos">Palitos de queijo envolvidos em massa dourada e crocante, fritos na hora. Um dos petiscos mais famosos da Venezuela. Porção com 6 unidades. Acompanha molho tártaro.</p>
 <span class="portion-tag hidden sm:inline-block mb-3 sm:mb-4 w-max" data-i18n="rend_285">Rende: 1 pessoa (285g)</span>
-<button class="hidden sm:flex add-to-cart w-full bg-gray-900 text-white py-2.5 sm:py-3 rounded-lg sm:rounded-xl font-bold hover:bg-ven-red transition-colors justify-center items-center gap-2 mt-auto text-xs sm:text-sm" onclick="addToCart('Tequeños', 35)">
-<i class="w-4 h-4" data-lucide="plus-circle"></i> <span data-i18n="btn_add">Adicionar</span>
+<button class="hidden sm:flex add-to-cart w-full text-white py-2.5 sm:py-3 rounded-lg sm:rounded-xl font-bold transition-colors justify-center items-center gap-2 mt-auto text-xs sm:text-sm bg-gray-400" onclick="return false;">
+<i class="w-4 h-4" data-lucide="plus-circle"></i> <span data-i18n="btn_add">Indisponível</span>
 </button>
 <button class="sm:hidden text-ven-red text-[11px] font-bold mt-auto uppercase tracking-wide flex justify-end items-center gap-1 active:opacity-70 mt-2 pointer-events-none">Ver detalhes <i class="w-3 h-3" data-lucide="chevron-right"></i></button>
 </div>
@@ -1764,7 +1764,7 @@ let currentLang = 'pt';
                 btn_more_info: "Más Información",
                 info_loc_title: "Ubicación",
                 info_hours_title: "Horario",
-                info_hours_val: "Hoy Lunes: 17:30 - 23:30",
+                info_hours_val: "Hoy Sábado: 18:30 a 23:30",
                 about_subtitle: "Nuestra Historia",
                 about_title: "Más que comida, es cultura.",
                 about_p1: "En Venezuela Bistro SP, cada plato cuenta una historia. Desde la masa de maíz pilado que amasamos cada mañana, hasta los guisos cocinados a fuego lento como lo hacían nuestras abuelas.",
@@ -1934,7 +1934,7 @@ let currentLang = 'pt';
                 btn_more_info: "Mais Informações",
                 info_loc_title: "Localização",
                 info_hours_title: "Horário",
-                info_hours_val: "Hoje Segunda: 17:30 - 23:30",
+                info_hours_val: "Hoje Sábado: 18:30 às 23:30",
                 about_subtitle: "Nossa História",
                 about_title: "Mais que comida, é cultura.",
                 about_p1: "No Venezuela Bistro SP, cada prato conta uma história. Desde a massa de milho pilado que amassamos toda manhã, até os ensopados cozidos em fogo baixo como faziam nossas avós.",

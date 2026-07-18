@@ -61,11 +61,23 @@ def get_updates(token, offset=None):
 def run_git_commands(commit_message, files_to_add=None):
     """Stages files, commits, pulls remote changes (to avoid push rejections), and pushes to GitHub."""
     try:
+        # Automatically update sw.js version and add it to the commit
+        try:
+            from bistro_manager import update_service_worker_cache_version
+            if update_service_worker_cache_version("sw.js"):
+                if files_to_add is not None:
+                    if "sw.js" not in files_to_add:
+                        files_to_add.append("sw.js")
+                else:
+                    files_to_add = ["index.html", "index_redesign.html", "sw.js"]
+        except Exception as e:
+            print("[-] Failed to update sw.js cache name in run_git_commands:", e)
+
         if files_to_add:
             for file in files_to_add:
                 subprocess.run(["git", "add", file], check=True, capture_output=True)
         else:
-            subprocess.run(["git", "add", "index.html", "index_redesign.html"], check=True, capture_output=True)
+            subprocess.run(["git", "add", "index.html", "index_redesign.html", "sw.js"], check=True, capture_output=True)
             
         # Commit local changes
         subprocess.run(["git", "commit", "-m", commit_message], check=True, capture_output=True)
