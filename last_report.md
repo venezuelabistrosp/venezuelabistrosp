@@ -1,4 +1,18 @@
-# Relatório de Pesquisa de Tendências (Nuvem) - 2026-07-19 18:00:02
+# Relatório de Pesquisa de Tendências (Nuvem) - 2026-07-20 18:55:16
+
+## 🇨🇦 Arepa Republic: A Revolução Venezuelana que Conquista o Paladar Canadense em Toronto (Canadá)
+**Restaurante:** Arepa Republic (Toronto) | **Data:** Maio 2026 | [Link](https://eldiario.com/2025/08/20/un-restaurante-venezolano-populariza-la-arepa-en-el-mercado-canadiense/)
+
+The Arepa Republic em Toronto está liderando a expansão da arepa venezuelana no Canadá. Com planos de franquia, este restaurante oferece delícias como a arepa de pabellón, patacones e tequeños, consolidando-se como um referente da gastronomia venezuelana e buscando tornar-se a primeira franquia de arepas no país.
+
+--- 
+
+## 🇻🇪 Gastromaníacos 2025: O Encontro Culinário que Celebrou a Diversidade Gastronômica Venezuelana (Venezuela)
+**Restaurante:** Gastromaníacos 2025 (Maturín) | **Data:** Maio 2026 | [Link](https://saboresyviajes.com/los-mejores-chefs-de-venezuela-se-daran-cita-en-gastromaniacos-2025-este-24-25-y-26-de-octubre-en-maturin/)
+
+Gastromaníacos 2025 em Maturín reuniu chefs venezuelanos e figuras internacionais como Ricardo Chaneton, o primeiro venezuelano com Estrela Michelin. O evento destacou a riqueza culinária do país com degustações, cozinhas ao vivo e palestras, explorando desde a panificação caraquenha até os "hambúrgueres maracuchos" e o pimentão margaritenho.
+
+--- 
 
 ## 🇺🇸 Casa Ora: A Gastronomia Venezuelana Brilha com Sua Primeira Distinção Michelin em Nova Iorque (Estados Unidos)
 **Restaurante:** Casa Ora (Nueva York) | **Data:** Maio 2026 | [Link](https://www.vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGtwhDoagse-ahP6F1czanGGxXesx0tOz-D-UFGuyIzMcitifhW16-Eoih7ntl-ULZ0OO2YiCkemIQNro6sU4i-4-pQTqt6rBAS6k7881DCrj5tf2FOB9SNvtZABnGOHimMIHhezSSEkkDw2U4BIarEW_PbDYDCDTuZl_2rvN4VcUBFjlgPk60W_kKmK-nlNEj_MS4LugLqzyExM9PoPOa1vwgnGSLsOb0blHCj-CqttluErWNLJRXMtsvrBuM8zFFqqs1thkjm1RTJbLMWkWwhYqBBgLvkzY3KB_5c_rp87KkAayRMktZ-E9xnm0GnDjJB3Va6lSMuCA)
@@ -39,20 +53,6 @@ El Bosque Bistró em Caracas, liderado pelo chef Iván García, foi reconhecido 
 **Restaurante:** Demo (Lima) | **Data:** Maio 2026 | [Link](https://eldiariony.com/2026/03/13/la-nueva-era-de-la-gastronomia-en-lima-el-exito-de-la-fusion-venezolana/)
 
 Demo, a estilosa cafeteria em Lima do chef venezuelano Juan Luis Martínez, está redefinindo a fusão culinária. Com maestria, combina sabores peruanos e venezuelanos, oferecendo cachapas, arepas e pão de goiaba que conquistaram o paladar de locais e estrangeiros, consolidando a comida venezuelana em um mercado exigente.
-
---- 
-
-## 🇻🇪 Dining Room de Valência: A Alta Cozinha Venezuelana Conquista o 50 Best Discovery 2026 (Venezuela)
-**Restaurante:** Dining Room (Valencia) | **Data:** Maio 2026 | [Link](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGl2iib6WY-0gZqMT8MKNfyfmIobfp6Ew3TTWGGrGkYXuG3207_CCP6lrW65IRGeLZCccX0Xz75PU8vNSOAjOz0wtmEnOMvgWKcei7-yLwsN9X-pPXNAau5ZjvaycrMfKWevkNyvQvkjbtRkxKwM-l3fubQEdGgVOkZkp5q7w2s84cAavWD_WifquG2dKHSsy_1dD5JgDSDGgy5da70S6VCQ=)
-
-O Dining Room em Valência, Venezuela, foi reconhecido na prestigiada lista 50 Best Discovery 2026. Sob a direção do chef Frank Parada, premiado com o Tenedor de Oro, o restaurante destaca-se pelas suas técnicas elevadas e uso respeitoso de ingredientes venezuelanos, marcando um marco para a gastronomia da cidade.
-
---- 
-
-## 🇻🇪 María Evans da Azú Pastelería: O Cacau Venezuelano Brilha no Global Chef Challenge (Venezuela)
-**Restaurante:** Azú Pastelería (Representando a Venezuela) | **Data:** Maio 2026 | [Link](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHrQuIyRm3znLPgT6c_YwRwfLR08Zu1TqQKMQYV4Docl2iNiSVGxQqAQE5ThJllah-7Jn3SeuW3ury0o0H8xilchifhGXEPt4wWx0uXgx3hbtF6ErYMldauKVVMquqh0EOQljxuu-vzPurCVRnJE9pkFOQuMr3naOY63s-ssryRL960SsKMaX61Ie2EUtI=)
-
-A pasteleira venezuelana María Evans, da Azú Pastelería, ganhou a medalha de prata no Global Chef Challenge para as Américas em Las Vegas (agosto 2025). Sua sobremesa inovadora, com cacau e manga venezuelanos, garantiu-lhe um lugar na final mundial no País de Gales, destacando a alta confeitaria da Venezuela.
 
 --- 
 
