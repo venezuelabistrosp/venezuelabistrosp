@@ -1,4 +1,25 @@
-# Relatório de Pesquisa de Tendências (Nuvem) - 2026-07-20 18:55:16
+# Relatório de Pesquisa de Tendências (Nuvem) - 2026-07-21 18:18:43
+
+## 🇻🇪 Dining Room: Valência se consolida como epicentro da alta gastronomia venezuelana inovadora (Venezuela)
+**Restaurante:** Dining Room (Valencia) | **Data:** Maio 2026 | [Link](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHBK_BtcbDZ1w2aJB9XoLDwxFegxNx7lGZMlCC-s0xENLhzPQXF_z1sK1rPsIm2Dc-93RaZwEAn-jdsWLb4osPvA4rNK9KWBTXxz_Y0ODnPyRkx0Zh3m-1onWeZgNmKHeE7phGfZvzMzHNHX0knkNlJd6OTxJw_WYlQhkphUFJa8FAQYweNjKs8Gw3nQQUEzARp3sfe8Q)
+
+O Dining Room em Valência, liderado pelo chef Frank Parada, foi premiado com o Tenedor de Oro de Melhor Chef em novembro de 2025. Este restaurante eleva a culinária venezuelana a novas alturas com pratos inovadores como o "Pão de mapuey roxo e manteiga de pimenta doce", marcando um marco ao ser o primeiro de Valência no 50 Best Discovery.
+
+--- 
+
+## 🇺🇸 Casa Ora: A joia venezuelana no Brooklyn que brilha com o Guia Michelin (Estados Unidos)
+**Restaurante:** Casa Ora (Brooklyn) | **Data:** Maio 2026 | [Link](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHmFehcMMFT3tscAwXVqdxKhIKy9FAsEehmDf_CpUDl5CuqYf30BFMpuvBLT20_djsShHiBeG_rETVYX72drzfWw30PRcWQi1q8_bzD8eOzi0Ix)
+
+Casa Ora no Brooklyn, Nova York, celebra seu sexto ano consecutivo como restaurante recomendado pelo Guia Michelin. Fundado por Isbelis e Ivo Díaz, este estabelecimento é uma "carta de amor" à cultura venezuelana, oferecendo uma experiência culinária que evoca o lar e a tradição em cada prato e coquetel.
+
+--- 
+
+## 🇪🇸 A Rota da Arepa 2025: Madrid celebra o sabor venezuelano com recorde de participação (España)
+**Restaurante:** La Ruta de la Arepa (Madrid) | **Data:** Maio 2026 | [Link](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGu3prvIgldUn7cfo-BGEl-64GTUt-W09pcD6XPnied_s_P1qWOlSrDUVjKzf5HF8-iVUnrfLiOAM1cglVQXJJZuW0hhlMLj-VU0ercuCRYygOw2mIQ_e6Y26rp2wF19ifQJsOd-Vlzo8NwOai6uLigdDORs2Eik-WGJWlRP9NaugGEWCRTQ4DGtuo4wicSBkqiyuUXBQ5VtO5pCc0Fj8J-s4-lMukht9QTTQgIgE9NqGHZ7ZG_zWjq8bnJFxAw0VHL978iC6jAtHKlOhz-kHqfhCmTF0IAHCZ-ryl0EAKYyaauZ2fw_FRJJJ4ycqCART44jX4RdZzuKIU8)
+
+A Rota da Arepa regressou a Madrid em 2025, consolidando-se como um evento chave para a gastronomia venezuelana. Mais de 20 restaurantes participaram nesta edição, que incluiu o III Grande Campeonato de Arepas e atividades paralelas como degustações de cerveja artesanal e brunches de arepas, mostrando a versatilidade deste prato icónico.
+
+--- 
 
 ## 🇨🇦 Arepa Republic: A Revolução Venezuelana que Conquista o Paladar Canadense em Toronto (Canadá)
 **Restaurante:** Arepa Republic (Toronto) | **Data:** Maio 2026 | [Link](https://eldiario.com/2025/08/20/un-restaurante-venezolano-populariza-la-arepa-en-el-mercado-canadiense/)
@@ -32,27 +53,6 @@ La Cachapera consolida sua presença na Espanha com a abertura de sua segunda un
 **Restaurante:** Pan Pa' Vzla (Katy) | **Data:** Maio 2026 | [Link](https://www.vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFnr0PKsfbdangPKWWXwfgGiCUqas-MY9aiCTlfYqzafM1iZNqhsl5DIkHdCk4oD8E9OM4jTfnB4rrlPIuwRVaMQwTSNEgTamf1LsNCYHKQlA==)
 
 Pan Pa' Vzla em Katy, Texas, redefine a padaria venezuelana com seu foco em pães de fermentação natural e uma inovadora fusão de sabores. Oferecendo desde o "Dubai croissant" até o "Venezuela roll", esta padaria artesanal tornou-se uma referência para quem busca qualidade e criatividade em produtos doces e salgados. Um verdadeiro deleite.
-
---- 
-
-## 🇵🇪 "Por la Cachapa": Unindo Sabores Latino-Americanos por uma Causa Solidária no Peru (Perú)
-**Restaurante:** "Por la Cachapa" (Lima) | **Data:** Maio 2026 | [Link](https://www.infobae.com/peru/2026/07/03/por-la-cachapa-mas-de-30-restaurantes-de-peru-y-latinoamerica-se-unen-este-domingo-para-recaudar-fondos-por-venezuela/)
-
-A iniciativa "Por la Cachapa" em Lima, Peru, reuniu mais de 30 restaurantes para criar versões inovadoras da cachapa venezuelana. Este evento beneficente arrecadou fundos para comunidades venezuelanas afetadas por um terremoto em junho de 2026, mostrando a solidariedade e criatividade culinária da região.
-
---- 
-
-## 🇻🇪 El Bosque Bistró de Caracas Brilha no Guia 50 Best Discovery 2026 (Venezuela)
-**Restaurante:** El Bosque Bistró (Caracas) | **Data:** Maio 2026 | [Link](https://correodelcaroni.com/region/venezuela-suma-cuatro-locales-en-la-lista-gastronomica-50-best-discovery-2026/)
-
-El Bosque Bistró em Caracas, liderado pelo chef Iván García, foi reconhecido no prestigiado guia 50 Best Discovery 2026. Sua cozinha contemporânea, que funde raízes indígenas, africanas e europeias com ingredientes locais, e sua inovadora apresentação em budares, o consolidam como referência da gastronomia venezuelana.
-
---- 
-
-## 🇵🇪 Demo em Lima: A Fusão Venezuelana que Conquista a Capital Gastronômica (Perú)
-**Restaurante:** Demo (Lima) | **Data:** Maio 2026 | [Link](https://eldiariony.com/2026/03/13/la-nueva-era-de-la-gastronomia-en-lima-el-exito-de-la-fusion-venezolana/)
-
-Demo, a estilosa cafeteria em Lima do chef venezuelano Juan Luis Martínez, está redefinindo a fusão culinária. Com maestria, combina sabores peruanos e venezuelanos, oferecendo cachapas, arepas e pão de goiaba que conquistaram o paladar de locais e estrangeiros, consolidando a comida venezuelana em um mercado exigente.
 
 --- 
 
