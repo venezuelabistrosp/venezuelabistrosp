@@ -1,4 +1,11 @@
-# Relatório de Pesquisa de Tendências (Nuvem) - 2026-07-21 18:18:43
+# Relatório de Pesquisa de Tendências (Nuvem) - 2026-07-22 18:09:10
+
+## 🇻🇪 Venezuela Brilha no 50 Best Discovery 2026: Reconhecimento à Inovação Gastronômica Nacional (Venezuela)
+**Restaurante:** El Bosque Bistró y Dining Room (Caracas y Valencia) | **Data:** Maio 2026 | [Link](https://www.bienmesabe.com/noticia/50-best-discovery-destaca-a-6-restaurantes-venezolanos-este-2026/)
+
+A plataforma 50 Best Discovery 2026 destacou seis restaurantes venezuelanos, incluindo pela primeira vez Valência. El Bosque Bistró (Caracas) e Dining Room (Valência) lideram este reconhecimento, celebrando a cozinha contemporânea com ingredientes locais e a crescente qualidade e inovação da cena culinária venezuelana.
+
+--- 
 
 ## 🇻🇪 Dining Room: Valência se consolida como epicentro da alta gastronomia venezuelana inovadora (Venezuela)
 **Restaurante:** Dining Room (Valencia) | **Data:** Maio 2026 | [Link](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHBK_BtcbDZ1w2aJB9XoLDwxFegxNx7lGZMlCC-s0xENLhzPQXF_z1sK1rPsIm2Dc-93RaZwEAn-jdsWLb4osPvA4rNK9KWBTXxz_Y0ODnPyRkx0Zh3m-1onWeZgNmKHeE7phGfZvzMzHNHX0knkNlJd6OTxJw_WYlQhkphUFJa8FAQYweNjKs8Gw3nQQUEzARp3sfe8Q)
@@ -46,13 +53,6 @@ Casa Ora em Nova Iorque fez história ao se tornar o primeiro restaurante venezu
 **Restaurante:** La Cachapera (Madrid) | **Data:** Maio 2026 | [Link](https://www.vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGCdvJTA6xkb9-4JcDeV2JLhccwin3FeopTcYlIBQzYi91d2HlKmqEhvsfLYlYVml-YgjTh3VJ6rEzJLO_Uxef-cvMoSUE7FFaJtmQycvAPJN5ihj4stlTgAzB_MIJcjMJf_w_6QRwe8QgcchJzKpc8fhfrqhczXrM4AXRH-_6KFCKKv_YdFgc=)
 
 La Cachapera consolida sua presença na Espanha com a abertura de sua segunda unidade em Madrid, totalizando seis estabelecimentos no país. Famosa por suas autênticas cachapas, a rede introduz os inovadores "cachinachos", uma deliciosa fusão que reinventa os nachos com base de cachapa. Um sucesso retumbante da gastronomia venezuelana na Europa.
-
---- 
-
-## 🇺🇸 Pan Pa' Vzla: A Padaria Venezuelana que Funde Tradição e Sabores Globais no Texas (Estados Unidos)
-**Restaurante:** Pan Pa' Vzla (Katy) | **Data:** Maio 2026 | [Link](https://www.vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFnr0PKsfbdangPKWWXwfgGiCUqas-MY9aiCTlfYqzafM1iZNqhsl5DIkHdCk4oD8E9OM4jTfnB4rrlPIuwRVaMQwTSNEgTamf1LsNCYHKQlA==)
-
-Pan Pa' Vzla em Katy, Texas, redefine a padaria venezuelana com seu foco em pães de fermentação natural e uma inovadora fusão de sabores. Oferecendo desde o "Dubai croissant" até o "Venezuela roll", esta padaria artesanal tornou-se uma referência para quem busca qualidade e criatividade em produtos doces e salgados. Um verdadeiro deleite.
 
 --- 
 
