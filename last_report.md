@@ -1,4 +1,18 @@
-# Relatório de Pesquisa de Tendências (Nuvem) - 2026-07-22 18:09:10
+# Relatório de Pesquisa de Tendências (Nuvem) - 2026-07-23 18:15:34
+
+## 🇻🇪 Venezuela brilha: Quatro joias culinárias no prestigiado guia 50 Best Discovery 2026. (Venezuela)
+**Restaurante:** 50 Best Discovery Venezuela (Caracas y Valencia) | **Data:** Maio 2026 | [Link](https://bienmesabe.com/noticia/cuatro-locales-venezolanos-incluidos-en-la-guia-50-best-discovery-2026/)
+
+Quatro restaurantes venezuelanos, La Posada de Cervantes, El Bosque Bistró, Robusto Bar (Caracas) e Dining Room (Valência), foram incluídos no guia 50 Best Discovery 2026. Este reconhecimento global destaca a diversidade e alta qualidade da gastronomia venezuelana, desde tapas tradicionais até alta cozinha de vanguarda, consolidando sua presença internacional.
+
+--- 
+
+## 🇨🇦 Calgary celebra "Sabores de Venezuela": Um festival cultural que encanta o Canadá. (Canadá)
+**Restaurante:** Festival Sabores de Venezuela (Calgary) | **Data:** Maio 2026 | [Link](https://www.familyfuncanada.com/calgary/sabores-de-venezuela-festival/)
+
+O Festival "Sabores de Venezuela" chega a Calgary, Canadá, oferecendo uma imersão cultural gratuita para toda a família. Este evento celebra a rica gastronomia venezuelana, complementada com artesanato, dança e música, proporcionando uma experiência autêntica e vibrante que destaca a diversidade cultural do país caribenho.
+
+--- 
 
 ## 🇻🇪 Venezuela Brilha no 50 Best Discovery 2026: Reconhecimento à Inovação Gastronômica Nacional (Venezuela)
 **Restaurante:** El Bosque Bistró y Dining Room (Caracas y Valencia) | **Data:** Maio 2026 | [Link](https://www.bienmesabe.com/noticia/50-best-discovery-destaca-a-6-restaurantes-venezolanos-este-2026/)
@@ -39,20 +53,6 @@ The Arepa Republic em Toronto está liderando a expansão da arepa venezuelana n
 **Restaurante:** Gastromaníacos 2025 (Maturín) | **Data:** Maio 2026 | [Link](https://saboresyviajes.com/los-mejores-chefs-de-venezuela-se-daran-cita-en-gastromaniacos-2025-este-24-25-y-26-de-octubre-en-maturin/)
 
 Gastromaníacos 2025 em Maturín reuniu chefs venezuelanos e figuras internacionais como Ricardo Chaneton, o primeiro venezuelano com Estrela Michelin. O evento destacou a riqueza culinária do país com degustações, cozinhas ao vivo e palestras, explorando desde a panificação caraquenha até os "hambúrgueres maracuchos" e o pimentão margaritenho.
-
---- 
-
-## 🇺🇸 Casa Ora: A Gastronomia Venezuelana Brilha com Sua Primeira Distinção Michelin em Nova Iorque (Estados Unidos)
-**Restaurante:** Casa Ora (Nueva York) | **Data:** Maio 2026 | [Link](https://www.vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGtwhDoagse-ahP6F1czanGGxXesx0tOz-D-UFGuyIzMcitifhW16-Eoih7ntl-ULZ0OO2YiCkemIQNro6sU4i-4-pQTqt6rBAS6k7881DCrj5tf2FOB9SNvtZABnGOHimMIHhezSSEkkDw2U4BIarEW_PbDYDCDTuZl_2rvN4VcUBFjlgPk60W_kKmK-nlNEj_MS4LugLqzyExM9PoPOa1vwgnGSLsOb0blHCj-CqttluErWNLJRXMtsvrBuM8zFFqqs1thkjm1RTJbLMWkWwhYqBBgLvkzY3KB_5c_rp87KkAayRMktZ-E9xnm0GnDjJB3Va6lSMuCA)
-
-Casa Ora em Nova Iorque fez história ao se tornar o primeiro restaurante venezuelano a receber uma distinção do prestigiado Guia Michelin. Este reconhecimento eleva a culinária venezuelana a novas alturas, destacando sua qualidade e sofisticação na cena culinária global. Uma visita obrigatória para os amantes da alta gastronomia latina.
-
---- 
-
-## 🇪🇸 La Cachapera Conquista Espanha: Expansão e a Inovação dos "Cachinachos" (España)
-**Restaurante:** La Cachapera (Madrid) | **Data:** Maio 2026 | [Link](https://www.vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGCdvJTA6xkb9-4JcDeV2JLhccwin3FeopTcYlIBQzYi91d2HlKmqEhvsfLYlYVml-YgjTh3VJ6rEzJLO_Uxef-cvMoSUE7FFaJtmQycvAPJN5ihj4stlTgAzB_MIJcjMJf_w_6QRwe8QgcchJzKpc8fhfrqhczXrM4AXRH-_6KFCKKv_YdFgc=)
-
-La Cachapera consolida sua presença na Espanha com a abertura de sua segunda unidade em Madrid, totalizando seis estabelecimentos no país. Famosa por suas autênticas cachapas, a rede introduz os inovadores "cachinachos", uma deliciosa fusão que reinventa os nachos com base de cachapa. Um sucesso retumbante da gastronomia venezuelana na Europa.
 
 --- 
 
