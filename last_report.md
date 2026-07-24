@@ -1,4 +1,25 @@
-# Relatório de Pesquisa de Tendências (Nuvem) - 2026-07-23 18:15:34
+# Relatório de Pesquisa de Tendências (Nuvem) - 2026-07-24 18:21:26
+
+## 🇺🇸 Casa Ora: O Primeiro Restaurante Venezuelano em Nova York com Distinção Michelin (Estados Unidos)
+**Restaurante:** Casa Ora (Nueva York) | **Data:** Maio 2026 | [Link](https://larepublica.pe/mundo/estados-unidos/2025/04/20/nueva-york-el-primer-restaurante-venezolano-clasificado-por-michelin-y-que-apoya-a-inmigrantes-a-buscar-asilo-en-eeuu-1522079)
+
+Casa Ora fez história ao ser o primeiro restaurante venezuelano em Nova York a receber uma distinção do Guia Michelin. Inaugurado em janeiro de 2025, este estabelecimento não só eleva a culinária venezuelana a novos patamares, mas também apoia imigrantes em sua busca por asilo nos EUA, combinando excelência culinária com um profundo compromisso social.
+
+--- 
+
+## 🇻🇪 Venezuela Brilha: Quatro Restaurantes Nacionais na Prestigiada Lista 50 Best Discovery 2026 (Venezuela)
+**Restaurante:** La Posada de Cervantes, El Bosque Bistró, Robusto Bar (Caracas); Dining Room (Valencia) | **Data:** Maio 2026 | [Link](https://correodelcaroni.com/mundo/venezuela-suma-cuatro-locales-en-la-lista-gastronomica-50-best-discovery-2026/)
+
+Em julho de 2026, a plataforma 50 Best Discovery reconheceu quatro estabelecimentos venezuelanos: La Posada de Cervantes, El Bosque Bistró e Robusto Bar em Caracas, e Dining Room em Valência. Esta conquista, curada por mais de 1.100 especialistas, destaca a qualidade e resiliência da alta gastronomia venezuelana, consolidando sua presença no cenário gastronômico mundial.
+
+--- 
+
+## 🇪🇸 La Cachapera Conquista Europa: Expansão e Sucesso da Culinária Venezuelana na Espanha (España)
+**Restaurante:** La Cachapera (Madrid) | **Data:** Maio 2026 | [Link](https://www.profesionalhoreca.com/la-cachapera-abre-su-sexto-restaurante-en-espana/)
+
+La Cachapera, rede especializada em culinária venezuelana, consolidou sua expansão na Europa, atingindo 6,5 milhões de euros em faturamento em 2025. Em junho de 2026, inaugurou sua sexta unidade na Espanha, a segunda em Madri, com planos de futuras aberturas em Málaga, Bilbao, Sevilha, Alicante, Lisboa e Paris. Seu sucesso baseia-se na cachapa e nos inovadores cachinachos.
+
+--- 
 
 ## 🇻🇪 Venezuela brilha: Quatro joias culinárias no prestigiado guia 50 Best Discovery 2026. (Venezuela)
 **Restaurante:** 50 Best Discovery Venezuela (Caracas y Valencia) | **Data:** Maio 2026 | [Link](https://bienmesabe.com/noticia/cuatro-locales-venezolanos-incluidos-en-la-guia-50-best-discovery-2026/)
@@ -32,27 +53,6 @@ O Dining Room em Valência, liderado pelo chef Frank Parada, foi premiado com o 
 **Restaurante:** Casa Ora (Brooklyn) | **Data:** Maio 2026 | [Link](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHmFehcMMFT3tscAwXVqdxKhIKy9FAsEehmDf_CpUDl5CuqYf30BFMpuvBLT20_djsShHiBeG_rETVYX72drzfWw30PRcWQi1q8_bzD8eOzi0Ix)
 
 Casa Ora no Brooklyn, Nova York, celebra seu sexto ano consecutivo como restaurante recomendado pelo Guia Michelin. Fundado por Isbelis e Ivo Díaz, este estabelecimento é uma "carta de amor" à cultura venezuelana, oferecendo uma experiência culinária que evoca o lar e a tradição em cada prato e coquetel.
-
---- 
-
-## 🇪🇸 A Rota da Arepa 2025: Madrid celebra o sabor venezuelano com recorde de participação (España)
-**Restaurante:** La Ruta de la Arepa (Madrid) | **Data:** Maio 2026 | [Link](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGu3prvIgldUn7cfo-BGEl-64GTUt-W09pcD6XPnied_s_P1qWOlSrDUVjKzf5HF8-iVUnrfLiOAM1cglVQXJJZuW0hhlMLj-VU0ercuCRYygOw2mIQ_e6Y26rp2wF19ifQJsOd-Vlzo8NwOai6uLigdDORs2Eik-WGJWlRP9NaugGEWCRTQ4DGtuo4wicSBkqiyuUXBQ5VtO5pCc0Fj8J-s4-lMukht9QTTQgIgE9NqGHZ7ZG_zWjq8bnJFxAw0VHL978iC6jAtHKlOhz-kHqfhCmTF0IAHCZ-ryl0EAKYyaauZ2fw_FRJJJ4ycqCART44jX4RdZzuKIU8)
-
-A Rota da Arepa regressou a Madrid em 2025, consolidando-se como um evento chave para a gastronomia venezuelana. Mais de 20 restaurantes participaram nesta edição, que incluiu o III Grande Campeonato de Arepas e atividades paralelas como degustações de cerveja artesanal e brunches de arepas, mostrando a versatilidade deste prato icónico.
-
---- 
-
-## 🇨🇦 Arepa Republic: A Revolução Venezuelana que Conquista o Paladar Canadense em Toronto (Canadá)
-**Restaurante:** Arepa Republic (Toronto) | **Data:** Maio 2026 | [Link](https://eldiario.com/2025/08/20/un-restaurante-venezolano-populariza-la-arepa-en-el-mercado-canadiense/)
-
-The Arepa Republic em Toronto está liderando a expansão da arepa venezuelana no Canadá. Com planos de franquia, este restaurante oferece delícias como a arepa de pabellón, patacones e tequeños, consolidando-se como um referente da gastronomia venezuelana e buscando tornar-se a primeira franquia de arepas no país.
-
---- 
-
-## 🇻🇪 Gastromaníacos 2025: O Encontro Culinário que Celebrou a Diversidade Gastronômica Venezuelana (Venezuela)
-**Restaurante:** Gastromaníacos 2025 (Maturín) | **Data:** Maio 2026 | [Link](https://saboresyviajes.com/los-mejores-chefs-de-venezuela-se-daran-cita-en-gastromaniacos-2025-este-24-25-y-26-de-octubre-en-maturin/)
-
-Gastromaníacos 2025 em Maturín reuniu chefs venezuelanos e figuras internacionais como Ricardo Chaneton, o primeiro venezuelano com Estrela Michelin. O evento destacou a riqueza culinária do país com degustações, cozinhas ao vivo e palestras, explorando desde a panificação caraquenha até os "hambúrgueres maracuchos" e o pimentão margaritenho.
 
 --- 
 
