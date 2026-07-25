@@ -1,4 +1,11 @@
-# Relatório de Pesquisa de Tendências (Nuvem) - 2026-07-24 18:21:26
+# Relatório de Pesquisa de Tendências (Nuvem) - 2026-07-25 18:00:05
+
+## 🇨🇦 The Arepa Republic: A Arepa Venezuelana Conquista o Canadá com Sabor e Expansão (Canadá)
+**Restaurante:** The Arepa Republic (Toronto) | **Data:** Maio 2026 | [Link](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG_o4YAnQCieKEuog-qPgEUOTvc8MW2p1yCqhr9jziPG68kaXSHjSpnYLBtueCIZwTc0mje4RW9tuMUJ1XXqRV6tcw-ZcDHEKcFjHA5S_6RLOY144FkjdXk_PQHZLiqnwNaIa7hPYMNNIBrdXT-VcBzfbLUFK_c-_L594rzef5V)
+
+The Arepa Republic em Toronto consolida-se como embaixador da arepa venezuelana no Canadá, com a arepa de pabellón como seu prato estrela. Com planos de franquia, buscam levar o autêntico sabor venezuelano a todo o país, expandindo sua oferta além de Toronto.
+
+--- 
 
 ## 🇺🇸 Casa Ora: O Primeiro Restaurante Venezuelano em Nova York com Distinção Michelin (Estados Unidos)
 **Restaurante:** Casa Ora (Nueva York) | **Data:** Maio 2026 | [Link](https://larepublica.pe/mundo/estados-unidos/2025/04/20/nueva-york-el-primer-restaurante-venezolano-clasificado-por-michelin-y-que-apoya-a-inmigrantes-a-buscar-asilo-en-eeuu-1522079)
@@ -46,13 +53,6 @@ A plataforma 50 Best Discovery 2026 destacou seis restaurantes venezuelanos, inc
 **Restaurante:** Dining Room (Valencia) | **Data:** Maio 2026 | [Link](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHBK_BtcbDZ1w2aJB9XoLDwxFegxNx7lGZMlCC-s0xENLhzPQXF_z1sK1rPsIm2Dc-93RaZwEAn-jdsWLb4osPvA4rNK9KWBTXxz_Y0ODnPyRkx0Zh3m-1onWeZgNmKHeE7phGfZvzMzHNHX0knkNlJd6OTxJw_WYlQhkphUFJa8FAQYweNjKs8Gw3nQQUEzARp3sfe8Q)
 
 O Dining Room em Valência, liderado pelo chef Frank Parada, foi premiado com o Tenedor de Oro de Melhor Chef em novembro de 2025. Este restaurante eleva a culinária venezuelana a novas alturas com pratos inovadores como o "Pão de mapuey roxo e manteiga de pimenta doce", marcando um marco ao ser o primeiro de Valência no 50 Best Discovery.
-
---- 
-
-## 🇺🇸 Casa Ora: A joia venezuelana no Brooklyn que brilha com o Guia Michelin (Estados Unidos)
-**Restaurante:** Casa Ora (Brooklyn) | **Data:** Maio 2026 | [Link](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHmFehcMMFT3tscAwXVqdxKhIKy9FAsEehmDf_CpUDl5CuqYf30BFMpuvBLT20_djsShHiBeG_rETVYX72drzfWw30PRcWQi1q8_bzD8eOzi0Ix)
-
-Casa Ora no Brooklyn, Nova York, celebra seu sexto ano consecutivo como restaurante recomendado pelo Guia Michelin. Fundado por Isbelis e Ivo Díaz, este estabelecimento é uma "carta de amor" à cultura venezuelana, oferecendo uma experiência culinária que evoca o lar e a tradição em cada prato e coquetel.
 
 --- 
 
