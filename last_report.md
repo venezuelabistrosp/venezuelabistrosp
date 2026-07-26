@@ -1,4 +1,11 @@
-# Relatório de Pesquisa de Tendências (Nuvem) - 2026-07-25 18:00:05
+# Relatório de Pesquisa de Tendências (Nuvem) - 2026-07-26 18:03:58
+
+## 🌎 O Tequeño Conquista o Mundo: Um Snack Venezuelano em Constante Evolução Global (Mundo)
+**Restaurante:** Tendencia global del Tequeño | **Data:** Maio 2026 | [Link](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEQQwcLXFsNVUI6QsuVRjaTEzNO2neC-CBNSdsiO49tVhf3buz6SthacbnQrqGcut5C-FLVijZJYA1BMYg6pk7DcGWWde7KvDkeWlB0mubwwaJjEpR6KUPMjs0v5_xqxe9S-K0kUjjM6CdbRgukFk-oW5m9udMSVE72P9WqVX3fHaCnFwcr5UetKy18nBJbmXBx6DTP5lUEuG8JGPi55JGTcPhP_kuBJ6Vbl08HoIUfGHkFOv6l0Qbp1fLntFBiU-ju6_pRajR9Er8D)
+
+O tequeño, o icônico snack venezuelano, globalizou-se, adaptando-se a diversos paladares com recheios inovadores como chocolate, presunto e queijo, ou pesto. Sua versatilidade o levou a menus internacionais, eventos sociais e até à televisão, demonstrando sua capacidade de transcender fronteiras e culturas gastronômicas.
+
+--- 
 
 ## 🇨🇦 The Arepa Republic: A Arepa Venezuelana Conquista o Canadá com Sabor e Expansão (Canadá)
 **Restaurante:** The Arepa Republic (Toronto) | **Data:** Maio 2026 | [Link](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG_o4YAnQCieKEuog-qPgEUOTvc8MW2p1yCqhr9jziPG68kaXSHjSpnYLBtueCIZwTc0mje4RW9tuMUJ1XXqRV6tcw-ZcDHEKcFjHA5S_6RLOY144FkjdXk_PQHZLiqnwNaIa7hPYMNNIBrdXT-VcBzfbLUFK_c-_L594rzef5V)
@@ -46,13 +53,6 @@ O Festival "Sabores de Venezuela" chega a Calgary, Canadá, oferecendo uma imers
 **Restaurante:** El Bosque Bistró y Dining Room (Caracas y Valencia) | **Data:** Maio 2026 | [Link](https://www.bienmesabe.com/noticia/50-best-discovery-destaca-a-6-restaurantes-venezolanos-este-2026/)
 
 A plataforma 50 Best Discovery 2026 destacou seis restaurantes venezuelanos, incluindo pela primeira vez Valência. El Bosque Bistró (Caracas) e Dining Room (Valência) lideram este reconhecimento, celebrando a cozinha contemporânea com ingredientes locais e a crescente qualidade e inovação da cena culinária venezuelana.
-
---- 
-
-## 🇻🇪 Dining Room: Valência se consolida como epicentro da alta gastronomia venezuelana inovadora (Venezuela)
-**Restaurante:** Dining Room (Valencia) | **Data:** Maio 2026 | [Link](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHBK_BtcbDZ1w2aJB9XoLDwxFegxNx7lGZMlCC-s0xENLhzPQXF_z1sK1rPsIm2Dc-93RaZwEAn-jdsWLb4osPvA4rNK9KWBTXxz_Y0ODnPyRkx0Zh3m-1onWeZgNmKHeE7phGfZvzMzHNHX0knkNlJd6OTxJw_WYlQhkphUFJa8FAQYweNjKs8Gw3nQQUEzARp3sfe8Q)
-
-O Dining Room em Valência, liderado pelo chef Frank Parada, foi premiado com o Tenedor de Oro de Melhor Chef em novembro de 2025. Este restaurante eleva a culinária venezuelana a novas alturas com pratos inovadores como o "Pão de mapuey roxo e manteiga de pimenta doce", marcando um marco ao ser o primeiro de Valência no 50 Best Discovery.
 
 --- 
 
