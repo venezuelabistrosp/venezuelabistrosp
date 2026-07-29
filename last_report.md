@@ -1,4 +1,18 @@
-# Relatório de Pesquisa de Tendências (Nuvem) - 2026-07-27 18:26:30
+# Relatório de Pesquisa de Tendências (Nuvem) - 2026-07-29 18:10:06
+
+## 🇵🇪 Lima se rende à cachapa: Um festival beneficente reinventa o sabor venezuelano com criatividade (Perú)
+**Restaurante:** Por la Cachapa (Lima) | **Data:** Maio 2026 | [Link](https://www.infobae.com/peru/2026/07/05/restaurantes-de-lima-crean-sus-versiones-de-cachapas-para-recaudar-dinero-para-venezuela/)
+
+Mais de 30 restaurantes em Lima se uniram em 'Por la Cachapa', um evento beneficente que transformou a cachapa venezuelana em obras culinárias inovadoras. De versões com torresmo e camarões a fusões nikkei, a iniciativa arrecadou fundos para a World Central Kitchen, demonstrando a versatilidade e o impacto social da gastronomia venezuelana no Peru.
+
+--- 
+
+## 🇻🇪 El Bosque Bistró de Caracas: Um tesouro culinário venezuelano no guia 50 Best Discovery (Venezuela)
+**Restaurante:** El Bosque Bistró (Caracas) | **Data:** Maio 2026 | [Link](https://clxicons.com/2026/07/17/4-restaurantes-de-venezuela-conquistan-la-guia-mundial-50-best-discovery/)
+
+El Bosque Bistró em Caracas foi reconhecido pelo prestigiado guia '50 Best Discovery' em julho de 2026. Este restaurante celebra a diversidade dos sabores venezuelanos com uma culinária criativa de alta qualidade, inspirada nas raízes indígenas, africanas e europeias, destacando o profundo respeito pelos ingredientes locais em um ambiente relaxado.
+
+--- 
 
 ## 🇻🇪 Dining Room: A Alta Cozinha Venezuelana de Valência Brilha no Cenário Global (Venezuela)
 **Restaurante:** Dining Room (Valencia) | **Data:** Maio 2026 | [Link](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFjbX4xByMHMx38HQXAC-cTzBRXuvoBDHDub9RDVnPEcC8_ndpgQjkdvbTHGA8oMm8nBrMF1XtpF03gDvySonDam4ZW22c4umLi-iyFbJ3y46K3l8RhaxHT3EVT98JUYlQX-0hLGDrJGK336gbEheE3jDqWm4HRCcHCV8g_tzXLA9OPv8EjgEsLIQOZszWOxdGzPXA9EtvEBp_tLv14Sqc=)
@@ -39,20 +53,6 @@ Casa Ora fez história ao ser o primeiro restaurante venezuelano em Nova York a 
 **Restaurante:** La Posada de Cervantes, El Bosque Bistró, Robusto Bar (Caracas); Dining Room (Valencia) | **Data:** Maio 2026 | [Link](https://correodelcaroni.com/mundo/venezuela-suma-cuatro-locales-en-la-lista-gastronomica-50-best-discovery-2026/)
 
 Em julho de 2026, a plataforma 50 Best Discovery reconheceu quatro estabelecimentos venezuelanos: La Posada de Cervantes, El Bosque Bistró e Robusto Bar em Caracas, e Dining Room em Valência. Esta conquista, curada por mais de 1.100 especialistas, destaca a qualidade e resiliência da alta gastronomia venezuelana, consolidando sua presença no cenário gastronômico mundial.
-
---- 
-
-## 🇪🇸 La Cachapera Conquista Europa: Expansão e Sucesso da Culinária Venezuelana na Espanha (España)
-**Restaurante:** La Cachapera (Madrid) | **Data:** Maio 2026 | [Link](https://www.profesionalhoreca.com/la-cachapera-abre-su-sexto-restaurante-en-espana/)
-
-La Cachapera, rede especializada em culinária venezuelana, consolidou sua expansão na Europa, atingindo 6,5 milhões de euros em faturamento em 2025. Em junho de 2026, inaugurou sua sexta unidade na Espanha, a segunda em Madri, com planos de futuras aberturas em Málaga, Bilbao, Sevilha, Alicante, Lisboa e Paris. Seu sucesso baseia-se na cachapa e nos inovadores cachinachos.
-
---- 
-
-## 🇻🇪 Venezuela brilha: Quatro joias culinárias no prestigiado guia 50 Best Discovery 2026. (Venezuela)
-**Restaurante:** 50 Best Discovery Venezuela (Caracas y Valencia) | **Data:** Maio 2026 | [Link](https://bienmesabe.com/noticia/cuatro-locales-venezolanos-incluidos-en-la-guia-50-best-discovery-2026/)
-
-Quatro restaurantes venezuelanos, La Posada de Cervantes, El Bosque Bistró, Robusto Bar (Caracas) e Dining Room (Valência), foram incluídos no guia 50 Best Discovery 2026. Este reconhecimento global destaca a diversidade e alta qualidade da gastronomia venezuelana, desde tapas tradicionais até alta cozinha de vanguarda, consolidando sua presença internacional.
 
 --- 
 
