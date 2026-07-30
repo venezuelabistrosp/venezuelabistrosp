@@ -1,4 +1,18 @@
-# Relatório de Pesquisa de Tendências (Nuvem) - 2026-07-29 18:10:06
+# Relatório de Pesquisa de Tendências (Nuvem) - 2026-07-30 18:19:36
+
+## 🇻🇪 Projeto Ubre: A Gastronomia Sustentável Venezuelana que Conquista a Iberoamérica e Europa (Venezuela)
+**Restaurante:** Proyecto Ubre (Caracas) | **Data:** Maio 2026 | [Link](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEZbWDkhgHLnr3OktGkpxN2cQuguHfZ1gb7ZOPsNZpLAypdK1f43tcHtQykjp4atntgKIY14j48oagf44xrr3Og3BMAN2gg48h_QPcK1kcU56VXUWPOtQ9_TgHbbD86QiW4adV6qFFndjQLM_oNKDFcYzAvlKPLCZhFzVn8RRhBU7VtYfKdikOPtMIzJPG55290bDPkrc2Pqfg0OH2hexdnpQ==)
+
+Projeto Ubre, liderado pelo chef Issam Koteich, revoluciona a gastronomia venezuelana com seu modelo sustentável "da fazenda à mesa". Reconhecido com o Prêmio Ibero-Americano de Gastronomia 2026, sua proposta foca no cordeiro e na identidade local, com ambiciosos planos de expansão para a Europa. Uma visão culinária com impacto real.
+
+--- 
+
+## 🇻🇪 Venezuela Brilha no 50 Best Discovery 2026: Dining Room e El Bosque Bistro em Destaque (Venezuela)
+**Restaurante:** Dining Room (Valencia) y El Bosque Bistro (Caracas) | **Data:** Maio 2026 | [Link](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGgAEzqj1YxmwECPDLt4LTbIvwwATxI0UkXHSLXPcoZwIp2rNFjFAZL1UwjU-LpuKPVoCsVgJ-X4XNDcmDWN9cxb9CaEfB8q-ZwZJ5r36YOiqWb0IuT64J3u5nL04gxZ2rmUvs_NypjXJQKFaO0iwHXxHVxjJlbZkUQdhgSsLeKvSWTrIl5lrY8k3H634WStkevmo3yMV6bRr76iZ7Mgd6VKmMIly9Oaa7yN29_B7cWTwT0Z7GD)
+
+O guia 50 Best Discovery 2026 reconheceu "Dining Room" (Valencia) e "El Bosque Bistro" (Caracas) entre os melhores da Venezuela. Esta conquista destaca a expansão da alta gastronomia venezuelana para além da capital, celebrando propostas inovadoras e o profundo respeito pelos ingredientes locais e a rica herança cultural do país.
+
+--- 
 
 ## 🇵🇪 Lima se rende à cachapa: Um festival beneficente reinventa o sabor venezuelano com criatividade (Perú)
 **Restaurante:** Por la Cachapa (Lima) | **Data:** Maio 2026 | [Link](https://www.infobae.com/peru/2026/07/05/restaurantes-de-lima-crean-sus-versiones-de-cachapas-para-recaudar-dinero-para-venezuela/)
@@ -39,20 +53,6 @@ O tequeño, o icônico snack venezuelano, globalizou-se, adaptando-se a diversos
 **Restaurante:** The Arepa Republic (Toronto) | **Data:** Maio 2026 | [Link](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG_o4YAnQCieKEuog-qPgEUOTvc8MW2p1yCqhr9jziPG68kaXSHjSpnYLBtueCIZwTc0mje4RW9tuMUJ1XXqRV6tcw-ZcDHEKcFjHA5S_6RLOY144FkjdXk_PQHZLiqnwNaIa7hPYMNNIBrdXT-VcBzfbLUFK_c-_L594rzef5V)
 
 The Arepa Republic em Toronto consolida-se como embaixador da arepa venezuelana no Canadá, com a arepa de pabellón como seu prato estrela. Com planos de franquia, buscam levar o autêntico sabor venezuelano a todo o país, expandindo sua oferta além de Toronto.
-
---- 
-
-## 🇺🇸 Casa Ora: O Primeiro Restaurante Venezuelano em Nova York com Distinção Michelin (Estados Unidos)
-**Restaurante:** Casa Ora (Nueva York) | **Data:** Maio 2026 | [Link](https://larepublica.pe/mundo/estados-unidos/2025/04/20/nueva-york-el-primer-restaurante-venezolano-clasificado-por-michelin-y-que-apoya-a-inmigrantes-a-buscar-asilo-en-eeuu-1522079)
-
-Casa Ora fez história ao ser o primeiro restaurante venezuelano em Nova York a receber uma distinção do Guia Michelin. Inaugurado em janeiro de 2025, este estabelecimento não só eleva a culinária venezuelana a novos patamares, mas também apoia imigrantes em sua busca por asilo nos EUA, combinando excelência culinária com um profundo compromisso social.
-
---- 
-
-## 🇻🇪 Venezuela Brilha: Quatro Restaurantes Nacionais na Prestigiada Lista 50 Best Discovery 2026 (Venezuela)
-**Restaurante:** La Posada de Cervantes, El Bosque Bistró, Robusto Bar (Caracas); Dining Room (Valencia) | **Data:** Maio 2026 | [Link](https://correodelcaroni.com/mundo/venezuela-suma-cuatro-locales-en-la-lista-gastronomica-50-best-discovery-2026/)
-
-Em julho de 2026, a plataforma 50 Best Discovery reconheceu quatro estabelecimentos venezuelanos: La Posada de Cervantes, El Bosque Bistró e Robusto Bar em Caracas, e Dining Room em Valência. Esta conquista, curada por mais de 1.100 especialistas, destaca a qualidade e resiliência da alta gastronomia venezuelana, consolidando sua presença no cenário gastronômico mundial.
 
 --- 
 
