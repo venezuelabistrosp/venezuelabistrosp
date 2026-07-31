@@ -1,4 +1,25 @@
-# Relatório de Pesquisa de Tendências (Nuvem) - 2026-07-30 18:19:36
+# Relatório de Pesquisa de Tendências (Nuvem) - 2026-07-31 18:23:52
+
+## 🇺🇸 Casa Ora: A Alta Cozinha Venezuelana Brilha com Estrela Michelin em Nova Iorque (Estados Unidos)
+**Restaurante:** Casa Ora (Nueva York) | **Data:** Maio 2026 | [Link](https://larepublica.pe/sociedad/2025/04/20/nueva-york-el-primer-restaurante-venezolano-clasificado-por-michelin-y-que-apoya-a-inmigrantes-a-buscar-asilo-en-eeuu-1563236)
+
+Casa Ora em Nova Iorque fez história ao ser o primeiro restaurante venezuelano a receber uma distinção do Guia Michelin. Este estabelecimento eleva a gastronomia venezuelana à alta cozinha, reinterpretando sabores tradicionais com técnicas inovadoras. Além da sua excelência culinária, Casa Ora destaca-se pelo seu compromisso social, apoiando imigrantes na busca por asilo.
+
+--- 
+
+## 🇵🇪 "Pela Cachapa": Um Gesto Solidário Latino-Americano para a Venezuela (Perú)
+**Restaurante:** "Por la Cachapa" (Lima) | **Data:** Maio 2026 | [Link](https://www.infobae.com/peru/2026/07/03/por-la-cachapa-mas-de-30-restaurantes-de-peru-y-latinoamerica-se-unen-este-domingo-para-recaudar-fondos-por-venezuela/)
+
+O evento "Pela Cachapa" une mais de 30 restaurantes no Peru e na América Latina para arrecadar fundos para comunidades venezuelanas afetadas por um terremoto. Impulsionado pela padaria Demo, este festival celebra a versatilidade da cachapa, oferecendo versões inovadoras que vão do marinho a fusões com a culinária indiana, demonstrando solidariedade através da gastronomia.
+
+--- 
+
+## 🇪🇸 Chemex Expande o Sabor Venezuelano com a Sua Nova Sede na Corunha (España)
+**Restaurante:** Chemex (A Coruña) | **Data:** Maio 2026 | [Link](https://www.elidealgallego.com/articulo/coruna/asi-sabe-nuevo-restaurante-venezolano-coruna/20260730030501633534.html)
+
+Chemex, um restaurante venezuelano de sucesso, abriu uma nova sede na Corunha em julho de 2026, após sete anos em O Burgo. O seu extenso menu oferece até vinte tipos de arepas, incluindo a popular "reina pepiada", além de empanadas e cachapas, consolidando-se como uma referência da autêntica gastronomia venezuelana na Galiza.
+
+--- 
 
 ## 🇻🇪 Projeto Ubre: A Gastronomia Sustentável Venezuelana que Conquista a Iberoamérica e Europa (Venezuela)
 **Restaurante:** Proyecto Ubre (Caracas) | **Data:** Maio 2026 | [Link](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEZbWDkhgHLnr3OktGkpxN2cQuguHfZ1gb7ZOPsNZpLAypdK1f43tcHtQykjp4atntgKIY14j48oagf44xrr3Og3BMAN2gg48h_QPcK1kcU56VXUWPOtQ9_TgHbbD86QiW4adV6qFFndjQLM_oNKDFcYzAvlKPLCZhFzVn8RRhBU7VtYfKdikOPtMIzJPG55290bDPkrc2Pqfg0OH2hexdnpQ==)
@@ -32,27 +53,6 @@ El Bosque Bistró em Caracas foi reconhecido pelo prestigiado guia '50 Best Disc
 **Restaurante:** Dining Room (Valencia) | **Data:** Maio 2026 | [Link](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFjbX4xByMHMx38HQXAC-cTzBRXuvoBDHDub9RDVnPEcC8_ndpgQjkdvbTHGA8oMm8nBrMF1XtpF03gDvySonDam4ZW22c4umLi-iyFbJ3y46K3l8RhaxHT3EVT98JUYlQX-0hLGDrJGK336gbEheE3jDqWm4HRCcHCV8g_tzXLA9OPv8EjgEsLIQOZszWOxdGzPXA9EtvEBp_tLv14Sqc=)
 
 O Dining Room em Valência, Venezuela, eleva a gastronomia local a novas alturas. Reconhecido no 50 Best Discovery 2026, seu chef Frank Parada, premiado com o Tenedor de Oro 2025, funde técnicas de vanguarda com ingredientes venezuelanos, oferecendo uma experiência culinária sofisticada que coloca Valência no mapa gastronômico mundial.
-
---- 
-
-## 🇺🇸 Casa Ora: Seis Anos de Excelência Venezuelana Reconhecida pelo Guia Michelin em Nova York (Estados Unidos)
-**Restaurante:** Casa Ora (Brooklyn) | **Data:** Maio 2026 | [Link](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGOJMdnDkeltMdXTfnHxi93EHdTy2wfWposbGSWvLktEiE920c2qRk4qbBd3qnv4ll8HACgJpTUigU9He-4Jg6fDnRp8NUloAwU1x20ECgDd_vW)
-
-O Casa Ora no Brooklyn, Nova York, celebra seis anos de reconhecimento Michelin, elevando a culinária venezuelana tradicional. Fundado pela chef Isbelis Díaz e seu filho Ivo, o restaurante é uma "carta de amor" à cultura venezuelana, oferecendo pratos sofisticados e coquetéis que evocam memórias e um "sabor de casa, elevado".
-
---- 
-
-## 🌎 O Tequeño Conquista o Mundo: Um Snack Venezuelano em Constante Evolução Global (Mundo)
-**Restaurante:** Tendencia global del Tequeño | **Data:** Maio 2026 | [Link](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEQQwcLXFsNVUI6QsuVRjaTEzNO2neC-CBNSdsiO49tVhf3buz6SthacbnQrqGcut5C-FLVijZJYA1BMYg6pk7DcGWWde7KvDkeWlB0mubwwaJjEpR6KUPMjs0v5_xqxe9S-K0kUjjM6CdbRgukFk-oW5m9udMSVE72P9WqVX3fHaCnFwcr5UetKy18nBJbmXBx6DTP5lUEuG8JGPi55JGTcPhP_kuBJ6Vbl08HoIUfGHkFOv6l0Qbp1fLntFBiU-ju6_pRajR9Er8D)
-
-O tequeño, o icônico snack venezuelano, globalizou-se, adaptando-se a diversos paladares com recheios inovadores como chocolate, presunto e queijo, ou pesto. Sua versatilidade o levou a menus internacionais, eventos sociais e até à televisão, demonstrando sua capacidade de transcender fronteiras e culturas gastronômicas.
-
---- 
-
-## 🇨🇦 The Arepa Republic: A Arepa Venezuelana Conquista o Canadá com Sabor e Expansão (Canadá)
-**Restaurante:** The Arepa Republic (Toronto) | **Data:** Maio 2026 | [Link](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG_o4YAnQCieKEuog-qPgEUOTvc8MW2p1yCqhr9jziPG68kaXSHjSpnYLBtueCIZwTc0mje4RW9tuMUJ1XXqRV6tcw-ZcDHEKcFjHA5S_6RLOY144FkjdXk_PQHZLiqnwNaIa7hPYMNNIBrdXT-VcBzfbLUFK_c-_L594rzef5V)
-
-The Arepa Republic em Toronto consolida-se como embaixador da arepa venezuelana no Canadá, com a arepa de pabellón como seu prato estrela. Com planos de franquia, buscam levar o autêntico sabor venezuelano a todo o país, expandindo sua oferta além de Toronto.
 
 --- 
 
