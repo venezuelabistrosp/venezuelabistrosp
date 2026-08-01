@@ -1,4 +1,25 @@
-# Relatório de Pesquisa de Tendências (Nuvem) - 2026-07-31 18:23:52
+# Relatório de Pesquisa de Tendências (Nuvem) - 2026-08-01 18:03:58
+
+## 🇻🇪 Cordero em Caracas: Alta Cozinha Venezuelana com Sustentabilidade e Reconhecimento Global (Venezuela)
+**Restaurante:** Cordero (Caracas) | **Data:** Maio 2026 | [Link](https://bienmesabe.com/gastronomia-en-venezuela-3-grandes-logros-que-marcaron-el-2025/)
+
+Cordero, em Caracas, redefine a alta cozinha venezuelana com foco na sustentabilidade. Seu "Projeto Ubre" integra a criação orgânica de cordeiro com técnicas culinárias de ponta, alcançando reconhecimento como um dos melhores restaurantes da América Latina em 2025. Uma proposta que celebra o produto local e a inovação gastronômica.
+
+--- 
+
+## 🇪🇸 A Rota da Arepa 2025 em Madrid: Celebrando o Sabor Venezuelano Além das Fronteiras (España)
+**Restaurante:** Ruta de la Arepa 2025 (Madrid) | **Data:** Maio 2026 | [Link](https://www.excelenciasgourmet.com/gastronomia-venezolana/)
+
+Madrid rendeu-se ao sabor venezuelano com a Rota da Arepa 2025, um evento que destacou a versatilidade e a profundidade cultural deste prato icônico. Com a participação de Boris Izaguirre, a iniciativa procurou as melhores arepas da capital espanhola, consolidando a presença da gastronomia venezuelana na Europa.
+
+--- 
+
+## 🇻🇪 Bocú em Caracas: A Inovadora Fusão Franco-Venezuelana que Será Tendência em 2026 (Venezuela)
+**Restaurante:** Bocú (Caracas) | **Data:** Maio 2026 | [Link](https://gastronomia.com.ve/restaurantes-nuevos-en-caracas-en-el-2026/)
+
+Bocú surge como uma das aberturas mais aguardadas em Caracas para 2026, prometendo uma audaciosa fusão franco-venezuelana. Este novo restaurante representa a evolução da cena gastronômica local, combinando a riqueza dos sabores venezuelanos com a sofisticação das técnicas culinárias francesas, oferecendo uma experiência única.
+
+--- 
 
 ## 🇺🇸 Casa Ora: A Alta Cozinha Venezuelana Brilha com Estrela Michelin em Nova Iorque (Estados Unidos)
 **Restaurante:** Casa Ora (Nueva York) | **Data:** Maio 2026 | [Link](https://larepublica.pe/sociedad/2025/04/20/nueva-york-el-primer-restaurante-venezolano-clasificado-por-michelin-y-que-apoya-a-inmigrantes-a-buscar-asilo-en-eeuu-1563236)
@@ -32,27 +53,6 @@ Projeto Ubre, liderado pelo chef Issam Koteich, revoluciona a gastronomia venezu
 **Restaurante:** Dining Room (Valencia) y El Bosque Bistro (Caracas) | **Data:** Maio 2026 | [Link](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGgAEzqj1YxmwECPDLt4LTbIvwwATxI0UkXHSLXPcoZwIp2rNFjFAZL1UwjU-LpuKPVoCsVgJ-X4XNDcmDWN9cxb9CaEfB8q-ZwZJ5r36YOiqWb0IuT64J3u5nL04gxZ2rmUvs_NypjXJQKFaO0iwHXxHVxjJlbZkUQdhgSsLeKvSWTrIl5lrY8k3H634WStkevmo3yMV6bRr76iZ7Mgd6VKmMIly9Oaa7yN29_B7cWTwT0Z7GD)
 
 O guia 50 Best Discovery 2026 reconheceu "Dining Room" (Valencia) e "El Bosque Bistro" (Caracas) entre os melhores da Venezuela. Esta conquista destaca a expansão da alta gastronomia venezuelana para além da capital, celebrando propostas inovadoras e o profundo respeito pelos ingredientes locais e a rica herança cultural do país.
-
---- 
-
-## 🇵🇪 Lima se rende à cachapa: Um festival beneficente reinventa o sabor venezuelano com criatividade (Perú)
-**Restaurante:** Por la Cachapa (Lima) | **Data:** Maio 2026 | [Link](https://www.infobae.com/peru/2026/07/05/restaurantes-de-lima-crean-sus-versiones-de-cachapas-para-recaudar-dinero-para-venezuela/)
-
-Mais de 30 restaurantes em Lima se uniram em 'Por la Cachapa', um evento beneficente que transformou a cachapa venezuelana em obras culinárias inovadoras. De versões com torresmo e camarões a fusões nikkei, a iniciativa arrecadou fundos para a World Central Kitchen, demonstrando a versatilidade e o impacto social da gastronomia venezuelana no Peru.
-
---- 
-
-## 🇻🇪 El Bosque Bistró de Caracas: Um tesouro culinário venezuelano no guia 50 Best Discovery (Venezuela)
-**Restaurante:** El Bosque Bistró (Caracas) | **Data:** Maio 2026 | [Link](https://clxicons.com/2026/07/17/4-restaurantes-de-venezuela-conquistan-la-guia-mundial-50-best-discovery/)
-
-El Bosque Bistró em Caracas foi reconhecido pelo prestigiado guia '50 Best Discovery' em julho de 2026. Este restaurante celebra a diversidade dos sabores venezuelanos com uma culinária criativa de alta qualidade, inspirada nas raízes indígenas, africanas e europeias, destacando o profundo respeito pelos ingredientes locais em um ambiente relaxado.
-
---- 
-
-## 🇻🇪 Dining Room: A Alta Cozinha Venezuelana de Valência Brilha no Cenário Global (Venezuela)
-**Restaurante:** Dining Room (Valencia) | **Data:** Maio 2026 | [Link](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFjbX4xByMHMx38HQXAC-cTzBRXuvoBDHDub9RDVnPEcC8_ndpgQjkdvbTHGA8oMm8nBrMF1XtpF03gDvySonDam4ZW22c4umLi-iyFbJ3y46K3l8RhaxHT3EVT98JUYlQX-0hLGDrJGK336gbEheE3jDqWm4HRCcHCV8g_tzXLA9OPv8EjgEsLIQOZszWOxdGzPXA9EtvEBp_tLv14Sqc=)
-
-O Dining Room em Valência, Venezuela, eleva a gastronomia local a novas alturas. Reconhecido no 50 Best Discovery 2026, seu chef Frank Parada, premiado com o Tenedor de Oro 2025, funde técnicas de vanguarda com ingredientes venezuelanos, oferecendo uma experiência culinária sofisticada que coloca Valência no mapa gastronômico mundial.
 
 --- 
 
