@@ -1,4 +1,11 @@
-# Relatório de Pesquisa de Tendências (Nuvem) - 2026-08-01 18:03:58
+# Relatório de Pesquisa de Tendências (Nuvem) - 2026-08-02 18:01:58
+
+## 🇵🇪 "Pela Cachapa": Um Festival Gastronômico Solidário que Conquista a América Latina (Perú)
+**Restaurante:** Evento "Por la Cachapa" (Latinoamérica) | **Data:** Maio 2026 | [Link](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE3eKt_wrBjOwlaTmemiIVabQvK-CpwlRETE2Celob_wqQqiR-LBJRfQktdLsDK8gvCIa0at-FFiIywuISeoliqZD7us0tBk4bGzvl50dPlqAAs3awLgSiCPgD-34kJJNvhR0x8oIazj42Z7gumtLy4SoAf5a4O7-E9SEQ6457eIBx1--fgc3H6xqKY6CCX_Ux4ZK02-iduqsYl3dJacDZsA3tXHS1gkkVuE1BCaQo1QUHvVC6pL5N7Yi_3OUahqedSTtLZcNjXHJf4DTypOuAtClIa9yiOOwm3RA==)
+
+O evento "Pela Cachapa" em julho de 2026 uniu mais de 30 restaurantes latino-americanos para reinventar a cachapa venezuelana. Iniciado no Peru, esta iniciativa beneficente arrecadou fundos para a World Central Kitchen, mostrando a versatilidade do prato com versões marinhas, de hambúrguer e indianas, e um grande espírito solidário.
+
+--- 
 
 ## 🇻🇪 Cordero em Caracas: Alta Cozinha Venezuelana com Sustentabilidade e Reconhecimento Global (Venezuela)
 **Restaurante:** Cordero (Caracas) | **Data:** Maio 2026 | [Link](https://bienmesabe.com/gastronomia-en-venezuela-3-grandes-logros-que-marcaron-el-2025/)
@@ -46,13 +53,6 @@ Chemex, um restaurante venezuelano de sucesso, abriu uma nova sede na Corunha em
 **Restaurante:** Proyecto Ubre (Caracas) | **Data:** Maio 2026 | [Link](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEZbWDkhgHLnr3OktGkpxN2cQuguHfZ1gb7ZOPsNZpLAypdK1f43tcHtQykjp4atntgKIY14j48oagf44xrr3Og3BMAN2gg48h_QPcK1kcU56VXUWPOtQ9_TgHbbD86QiW4adV6qFFndjQLM_oNKDFcYzAvlKPLCZhFzVn8RRhBU7VtYfKdikOPtMIzJPG55290bDPkrc2Pqfg0OH2hexdnpQ==)
 
 Projeto Ubre, liderado pelo chef Issam Koteich, revoluciona a gastronomia venezuelana com seu modelo sustentável "da fazenda à mesa". Reconhecido com o Prêmio Ibero-Americano de Gastronomia 2026, sua proposta foca no cordeiro e na identidade local, com ambiciosos planos de expansão para a Europa. Uma visão culinária com impacto real.
-
---- 
-
-## 🇻🇪 Venezuela Brilha no 50 Best Discovery 2026: Dining Room e El Bosque Bistro em Destaque (Venezuela)
-**Restaurante:** Dining Room (Valencia) y El Bosque Bistro (Caracas) | **Data:** Maio 2026 | [Link](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGgAEzqj1YxmwECPDLt4LTbIvwwATxI0UkXHSLXPcoZwIp2rNFjFAZL1UwjU-LpuKPVoCsVgJ-X4XNDcmDWN9cxb9CaEfB8q-ZwZJ5r36YOiqWb0IuT64J3u5nL04gxZ2rmUvs_NypjXJQKFaO0iwHXxHVxjJlbZkUQdhgSsLeKvSWTrIl5lrY8k3H634WStkevmo3yMV6bRr76iZ7Mgd6VKmMIly9Oaa7yN29_B7cWTwT0Z7GD)
-
-O guia 50 Best Discovery 2026 reconheceu "Dining Room" (Valencia) e "El Bosque Bistro" (Caracas) entre os melhores da Venezuela. Esta conquista destaca a expansão da alta gastronomia venezuelana para além da capital, celebrando propostas inovadoras e o profundo respeito pelos ingredientes locais e a rica herança cultural do país.
 
 --- 
 
