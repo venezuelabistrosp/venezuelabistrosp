@@ -1,4 +1,18 @@
-# Relatório de Pesquisa de Tendências (Nuvem) - 2026-08-07 17:52:53
+# Relatório de Pesquisa de Tendências (Nuvem) - 2026-08-08 17:33:22
+
+## 🇦🇷 Diez Treinta: Cozinha de Autor Venezuelana e Música em Vinil em Buenos Aires (Argentina)
+**Restaurante:** Diez Treinta (Buenos Aires) | **Data:** Maio 2026 | [Link](https://www.iprofesional.com/negocios/406001-es-chef-huyo-de-venezuela-y-abrio-un-restaurante-en-colegiales-que-es-unico)
+
+O chef venezuelano Eliseo Martínez funde gastronomia de autor, vinhos de baixa intervenção e música em vinil no Diez Treinta, seu inovador restaurante e listening bar em Buenos Aires. Um espaço único que celebra a cultura e o sabor venezuelano com um toque contemporâneo.
+
+--- 
+
+## 🇵🇪 Por la Cachapa: Um Evento Solidário que Uniu a América Latina pela Venezuela (Perú)
+**Restaurante:** Por la Cachapa (Lima) | **Data:** Maio 2026 | [Link](https://www.infobae.com/america/peru/2026/07/03/por-la-cachapa-mas-de-30-restaurantes-de-peru-y-latinoamerica-se-unen-este-domingo-para-recaudar-fondos-por-venezuela/)
+
+O evento 'Por la Cachapa' reuniu mais de 30 restaurantes no Peru e na América Latina em julho de 2026 para arrecadar fundos para comunidades venezuelanas afetadas por terremotos. Uma iniciativa solidária que celebrou a cachapa em diversas e criativas versões, mostrando a união através da gastronomia.
+
+--- 
 
 ## 🇻🇪 Venezuela Brilha: El Bosque Bistró e Dining Room no 50 Best Discovery 2026 (Venezuela)
 **Restaurante:** El Bosque Bistró (Caracas) y Dining Room (Valencia) | **Data:** Maio 2026 | [Link](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF4BvT1sPgPrnyC0_Fads1ffCTgibq66bfSoBn4VCJy-YM7sbW3pMQ21RfS1DjFTJmYSLf27QcqFX8dQ-OAzevCJ5riMf2_-cOsjrP_Q_eKDd4otGuJ0oH6QdV6mNn7evEfcibmnUl1WTS1iZc-eaza5zwSAPGdV0xUhhzJzY90eUTUKyYD7GiywZrQ0J9VEKzrdvHVsw==)
@@ -39,20 +53,6 @@ Projeto Ubre, liderado pelo chef Issam Koteich nos arredores de Caracas, foi pre
 **Restaurante:** Azú Pastelería / María Evans (Las Vegas) | **Data:** Maio 2026 | [Link](https://elestimulo.com/bienmesabe/la-venezolana-maria-evans-gana-plata-en-global-chef-de-las-vegas-y-pasa-a-la-final-mundial/)
 
 A chef venezuelana Maria Evans, da Azú Pastelería, elevou o nome da Venezuela ao ganhar a medalha de prata no Global Chef Challenge de Las Vegas em 2025. A sua sobremesa inovadora, que funde magistralmente cacau a 72% e manga, garantiu-lhe um lugar na final mundial no País de Gales, demonstrando a sofisticação e o potencial da pastelaria venezuelana a nível internacional.
-
---- 
-
-## 🇺🇸 DC Al Toque: A Autêntica Culinária Venezuelana Chega a Washington D.C. com Sabor e Tradição (Estados Unidos)
-**Restaurante:** DC Al Toque (Washington D.C.) | **Data:** Maio 2026 | [Link](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHfWw-W-DtWBNpTCJ9nIQCNWro_x3ZYjZxMbDVkdvauxckJjomELsJI__-8dNxv_pMkcV4WDptLLLueu280Pnk0pUOzLtRcRYtAIFpU6O8rw9mjYfcioFSVJpqVw8DJiVSNSauUyrhL_gu2NxDXQkMGEAl_vyUIkAM0EiicNNoz5WQ6hZfYwJ96W6mdW7Nj8Ph_SBjxBq2_Z_ztHqZDD7Jp4SnoxR0ILPZzlaTsMN2SuRp1EpBV7x669f9L2bw1DIeJ8223LFOwKUJyuh62q0x-3A==)
-
-DC Al Toque se estabelece como o primeiro restaurante venezuelano à la carte em Washington D.C., oferecendo uma viagem culinária pela Venezuela. Do icônico pabellón criollo ao inovador "pepito de um metro", este lugar promete autenticidade e uma padaria artesanal com cachitos e piñitas frescas. Uma parada obrigatória para os amantes da gastronomia venezuelana.
-
---- 
-
-## 🇵🇪 Demo em Lima: A Fusão Venezuelana que Conquista a Capital Gastronômica do Peru (Perú)
-**Restaurante:** Demo (Lima) | **Data:** Maio 2026 | [Link](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFrQTGCwxAUqZOusaPQ06eJSD5-22tNIwpw2_Ylq-guYeBbpUEihMI3JIaM3HB88-uATAv0gw3MqOLawIKdwfEwqmcrqsK6fyHtGDiKmq51mZkG4l-sQRlEhMuTAe9FNqc86DMoUtIvNyWqQ7LEnPUqrySfCGXC103z8uJM9JqGo4hrXQBJTozoCZnByHQ9-4DSzfkf_2ZQZGnJip70He3B6mqARmBoxQ==)
-
-Sob a direção do chef Juan Luis Martínez, o Demo em Lima tornou-se uma referência da culinária venezuelana. Com uma equipe majoritariamente venezuelana, este elegante café oferece cachapas, arepas e pão de goiaba, demonstrando como a migração enriquece a cena culinária do Peru. Uma parada essencial para explorar sabores autênticos.
 
 --- 
 
