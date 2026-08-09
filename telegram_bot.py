@@ -71,7 +71,11 @@ def run_git_commands(commit_message, files_to_add=None):
         github_token = os.environ.get("GITHUB_TOKEN")
         if github_token:
             remote_url = f"https://x-token-auth:{github_token}@github.com/venezuelabistrosp/venezuelabistrosp.git"
-            subprocess.run(["git", "remote", "set-url", "origin", remote_url], check=True, capture_output=True)
+            check_remote = subprocess.run(["git", "remote"], capture_output=True, text=True)
+            if "origin" in check_remote.stdout:
+                subprocess.run(["git", "remote", "set-url", "origin", remote_url], check=True, capture_output=True)
+            else:
+                subprocess.run(["git", "remote", "add", "origin", remote_url], check=True, capture_output=True)
             
         # Automatically update sw.js version and add it to the commit
         try:
