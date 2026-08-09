@@ -93,10 +93,10 @@ def run_git_commands(commit_message, files_to_add=None):
         subprocess.run(["git", "commit", "-m", commit_message], check=True, capture_output=True)
         
         # Pull remote changes with rebase to prevent conflicts with daily trend commits from GitHub Actions
-        subprocess.run(["git", "pull", "--rebase"], check=True, capture_output=True)
+        subprocess.run(["git", "pull", "origin", "main", "--rebase"], check=True, capture_output=True)
         
         # Push to origin main
-        subprocess.run(["git", "push"], check=True, capture_output=True)
+        subprocess.run(["git", "push", "origin", "main"], check=True, capture_output=True)
         print("[+] Git operations completed successfully.")
         return True
     except subprocess.CalledProcessError as e:
