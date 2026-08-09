@@ -68,7 +68,7 @@ def run_git_commands(commit_message, files_to_add=None):
         # Configure remote URL with GITHUB_TOKEN if running in the cloud
         github_token = os.environ.get("GITHUB_TOKEN")
         if github_token:
-            remote_url = f"https://{github_token}@github.com/venezuelabistrosp/venezuelabistrosp.git"
+            remote_url = f"https://x-token-auth:{github_token}@github.com/venezuelabistrosp/venezuelabistrosp.git"
             subprocess.run(["git", "remote", "set-url", "origin", remote_url], check=True, capture_output=True)
             
         # Automatically update sw.js version and add it to the commit
