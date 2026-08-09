@@ -58,6 +58,8 @@ def get_updates(token, offset=None):
         print("[-] Error fetching updates:", e)
         return None
 
+LAST_GIT_ERROR = "None"
+
 def run_git_commands(commit_message, files_to_add=None):
     """Stages files, commits, pulls remote changes (to avoid push rejections), and pushes to GitHub."""
     try:
@@ -100,6 +102,12 @@ def run_git_commands(commit_message, files_to_add=None):
         print("[+] Git operations completed successfully.")
         return True
     except subprocess.CalledProcessError as e:
+        global LAST_GIT_ERROR
+        cmd_str = str(e.cmd)
+        out_str = e.output.decode("utf-8", errors="ignore")
+        err_str = e.stderr.decode("utf-8", errors="ignore")
+        LAST_GIT_ERROR = f"Command: {cmd_str}\nStdout: {out_str}\nStderr: {err_str}"
+        
         print(f"[-] Git command failed: {e.cmd}")
         print(f"[-] Output: {e.output.decode('utf-8', errors='ignore')}")
         print(f"[-] Error: {e.stderr.decode('utf-8', errors='ignore')}")
@@ -568,11 +576,13 @@ app = Flask(__name__)
 @app.route('/')
 def health_check():
     import subprocess
+    global LAST_GIT_ERROR
     return jsonify({
         "status": "ok",
         "bot": "running",
         "has_token": os.environ.get("GITHUB_TOKEN") is not None,
-        "commit": subprocess.getoutput("git rev-parse --short HEAD")
+        "commit": subprocess.getoutput("git rev-parse --short HEAD"),
+        "last_git_error": LAST_GIT_ERROR
     }), 200
 
 def run_flask():
