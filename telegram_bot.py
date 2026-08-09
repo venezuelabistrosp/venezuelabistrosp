@@ -587,6 +587,7 @@ def health_check():
         "has_token": os.environ.get("GITHUB_TOKEN") is not None,
         "commit": subprocess.getoutput("git rev-parse --short HEAD"),
         "git_log": subprocess.getoutput("git log -n 5 --oneline"),
+        "remote_url": subprocess.getoutput("git remote -v"),
         "last_git_error": LAST_GIT_ERROR
     }), 200
 
