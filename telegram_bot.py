@@ -588,6 +588,7 @@ def health_check():
         "commit": subprocess.getoutput("git rev-parse --short HEAD"),
         "git_log": subprocess.getoutput("git log -n 5 --oneline"),
         "remote_url": subprocess.getoutput("git remote -v"),
+        "git_status": subprocess.getoutput("git status"),
         "last_git_error": LAST_GIT_ERROR
     }), 200
 
