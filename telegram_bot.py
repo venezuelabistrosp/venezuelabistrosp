@@ -550,6 +550,19 @@ def handle_message(token, message):
                 "🤔 No entendí esa orden. Recuerda que puedes pausar/activar productos, cambiar precios, editar descripciones, cambiar horarios o publicar noticias."
             )
 
+import threading
+from flask import Flask, jsonify
+
+app = Flask(__name__)
+
+@app.route('/')
+def health_check():
+    return jsonify({"status": "ok", "bot": "running"}), 200
+
+def run_flask():
+    port = int(os.environ.get("PORT", 10000))
+    app.run(host="0.0.0.0", port=port)
+
 def main():
     load_env()
     token = os.environ.get("TELEGRAM_BOT_TOKEN")
@@ -562,6 +575,11 @@ def main():
     allowed_chat_id = int(allowed_chat_id)
     print(f"[*] Starting Telegram Bot in polling mode...")
     print(f"[*] Filtering messages for Chat ID: {allowed_chat_id}")
+    
+    # Start Flask health check server in background thread for Render
+    t = threading.Thread(target=run_flask, daemon=True)
+    t.start()
+    print("[*] Flask health check server started.")
     
     offset = None
     while True:
