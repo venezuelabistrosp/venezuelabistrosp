@@ -61,6 +61,16 @@ def get_updates(token, offset=None):
 def run_git_commands(commit_message, files_to_add=None):
     """Stages files, commits, pulls remote changes (to avoid push rejections), and pushes to GitHub."""
     try:
+        # Ensure git user identity is configured for the container
+        subprocess.run(["git", "config", "user.name", "Venezuela Bistro SP"], capture_output=True)
+        subprocess.run(["git", "config", "user.email", "venezuelabistrosp@gmail.com"], capture_output=True)
+        
+        # Configure remote URL with GITHUB_TOKEN if running in the cloud
+        github_token = os.environ.get("GITHUB_TOKEN")
+        if github_token:
+            remote_url = f"https://{github_token}@github.com/venezuelabistrosp/venezuelabistrosp.git"
+            subprocess.run(["git", "remote", "set-url", "origin", remote_url], check=True, capture_output=True)
+            
         # Automatically update sw.js version and add it to the commit
         try:
             from bistro_manager import update_service_worker_cache_version
