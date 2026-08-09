@@ -567,7 +567,13 @@ app = Flask(__name__)
 
 @app.route('/')
 def health_check():
-    return jsonify({"status": "ok", "bot": "running"}), 200
+    import subprocess
+    return jsonify({
+        "status": "ok",
+        "bot": "running",
+        "has_token": os.environ.get("GITHUB_TOKEN") is not None,
+        "commit": subprocess.getoutput("git rev-parse --short HEAD")
+    }), 200
 
 def run_flask():
     port = int(os.environ.get("PORT", 10000))
