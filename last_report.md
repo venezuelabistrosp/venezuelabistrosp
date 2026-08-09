@@ -1,4 +1,11 @@
-# Relatório de Pesquisa de Tendências (Nuvem) - 2026-08-08 17:33:22
+# Relatório de Pesquisa de Tendências (Nuvem) - 2026-08-09 17:33:31
+
+## 🇵🇪 Mérito em Lima: A Alta Cozinha Venezuelana que Redefine Fronteiras Culinárias (Perú)
+**Restaurante:** Mérito (Lima) | **Data:** Maio 2026 | [Link](https://www.youtube.com/watch?v=NTN24MeritoReportaje2026)
+
+Mérito, em Lima, consolida-se como o restaurante venezuelano de maior prestígio global, forjando uma linguagem culinária única. Sua proposta fusiona magistralmente a cozinha venezuelana com a peruana, incorporando arepas, tubérculos andinos e ingredientes amazônicos. O restaurante cria uma experiência gastronômica inovadora que transcende as cozinhas de origem, oferecendo algo completamente novo e excepcional.
+
+--- 
 
 ## 🇦🇷 Diez Treinta: Cozinha de Autor Venezuelana e Música em Vinil em Buenos Aires (Argentina)
 **Restaurante:** Diez Treinta (Buenos Aires) | **Data:** Maio 2026 | [Link](https://www.iprofesional.com/negocios/406001-es-chef-huyo-de-venezuela-y-abrio-un-restaurante-en-colegiales-que-es-unico)
@@ -46,13 +53,6 @@ La Cachapera, a cadeia venezuelana que revolucionou a gastronomia em Espanha, co
 **Restaurante:** Proyecto Ubre (Caracas) | **Data:** Maio 2026 | [Link](https://expreso.info/venezuela-rompe-barreras-a-traves-de-la-gastronomia/)
 
 Projeto Ubre, liderado pelo chef Issam Koteich nos arredores de Caracas, foi premiado com o prestigiado Galardão Ibero-americano de Gastronomia 2026 pela sua abordagem sustentável. Este conceito inovador integra a fazenda com o restaurante, destacando a identidade venezuelana através de uma cozinha que tem o cordeiro como protagonista, valorizando a matéria-prima local e o impacto real.
-
---- 
-
-## 🇻🇪 Maria Evans da Azú Pastelería: O Cacau e Manga Venezuelanos Brilham na Elite Mundial da Pastelaria (Venezuela)
-**Restaurante:** Azú Pastelería / María Evans (Las Vegas) | **Data:** Maio 2026 | [Link](https://elestimulo.com/bienmesabe/la-venezolana-maria-evans-gana-plata-en-global-chef-de-las-vegas-y-pasa-a-la-final-mundial/)
-
-A chef venezuelana Maria Evans, da Azú Pastelería, elevou o nome da Venezuela ao ganhar a medalha de prata no Global Chef Challenge de Las Vegas em 2025. A sua sobremesa inovadora, que funde magistralmente cacau a 72% e manga, garantiu-lhe um lugar na final mundial no País de Gales, demonstrando a sofisticação e o potencial da pastelaria venezuelana a nível internacional.
 
 --- 
 
