@@ -1,4 +1,11 @@
-# Relatório de Pesquisa de Tendências (Nuvem) - 2026-08-09 17:33:31
+# Relatório de Pesquisa de Tendências (Nuvem) - 2026-08-10 17:53:26
+
+## 🇺🇸 Pa' Paraguana: Um Festival de Empanadas Venezuelanas Conquista a Flórida com Sabor Autêntico (Estados Unidos)
+**Restaurante:** Pa' Paraguana (Florida) | **Data:** Maio 2026 | [Link](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH8Bl5MZJKFllWglzhdcUutBTSuR5YRqJJavurxHtrytbOBvzUje0_eb_93sdbofYmFvlPag3qg5Kl2n4uLUePsafFdC3lCPt6ickysyFMBVtmf6dT8M70ZQACeUY7usB-nexYxXuPLTMxG6rAZW9NMxkOatE5VzJYWc-hTkv3cBWU2BCcG_9ZWDuMKtGP60bayZp7ybCO9ShMlDKI44gGz1bETi8pSDWOrcdNz-3xf)
+
+Pa' Paraguana na Flórida se destaca em uma rota gastronômica por suas mais de 59 variedades de empanadas venezuelanas. Este restaurante oferece uma imersão na riqueza culinária da Venezuela, complementando sua oferta com sobremesas típicas e atraindo comensales norte-americanos a explorar sabores autênticos.
+
+--- 
 
 ## 🇵🇪 Mérito em Lima: A Alta Cozinha Venezuelana que Redefine Fronteiras Culinárias (Perú)
 **Restaurante:** Mérito (Lima) | **Data:** Maio 2026 | [Link](https://www.youtube.com/watch?v=NTN24MeritoReportaje2026)
@@ -46,13 +53,6 @@ A chef pasteleira venezuelana María Evans, da Azú Pastelería, conquistou a me
 **Restaurante:** La Cachapera (Madrid) | **Data:** Maio 2026 | [Link](https://hosteleriadigital.es/la-cachapera-abre-su-segundo-local-en-madrid-y-suma-ya-6-restaurantes/)
 
 La Cachapera, a cadeia venezuelana que revolucionou a gastronomia em Espanha, continua a sua bem-sucedida expansão. Com seis locais já operacionais e planos de crescimento internacional, a sua proposta centra-se na autêntica cachapa e na criação dos originais "cachinachos", uma fusão inovadora que combina a tradição venezuelana com um toque moderno, atraindo milhares de paladares.
-
---- 
-
-## 🇻🇪 Projeto Ubre: A Gastronomia Sustentável Venezuelana que Conquista a Iberoamérica com Sabor a Fazenda (Venezuela)
-**Restaurante:** Proyecto Ubre (Caracas) | **Data:** Maio 2026 | [Link](https://expreso.info/venezuela-rompe-barreras-a-traves-de-la-gastronomia/)
-
-Projeto Ubre, liderado pelo chef Issam Koteich nos arredores de Caracas, foi premiado com o prestigiado Galardão Ibero-americano de Gastronomia 2026 pela sua abordagem sustentável. Este conceito inovador integra a fazenda com o restaurante, destacando a identidade venezuelana através de uma cozinha que tem o cordeiro como protagonista, valorizando a matéria-prima local e o impacto real.
 
 --- 
 
