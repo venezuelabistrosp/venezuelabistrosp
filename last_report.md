@@ -1,4 +1,11 @@
-# Relatório de Pesquisa de Tendências (Nuvem) - 2026-08-10 17:53:26
+# Relatório de Pesquisa de Tendências (Nuvem) - 2026-08-11 17:59:16
+
+## 🇻🇪 Azú Pastelería: O Sabor Venezuelano que Conquista o Pódio Internacional com Inovação Doce (Venezuela)
+**Restaurante:** Azú Pastelería (Caracas) | **Data:** Maio 2026 | [Link](https://azupasteleria.com/)
+
+A chef María Evans da Azú Pastelería, Caracas, ganhou medalha de prata no Global Chef Challenge em Las Vegas (agosto 2025). A sua sobremesa inovadora fundiu cacau venezuelano, manga e chá preto, destacando a pastelaria de autor que combina técnicas europeias com ingredientes locais. Um triunfo que eleva a confeitaria venezuelana a nível mundial.
+
+--- 
 
 ## 🇺🇸 Pa' Paraguana: Um Festival de Empanadas Venezuelanas Conquista a Flórida com Sabor Autêntico (Estados Unidos)
 **Restaurante:** Pa' Paraguana (Florida) | **Data:** Maio 2026 | [Link](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH8Bl5MZJKFllWglzhdcUutBTSuR5YRqJJavurxHtrytbOBvzUje0_eb_93sdbofYmFvlPag3qg5Kl2n4uLUePsafFdC3lCPt6ickysyFMBVtmf6dT8M70ZQACeUY7usB-nexYxXuPLTMxG6rAZW9NMxkOatE5VzJYWc-hTkv3cBWU2BCcG_9ZWDuMKtGP60bayZp7ybCO9ShMlDKI44gGz1bETi8pSDWOrcdNz-3xf)
@@ -46,13 +53,6 @@ MELLOW, a aclamada confeitaria venezuelana, expande seu doce império para Miami
 **Restaurante:** Azú Pastelería (representada por María Evans) en Global Chef Challenge (Las Vegas) | **Data:** Maio 2026 | [Link](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGiTiueopDPCnu_Su5LaWgh5_Pq3LSCL74JJKclx1gLKKDfnA5qVo2Roe-dL_SUBdoUlqcjtkzC2z9--8k4PIB9aaOm-Xmo0QoMCrhSf0n-o8OL11yIf9BdeUaLRkLFHW04c4yFDqpwzhZKOuECxSmPhCU8EmrUN08Mn_yVl4FKzB1SQxR6piNLwkbHSvT5)
 
 A chef pasteleira venezuelana María Evans, da Azú Pastelería, conquistou a medalha de prata no Global Chef Challenge de Las Vegas em agosto de 2025, garantindo sua vaga na final mundial no País de Gales. Sua sobremesa, uma obra-prima com cacau e manga, destaca a inovação e o talento da pastelaria venezuelana a nível internacional.
-
---- 
-
-## 🇪🇸 La Cachapera Conquista a Espanha: A Revolução da Cachapa Venezuelana e os Inovadores "Cachinachos" (España)
-**Restaurante:** La Cachapera (Madrid) | **Data:** Maio 2026 | [Link](https://hosteleriadigital.es/la-cachapera-abre-su-segundo-local-en-madrid-y-suma-ya-6-restaurantes/)
-
-La Cachapera, a cadeia venezuelana que revolucionou a gastronomia em Espanha, continua a sua bem-sucedida expansão. Com seis locais já operacionais e planos de crescimento internacional, a sua proposta centra-se na autêntica cachapa e na criação dos originais "cachinachos", uma fusão inovadora que combina a tradição venezuelana com um toque moderno, atraindo milhares de paladares.
 
 --- 
 
