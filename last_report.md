@@ -1,4 +1,25 @@
-# Relatório de Pesquisa de Tendências (Nuvem) - 2026-08-11 17:59:16
+# Relatório de Pesquisa de Tendências (Nuvem) - 2026-08-12 18:00:09
+
+## 🇺🇸 Casa Ora: A Alta Cozinha Venezuelana Conquista Nova York com Distinção Michelin (Estados Unidos)
+**Restaurante:** Casa Ora (Brooklyn) | **Data:** Maio 2026 | [Link](https://www.casaora.nyc/)
+
+Casa Ora, no Brooklyn, tornou-se o primeiro restaurante venezuelano a receber uma distinção do Guia Michelin. Sob a direção da Chef Isbelis Díaz e seu filho Ivo, este estabelecimento redefine a gastronomia venezuelana, elevando-a a um nível de sofisticação e reconhecimento internacional, celebrando a cultura e o sabor autêntico.
+
+--- 
+
+## 🇪🇸 La Cachapera: A Revolução da Cachapa Venezuelana Conquista a Espanha com Inovação (España)
+**Restaurante:** La Cachapera (Madrid) | **Data:** Maio 2026 | [Link](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQESC4I1e9AaJQdh5lmKukbfNr637tK5oxxKkxu_37bCPqaXA35SoWZECqkveuONzb0iHe8ydXwIdOmUhr-4R9FHAwv1rnx_TSzlnukwvpiFuKO3oDXftRF9NXkdOK8LjD5aKU_RCqUDHPNn2VBYn8XkFSWeUgQkZzgJDXeIpWALHv6sVg7izWPMpGvya7lNkc_kMXMLb9XD4Buuo1JgsQpabPh5kD_UZD7J8nCRyx4uX3wzdZKN54efROB3kFSsKsb9yI1gqYPh)
+
+La Cachapera, que começou como um food truck, consolida-se na Espanha com sua sexta abertura em 2026, incluindo Madrid. Seu sucesso reside nas autênticas cachapas, arepas e empanadas, além da criação inovadora dos "cachinachos", uma fusão de nachos com cachapa crocante, demonstrando um crescimento exponencial e expansão europeia.
+
+--- 
+
+## 🇵🇪 "Por la Cachapa": Um Evento Solidário que Funde Sabores Venezuelanos na América Latina (Perú)
+**Restaurante:** Evento "Por la Cachapa" (Lima) | **Data:** Maio 2026 | [Link](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHbg8jstpFubep0pB0cdi-CFsrfJIfO11B9hZF9gmPeXAYolMDb1p9aBw_0z3xXWS8EZnhhbfohdA0WCvFE-1bdk1AoO3ikHtobnJE3qPyYiMO5rswCpw1_WPvJDHEraEXiBS0jC3RCKiw0FWRAsCkOZ7VuDY3VOGbs5MZv5F38iiufJlABu_BmlWX_f609Cjpso8AU0zGOIFpSzbFe6aQlYTPzQpZ1jyrBvghXRlEmdVKA3vNjQo4VWykR6ucnyls_Y9_LY9QlNsN45fR42_5rSaiRr4I_6vUhfw==)
+
+O evento "Por la Cachapa" em Lima, Peru, reuniu mais de 30 restaurantes para criar versões inovadoras da cachapa. Esta iniciativa solidária, impulsionada pela Demo, arrecadou fundos para comunidades venezuelanas afetadas por terremotos, destacando a versatilidade da cachapa em fusões marinhas, hambúrgueres e até com toques da culinária indiana.
+
+--- 
 
 ## 🇻🇪 Azú Pastelería: O Sabor Venezuelano que Conquista o Pódio Internacional com Inovação Doce (Venezuela)
 **Restaurante:** Azú Pastelería (Caracas) | **Data:** Maio 2026 | [Link](https://azupasteleria.com/)
@@ -32,27 +53,6 @@ O chef venezuelano Eliseo Martínez funde gastronomia de autor, vinhos de baixa 
 **Restaurante:** Por la Cachapa (Lima) | **Data:** Maio 2026 | [Link](https://www.infobae.com/america/peru/2026/07/03/por-la-cachapa-mas-de-30-restaurantes-de-peru-y-latinoamerica-se-unen-este-domingo-para-recaudar-fondos-por-venezuela/)
 
 O evento 'Por la Cachapa' reuniu mais de 30 restaurantes no Peru e na América Latina em julho de 2026 para arrecadar fundos para comunidades venezuelanas afetadas por terremotos. Uma iniciativa solidária que celebrou a cachapa em diversas e criativas versões, mostrando a união através da gastronomia.
-
---- 
-
-## 🇻🇪 Venezuela Brilha: El Bosque Bistró e Dining Room no 50 Best Discovery 2026 (Venezuela)
-**Restaurante:** El Bosque Bistró (Caracas) y Dining Room (Valencia) | **Data:** Maio 2026 | [Link](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF4BvT1sPgPrnyC0_Fads1ffCTgibq66bfSoBn4VCJy-YM7sbW3pMQ21RfS1DjFTJmYSLf27QcqFX8dQ-OAzevCJ5riMf2_-cOsjrP_Q_eKDd4otGuJ0oH6QdV6mNn7evEfcibmnUl1WTS1iZc-eaza5zwSAPGdV0xUhhzJzY90eUTUKyYD7GiywZrQ0J9VEKzrdvHVsw==)
-
-A alta gastronomia venezuelana atinge novos patamares com a inclusão de El Bosque Bistró (Caracas) e Dining Room (Valência) no prestigiado guia 50 Best Discovery 2026. Este reconhecimento global destaca a criatividade e o respeito pelos ingredientes locais, consolidando a Venezuela no mapa gastronômico internacional e celebrando sua rica herança culinária.
-
---- 
-
-## 🇺🇸 Doce Sucesso: A Confeitaria Venezuelana MELLOW Conquista Miami em 2026 (Estados Unidos)
-**Restaurante:** MELLOW (Miami) | **Data:** Maio 2026 | [Link](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE4EWZxJEBTEiSx7aLHdHisM3HHB32EkT2s_XsH5o_p4O1RgtogaQtrL7NHyMmwRv_r96OwfvHCo8HfklM4l9kNVbspUuFD22_1BNO4NYVn40myBgwYK_6a4FM5rri0R6wpSXV0uayxrQiTWIEQpo37J_JKbcq87xqIXRT3Tf--tVEZI_2UhvXKxQIn3bfJidxAu0aQP2kKOhpz_6T6fdgmAlR1Yh_2wWeqZYXs6RN9WtSnUTp)
-
-MELLOW, a aclamada confeitaria venezuelana, expande seu doce império para Miami em agosto de 2026. Famosa por suas inovadoras 'Cake Box' com sabores como Chocolate e Pavlova, esta abertura marca um marco na internacionalização das sobremesas venezuelanas, levando sua paixão pelo detalhe e qualidade a novas fronteiras.
-
---- 
-
-## 🇺🇸 Talento Venezuelano Brilha: María Evans Conquista Prata no Global Chef Challenge (Estados Unidos)
-**Restaurante:** Azú Pastelería (representada por María Evans) en Global Chef Challenge (Las Vegas) | **Data:** Maio 2026 | [Link](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGiTiueopDPCnu_Su5LaWgh5_Pq3LSCL74JJKclx1gLKKDfnA5qVo2Roe-dL_SUBdoUlqcjtkzC2z9--8k4PIB9aaOm-Xmo0QoMCrhSf0n-o8OL11yIf9BdeUaLRkLFHW04c4yFDqpwzhZKOuECxSmPhCU8EmrUN08Mn_yVl4FKzB1SQxR6piNLwkbHSvT5)
-
-A chef pasteleira venezuelana María Evans, da Azú Pastelería, conquistou a medalha de prata no Global Chef Challenge de Las Vegas em agosto de 2025, garantindo sua vaga na final mundial no País de Gales. Sua sobremesa, uma obra-prima com cacau e manga, destaca a inovação e o talento da pastelaria venezuelana a nível internacional.
 
 --- 
 
