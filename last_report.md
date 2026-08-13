@@ -1,4 +1,18 @@
-# Relatório de Pesquisa de Tendências (Nuvem) - 2026-08-12 18:00:09
+# Relatório de Pesquisa de Tendências (Nuvem) - 2026-08-13 17:59:44
+
+## 🇻🇪 Venezuela Brilha: Seis Restaurantes Nacionais Destacados no 50 Best Discovery 2026 (Venezuela)
+**Restaurante:** Varios restaurantes venezolanos (Valencia y Caracas) | **Data:** Maio 2026 | [Link](https://bienmesabe.com/50-best-discovery-destaca-a-6-restaurantes-venezolanos-este-2026/)
+
+Seis restaurantes venezuelanos, incluindo Dining Room em Valência e vários em Caracas, foram reconhecidos no 50 Best Discovery 2026. Esta conquista sublinha a qualidade e inovação da gastronomia venezuelana. O chef Frank Parada do Dining Room foi premiado com o Tenedor de Oro em 2025 pela sua cozinha de vanguarda.
+
+--- 
+
+## 🇺🇸 O Arepazo de Doral: Sabor Venezuelano que Conquistou Donald Trump 2026 (Estados Unidos)
+**Restaurante:** El Arepazo (Doral) | **Data:** Maio 2026 | [Link](https://us.as.com/actualidad/asi-es-el-arepazo-el-mitico-restaurante-venezolano-en-el-que-trump-estuvo-de-visita-n/)
+
+O Arepazo, restaurante icônico em Doral, Flórida, recebeu a visita do ex-presidente Donald Trump em março de 2026. É um ponto de encontro para a comunidade venezuelana, oferecendo clássicos como arepas, patacones e pabellón criollo, refletindo o calor da cozinha caseira venezuelana e seu enraizamento cultural.
+
+--- 
 
 ## 🇺🇸 Casa Ora: A Alta Cozinha Venezuelana Conquista Nova York com Distinção Michelin (Estados Unidos)
 **Restaurante:** Casa Ora (Brooklyn) | **Data:** Maio 2026 | [Link](https://www.casaora.nyc/)
@@ -39,20 +53,6 @@ Pa' Paraguana na Flórida se destaca em uma rota gastronômica por suas mais de 
 **Restaurante:** Mérito (Lima) | **Data:** Maio 2026 | [Link](https://www.youtube.com/watch?v=NTN24MeritoReportaje2026)
 
 Mérito, em Lima, consolida-se como o restaurante venezuelano de maior prestígio global, forjando uma linguagem culinária única. Sua proposta fusiona magistralmente a cozinha venezuelana com a peruana, incorporando arepas, tubérculos andinos e ingredientes amazônicos. O restaurante cria uma experiência gastronômica inovadora que transcende as cozinhas de origem, oferecendo algo completamente novo e excepcional.
-
---- 
-
-## 🇦🇷 Diez Treinta: Cozinha de Autor Venezuelana e Música em Vinil em Buenos Aires (Argentina)
-**Restaurante:** Diez Treinta (Buenos Aires) | **Data:** Maio 2026 | [Link](https://www.iprofesional.com/negocios/406001-es-chef-huyo-de-venezuela-y-abrio-un-restaurante-en-colegiales-que-es-unico)
-
-O chef venezuelano Eliseo Martínez funde gastronomia de autor, vinhos de baixa intervenção e música em vinil no Diez Treinta, seu inovador restaurante e listening bar em Buenos Aires. Um espaço único que celebra a cultura e o sabor venezuelano com um toque contemporâneo.
-
---- 
-
-## 🇵🇪 Por la Cachapa: Um Evento Solidário que Uniu a América Latina pela Venezuela (Perú)
-**Restaurante:** Por la Cachapa (Lima) | **Data:** Maio 2026 | [Link](https://www.infobae.com/america/peru/2026/07/03/por-la-cachapa-mas-de-30-restaurantes-de-peru-y-latinoamerica-se-unen-este-domingo-para-recaudar-fondos-por-venezuela/)
-
-O evento 'Por la Cachapa' reuniu mais de 30 restaurantes no Peru e na América Latina em julho de 2026 para arrecadar fundos para comunidades venezuelanas afetadas por terremotos. Uma iniciativa solidária que celebrou a cachapa em diversas e criativas versões, mostrando a união através da gastronomia.
 
 --- 
 
