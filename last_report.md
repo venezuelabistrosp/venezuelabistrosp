@@ -1,4 +1,25 @@
-# Relatório de Pesquisa de Tendências (Nuvem) - 2026-08-13 17:59:44
+# Relatório de Pesquisa de Tendências (Nuvem) - 2026-08-14 17:56:30
+
+## 🇳🇴 DIDAU na Noruega: O Sabor Venezuelano Conquista o Norte da Europa com Sucesso Estrondoso (Noruega)
+**Restaurante:** DIDAU (Noruega) | **Data:** Maio 2026 | [Link](https://www.lapatilla.com/2026/08/13/de-venezuela-a-noruega-el-ingeniero-civil-que-convirtio-los-sabores-criollos-en-un-exito-negocio/)
+
+DIDAU, o restaurante venezuelano que revolucionou a cena gastronômica da Noruega, celebra seu sucesso. Com pratos tradicionais como tequeños e patacones, este empreendimento conseguiu levar a essência da Venezuela ao paladar nórdico, consolidando-se como uma referência da culinária crioula na Europa.
+
+--- 
+
+## 🇻🇪 Dining Room em Valência: Um Brilho Venezuelano na Lista 50 Best Discovery 2026 (Venezuela)
+**Restaurante:** Dining Room (Valencia) | **Data:** Maio 2026 | [Link](https://bienmesabe.com/gastronomia/50-best-discovery-destaca-a-6-restaurantes-venezolanos-este-2026/)
+
+Dining Room, em Valência, Venezuela, foi reconhecido pelo 50 Best Discovery 2026, marcando um marco para a cidade. Este restaurante eleva a culinária venezuelana a novas alturas com sua proposta inovadora, destacando ingredientes locais e técnicas de alta gastronomia que surpreendem e encantam seus clientes.
+
+--- 
+
+## 🇦🇷 Buenos Aires Celebra a Cultura Venezuelana na Vibrante Feira Migrante 2026 (Argentina)
+**Restaurante:** Feria Migrante (Buenos Aires) | **Data:** Maio 2026 | [Link](https://www.buenosaires.gob.ar/espaciopublico/noticias/se-realiza-la-feria-migrante-junto-feria-valor-para-celebrar-la-cultura)
+
+A Feira Migrante em Buenos Aires consolida-se como um epicentro da cultura venezuelana, oferecendo uma explosão de sabores e tradições. De tequeños a pão de presunto, a feira celebra a diversidade gastronômica e o espírito comunitário da diáspora venezuelana na Argentina, atraindo milhares de visitantes.
+
+--- 
 
 ## 🇻🇪 Venezuela Brilha: Seis Restaurantes Nacionais Destacados no 50 Best Discovery 2026 (Venezuela)
 **Restaurante:** Varios restaurantes venezolanos (Valencia y Caracas) | **Data:** Maio 2026 | [Link](https://bienmesabe.com/50-best-discovery-destaca-a-6-restaurantes-venezolanos-este-2026/)
@@ -32,27 +53,6 @@ La Cachapera, que começou como um food truck, consolida-se na Espanha com sua s
 **Restaurante:** Evento "Por la Cachapa" (Lima) | **Data:** Maio 2026 | [Link](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHbg8jstpFubep0pB0cdi-CFsrfJIfO11B9hZF9gmPeXAYolMDb1p9aBw_0z3xXWS8EZnhhbfohdA0WCvFE-1bdk1AoO3ikHtobnJE3qPyYiMO5rswCpw1_WPvJDHEraEXiBS0jC3RCKiw0FWRAsCkOZ7VuDY3VOGbs5MZv5F38iiufJlABu_BmlWX_f609Cjpso8AU0zGOIFpSzbFe6aQlYTPzQpZ1jyrBvghXRlEmdVKA3vNjQo4VWykR6ucnyls_Y9_LY9QlNsN45fR42_5rSaiRr4I_6vUhfw==)
 
 O evento "Por la Cachapa" em Lima, Peru, reuniu mais de 30 restaurantes para criar versões inovadoras da cachapa. Esta iniciativa solidária, impulsionada pela Demo, arrecadou fundos para comunidades venezuelanas afetadas por terremotos, destacando a versatilidade da cachapa em fusões marinhas, hambúrgueres e até com toques da culinária indiana.
-
---- 
-
-## 🇻🇪 Azú Pastelería: O Sabor Venezuelano que Conquista o Pódio Internacional com Inovação Doce (Venezuela)
-**Restaurante:** Azú Pastelería (Caracas) | **Data:** Maio 2026 | [Link](https://azupasteleria.com/)
-
-A chef María Evans da Azú Pastelería, Caracas, ganhou medalha de prata no Global Chef Challenge em Las Vegas (agosto 2025). A sua sobremesa inovadora fundiu cacau venezuelano, manga e chá preto, destacando a pastelaria de autor que combina técnicas europeias com ingredientes locais. Um triunfo que eleva a confeitaria venezuelana a nível mundial.
-
---- 
-
-## 🇺🇸 Pa' Paraguana: Um Festival de Empanadas Venezuelanas Conquista a Flórida com Sabor Autêntico (Estados Unidos)
-**Restaurante:** Pa' Paraguana (Florida) | **Data:** Maio 2026 | [Link](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH8Bl5MZJKFllWglzhdcUutBTSuR5YRqJJavurxHtrytbOBvzUje0_eb_93sdbofYmFvlPag3qg5Kl2n4uLUePsafFdC3lCPt6ickysyFMBVtmf6dT8M70ZQACeUY7usB-nexYxXuPLTMxG6rAZW9NMxkOatE5VzJYWc-hTkv3cBWU2BCcG_9ZWDuMKtGP60bayZp7ybCO9ShMlDKI44gGz1bETi8pSDWOrcdNz-3xf)
-
-Pa' Paraguana na Flórida se destaca em uma rota gastronômica por suas mais de 59 variedades de empanadas venezuelanas. Este restaurante oferece uma imersão na riqueza culinária da Venezuela, complementando sua oferta com sobremesas típicas e atraindo comensales norte-americanos a explorar sabores autênticos.
-
---- 
-
-## 🇵🇪 Mérito em Lima: A Alta Cozinha Venezuelana que Redefine Fronteiras Culinárias (Perú)
-**Restaurante:** Mérito (Lima) | **Data:** Maio 2026 | [Link](https://www.youtube.com/watch?v=NTN24MeritoReportaje2026)
-
-Mérito, em Lima, consolida-se como o restaurante venezuelano de maior prestígio global, forjando uma linguagem culinária única. Sua proposta fusiona magistralmente a cozinha venezuelana com a peruana, incorporando arepas, tubérculos andinos e ingredientes amazônicos. O restaurante cria uma experiência gastronômica inovadora que transcende as cozinhas de origem, oferecendo algo completamente novo e excepcional.
 
 --- 
 
