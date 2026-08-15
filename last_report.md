@@ -1,4 +1,18 @@
-# Relatório de Pesquisa de Tendências (Nuvem) - 2026-08-14 17:56:30
+# Relatório de Pesquisa de Tendências (Nuvem) - 2026-08-15 17:23:03
+
+## 🇵🇪 Mérito em Lima: A Fusão Venezuelana que Conquista o Top 50 Mundial de Restaurantes (Perú)
+**Restaurante:** Mérito (Lima) | **Data:** Maio 2026 | [Link](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHgXKQDLdby4-s8KXnnBK-5Ny6r3kIYPWXQfvAv3sW7aSARpMwexrx7yPSgjsTrZn9NXspBf5dYT_bDv2NoHtpbUTc1MdYVSNJRVDV6abuGF51CxLAIhKmnq7_qXRFwAiEnocNi4A==)
+
+Mérito em Lima, Peru, é o restaurante venezuelano mais bem classificado globalmente, alcançando a 26ª posição nos 50 Melhores Restaurantes do mundo 2026. Seu chef venezuelano funde ingredientes andinos, amazônicos e venezuelanos com técnicas europeias, criando uma proposta culinária única que celebra a identidade e o talento venezuelano na alta gastronomia.
+
+--- 
+
+## 🇻🇪 Projeto Ubre: Pioneiro na Gastronomia Sustentável Venezuelana com Foco Fazenda-Restaurante (Venezuela)
+**Restaurante:** Proyecto Ubre (Caracas) | **Data:** Maio 2026 | [Link](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFTz5u4oik95GlGddkA7aQwQIyqWDuZE4i1G3lFsjevBelQcrTARAYUXCYPj3ug8HTasxwS6s8-rK87CnAECtOBVnZGaT-OCaSNreHgGxVKZG1OPGl9x-9DFSu-5COkAfkqUQ7gAA1mSCSa1CFe-6TFfpLFzdPzrdS9ONnBacW9OCgRJt32GKzuV-UemYXqEhE99jztoMUlOvderPIuw9o0)
+
+Projeto Ubre em Caracas ganhou o Prêmio Ibero-Americano de Gastronomia Sustentável 2026. Este projeto inovador integra uma fazenda e um restaurante, promovendo a produção própria e a sustentabilidade. Sua cozinha revaloriza a identidade venezuelana, especialmente através do cordeiro, demonstrando um modelo produtivo replicável e com visão de futuro na gastronomia.
+
+--- 
 
 ## 🇳🇴 DIDAU na Noruega: O Sabor Venezuelano Conquista o Norte da Europa com Sucesso Estrondoso (Noruega)
 **Restaurante:** DIDAU (Noruega) | **Data:** Maio 2026 | [Link](https://www.lapatilla.com/2026/08/13/de-venezuela-a-noruega-el-ingeniero-civil-que-convirtio-los-sabores-criollos-en-un-exito-negocio/)
@@ -39,20 +53,6 @@ O Arepazo, restaurante icônico em Doral, Flórida, recebeu a visita do ex-presi
 **Restaurante:** Casa Ora (Brooklyn) | **Data:** Maio 2026 | [Link](https://www.casaora.nyc/)
 
 Casa Ora, no Brooklyn, tornou-se o primeiro restaurante venezuelano a receber uma distinção do Guia Michelin. Sob a direção da Chef Isbelis Díaz e seu filho Ivo, este estabelecimento redefine a gastronomia venezuelana, elevando-a a um nível de sofisticação e reconhecimento internacional, celebrando a cultura e o sabor autêntico.
-
---- 
-
-## 🇪🇸 La Cachapera: A Revolução da Cachapa Venezuelana Conquista a Espanha com Inovação (España)
-**Restaurante:** La Cachapera (Madrid) | **Data:** Maio 2026 | [Link](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQESC4I1e9AaJQdh5lmKukbfNr637tK5oxxKkxu_37bCPqaXA35SoWZECqkveuONzb0iHe8ydXwIdOmUhr-4R9FHAwv1rnx_TSzlnukwvpiFuKO3oDXftRF9NXkdOK8LjD5aKU_RCqUDHPNn2VBYn8XkFSWeUgQkZzgJDXeIpWALHv6sVg7izWPMpGvya7lNkc_kMXMLb9XD4Buuo1JgsQpabPh5kD_UZD7J8nCRyx4uX3wzdZKN54efROB3kFSsKsb9yI1gqYPh)
-
-La Cachapera, que começou como um food truck, consolida-se na Espanha com sua sexta abertura em 2026, incluindo Madrid. Seu sucesso reside nas autênticas cachapas, arepas e empanadas, além da criação inovadora dos "cachinachos", uma fusão de nachos com cachapa crocante, demonstrando um crescimento exponencial e expansão europeia.
-
---- 
-
-## 🇵🇪 "Por la Cachapa": Um Evento Solidário que Funde Sabores Venezuelanos na América Latina (Perú)
-**Restaurante:** Evento "Por la Cachapa" (Lima) | **Data:** Maio 2026 | [Link](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHbg8jstpFubep0pB0cdi-CFsrfJIfO11B9hZF9gmPeXAYolMDb1p9aBw_0z3xXWS8EZnhhbfohdA0WCvFE-1bdk1AoO3ikHtobnJE3qPyYiMO5rswCpw1_WPvJDHEraEXiBS0jC3RCKiw0FWRAsCkOZ7VuDY3VOGbs5MZv5F38iiufJlABu_BmlWX_f609Cjpso8AU0zGOIFpSzbFe6aQlYTPzQpZ1jyrBvghXRlEmdVKA3vNjQo4VWykR6ucnyls_Y9_LY9QlNsN45fR42_5rSaiRr4I_6vUhfw==)
-
-O evento "Por la Cachapa" em Lima, Peru, reuniu mais de 30 restaurantes para criar versões inovadoras da cachapa. Esta iniciativa solidária, impulsionada pela Demo, arrecadou fundos para comunidades venezuelanas afetadas por terremotos, destacando a versatilidade da cachapa em fusões marinhas, hambúrgueres e até com toques da culinária indiana.
 
 --- 
 
