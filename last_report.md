@@ -1,4 +1,18 @@
-# Relatório de Pesquisa de Tendências (Nuvem) - 2026-08-15 17:23:03
+# Relatório de Pesquisa de Tendências (Nuvem) - 2026-08-16 17:22:07
+
+## 🇨🇦 A Arepa Venezuelana Conquista o Canadá: The Arepa Republic Lidera a Expansão (Canadá)
+**Restaurante:** The Arepa Republic (Toronto) | **Data:** Junho 2026 | [Link](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHT2lTZ6oZG4pAgyBdW8dVRjONrmrOb9JF2tpCj7Y5CPX-psyapsydnhk83QfunuG5InTdLUDNaRrbqFLa_pmmhIfs6UCQFJyaw4fdINUKfuzB3XRf4gnXTrp_9huGiBgIOUE20-QCCu_XYRy-sXO9KshYGtcGBizbeWVPae1Qr)
+
+The Arepa Republic em Toronto tornou-se um embaixador da gastronomia venezuelana, popularizando a arepa de pabellón. Com planos de expansão para 2025, o chef Luis Manuel Córdoba busca estabelecer a primeira franquia de arepas venezuelanas no Canadá, levando os autênticos sabores a mais cidades como Quebec e Montreal.
+
+--- 
+
+## 🇺🇸 Pa' Paraguana na Flórida: A Empanada Venezuelana com Mais de 59 Variedades (Estados Unidos)
+**Restaurante:** Pa' Paraguana (Kissimmee) | **Data:** Junho 2026 | [Link](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFxvRK-RprDgufDLEIx2DdoulImeytaZ9ghFcLKeJ71m4y0y5fC6D-9Se3B_sfAZ96E4X0rIkeCSZUao6Xa6HBBjcfBXc_j2OvEK6UGVPjrnlfKcvhNADBAaPmBQLz6IgzrxiJPx1fZgGaADjKfq6hgdkj5W1js1qbtCsxbIEL2lb3HBhtcQqNX7jkUmEuHzDcoSxWZ8RK4sTTbDI-sckgSvoKmzxYi_QNikwxdiXSxVl5Vhk81wk6xTdT62dK4MkFoHnhqzAZ2lRbztpeTX2EHkxdOwDBSVZBL95jSbiEWFKW2jdVowYETXCsoe7D6ROAm0sKWEHLTXQ6bzCfz)
+
+Pa' Paraguana em Kissimmee, Flórida, foi reconhecido pela Experience Kissimmee na "Rota de Sabores Latinos" da Atlas Obscura em julho de 2026. Este restaurante celebra a diversidade da empanada venezuelana, oferecendo mais de 59 opções, juntamente com sobremesas típicas, consolidando-se como um referente da gastronomia venezuelana nos EUA.
+
+--- 
 
 ## 🇵🇪 Mérito em Lima: A Fusão Venezuelana que Conquista o Top 50 Mundial de Restaurantes (Perú)
 **Restaurante:** Mérito (Lima) | **Data:** Maio 2026 | [Link](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHgXKQDLdby4-s8KXnnBK-5Ny6r3kIYPWXQfvAv3sW7aSARpMwexrx7yPSgjsTrZn9NXspBf5dYT_bDv2NoHtpbUTc1MdYVSNJRVDV6abuGF51CxLAIhKmnq7_qXRFwAiEnocNi4A==)
@@ -39,20 +53,6 @@ A Feira Migrante em Buenos Aires consolida-se como um epicentro da cultura venez
 **Restaurante:** Varios restaurantes venezolanos (Valencia y Caracas) | **Data:** Maio 2026 | [Link](https://bienmesabe.com/50-best-discovery-destaca-a-6-restaurantes-venezolanos-este-2026/)
 
 Seis restaurantes venezuelanos, incluindo Dining Room em Valência e vários em Caracas, foram reconhecidos no 50 Best Discovery 2026. Esta conquista sublinha a qualidade e inovação da gastronomia venezuelana. O chef Frank Parada do Dining Room foi premiado com o Tenedor de Oro em 2025 pela sua cozinha de vanguarda.
-
---- 
-
-## 🇺🇸 O Arepazo de Doral: Sabor Venezuelano que Conquistou Donald Trump 2026 (Estados Unidos)
-**Restaurante:** El Arepazo (Doral) | **Data:** Maio 2026 | [Link](https://us.as.com/actualidad/asi-es-el-arepazo-el-mitico-restaurante-venezolano-en-el-que-trump-estuvo-de-visita-n/)
-
-O Arepazo, restaurante icônico em Doral, Flórida, recebeu a visita do ex-presidente Donald Trump em março de 2026. É um ponto de encontro para a comunidade venezuelana, oferecendo clássicos como arepas, patacones e pabellón criollo, refletindo o calor da cozinha caseira venezuelana e seu enraizamento cultural.
-
---- 
-
-## 🇺🇸 Casa Ora: A Alta Cozinha Venezuelana Conquista Nova York com Distinção Michelin (Estados Unidos)
-**Restaurante:** Casa Ora (Brooklyn) | **Data:** Maio 2026 | [Link](https://www.casaora.nyc/)
-
-Casa Ora, no Brooklyn, tornou-se o primeiro restaurante venezuelano a receber uma distinção do Guia Michelin. Sob a direção da Chef Isbelis Díaz e seu filho Ivo, este estabelecimento redefine a gastronomia venezuelana, elevando-a a um nível de sofisticação e reconhecimento internacional, celebrando a cultura e o sabor autêntico.
 
 --- 
 
