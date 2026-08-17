@@ -1,4 +1,18 @@
-# Relatório de Pesquisa de Tendências (Nuvem) - 2026-08-16 17:22:07
+# Relatório de Pesquisa de Tendências (Nuvem) - 2026-08-17 17:30:12
+
+## 🇵🇪 "Pela Cachapa": Unindo Sabores e Corações pela Venezuela na América Latina (Perú)
+**Restaurante:** Por la Cachapa (Lima) | **Data:** Maio 2026 | [Link](https://www.infobae.com/peru/2026/07/03/por-la-cachapa-mas-de-30-restaurantes-de-peru-y-latinoamerica-se-unen-este-domingo-para-recaudar-fondos-por-venezuela/)
+
+A iniciativa "Pela Cachapa" em Lima, Peru, reuniu mais de 30 restaurantes da América Latina para arrecadar fundos em apoio a comunidades venezuelanas afetadas. Celebrando a versatilidade da cachapa, cada estabelecimento ofereceu sua versão única, fundindo solidariedade e gastronomia.
+
+--- 
+
+## 🇦🇷 Diez Treinta: Cozinha de Autor Venezuelana e Experiência Sensorial em Buenos Aires (Argentina)
+**Restaurante:** Diez Treinta (Buenos Aires) | **Data:** Maio 2026 | [Link](https://www.iprofesional.com/negocios/403447-es-chef-huyo-de-venezuela-y-abrio-un-restaurante-en-colegiales-que-es-unico)
+
+Diez Treinta, em Colegiales, Buenos Aires, é o inovador restaurante e "listening bar" do chef venezuelano Eliseo Martínez. Funde alta cozinha de autor com vinhos de baixa intervenção, arte e música em vinil, oferecendo uma experiência sofisticada onde a herança venezuelana se entrelaça com a vanguarda culinária.
+
+--- 
 
 ## 🇨🇦 A Arepa Venezuelana Conquista o Canadá: The Arepa Republic Lidera a Expansão (Canadá)
 **Restaurante:** The Arepa Republic (Toronto) | **Data:** Junho 2026 | [Link](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHT2lTZ6oZG4pAgyBdW8dVRjONrmrOb9JF2tpCj7Y5CPX-psyapsydnhk83QfunuG5InTdLUDNaRrbqFLa_pmmhIfs6UCQFJyaw4fdINUKfuzB3XRf4gnXTrp_9huGiBgIOUE20-QCCu_XYRy-sXO9KshYGtcGBizbeWVPae1Qr)
@@ -39,20 +53,6 @@ DIDAU, o restaurante venezuelano que revolucionou a cena gastronômica da Norueg
 **Restaurante:** Dining Room (Valencia) | **Data:** Maio 2026 | [Link](https://bienmesabe.com/gastronomia/50-best-discovery-destaca-a-6-restaurantes-venezolanos-este-2026/)
 
 Dining Room, em Valência, Venezuela, foi reconhecido pelo 50 Best Discovery 2026, marcando um marco para a cidade. Este restaurante eleva a culinária venezuelana a novas alturas com sua proposta inovadora, destacando ingredientes locais e técnicas de alta gastronomia que surpreendem e encantam seus clientes.
-
---- 
-
-## 🇦🇷 Buenos Aires Celebra a Cultura Venezuelana na Vibrante Feira Migrante 2026 (Argentina)
-**Restaurante:** Feria Migrante (Buenos Aires) | **Data:** Maio 2026 | [Link](https://www.buenosaires.gob.ar/espaciopublico/noticias/se-realiza-la-feria-migrante-junto-feria-valor-para-celebrar-la-cultura)
-
-A Feira Migrante em Buenos Aires consolida-se como um epicentro da cultura venezuelana, oferecendo uma explosão de sabores e tradições. De tequeños a pão de presunto, a feira celebra a diversidade gastronômica e o espírito comunitário da diáspora venezuelana na Argentina, atraindo milhares de visitantes.
-
---- 
-
-## 🇻🇪 Venezuela Brilha: Seis Restaurantes Nacionais Destacados no 50 Best Discovery 2026 (Venezuela)
-**Restaurante:** Varios restaurantes venezolanos (Valencia y Caracas) | **Data:** Maio 2026 | [Link](https://bienmesabe.com/50-best-discovery-destaca-a-6-restaurantes-venezolanos-este-2026/)
-
-Seis restaurantes venezuelanos, incluindo Dining Room em Valência e vários em Caracas, foram reconhecidos no 50 Best Discovery 2026. Esta conquista sublinha a qualidade e inovação da gastronomia venezuelana. O chef Frank Parada do Dining Room foi premiado com o Tenedor de Oro em 2025 pela sua cozinha de vanguarda.
 
 --- 
 
