@@ -1,4 +1,25 @@
-# Relatório de Pesquisa de Tendências (Nuvem) - 2026-08-17 17:30:12
+# Relatório de Pesquisa de Tendências (Nuvem) - 2026-08-18 17:30:55
+
+## 🇻🇪 A alta cozinha venezuelana brilha: 6 restaurantes reconhecidos pelo 50 Best Discovery 2026 (Venezuela)
+**Restaurante:** 50 Best Discovery (Caracas y Valencia) | **Data:** Maio 2026 | [Link](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFUxynSpoWp-cANx8bsnNwP4UtL7ynf4fK6ZCOtFgXCB24n1oqSAbscSvsrx1WFj_Ec6Hg6rAV-zvZSu_EUNbTcbV9tmfnDK1OgXBRvNOFWTe3dGTwDmOZJLtOmImFnH334YKJve29Tx5ikIZU6WLziYBlKxLrpQgjEPmg4KYPHjsB3O1m4KeztprT63ybbxiII-TiVRg==)
+
+Seis restaurantes venezuelanos, incluindo quatro estreantes, foram destacados pela prestigiada plataforma 50 Best Discovery em sua atualização de 2026. Este reconhecimento global sublinha a crescente influência e qualidade da gastronomia venezuelana, com estabelecimentos em Caracas e Valência que celebram ingredientes locais e uma rica herança culinária.
+
+--- 
+
+## 🇦🇷 Buenos Aires celebra a cultura venezuelana na vibrante Feira Migrante 2026 (Argentina)
+**Restaurante:** Feria Migrante (Buenos Aires) | **Data:** Maio 2026 | [Link](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHYTCNYaPMBfp65gTC-JQe5_zJCAOT65t6ugpKAXeXD9MX9Vmc-nepAFWsE1az0IpmNktM-k7m4f9jGuEvMs_pXEVqF_WCgkivQLZyXMY7pU95Rr8CvjAATaEMT2JAGrrLyPsHzZjDDLQEgHdv6FooTIILq9YSIE3byrVS3bniURMccjhrCGpAMbxDpFQUG0O7Aui2SvSXuXQZetJqGDY1HRUoZVFFpc__jxz7k_AULWhSDJjC1QQ==)
+
+A Feira Migrante, junto com a Feira Valor, transformará o Parque Rivadavia em Buenos Aires em um epicentro da cultura venezuelana em agosto de 2026. Este evento promove a interculturalidade e oferece uma explosão de sabores tradicionais como tequeños, arepas e cachapas, além de artesanato, celebrando a diversidade e a inclusão.
+
+--- 
+
+## 🇻🇪 Sabores solidários: a gastronomia venezuelana une o mundo por seu povo em 2026 (Venezuela)
+**Restaurante:** Lejos, pero no ausentes: sabores que se unen por Venezuela (Iniciativa global) | **Data:** Maio 2026 | [Link](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEqWn4c7_V7c97xse7OkmVk7EAVWR2Uk8HJHmOBHGbCdRFmPB2TKZ_im3l9iq3TU8DTckV3Es4wpI_djH1Nipj0WvcUilznxi7miKTCYkwMCBQRgz6-mH1iZslMXbqkeqqzgLIN2npUdP7sd9bh2TcESVj-r9aBZdK-eX5F8FXjVSdhTnEecF9YV8a4AK0=)
+
+A iniciativa global "Longe, mas não ausentes" usará a gastronomia venezuelana durante seis meses de 2026 para fomentar a solidariedade. Através de eventos com cachapas, arepas e tequeños, busca-se apoiar as famílias afetadas pelos terremotos de 2026 na Venezuela, transformando a alegria culinária em uma ponte de ajuda e memória.
+
+--- 
 
 ## 🇵🇪 "Pela Cachapa": Unindo Sabores e Corações pela Venezuela na América Latina (Perú)
 **Restaurante:** Por la Cachapa (Lima) | **Data:** Maio 2026 | [Link](https://www.infobae.com/peru/2026/07/03/por-la-cachapa-mas-de-30-restaurantes-de-peru-y-latinoamerica-se-unen-este-domingo-para-recaudar-fondos-por-venezuela/)
@@ -32,27 +53,6 @@ Pa' Paraguana em Kissimmee, Flórida, foi reconhecido pela Experience Kissimmee 
 **Restaurante:** Mérito (Lima) | **Data:** Maio 2026 | [Link](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHgXKQDLdby4-s8KXnnBK-5Ny6r3kIYPWXQfvAv3sW7aSARpMwexrx7yPSgjsTrZn9NXspBf5dYT_bDv2NoHtpbUTc1MdYVSNJRVDV6abuGF51CxLAIhKmnq7_qXRFwAiEnocNi4A==)
 
 Mérito em Lima, Peru, é o restaurante venezuelano mais bem classificado globalmente, alcançando a 26ª posição nos 50 Melhores Restaurantes do mundo 2026. Seu chef venezuelano funde ingredientes andinos, amazônicos e venezuelanos com técnicas europeias, criando uma proposta culinária única que celebra a identidade e o talento venezuelano na alta gastronomia.
-
---- 
-
-## 🇻🇪 Projeto Ubre: Pioneiro na Gastronomia Sustentável Venezuelana com Foco Fazenda-Restaurante (Venezuela)
-**Restaurante:** Proyecto Ubre (Caracas) | **Data:** Maio 2026 | [Link](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFTz5u4oik95GlGddkA7aQwQIyqWDuZE4i1G3lFsjevBelQcrTARAYUXCYPj3ug8HTasxwS6s8-rK87CnAECtOBVnZGaT-OCaSNreHgGxVKZG1OPGl9x-9DFSu-5COkAfkqUQ7gAA1mSCSa1CFe-6TFfpLFzdPzrdS9ONnBacW9OCgRJt32GKzuV-UemYXqEhE99jztoMUlOvderPIuw9o0)
-
-Projeto Ubre em Caracas ganhou o Prêmio Ibero-Americano de Gastronomia Sustentável 2026. Este projeto inovador integra uma fazenda e um restaurante, promovendo a produção própria e a sustentabilidade. Sua cozinha revaloriza a identidade venezuelana, especialmente através do cordeiro, demonstrando um modelo produtivo replicável e com visão de futuro na gastronomia.
-
---- 
-
-## 🇳🇴 DIDAU na Noruega: O Sabor Venezuelano Conquista o Norte da Europa com Sucesso Estrondoso (Noruega)
-**Restaurante:** DIDAU (Noruega) | **Data:** Maio 2026 | [Link](https://www.lapatilla.com/2026/08/13/de-venezuela-a-noruega-el-ingeniero-civil-que-convirtio-los-sabores-criollos-en-un-exito-negocio/)
-
-DIDAU, o restaurante venezuelano que revolucionou a cena gastronômica da Noruega, celebra seu sucesso. Com pratos tradicionais como tequeños e patacones, este empreendimento conseguiu levar a essência da Venezuela ao paladar nórdico, consolidando-se como uma referência da culinária crioula na Europa.
-
---- 
-
-## 🇻🇪 Dining Room em Valência: Um Brilho Venezuelano na Lista 50 Best Discovery 2026 (Venezuela)
-**Restaurante:** Dining Room (Valencia) | **Data:** Maio 2026 | [Link](https://bienmesabe.com/gastronomia/50-best-discovery-destaca-a-6-restaurantes-venezolanos-este-2026/)
-
-Dining Room, em Valência, Venezuela, foi reconhecido pelo 50 Best Discovery 2026, marcando um marco para a cidade. Este restaurante eleva a culinária venezuelana a novas alturas com sua proposta inovadora, destacando ingredientes locais e técnicas de alta gastronomia que surpreendem e encantam seus clientes.
 
 --- 
 
