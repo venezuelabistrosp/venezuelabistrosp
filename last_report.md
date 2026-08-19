@@ -1,4 +1,18 @@
-# Relatório de Pesquisa de Tendências (Nuvem) - 2026-08-18 17:30:55
+# Relatório de Pesquisa de Tendências (Nuvem) - 2026-08-19 17:29:39
+
+## 🇵🇪 Por la Cachapa: Unindo a América Latina com sabor venezuelano e solidariedade no Peru. (Perú)
+**Restaurante:** Por la Cachapa (Perú y Latinoamérica) | **Data:** Maio 2026 | [Link](https://www.infobae.com/peru/2026/07/03/por-la-cachapa-mas-de-30-restaurantes-de-peru-y-latinoamerica-se-unen-este-domingo-para-recaudar-fondos-por-venezuela/)
+
+Mais de 30 restaurantes no Peru e na América Latina se unem em "Por la Cachapa", um evento beneficente em 5 de julho de 2026. Cada um criará sua versão única da cachapa venezuelana, doando 100% das vendas para a World Central Kitchen para apoiar comunidades venezuelanas afetadas por terremotos. Uma deliciosa iniciativa de ajuda humanitária.
+
+--- 
+
+## 🇲🇽 MexVen: Sabor venezuelano e esperança no México para migrantes em trânsito. (México)
+**Restaurante:** MexVen (Juchitán de Zaragoza) | **Data:** Maio 2026 | [Link](https://laopinion.com/2024/06/25/abren-un-restaurante-exclusivo-para-los-migrantes-que-se-dirigen-a-estados-unidos/)
+
+MexVen, em Juchitán de Zaragoza, Oaxaca, é mais que um restaurante; é um refúgio de esperança. Emprega migrantes venezuelanos a caminho dos EUA, oferecendo-lhes comida tradicional a baixo custo e a oportunidade de ganhar dinheiro. Um modelo de negócio social que oferece apoio e um pedaço de casa.
+
+--- 
 
 ## 🇻🇪 A alta cozinha venezuelana brilha: 6 restaurantes reconhecidos pelo 50 Best Discovery 2026 (Venezuela)
 **Restaurante:** 50 Best Discovery (Caracas y Valencia) | **Data:** Maio 2026 | [Link](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFUxynSpoWp-cANx8bsnNwP4UtL7ynf4fK6ZCOtFgXCB24n1oqSAbscSvsrx1WFj_Ec6Hg6rAV-zvZSu_EUNbTcbV9tmfnDK1OgXBRvNOFWTe3dGTwDmOZJLtOmImFnH334YKJve29Tx5ikIZU6WLziYBlKxLrpQgjEPmg4KYPHjsB3O1m4KeztprT63ybbxiII-TiVRg==)
@@ -39,20 +53,6 @@ Diez Treinta, em Colegiales, Buenos Aires, é o inovador restaurante e "listenin
 **Restaurante:** The Arepa Republic (Toronto) | **Data:** Junho 2026 | [Link](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHT2lTZ6oZG4pAgyBdW8dVRjONrmrOb9JF2tpCj7Y5CPX-psyapsydnhk83QfunuG5InTdLUDNaRrbqFLa_pmmhIfs6UCQFJyaw4fdINUKfuzB3XRf4gnXTrp_9huGiBgIOUE20-QCCu_XYRy-sXO9KshYGtcGBizbeWVPae1Qr)
 
 The Arepa Republic em Toronto tornou-se um embaixador da gastronomia venezuelana, popularizando a arepa de pabellón. Com planos de expansão para 2025, o chef Luis Manuel Córdoba busca estabelecer a primeira franquia de arepas venezuelanas no Canadá, levando os autênticos sabores a mais cidades como Quebec e Montreal.
-
---- 
-
-## 🇺🇸 Pa' Paraguana na Flórida: A Empanada Venezuelana com Mais de 59 Variedades (Estados Unidos)
-**Restaurante:** Pa' Paraguana (Kissimmee) | **Data:** Junho 2026 | [Link](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFxvRK-RprDgufDLEIx2DdoulImeytaZ9ghFcLKeJ71m4y0y5fC6D-9Se3B_sfAZ96E4X0rIkeCSZUao6Xa6HBBjcfBXc_j2OvEK6UGVPjrnlfKcvhNADBAaPmBQLz6IgzrxiJPx1fZgGaADjKfq6hgdkj5W1js1qbtCsxbIEL2lb3HBhtcQqNX7jkUmEuHzDcoSxWZ8RK4sTTbDI-sckgSvoKmzxYi_QNikwxdiXSxVl5Vhk81wk6xTdT62dK4MkFoHnhqzAZ2lRbztpeTX2EHkxdOwDBSVZBL95jSbiEWFKW2jdVowYETXCsoe7D6ROAm0sKWEHLTXQ6bzCfz)
-
-Pa' Paraguana em Kissimmee, Flórida, foi reconhecido pela Experience Kissimmee na "Rota de Sabores Latinos" da Atlas Obscura em julho de 2026. Este restaurante celebra a diversidade da empanada venezuelana, oferecendo mais de 59 opções, juntamente com sobremesas típicas, consolidando-se como um referente da gastronomia venezuelana nos EUA.
-
---- 
-
-## 🇵🇪 Mérito em Lima: A Fusão Venezuelana que Conquista o Top 50 Mundial de Restaurantes (Perú)
-**Restaurante:** Mérito (Lima) | **Data:** Maio 2026 | [Link](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHgXKQDLdby4-s8KXnnBK-5Ny6r3kIYPWXQfvAv3sW7aSARpMwexrx7yPSgjsTrZn9NXspBf5dYT_bDv2NoHtpbUTc1MdYVSNJRVDV6abuGF51CxLAIhKmnq7_qXRFwAiEnocNi4A==)
-
-Mérito em Lima, Peru, é o restaurante venezuelano mais bem classificado globalmente, alcançando a 26ª posição nos 50 Melhores Restaurantes do mundo 2026. Seu chef venezuelano funde ingredientes andinos, amazônicos e venezuelanos com técnicas europeias, criando uma proposta culinária única que celebra a identidade e o talento venezuelano na alta gastronomia.
 
 --- 
 
