@@ -1,4 +1,25 @@
-# Relatório de Pesquisa de Tendências (Nuvem) - 2026-08-20 17:33:53
+# Relatório de Pesquisa de Tendências (Nuvem) - 2026-08-21 17:32:33
+
+## 🇻🇪 Venezuela Brilha no 50 Best Discovery 2026: Seis Restaurantes Elevam a Alta Cozinha Nacional (Venezuela)
+**Restaurante:** Varios restaurantes venezolanos (Caracas y Valencia) | **Data:** Maio 2026 | [Link](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEckoFiw0bp2DeR6VICSN92PsCLsPIJVuCaed6p_llUG4EepG5JK3RC66xSo3oawiBGspe_KE_II7FqZN5UO4ECMeN7CoaX8lmSz1ikGBzy6-YexMBuU4oQUvJmQ6IMM96csGEIDWQR7lp0aN786OPN9kMQ2hLBjOLBk7mveeSOaxVUI3yye5A5WKmebEbuVADkIdFpGA==)
+
+O guia 50 Best Discovery 2026 reconhece seis estabelecimentos venezuelanos, quatro deles estreantes. Caracas e Valência celebram a inclusão de restaurantes como Cordero, La Casa Bistró, La Posada de Cervantes, El Bosque Bistró e Dining Room, destacando a inovação e qualidade da gastronomia venezuelana no cenário mundial.
+
+--- 
+
+## 🇪🇸 Angélica Locantore: A Pasteleira Venezuelana que Conquista Espanha com Doces Inovadores (España)
+**Restaurante:** Angélica Locantore (Madrid y Barcelona) | **Data:** Maio 2026 | [Link](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFkThPAIVj3NJr9KjLRhM2JVxAhPK066sZE7rm4bFXEtnhZeRR3N8QG7lAnQmAnZ3fInOK6wGQcFVrzPJseZQQMwQx4MdTMh7rSNjW43wQdEJ7fR_5taqvbAdDaZLehb5J2MUe_Fu8=)
+
+Angélica Locantore, pasteleira venezuelana, brilha em Espanha com prémios como pasteleira revelação no Madrid Fusión. Na Panem, cria sobremesas inovadoras que fundem técnicas europeias com a nostalgia da Venezuela, como o seu famoso 'Araghuanei', utilizando ingredientes como creme de pistache e gel de framboesa.
+
+--- 
+
+## 🇻🇪 Bocú: A Promessa de Fusão Franco-Venezuelana que Revolucionará Caracas em 2026 (Venezuela)
+**Restaurante:** Bocú (Caracas) | **Data:** Maio 2026 | [Link](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFxNSnnvv8dpF1ujKtVT4ZkIBDU2GKmerAtmTnCwk9b6ECMv4YanHMuHIW_axZlU6UfCqAs70z7b3iR89xdACqTl17IyGppEft6xg_mPgDBNHlvw8n0Rs6VJQMLq9PDDcCs2aZce1bZJLXVfMEyo7W9OQan-R9vbtESavx2oUEUTJtTDWFVyTYaiWpD9Oct)
+
+Bocú perfila-se como um dos restaurantes mais esperados em Caracas para 2026, prometendo uma inovadora fusão franco-venezuelana. Este novo estabelecimento em Sebucán representa a vanguarda gastronómica, combinando a riqueza dos sabores locais com a sofisticação da cozinha francesa, oferecendo uma experiência culinária única.
+
+--- 
 
 ## 🇵🇪 Mérito e Demo: A Fusão Venezuelana que Conquista Lima e o Mundo Gastronômico (Perú)
 **Restaurante:** Mérito y Demo (Lima) | **Data:** Maio 2026 | [Link](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG2bb9WbTeO5gp9Iz4vMZ4vLVMYx9pd_YLk0dI02b9h3gnRAlTpXF04y-6q_p8dqXxabT4Q7kha6nJgWQmJDBfy51zoXQMH4b_HT5j6U7T21eYPBy8vbJqYYzAVuUd5Rgkj2CAeiSk1qSFMzv4wD_DJMwsxzYes3KICisYhlPSmwQQqHyhFFFm75L20J5guieIfyR0LZcs3IA5KmrT0FCpGEejKlC2w)
@@ -32,27 +53,6 @@ Mais de 30 restaurantes no Peru e na América Latina se unem em "Por la Cachapa"
 **Restaurante:** MexVen (Juchitán de Zaragoza) | **Data:** Maio 2026 | [Link](https://laopinion.com/2024/06/25/abren-un-restaurante-exclusivo-para-los-migrantes-que-se-dirigen-a-estados-unidos/)
 
 MexVen, em Juchitán de Zaragoza, Oaxaca, é mais que um restaurante; é um refúgio de esperança. Emprega migrantes venezuelanos a caminho dos EUA, oferecendo-lhes comida tradicional a baixo custo e a oportunidade de ganhar dinheiro. Um modelo de negócio social que oferece apoio e um pedaço de casa.
-
---- 
-
-## 🇻🇪 A alta cozinha venezuelana brilha: 6 restaurantes reconhecidos pelo 50 Best Discovery 2026 (Venezuela)
-**Restaurante:** 50 Best Discovery (Caracas y Valencia) | **Data:** Maio 2026 | [Link](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFUxynSpoWp-cANx8bsnNwP4UtL7ynf4fK6ZCOtFgXCB24n1oqSAbscSvsrx1WFj_Ec6Hg6rAV-zvZSu_EUNbTcbV9tmfnDK1OgXBRvNOFWTe3dGTwDmOZJLtOmImFnH334YKJve29Tx5ikIZU6WLziYBlKxLrpQgjEPmg4KYPHjsB3O1m4KeztprT63ybbxiII-TiVRg==)
-
-Seis restaurantes venezuelanos, incluindo quatro estreantes, foram destacados pela prestigiada plataforma 50 Best Discovery em sua atualização de 2026. Este reconhecimento global sublinha a crescente influência e qualidade da gastronomia venezuelana, com estabelecimentos em Caracas e Valência que celebram ingredientes locais e uma rica herança culinária.
-
---- 
-
-## 🇦🇷 Buenos Aires celebra a cultura venezuelana na vibrante Feira Migrante 2026 (Argentina)
-**Restaurante:** Feria Migrante (Buenos Aires) | **Data:** Maio 2026 | [Link](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHYTCNYaPMBfp65gTC-JQe5_zJCAOT65t6ugpKAXeXD9MX9Vmc-nepAFWsE1az0IpmNktM-k7m4f9jGuEvMs_pXEVqF_WCgkivQLZyXMY7pU95Rr8CvjAATaEMT2JAGrrLyPsHzZjDDLQEgHdv6FooTIILq9YSIE3byrVS3bniURMccjhrCGpAMbxDpFQUG0O7Aui2SvSXuXQZetJqGDY1HRUoZVFFpc__jxz7k_AULWhSDJjC1QQ==)
-
-A Feira Migrante, junto com a Feira Valor, transformará o Parque Rivadavia em Buenos Aires em um epicentro da cultura venezuelana em agosto de 2026. Este evento promove a interculturalidade e oferece uma explosão de sabores tradicionais como tequeños, arepas e cachapas, além de artesanato, celebrando a diversidade e a inclusão.
-
---- 
-
-## 🇻🇪 Sabores solidários: a gastronomia venezuelana une o mundo por seu povo em 2026 (Venezuela)
-**Restaurante:** Lejos, pero no ausentes: sabores que se unen por Venezuela (Iniciativa global) | **Data:** Maio 2026 | [Link](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEqWn4c7_V7c97xse7OkmVk7EAVWR2Uk8HJHmOBHGbCdRFmPB2TKZ_im3l9iq3TU8DTckV3Es4wpI_djH1Nipj0WvcUilznxi7miKTCYkwMCBQRgz6-mH1iZslMXbqkeqqzgLIN2npUdP7sd9bh2TcESVj-r9aBZdK-eX5F8FXjVSdhTnEecF9YV8a4AK0=)
-
-A iniciativa global "Longe, mas não ausentes" usará a gastronomia venezuelana durante seis meses de 2026 para fomentar a solidariedade. Através de eventos com cachapas, arepas e tequeños, busca-se apoiar as famílias afetadas pelos terremotos de 2026 na Venezuela, transformando a alegria culinária em uma ponte de ajuda e memória.
 
 --- 
 
