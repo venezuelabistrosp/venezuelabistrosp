@@ -1,4 +1,4 @@
-const CACHE_NAME = "venebistro-cache-1787475965";
+const CACHE_NAME = "venebistro-cache-1787476328";
 const STATIC_ASSETS = [
   "./",
   "./index.html",
