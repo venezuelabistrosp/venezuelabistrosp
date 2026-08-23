@@ -1,4 +1,25 @@
-# Relatório de Pesquisa de Tendências (Nuvem) - 2026-08-21 17:32:33
+# Relatório de Pesquisa de Tendências (Nuvem) - 2026-08-23 17:24:27
+
+## 🇪🇸 La Cachapera: Inovação Venezuelana com "Cachinachos" Conquista Madrid e Espanha (España)
+**Restaurante:** La Cachapera (Madrid) | **Data:** Maio 2026 | [Link](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQESRbRd7Ur3xENy-CUo92keJYwJtem6EW82EotY8HKaAhj2-bEUYAJF9RvkhvtVBTZ-bJGC-u4F-806MhHeIKLl-h6fo67XswOtKOn2n61DFB3F_cyDZ8e_au7U_B5-lyQR7CZg2i0KEdTQCmb_kA9c_-OWcZjBgrquA2SaCie44nvMt5zm0jEL)
+
+La Cachapera expande seu sucesso na Espanha com uma nova unidade em Madrid, consolidando sua proposta de cachapas e clássicos venezuelanos. Sua inovação, os "cachinachos", reinventa os nachos com triângulos crocantes de cachapa, oferecendo uma experiência sensorial caribenha que funde gastronomia, música e estética.
+
+--- 
+
+## 🇻🇪 Dining Room em Valência: Alta Cozinha Venezuelana Brilha no 50 Best Discovery 2026 (Venezuela)
+**Restaurante:** Dining Room (Valencia) | **Data:** Maio 2026 | [Link](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGqOoO03iuMORLk1OB65RcaCC1vBcfrdJIFl3HpPe_3epHAWB832CucUtyeSsUwnWI-5s1h79Uxgw5t-8TuGvJR-bRCbjZ76HQ7itgm-I8j_R0m45fFWzBVSXbglpKKUYLNA1TrNQaIjQC-svqAeag2hfO-J6dXL7BPFJP4ZnPDIZUBwxCHG0tSMeH1Rijb-Oro8ffhQQ==)
+
+Dining Room em Valência, sob o chef Frank Parada, foi reconhecido no guia 50 Best Discovery 2026, marcando um marco para a cidade. Seu menu de degustação funde técnicas peruanas com sabores andinos venezuelanos, utilizando produtos locais em pratos inovadores como pão de mapuey e polvo com formigas limão.
+
+--- 
+
+## 🇻🇪 Fusión a la Carta 2025: Impulsionando o Talento Gastronômico Inovador da Venezuela (Venezuela)
+**Restaurante:** Fusión a la Carta 2025 (Venezuela) | **Data:** Maio 2026 | [Link](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHxn3DM7eJbuIdrrV1oTVpS4beyKfUubiCdoji2qZ9e2riDI4iL5UBtlihZ3YtPSohta1c2D_TAw73KAsa0-nKks-yaGaqDOmTo_AkEac44A9yiZ3wUMknsLdPz11BwAv8b7wYSh7MwJUwD6TADXQGn--DBkxrDwNXhJR4CB0Lk7oPidC7tbj77nldtYUtcVIdEhJ5YBQ83PBSKaGlfvf9fzw8NMsQ7RD-pqxmmgJyuDYo_8hGgb9GCU1s4aBOr8E2i9LY=)
+
+Fusión a la Carta 2025, impulsionado por Maizina Americana e McCormick, celebrou sua décima primeira edição destacando o talento culinário venezuelano. Joel Camacho venceu com "Corazón de Maíz Santo", Francis Müller com "Convergencia Tostada" e Adriana Marotta com "Rollo de arándanos y lima", mostrando inovação e tradição.
+
+--- 
 
 ## 🇻🇪 Venezuela Brilha no 50 Best Discovery 2026: Seis Restaurantes Elevam a Alta Cozinha Nacional (Venezuela)
 **Restaurante:** Varios restaurantes venezolanos (Caracas y Valencia) | **Data:** Maio 2026 | [Link](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEckoFiw0bp2DeR6VICSN92PsCLsPIJVuCaed6p_llUG4EepG5JK3RC66xSo3oawiBGspe_KE_II7FqZN5UO4ECMeN7CoaX8lmSz1ikGBzy6-YexMBuU4oQUvJmQ6IMM96csGEIDWQR7lp0aN786OPN9kMQ2hLBjOLBk7mveeSOaxVUI3yye5A5WKmebEbuVADkIdFpGA==)
@@ -32,27 +53,6 @@ Mérito e Demo em Lima, Peru, lideram a cena gastronômica com uma inovadora fus
 **Restaurante:** Heartbroken Cantina (Toronto) | **Data:** Maio 2026 | [Link](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFjkMa9C2zk9lm1P1n7jZAHCN_dUaw30dW45OoYgpqWLMSoi9n1pdg3j0V-PKjrAlT3as_1QYj_3w6nGh8VCcTPcUOo2O_T0UQGNLJL7aKk73lgZrn6U0Au6xKMlShDo9XdBK4pHF07AjEwITIdhQxxU5qUptIp_nM70KcDJxYXNUtADjxwKy9yiezfG7ErREriQAKh5NkTINPa-TjixZ4D-3l4asuV6307wrOFxLn5VOQF0uOmT1RCbyci2MD1f9KmbZNjRqah_T2QlahkwlEymQ==)
 
 Heartbroken Cantina em Toronto apresenta a "Arepa Birria", uma audaz fusão de sabores mexicanos, venezuelanos e colombianos. Esta arepa recheada com birria e queijo derretido, servida com consomê, é uma inovação culinária que redefine a comida latina.
-
---- 
-
-## 🇪🇸 Apartaco Madrid: Buffet Livre de Sabor Venezuelano com um Coração Solidário (España)
-**Restaurante:** Apartaco (Madrid) | **Data:** Maio 2026 | [Link](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHZw_WHmK0SZfPY1vA5kqrMiOAS94pJt_aK_za3u3MW1EMak16kuhwVFkfkHoZCUlHW-1HYrU3Ai8L37J741pYu9kDn2lFPTAlRtIBcn9E8IETC314iSyY24Q76LH2ISAWr8931kv69oj0qH9DXHLV8ZfJvR3kBDO-ejHN5i9U4ssbadYvN84mHPqDd72LvOcYl_RAlzueAorRSwgEo7DQtrxdPHcCdzlv3-eapuiirrWsvg==)
-
-Apartaco em Madrid se reinventa em agosto de 2026 com um buffet livre de comida venezuelana caseira a preços acessíveis. Oferece arepas, tequeños e pabellón criollo ilimitados, e doa um euro por menu à Fundação Meals4Hope para vítimas do terremoto na Venezuela.
-
---- 
-
-## 🇵🇪 Por la Cachapa: Unindo a América Latina com sabor venezuelano e solidariedade no Peru. (Perú)
-**Restaurante:** Por la Cachapa (Perú y Latinoamérica) | **Data:** Maio 2026 | [Link](https://www.infobae.com/peru/2026/07/03/por-la-cachapa-mas-de-30-restaurantes-de-peru-y-latinoamerica-se-unen-este-domingo-para-recaudar-fondos-por-venezuela/)
-
-Mais de 30 restaurantes no Peru e na América Latina se unem em "Por la Cachapa", um evento beneficente em 5 de julho de 2026. Cada um criará sua versão única da cachapa venezuelana, doando 100% das vendas para a World Central Kitchen para apoiar comunidades venezuelanas afetadas por terremotos. Uma deliciosa iniciativa de ajuda humanitária.
-
---- 
-
-## 🇲🇽 MexVen: Sabor venezuelano e esperança no México para migrantes em trânsito. (México)
-**Restaurante:** MexVen (Juchitán de Zaragoza) | **Data:** Maio 2026 | [Link](https://laopinion.com/2024/06/25/abren-un-restaurante-exclusivo-para-los-migrantes-que-se-dirigen-a-estados-unidos/)
-
-MexVen, em Juchitán de Zaragoza, Oaxaca, é mais que um restaurante; é um refúgio de esperança. Emprega migrantes venezuelanos a caminho dos EUA, oferecendo-lhes comida tradicional a baixo custo e a oportunidade de ganhar dinheiro. Um modelo de negócio social que oferece apoio e um pedaço de casa.
 
 --- 
 
