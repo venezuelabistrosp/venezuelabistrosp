@@ -1,4 +1,25 @@
-# Relatório de Pesquisa de Tendências (Nuvem) - 2026-08-23 17:24:27
+# Relatório de Pesquisa de Tendências (Nuvem) - 2026-08-24 17:36:43
+
+## 🇵🇪 Por la Cachapa: Um Festival Solidário Latino-Americano que Reinventa o Clássico Venezuelano (Perú)
+**Restaurante:** Por la Cachapa (Lima) | **Data:** Maio 2026 | [Link](https://www.infobae.com/peru/2026/07/03/por-la-cachapa-mas-de-30-restaurantes-de-peru-y-latinoamerica-se-unen-este-domingo-para-recaudar-fondos-por-venezuela/)
+
+Mais de 30 restaurantes no Peru e na América Latina unem-se em "Por la Cachapa", um evento beneficente em 5 de julho de 2026. Impulsionado por Demo e World Central Kitchen, visa arrecadar fundos para comunidades venezuelanas afetadas por um terremoto, oferecendo versões inovadoras da cachapa.
+
+--- 
+
+## 🇨🇦 The Arepa Republic: A Arepa Venezuelana Conquista o Canadá com Sabor e Expansão (Canadá)
+**Restaurante:** The Arepa Republic (Toronto) | **Data:** Maio 2026 | [Link](https://eldiario.com/2025/08/20/un-restaurante-venezolano-populariza-la-arepa-en-el-mercado-canadiense/)
+
+Desde 2024, The Arepa Republic em Toronto popularizou a arepa venezuelana no Canadá. Sua especialidade, a arepa de pabellón, é um sucesso. Para 2025, o fundador Luis Manuel Córdoba planeja expandir o conceito para uma franquia nacional, levando o sabor venezuelano a todo o país.
+
+--- 
+
+## 🇻🇪 Venezuela Brilha no 50 Best Discovery 2026: Alta Cozinha com Raízes e Vanguarda (Venezuela)
+**Restaurante:** El Bosque Bistró (Caracas) y Dining Room (Valencia) | **Data:** Maio 2026 | [Link](https://bienmesabe.elestimulo.com/50-best-discovery-destaca-a-6-restaurantes-venezolanos-este-2026/)
+
+Em julho de 2026, seis restaurantes venezuelanos, incluindo El Bosque Bistró (Caracas) e Dining Room (Valencia), foram incluídos no prestigiado guia 50 Best Discovery. Este reconhecimento global destaca a inovação e diversidade da alta cozinha venezuelana, fundindo raízes indígenas, africanas e europeias.
+
+--- 
 
 ## 🇪🇸 La Cachapera: Inovação Venezuelana com "Cachinachos" Conquista Madrid e Espanha (España)
 **Restaurante:** La Cachapera (Madrid) | **Data:** Maio 2026 | [Link](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQESRbRd7Ur3xENy-CUo92keJYwJtem6EW82EotY8HKaAhj2-bEUYAJF9RvkhvtVBTZ-bJGC-u4F-806MhHeIKLl-h6fo67XswOtKOn2n61DFB3F_cyDZ8e_au7U_B5-lyQR7CZg2i0KEdTQCmb_kA9c_-OWcZjBgrquA2SaCie44nvMt5zm0jEL)
@@ -32,27 +53,6 @@ O guia 50 Best Discovery 2026 reconhece seis estabelecimentos venezuelanos, quat
 **Restaurante:** Angélica Locantore (Madrid y Barcelona) | **Data:** Maio 2026 | [Link](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFkThPAIVj3NJr9KjLRhM2JVxAhPK066sZE7rm4bFXEtnhZeRR3N8QG7lAnQmAnZ3fInOK6wGQcFVrzPJseZQQMwQx4MdTMh7rSNjW43wQdEJ7fR_5taqvbAdDaZLehb5J2MUe_Fu8=)
 
 Angélica Locantore, pasteleira venezuelana, brilha em Espanha com prémios como pasteleira revelação no Madrid Fusión. Na Panem, cria sobremesas inovadoras que fundem técnicas europeias com a nostalgia da Venezuela, como o seu famoso 'Araghuanei', utilizando ingredientes como creme de pistache e gel de framboesa.
-
---- 
-
-## 🇻🇪 Bocú: A Promessa de Fusão Franco-Venezuelana que Revolucionará Caracas em 2026 (Venezuela)
-**Restaurante:** Bocú (Caracas) | **Data:** Maio 2026 | [Link](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFxNSnnvv8dpF1ujKtVT4ZkIBDU2GKmerAtmTnCwk9b6ECMv4YanHMuHIW_axZlU6UfCqAs70z7b3iR89xdACqTl17IyGppEft6xg_mPgDBNHlvw8n0Rs6VJQMLq9PDDcCs2aZce1bZJLXVfMEyo7W9OQan-R9vbtESavx2oUEUTJtTDWFVyTYaiWpD9Oct)
-
-Bocú perfila-se como um dos restaurantes mais esperados em Caracas para 2026, prometendo uma inovadora fusão franco-venezuelana. Este novo estabelecimento em Sebucán representa a vanguarda gastronómica, combinando a riqueza dos sabores locais com a sofisticação da cozinha francesa, oferecendo uma experiência culinária única.
-
---- 
-
-## 🇵🇪 Mérito e Demo: A Fusão Venezuelana que Conquista Lima e o Mundo Gastronômico (Perú)
-**Restaurante:** Mérito y Demo (Lima) | **Data:** Maio 2026 | [Link](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG2bb9WbTeO5gp9Iz4vMZ4vLVMYx9pd_YLk0dI02b9h3gnRAlTpXF04y-6q_p8dqXxabT4Q7kha6nJgWQmJDBfy51zoXQMH4b_HT5j6U7T21eYPBy8vbJqYYzAVuUd5Rgkj2CAeiSk1qSFMzv4wD_DJMwsxzYes3KICisYhlPSmwQQqHyhFFFm75L20J5guieIfyR0LZcs3IA5KmrT0FCpGEejKlC2w)
-
-Mérito e Demo em Lima, Peru, lideram a cena gastronômica com uma inovadora fusão peruano-venezuelana. Mérito, do chef Juan Luis Martínez, está entre os 50 melhores do mundo, enquanto Demo triunfa com cachapas e arepas, demonstrando o sucesso da culinária venezuelana na capital peruana.
-
---- 
-
-## 🇨🇦 A Arepa Birria: Uma Explosão de Sabor Latino em Toronto que Conquista Paladares (Canadá)
-**Restaurante:** Heartbroken Cantina (Toronto) | **Data:** Maio 2026 | [Link](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFjkMa9C2zk9lm1P1n7jZAHCN_dUaw30dW45OoYgpqWLMSoi9n1pdg3j0V-PKjrAlT3as_1QYj_3w6nGh8VCcTPcUOo2O_T0UQGNLJL7aKk73lgZrn6U0Au6xKMlShDo9XdBK4pHF07AjEwITIdhQxxU5qUptIp_nM70KcDJxYXNUtADjxwKy9yiezfG7ErREriQAKh5NkTINPa-TjixZ4D-3l4asuV6307wrOFxLn5VOQF0uOmT1RCbyci2MD1f9KmbZNjRqah_T2QlahkwlEymQ==)
-
-Heartbroken Cantina em Toronto apresenta a "Arepa Birria", uma audaz fusão de sabores mexicanos, venezuelanos e colombianos. Esta arepa recheada com birria e queijo derretido, servida com consomê, é uma inovação culinária que redefine a comida latina.
 
 --- 
 
