@@ -1,4 +1,18 @@
-# Relatório de Pesquisa de Tendências (Nuvem) - 2026-08-24 17:36:43
+# Relatório de Pesquisa de Tendências (Nuvem) - 2026-08-25 17:34:45
+
+## 🇵🇪 Juan Luis Martínez: A fusão venezuelana-peruana que conquista o mundo a partir de Lima (Perú)
+**Restaurante:** Mérito y Demo (Lima) | **Data:** Maio 2026 | [Link](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGi10kX__MDr3EMb0f_QTdkJHVhnBoMp3VYmSLq2hmwEK_yp8fpYvCeqVUJmJ8hYC8x8TVFXKL6w5zLSfamCbjvDYuoCv_DwlkXPn2h8I0GV7zbdawtdwAz-pgvEx52LQ_EcXX3b7fB5-POEHYkivEzPisMRvvcCMY1Y80-f8XLrOWXUQ9Qr1xAVsKLSacWJ6VoMDrqvwYfQEUkDQKtiOn-JEW22E=)
+
+O chef venezuelano Juan Luis Martínez triunfa em Lima com Mérito e Demo, fundindo magistralmente a culinária de sua terra com a peruana. Suas cachapas, arepas e tequeños de banana madura sem glúten, junto a inovações como o ceviche com guasacaca, posicionaram o Mérito entre os 50 melhores restaurantes do mundo.
+
+--- 
+
+## 🇦🇷 Buenos Aires se une: Jornada gastronômica solidária pela Venezuela e World Central Kitchen (Argentina)
+**Restaurante:** "Venezuela nos necesita. La cocina nos une." (Buenos Aires) | **Data:** Maio 2026 | [Link](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFSIqfJiuX1Rsnn7jdLG10OvZBBaqyM-qnjA7GnwzLL0QeifQH3S_jWuJ98yxWZRd6Rzy2qCDXHEn_lHM6WktFe5SFjfmGha81SUoTz9mpC5w7S_Er7C2Mnd_EgG-wYCesr87QOCYFca3WW6iY-FaS6ZKDHMjV7ylQlO4K_4NxyT9LeAzn1TJDMDf63Y-SEQTRy9w==)
+
+Buenos Aires acolhe "Venezuela nos necesita. La cocina nos une.", uma jornada gastronômica solidária que reúne Fukuro Noodle Bar, Gran Dabbang e Diez Treinta. O evento arrecada fundos para a World Central Kitchen, apoiando as vítimas dos terremotos na Venezuela, demonstrando o poder da gastronomia como ferramenta de impacto social.
+
+--- 
 
 ## 🇵🇪 Por la Cachapa: Um Festival Solidário Latino-Americano que Reinventa o Clássico Venezuelano (Perú)
 **Restaurante:** Por la Cachapa (Lima) | **Data:** Maio 2026 | [Link](https://www.infobae.com/peru/2026/07/03/por-la-cachapa-mas-de-30-restaurantes-de-peru-y-latinoamerica-se-unen-este-domingo-para-recaudar-fondos-por-venezuela/)
@@ -39,20 +53,6 @@ Dining Room em Valência, sob o chef Frank Parada, foi reconhecido no guia 50 Be
 **Restaurante:** Fusión a la Carta 2025 (Venezuela) | **Data:** Maio 2026 | [Link](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHxn3DM7eJbuIdrrV1oTVpS4beyKfUubiCdoji2qZ9e2riDI4iL5UBtlihZ3YtPSohta1c2D_TAw73KAsa0-nKks-yaGaqDOmTo_AkEac44A9yiZ3wUMknsLdPz11BwAv8b7wYSh7MwJUwD6TADXQGn--DBkxrDwNXhJR4CB0Lk7oPidC7tbj77nldtYUtcVIdEhJ5YBQ83PBSKaGlfvf9fzw8NMsQ7RD-pqxmmgJyuDYo_8hGgb9GCU1s4aBOr8E2i9LY=)
 
 Fusión a la Carta 2025, impulsionado por Maizina Americana e McCormick, celebrou sua décima primeira edição destacando o talento culinário venezuelano. Joel Camacho venceu com "Corazón de Maíz Santo", Francis Müller com "Convergencia Tostada" e Adriana Marotta com "Rollo de arándanos y lima", mostrando inovação e tradição.
-
---- 
-
-## 🇻🇪 Venezuela Brilha no 50 Best Discovery 2026: Seis Restaurantes Elevam a Alta Cozinha Nacional (Venezuela)
-**Restaurante:** Varios restaurantes venezolanos (Caracas y Valencia) | **Data:** Maio 2026 | [Link](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEckoFiw0bp2DeR6VICSN92PsCLsPIJVuCaed6p_llUG4EepG5JK3RC66xSo3oawiBGspe_KE_II7FqZN5UO4ECMeN7CoaX8lmSz1ikGBzy6-YexMBuU4oQUvJmQ6IMM96csGEIDWQR7lp0aN786OPN9kMQ2hLBjOLBk7mveeSOaxVUI3yye5A5WKmebEbuVADkIdFpGA==)
-
-O guia 50 Best Discovery 2026 reconhece seis estabelecimentos venezuelanos, quatro deles estreantes. Caracas e Valência celebram a inclusão de restaurantes como Cordero, La Casa Bistró, La Posada de Cervantes, El Bosque Bistró e Dining Room, destacando a inovação e qualidade da gastronomia venezuelana no cenário mundial.
-
---- 
-
-## 🇪🇸 Angélica Locantore: A Pasteleira Venezuelana que Conquista Espanha com Doces Inovadores (España)
-**Restaurante:** Angélica Locantore (Madrid y Barcelona) | **Data:** Maio 2026 | [Link](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFkThPAIVj3NJr9KjLRhM2JVxAhPK066sZE7rm4bFXEtnhZeRR3N8QG7lAnQmAnZ3fInOK6wGQcFVrzPJseZQQMwQx4MdTMh7rSNjW43wQdEJ7fR_5taqvbAdDaZLehb5J2MUe_Fu8=)
-
-Angélica Locantore, pasteleira venezuelana, brilha em Espanha com prémios como pasteleira revelação no Madrid Fusión. Na Panem, cria sobremesas inovadoras que fundem técnicas europeias com a nostalgia da Venezuela, como o seu famoso 'Araghuanei', utilizando ingredientes como creme de pistache e gel de framboesa.
 
 --- 
 
