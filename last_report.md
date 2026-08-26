@@ -1,4 +1,11 @@
-# Relatório de Pesquisa de Tendências (Nuvem) - 2026-08-25 17:34:45
+# Relatório de Pesquisa de Tendências (Nuvem) - 2026-08-26 19:05:36
+
+## 🇵🇪 Lima Abraça a Fusão: Gastronomia Venezuelana Brilha na Capital Culinária do Peru (Perú)
+**Restaurante:** Demo y Mérito (Lima) | **Data:** Maio 2026 | [Link](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHGQmuMjKBGhVAE8lTuTmMUmgJvQufmebzVOxTXbuhO6A2tI7WOxMUMAti5Ejl3Yhm94prafp0YRNjY3WfWPudwPqBn4m4-yRI5v3LVbPTAgmbGT2nfOh9H4WXOLcBGmJS4NphmGVLjY-CIHAD0PWZNvMLJik2vbD-KcCcACbD6LXV_5MEDew17Qqn_mrvMJUM18XhRmjHZQn-MAyF0AbWfKbO4splWmM-vrT3_JqsJgL4asAT6dzfq0ozmRz2Za0dZrOkIu9YG62BJR_o89RGs72EXfdEvNts5y84_XQHuMR4CgLWKVN2aao_so60HUROE-RcsFSR)
+
+A culinária venezuelana integra-se com sucesso em Lima, Peru, com cafeterias como Demo oferecendo cachapas e arepas. O chef Juan Luis Martínez funde sabores peruanos e venezuelanos no Mérito, um restaurante top mundial, destacando a versatilidade e o apelo desta gastronomia na cena culinária limenha.
+
+--- 
 
 ## 🇵🇪 Juan Luis Martínez: A fusão venezuelana-peruana que conquista o mundo a partir de Lima (Perú)
 **Restaurante:** Mérito y Demo (Lima) | **Data:** Maio 2026 | [Link](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGi10kX__MDr3EMb0f_QTdkJHVhnBoMp3VYmSLq2hmwEK_yp8fpYvCeqVUJmJ8hYC8x8TVFXKL6w5zLSfamCbjvDYuoCv_DwlkXPn2h8I0GV7zbdawtdwAz-pgvEx52LQ_EcXX3b7fB5-POEHYkivEzPisMRvvcCMY1Y80-f8XLrOWXUQ9Qr1xAVsKLSacWJ6VoMDrqvwYfQEUkDQKtiOn-JEW22E=)
@@ -46,13 +53,6 @@ La Cachapera expande seu sucesso na Espanha com uma nova unidade em Madrid, cons
 **Restaurante:** Dining Room (Valencia) | **Data:** Maio 2026 | [Link](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGqOoO03iuMORLk1OB65RcaCC1vBcfrdJIFl3HpPe_3epHAWB832CucUtyeSsUwnWI-5s1h79Uxgw5t-8TuGvJR-bRCbjZ76HQ7itgm-I8j_R0m45fFWzBVSXbglpKKUYLNA1TrNQaIjQC-svqAeag2hfO-J6dXL7BPFJP4ZnPDIZUBwxCHG0tSMeH1Rijb-Oro8ffhQQ==)
 
 Dining Room em Valência, sob o chef Frank Parada, foi reconhecido no guia 50 Best Discovery 2026, marcando um marco para a cidade. Seu menu de degustação funde técnicas peruanas com sabores andinos venezuelanos, utilizando produtos locais em pratos inovadores como pão de mapuey e polvo com formigas limão.
-
---- 
-
-## 🇻🇪 Fusión a la Carta 2025: Impulsionando o Talento Gastronômico Inovador da Venezuela (Venezuela)
-**Restaurante:** Fusión a la Carta 2025 (Venezuela) | **Data:** Maio 2026 | [Link](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHxn3DM7eJbuIdrrV1oTVpS4beyKfUubiCdoji2qZ9e2riDI4iL5UBtlihZ3YtPSohta1c2D_TAw73KAsa0-nKks-yaGaqDOmTo_AkEac44A9yiZ3wUMknsLdPz11BwAv8b7wYSh7MwJUwD6TADXQGn--DBkxrDwNXhJR4CB0Lk7oPidC7tbj77nldtYUtcVIdEhJ5YBQ83PBSKaGlfvf9fzw8NMsQ7RD-pqxmmgJyuDYo_8hGgb9GCU1s4aBOr8E2i9LY=)
-
-Fusión a la Carta 2025, impulsionado por Maizina Americana e McCormick, celebrou sua décima primeira edição destacando o talento culinário venezuelano. Joel Camacho venceu com "Corazón de Maíz Santo", Francis Müller com "Convergencia Tostada" e Adriana Marotta com "Rollo de arándanos y lima", mostrando inovação e tradição.
 
 --- 
 
