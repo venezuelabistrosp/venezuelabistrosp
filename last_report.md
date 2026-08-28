@@ -1,4 +1,25 @@
-# Relatório de Pesquisa de Tendências (Nuvem) - 2026-08-26 19:05:36
+# Relatório de Pesquisa de Tendências (Nuvem) - 2026-08-28 01:22:11
+
+## 🇻🇪 Venezuela Brilha no 50 Best Discovery 2026: Valência Estreia na Alta Cozinha (Venezuela)
+**Restaurante:** Dining Room (Valencia) y El Bosque Bistró (Caracas) | **Data:** Maio 2026 | [Link](https://bienmesabe.com/50-best-discovery-destaca-a-6-restaurantes-venezolanos-este-2026/)
+
+A plataforma 50 Best Discovery incluiu seis restaurantes venezuelanos em seu guia global 2026, destacando a primeira aparição de Valência com o Dining Room. Juntamente com o El Bosque Bistró de Caracas, esses estabelecimentos elevam o perfil da alta cozinha venezuelana, celebrando a criatividade e o respeito pelos ingredientes locais.
+
+--- 
+
+## 🇻🇪 Venezuela: Principal Destino Culinário da América do Sul nos World Travel Awards 2026 (Venezuela)
+**Restaurante:** World Travel Awards 2026 - Nominación de Venezuela | **Data:** Maio 2026 | [Link](https://primicia.com.ve/mundo/venezuela-suma-cuatro-locales-en-la-lista-gastronomica-50-best-discovery-2026/)
+
+A gastronomia venezuelana foi nomeada como 'Principal Destino Culinário da América do Sul' nos prestigiados World Travel Awards 2026. Este reconhecimento destaca a rica herança mestiça de sua culinária, seus contrastes de sabores e texturas, e o impacto positivo do turismo gastronômico nos produtores locais.
+
+--- 
+
+## 🇻🇪 O Ano do Pão na Venezuela: Reconhecimento Global e Proteção da Herança Culinária (Venezuela)
+**Restaurante:** El Año del Pan y Premios Gourmand World Cookbook Awards 2025 | **Data:** Maio 2026 | [Link](https://esnobismogourmet.com/10-titulares-de-la-gastronomia-venezolana-en-2025/)
+
+2025 foi o 'Ano do Pão' para a Venezuela, com reconhecimentos internacionais como os Gourmand World Cookbook Awards. A arepa foi destacada como patrimônio vivo e a Indicação Geográfica Protegida para o Pão de Táchira foi formalizada, consolidando a vitalidade e profissionalização da panificação venezuelana globalmente.
+
+--- 
 
 ## 🇵🇪 Lima Abraça a Fusão: Gastronomia Venezuelana Brilha na Capital Culinária do Peru (Perú)
 **Restaurante:** Demo y Mérito (Lima) | **Data:** Maio 2026 | [Link](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHGQmuMjKBGhVAE8lTuTmMUmgJvQufmebzVOxTXbuhO6A2tI7WOxMUMAti5Ejl3Yhm94prafp0YRNjY3WfWPudwPqBn4m4-yRI5v3LVbPTAgmbGT2nfOh9H4WXOLcBGmJS4NphmGVLjY-CIHAD0PWZNvMLJik2vbD-KcCcACbD6LXV_5MEDew17Qqn_mrvMJUM18XhRmjHZQn-MAyF0AbWfKbO4splWmM-vrT3_JqsJgL4asAT6dzfq0ozmRz2Za0dZrOkIu9YG62BJR_o89RGs72EXfdEvNts5y84_XQHuMR4CgLWKVN2aao_so60HUROE-RcsFSR)
@@ -32,27 +53,6 @@ Mais de 30 restaurantes no Peru e na América Latina unem-se em "Por la Cachapa"
 **Restaurante:** The Arepa Republic (Toronto) | **Data:** Maio 2026 | [Link](https://eldiario.com/2025/08/20/un-restaurante-venezolano-populariza-la-arepa-en-el-mercado-canadiense/)
 
 Desde 2024, The Arepa Republic em Toronto popularizou a arepa venezuelana no Canadá. Sua especialidade, a arepa de pabellón, é um sucesso. Para 2025, o fundador Luis Manuel Córdoba planeja expandir o conceito para uma franquia nacional, levando o sabor venezuelano a todo o país.
-
---- 
-
-## 🇻🇪 Venezuela Brilha no 50 Best Discovery 2026: Alta Cozinha com Raízes e Vanguarda (Venezuela)
-**Restaurante:** El Bosque Bistró (Caracas) y Dining Room (Valencia) | **Data:** Maio 2026 | [Link](https://bienmesabe.elestimulo.com/50-best-discovery-destaca-a-6-restaurantes-venezolanos-este-2026/)
-
-Em julho de 2026, seis restaurantes venezuelanos, incluindo El Bosque Bistró (Caracas) e Dining Room (Valencia), foram incluídos no prestigiado guia 50 Best Discovery. Este reconhecimento global destaca a inovação e diversidade da alta cozinha venezuelana, fundindo raízes indígenas, africanas e europeias.
-
---- 
-
-## 🇪🇸 La Cachapera: Inovação Venezuelana com "Cachinachos" Conquista Madrid e Espanha (España)
-**Restaurante:** La Cachapera (Madrid) | **Data:** Maio 2026 | [Link](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQESRbRd7Ur3xENy-CUo92keJYwJtem6EW82EotY8HKaAhj2-bEUYAJF9RvkhvtVBTZ-bJGC-u4F-806MhHeIKLl-h6fo67XswOtKOn2n61DFB3F_cyDZ8e_au7U_B5-lyQR7CZg2i0KEdTQCmb_kA9c_-OWcZjBgrquA2SaCie44nvMt5zm0jEL)
-
-La Cachapera expande seu sucesso na Espanha com uma nova unidade em Madrid, consolidando sua proposta de cachapas e clássicos venezuelanos. Sua inovação, os "cachinachos", reinventa os nachos com triângulos crocantes de cachapa, oferecendo uma experiência sensorial caribenha que funde gastronomia, música e estética.
-
---- 
-
-## 🇻🇪 Dining Room em Valência: Alta Cozinha Venezuelana Brilha no 50 Best Discovery 2026 (Venezuela)
-**Restaurante:** Dining Room (Valencia) | **Data:** Maio 2026 | [Link](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGqOoO03iuMORLk1OB65RcaCC1vBcfrdJIFl3HpPe_3epHAWB832CucUtyeSsUwnWI-5s1h79Uxgw5t-8TuGvJR-bRCbjZ76HQ7itgm-I8j_R0m45fFWzBVSXbglpKKUYLNA1TrNQaIjQC-svqAeag2hfO-J6dXL7BPFJP4ZnPDIZUBwxCHG0tSMeH1Rijb-Oro8ffhQQ==)
-
-Dining Room em Valência, sob o chef Frank Parada, foi reconhecido no guia 50 Best Discovery 2026, marcando um marco para a cidade. Seu menu de degustação funde técnicas peruanas com sabores andinos venezuelanos, utilizando produtos locais em pratos inovadores como pão de mapuey e polvo com formigas limão.
 
 --- 
 
