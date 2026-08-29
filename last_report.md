@@ -1,4 +1,18 @@
-# Relatório de Pesquisa de Tendências (Nuvem) - 2026-08-28 01:22:11
+# Relatório de Pesquisa de Tendências (Nuvem) - 2026-08-29 00:54:17
+
+## 🇺🇸 Orgulho venezuelano! María Evans da Azú Pastelería brilha no Global Chef Challenge. (Estados Unidos)
+**Restaurante:** Azú Pastelería (Las Vegas) | **Data:** Maio 2026 | [Link](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFwYwlUS2cPamITBslaDsTE6GCp5DAeyE7vbmjPzsAq7vXYegHfmx3HEUyHdSMz8P72en0xvb5cVgaJvweaG6rk_rYmmrno_vI9P_6g1_2XbSAsBRrxmUTmqSwEiFIDUrKe5l6i-Ekycqy23TbR4JyrThdtdz45RWc81zsY-fizpJdtyDkYupp3Gzz2nz)
+
+María Evans, representando a Venezuela com a Azú Pastelería, ganhou a medalha de prata no Global Chef Challenge de Las Vegas, garantindo a sua passagem para a final mundial no País de Gales. A sua sobremesa, uma requintada combinação de cacau e manga venezuelana, impressionou o júri, destacando a criatividade e o talento pasteleiro do país.
+
+--- 
+
+## 🇪🇨 Quito se rende: A gastronomia venezuelana triunfa com arepas e tequeños. (Ecuador)
+**Restaurante:** Gastronomía Venezolana (Quito) | **Data:** Maio 2026 | [Link](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEN-wDLatq2r3T30ry12owCl7Ei_vSVQMfOOdUtDUZAfDN0NS3TCdR4pP71LpOBFSUtauod39vU3hoX4Psjm_ahReIMNT0utSecV04ZOUPs7Fz-4IaL4LoxSsE8YLw1SinGt1ycxquupgdKg2M-WUtV_6XpcfeG1X7vtma68DAYfgvIew2qn7bpCFhzb3tr4g8IhSuFXL5QmwAaji8gMarIa5vwCFxHCES0QTgdCIH6Sic3vQK3g4b-rY1sNiIUHDrqBIqFx1lCx2Wn-0MXDdCAycx3haAENXEBL1sq6QZEAhog)
+
+A vibrante gastronomia venezuelana está a conquistar os paladares de Quito, Equador. Pratos icónicos como as arepas (especialmente a Reina Pepiada), os tequeños e as cachapas tornaram-se favoritos entre os quiteños, demonstrando como o sabor venezuelano atravessa fronteiras e enriquece a oferta culinária local com o seu sabor único.
+
+--- 
 
 ## 🇻🇪 Venezuela Brilha no 50 Best Discovery 2026: Valência Estreia na Alta Cozinha (Venezuela)
 **Restaurante:** Dining Room (Valencia) y El Bosque Bistró (Caracas) | **Data:** Maio 2026 | [Link](https://bienmesabe.com/50-best-discovery-destaca-a-6-restaurantes-venezolanos-este-2026/)
@@ -39,20 +53,6 @@ O chef venezuelano Juan Luis Martínez triunfa em Lima com Mérito e Demo, fundi
 **Restaurante:** "Venezuela nos necesita. La cocina nos une." (Buenos Aires) | **Data:** Maio 2026 | [Link](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFSIqfJiuX1Rsnn7jdLG10OvZBBaqyM-qnjA7GnwzLL0QeifQH3S_jWuJ98yxWZRd6Rzy2qCDXHEn_lHM6WktFe5SFjfmGha81SUoTz9mpC5w7S_Er7C2Mnd_EgG-wYCesr87QOCYFca3WW6iY-FaS6ZKDHMjV7ylQlO4K_4NxyT9LeAzn1TJDMDf63Y-SEQTRy9w==)
 
 Buenos Aires acolhe "Venezuela nos necesita. La cocina nos une.", uma jornada gastronômica solidária que reúne Fukuro Noodle Bar, Gran Dabbang e Diez Treinta. O evento arrecada fundos para a World Central Kitchen, apoiando as vítimas dos terremotos na Venezuela, demonstrando o poder da gastronomia como ferramenta de impacto social.
-
---- 
-
-## 🇵🇪 Por la Cachapa: Um Festival Solidário Latino-Americano que Reinventa o Clássico Venezuelano (Perú)
-**Restaurante:** Por la Cachapa (Lima) | **Data:** Maio 2026 | [Link](https://www.infobae.com/peru/2026/07/03/por-la-cachapa-mas-de-30-restaurantes-de-peru-y-latinoamerica-se-unen-este-domingo-para-recaudar-fondos-por-venezuela/)
-
-Mais de 30 restaurantes no Peru e na América Latina unem-se em "Por la Cachapa", um evento beneficente em 5 de julho de 2026. Impulsionado por Demo e World Central Kitchen, visa arrecadar fundos para comunidades venezuelanas afetadas por um terremoto, oferecendo versões inovadoras da cachapa.
-
---- 
-
-## 🇨🇦 The Arepa Republic: A Arepa Venezuelana Conquista o Canadá com Sabor e Expansão (Canadá)
-**Restaurante:** The Arepa Republic (Toronto) | **Data:** Maio 2026 | [Link](https://eldiario.com/2025/08/20/un-restaurante-venezolano-populariza-la-arepa-en-el-mercado-canadiense/)
-
-Desde 2024, The Arepa Republic em Toronto popularizou a arepa venezuelana no Canadá. Sua especialidade, a arepa de pabellón, é um sucesso. Para 2025, o fundador Luis Manuel Córdoba planeja expandir o conceito para uma franquia nacional, levando o sabor venezuelano a todo o país.
 
 --- 
 
