@@ -1,4 +1,25 @@
-# Relatório de Pesquisa de Tendências (Nuvem) - 2026-08-29 00:54:17
+# Relatório de Pesquisa de Tendências (Nuvem) - 2026-08-30 19:42:04
+
+## 🇪🇸 La Cachapera conquista Espanha: a autêntica cachapa venezuelana se expande pela Europa. (España)
+**Restaurante:** La Cachapera (Madrid) | **Data:** Maio 2026 | [Link](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF695F7nWzZppDLDnd9sFlSoYv61SpPBfcn8LPum3gDzY56prRIHqCNVeagrdV83Lyt1gi98Vijsm3j-eD68jRrw4H8YwyuCVm9FQ_ItggAS4Mk3gaCI4--Y5jtb4DVWCM2wgGJg2WgjPA1uqA0YNd4cTnSumx999kVwWf9ycmQ5GZRNuz-Cng5_4ZCDoiRkIj2rmp0yJfiAd7EKz8bfsUm9zwNvj6PYvurmatuNyC1PJT9YDYdthmq81Xpjd3JW58czAyR0js=)
+
+La Cachapera, referência da culinária venezuelana, celebra a abertura de sua sexta unidade na Espanha, a segunda em Madrid. Com faturamento de 6,5 milhões de euros em 2025, esta rede, que começou como food truck, leva a cachapa, arepas e os inovadores "cachinachos" a um público europeu cada vez maior.
+
+--- 
+
+## 🇨🇦 Arepa Birria em Toronto: a fusão latino-americana que está revolucionando o Canadá. (Canadá)
+**Restaurante:** Heartbroken Cantina (Toronto) | **Data:** Maio 2026 | [Link](https://www.facebook.com/TheBridgeLatinos/videos/arepa-birria-en-toronto-la-mejor-fusi%C3%B3n-latinoamericana-y-la-probamos-en-heartbr/785081156557613/)
+
+Heartbroken Cantina em Toronto apresenta a "arepa birria", uma ousada fusão de sabores mexicanos, venezuelanos e colombianos. Este prato inovador, servido com queijo derretido e consomê, tornou-se viral, destacando a crescente popularidade da comida latina no Canadá e a criatividade culinária da região.
+
+--- 
+
+## 🇺🇸 Panitas Bakery em Miami: o sabor autêntico da Venezuela pronto para a Copa do Mundo 2026. (Estados Unidos)
+**Restaurante:** Panitas Bakery (Miami) | **Data:** Maio 2026 | [Link](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEmeVHdasmGRm4b8Nb08tRtUF5sk2A1L9oYEFKpJaIjFn93WDcd_LZu8rjNg83bCnRZOn6WczADbznQravkDwVTBWvVmE__BCIQjcdjsCJdUnT6lMSHyOi-IL3tgjLSc5SOTJKFrd0M3HQYzZyJ0zJZEhpNWKCv1rGcMFRSkRRVnB8--2cJB1mFfKZVCzLq-1q9vqkIbPGpocw80IvoCE3SofcKqZ0EPp1bix3f-cuRDx1ekDW0_Q6hGq68veSeNL7XIEfnhmkXElwiQQjsGIJmWWIID1mwu-Ykui8arLY-BQ==)
+
+Panitas Bakery em Miami, fundada por Vanessa Chacón, especializa-se em panificação venezuelana tradicional. Com localização estratégica perto do Hard Rock Stadium, a padaria se prepara para a Copa do Mundo de 2026, oferecendo delivery e um menu especial para capitalizar o fluxo de visitantes e preservar os sabores autênticos da Venezuela.
+
+--- 
 
 ## 🇺🇸 Orgulho venezuelano! María Evans da Azú Pastelería brilha no Global Chef Challenge. (Estados Unidos)
 **Restaurante:** Azú Pastelería (Las Vegas) | **Data:** Maio 2026 | [Link](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFwYwlUS2cPamITBslaDsTE6GCp5DAeyE7vbmjPzsAq7vXYegHfmx3HEUyHdSMz8P72en0xvb5cVgaJvweaG6rk_rYmmrno_vI9P_6g1_2XbSAsBRrxmUTmqSwEiFIDUrKe5l6i-Ekycqy23TbR4JyrThdtdz45RWc81zsY-fizpJdtyDkYupp3Gzz2nz)
@@ -32,27 +53,6 @@ A gastronomia venezuelana foi nomeada como 'Principal Destino Culinário da Amé
 **Restaurante:** El Año del Pan y Premios Gourmand World Cookbook Awards 2025 | **Data:** Maio 2026 | [Link](https://esnobismogourmet.com/10-titulares-de-la-gastronomia-venezolana-en-2025/)
 
 2025 foi o 'Ano do Pão' para a Venezuela, com reconhecimentos internacionais como os Gourmand World Cookbook Awards. A arepa foi destacada como patrimônio vivo e a Indicação Geográfica Protegida para o Pão de Táchira foi formalizada, consolidando a vitalidade e profissionalização da panificação venezuelana globalmente.
-
---- 
-
-## 🇵🇪 Lima Abraça a Fusão: Gastronomia Venezuelana Brilha na Capital Culinária do Peru (Perú)
-**Restaurante:** Demo y Mérito (Lima) | **Data:** Maio 2026 | [Link](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHGQmuMjKBGhVAE8lTuTmMUmgJvQufmebzVOxTXbuhO6A2tI7WOxMUMAti5Ejl3Yhm94prafp0YRNjY3WfWPudwPqBn4m4-yRI5v3LVbPTAgmbGT2nfOh9H4WXOLcBGmJS4NphmGVLjY-CIHAD0PWZNvMLJik2vbD-KcCcACbD6LXV_5MEDew17Qqn_mrvMJUM18XhRmjHZQn-MAyF0AbWfKbO4splWmM-vrT3_JqsJgL4asAT6dzfq0ozmRz2Za0dZrOkIu9YG62BJR_o89RGs72EXfdEvNts5y84_XQHuMR4CgLWKVN2aao_so60HUROE-RcsFSR)
-
-A culinária venezuelana integra-se com sucesso em Lima, Peru, com cafeterias como Demo oferecendo cachapas e arepas. O chef Juan Luis Martínez funde sabores peruanos e venezuelanos no Mérito, um restaurante top mundial, destacando a versatilidade e o apelo desta gastronomia na cena culinária limenha.
-
---- 
-
-## 🇵🇪 Juan Luis Martínez: A fusão venezuelana-peruana que conquista o mundo a partir de Lima (Perú)
-**Restaurante:** Mérito y Demo (Lima) | **Data:** Maio 2026 | [Link](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGi10kX__MDr3EMb0f_QTdkJHVhnBoMp3VYmSLq2hmwEK_yp8fpYvCeqVUJmJ8hYC8x8TVFXKL6w5zLSfamCbjvDYuoCv_DwlkXPn2h8I0GV7zbdawtdwAz-pgvEx52LQ_EcXX3b7fB5-POEHYkivEzPisMRvvcCMY1Y80-f8XLrOWXUQ9Qr1xAVsKLSacWJ6VoMDrqvwYfQEUkDQKtiOn-JEW22E=)
-
-O chef venezuelano Juan Luis Martínez triunfa em Lima com Mérito e Demo, fundindo magistralmente a culinária de sua terra com a peruana. Suas cachapas, arepas e tequeños de banana madura sem glúten, junto a inovações como o ceviche com guasacaca, posicionaram o Mérito entre os 50 melhores restaurantes do mundo.
-
---- 
-
-## 🇦🇷 Buenos Aires se une: Jornada gastronômica solidária pela Venezuela e World Central Kitchen (Argentina)
-**Restaurante:** "Venezuela nos necesita. La cocina nos une." (Buenos Aires) | **Data:** Maio 2026 | [Link](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFSIqfJiuX1Rsnn7jdLG10OvZBBaqyM-qnjA7GnwzLL0QeifQH3S_jWuJ98yxWZRd6Rzy2qCDXHEn_lHM6WktFe5SFjfmGha81SUoTz9mpC5w7S_Er7C2Mnd_EgG-wYCesr87QOCYFca3WW6iY-FaS6ZKDHMjV7ylQlO4K_4NxyT9LeAzn1TJDMDf63Y-SEQTRy9w==)
-
-Buenos Aires acolhe "Venezuela nos necesita. La cocina nos une.", uma jornada gastronômica solidária que reúne Fukuro Noodle Bar, Gran Dabbang e Diez Treinta. O evento arrecada fundos para a World Central Kitchen, apoiando as vítimas dos terremotos na Venezuela, demonstrando o poder da gastronomia como ferramenta de impacto social.
 
 --- 
 
