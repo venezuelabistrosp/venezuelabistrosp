@@ -1,4 +1,18 @@
-# Relatório de Pesquisa de Tendências (Nuvem) - 2026-08-30 19:42:04
+# Relatório de Pesquisa de Tendências (Nuvem) - 2026-09-01 19:47:48
+
+## 🇵🇪 Mérito em Lima: A Alta Cozinha Venezuelana-Peruana que Conquista o Mundo Gastronômico (Perú)
+**Restaurante:** Mérito (Lima) | **Data:** Maio 2026 | [Link](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHzmASh9rP0204X0sUP-Son42vkE6rIODRCUBH_xzD6cNigIS8rkciZntQCWSv946TN29a-OtubL_6oaXJzQON9r6jj1scMUTSmo4XdZQUseBwxIHETajftkeaJ_BXZB6IUlVfrlFCYrrrlbaOxg-3XFGgI8V1a077Ak7S1nBj9UsHEPstBu67iclUhcWcuOPNz-js=)
+
+Mérito, liderado pelo chef venezuelano Juan Luis Martínez em Lima, redefine a fusão culinária peruana-venezuelana. Reconhecido como o 26º melhor restaurante do mundo e 4º na América Latina, oferece arepas e cachapas elevadas à alta cozinha. Uma experiência gastronômica que celebra a riqueza de ambas as culturas com inovação e maestria.
+
+--- 
+
+## 🇵🇪 Vito's Trattoria Caffe: A Audaciosa Fusão Italiano-Venezuelana que Surpreende em Lima (Perú)
+**Restaurante:** Vito's Trattoria Caffe (Lima) | **Data:** Maio 2026 | [Link](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHB5MJk8PllbTB_Qod0hRp5QHDa38pdQP-boPgJBy9oF6FvObXtBJ2ExOR_fuiUmpYJg1qryS3u_tIw5h3cNRs2u85aD_V30lrgTkX8POoMk3sNAcEkcp86evKD8Q2jnTwAf0yYln4AvakAlJc6KtpL_uOF_w74iHzrr0nK2xITpw2xApsVEZYvY0KAwH_Yc8rfNxg6jQByEGycja98WwC43uXon_F9awk51tU0fftP-qS4C3D0hKRfmqsNcOb0Qw_bOr9Hiyf_YZq7zxjRABjrCw==)
+
+Vito's Trattoria Caffe em Lima se apresenta como o primeiro restaurante italiano-venezuelano do Peru, oferecendo uma fusão culinária única. Inspirado em receitas italianas tradicionais, surpreende com combinações ousadas como massa com feijão preto, maionese, ketchup e queijo branco. Uma proposta inovadora que celebra a herança de ambas as culturas em cada prato.
+
+--- 
 
 ## 🇪🇸 La Cachapera conquista Espanha: a autêntica cachapa venezuelana se expande pela Europa. (España)
 **Restaurante:** La Cachapera (Madrid) | **Data:** Maio 2026 | [Link](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF695F7nWzZppDLDnd9sFlSoYv61SpPBfcn8LPum3gDzY56prRIHqCNVeagrdV83Lyt1gi98Vijsm3j-eD68jRrw4H8YwyuCVm9FQ_ItggAS4Mk3gaCI4--Y5jtb4DVWCM2wgGJg2WgjPA1uqA0YNd4cTnSumx999kVwWf9ycmQ5GZRNuz-Cng5_4ZCDoiRkIj2rmp0yJfiAd7EKz8bfsUm9zwNvj6PYvurmatuNyC1PJT9YDYdthmq81Xpjd3JW58czAyR0js=)
@@ -39,20 +53,6 @@ A vibrante gastronomia venezuelana está a conquistar os paladares de Quito, Equ
 **Restaurante:** Dining Room (Valencia) y El Bosque Bistró (Caracas) | **Data:** Maio 2026 | [Link](https://bienmesabe.com/50-best-discovery-destaca-a-6-restaurantes-venezolanos-este-2026/)
 
 A plataforma 50 Best Discovery incluiu seis restaurantes venezuelanos em seu guia global 2026, destacando a primeira aparição de Valência com o Dining Room. Juntamente com o El Bosque Bistró de Caracas, esses estabelecimentos elevam o perfil da alta cozinha venezuelana, celebrando a criatividade e o respeito pelos ingredientes locais.
-
---- 
-
-## 🇻🇪 Venezuela: Principal Destino Culinário da América do Sul nos World Travel Awards 2026 (Venezuela)
-**Restaurante:** World Travel Awards 2026 - Nominación de Venezuela | **Data:** Maio 2026 | [Link](https://primicia.com.ve/mundo/venezuela-suma-cuatro-locales-en-la-lista-gastronomica-50-best-discovery-2026/)
-
-A gastronomia venezuelana foi nomeada como 'Principal Destino Culinário da América do Sul' nos prestigiados World Travel Awards 2026. Este reconhecimento destaca a rica herança mestiça de sua culinária, seus contrastes de sabores e texturas, e o impacto positivo do turismo gastronômico nos produtores locais.
-
---- 
-
-## 🇻🇪 O Ano do Pão na Venezuela: Reconhecimento Global e Proteção da Herança Culinária (Venezuela)
-**Restaurante:** El Año del Pan y Premios Gourmand World Cookbook Awards 2025 | **Data:** Maio 2026 | [Link](https://esnobismogourmet.com/10-titulares-de-la-gastronomia-venezolana-en-2025/)
-
-2025 foi o 'Ano do Pão' para a Venezuela, com reconhecimentos internacionais como os Gourmand World Cookbook Awards. A arepa foi destacada como patrimônio vivo e a Indicação Geográfica Protegida para o Pão de Táchira foi formalizada, consolidando a vitalidade e profissionalização da panificação venezuelana globalmente.
 
 --- 
 
