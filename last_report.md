@@ -1,4 +1,25 @@
-# Relatório de Pesquisa de Tendências (Nuvem) - 2026-09-01 19:47:48
+# Relatório de Pesquisa de Tendências (Nuvem) - 2026-09-02 19:41:15
+
+## 🇻🇪 Projeto Ubre: A Revolução Sustentável da Gastronomia Venezuelana com Sabor a Cordeiro (Venezuela)
+**Restaurante:** Proyecto Ubre (Caracas) | **Data:** Maio 2026 | [Link](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHgtDgfTKr7fsUZ3bTkznQe9G4aYt65BZjaXKmHZpNFBOuW_tPQ9h_Qmd7FDyMqAa7MRuFZpTQgIdRJIeg8L5uDb1S5UAfaMBrXPE-lqbHyX_vJAIUHQHAkNozmy6QPc_OX-rnEPZc_PJmn-DUEoPEFNXClumzSWb8m2Jf3PCzHqLF8FHzAm-rJw8Dpixm5UgYOzS4zJEwe8XhApgSgVKsjA==)
+
+Projeto Ubre, liderado pelo chef Issam Koteich, redefine a cozinha venezuelana a partir de Caracas. Com foco na sustentabilidade e produção própria de cordeiro, este projeto inovador integra fazenda e restaurante, oferecendo uma experiência culinária única que foi premiada internacionalmente pelo seu impacto e autenticidade.
+
+--- 
+
+## 🇪🇸 Apartaco Madrid: O Buffet Livre Venezuelano que Alimenta a Alma e a Solidariedade (España)
+**Restaurante:** Apartaco (Madrid) | **Data:** Maio 2026 | [Link](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFnmM47IjUwFaDxWTH6HSU97f9PZ4pfNU1WgkJwtUODmnvxjIh9pSrjay-yO1tX-KDpnbVw8s5xq4f2bszerlN0b-SeFhGDjpDWCQFbkx_vZVaNQgC47L4MTxu5RyAqTnUfIoCuXCR6r9SMVZS27TSX4hlXcOTCYMBgSmbaW74i0krItqDsq4bcjWiAVIBpqlpY1OqL2_dsWDJWCxl3SmXzl7oYoAk787BrQN02Hf5bphEkT3xeL2ZCpwfIJkQyr7wf49VeJqSIWTOn9ozaLajM1kAGrTaDx7AAHvIFhzGjoIyOyxLA-PmHVMZroUC3U5o=)
+
+Apartaco em Madrid se reinventa como um inovador buffet livre de comida venezuelana, oferecendo arepas, patacones e muito mais. Por um preço fixo, os clientes desfrutam de uma experiência culinária autêntica, enquanto contribuem para uma causa social vital: 1€ de cada menu é doado à Fundação Meals4Hope para vítimas do terremoto na Venezuela.
+
+--- 
+
+## 🇵🇪 Juan Luis Martínez: A Fusão Venezuelana que Conquista Lima e o Mundo Gastronômico (Perú)
+**Restaurante:** Mérito y Demo (Lima) | **Data:** Maio 2026 | [Link](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFIv_OtvUIm1F275HmSK5jhSn43ZNdfLFIOeB7wtelX-qouP18rfgS3dOqC_YWa1VsfH45PuAzurQTr_AMQCDCbyHbZb2Ghf5Utxry25EoZwMxjZesRM_DwXeVXjq6ogRXGGCq86DGJ77943YSscGTf_P4yFwZaJwXJhv_bp0ro_L0esSHFy-mZ1imOQpNetmlJYg0LdcJbV03EjGrC3vtOMqu4XXA==)
+
+O chef venezuelano Juan Luis Martínez eleva a gastronomia de seu país em Lima com Mérito e Demo. Mérito funde magistralmente sabores peruanos e venezuelanos, enquanto Demo oferece clássicos reinventados como tequeños de banana sem glúten. Sua proposta inovadora posicionou a cozinha venezuelana na elite mundial.
+
+--- 
 
 ## 🇵🇪 Mérito em Lima: A Alta Cozinha Venezuelana-Peruana que Conquista o Mundo Gastronômico (Perú)
 **Restaurante:** Mérito (Lima) | **Data:** Maio 2026 | [Link](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHzmASh9rP0204X0sUP-Son42vkE6rIODRCUBH_xzD6cNigIS8rkciZntQCWSv946TN29a-OtubL_6oaXJzQON9r6jj1scMUTSmo4XdZQUseBwxIHETajftkeaJ_BXZB6IUlVfrlFCYrrrlbaOxg-3XFGgI8V1a077Ak7S1nBj9UsHEPstBu67iclUhcWcuOPNz-js=)
@@ -32,27 +53,6 @@ Heartbroken Cantina em Toronto apresenta a "arepa birria", uma ousada fusão de 
 **Restaurante:** Panitas Bakery (Miami) | **Data:** Maio 2026 | [Link](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEmeVHdasmGRm4b8Nb08tRtUF5sk2A1L9oYEFKpJaIjFn93WDcd_LZu8rjNg83bCnRZOn6WczADbznQravkDwVTBWvVmE__BCIQjcdjsCJdUnT6lMSHyOi-IL3tgjLSc5SOTJKFrd0M3HQYzZyJ0zJZEhpNWKCv1rGcMFRSkRRVnB8--2cJB1mFfKZVCzLq-1q9vqkIbPGpocw80IvoCE3SofcKqZ0EPp1bix3f-cuRDx1ekDW0_Q6hGq68veSeNL7XIEfnhmkXElwiQQjsGIJmWWIID1mwu-Ykui8arLY-BQ==)
 
 Panitas Bakery em Miami, fundada por Vanessa Chacón, especializa-se em panificação venezuelana tradicional. Com localização estratégica perto do Hard Rock Stadium, a padaria se prepara para a Copa do Mundo de 2026, oferecendo delivery e um menu especial para capitalizar o fluxo de visitantes e preservar os sabores autênticos da Venezuela.
-
---- 
-
-## 🇺🇸 Orgulho venezuelano! María Evans da Azú Pastelería brilha no Global Chef Challenge. (Estados Unidos)
-**Restaurante:** Azú Pastelería (Las Vegas) | **Data:** Maio 2026 | [Link](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFwYwlUS2cPamITBslaDsTE6GCp5DAeyE7vbmjPzsAq7vXYegHfmx3HEUyHdSMz8P72en0xvb5cVgaJvweaG6rk_rYmmrno_vI9P_6g1_2XbSAsBRrxmUTmqSwEiFIDUrKe5l6i-Ekycqy23TbR4JyrThdtdz45RWc81zsY-fizpJdtyDkYupp3Gzz2nz)
-
-María Evans, representando a Venezuela com a Azú Pastelería, ganhou a medalha de prata no Global Chef Challenge de Las Vegas, garantindo a sua passagem para a final mundial no País de Gales. A sua sobremesa, uma requintada combinação de cacau e manga venezuelana, impressionou o júri, destacando a criatividade e o talento pasteleiro do país.
-
---- 
-
-## 🇪🇨 Quito se rende: A gastronomia venezuelana triunfa com arepas e tequeños. (Ecuador)
-**Restaurante:** Gastronomía Venezolana (Quito) | **Data:** Maio 2026 | [Link](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEN-wDLatq2r3T30ry12owCl7Ei_vSVQMfOOdUtDUZAfDN0NS3TCdR4pP71LpOBFSUtauod39vU3hoX4Psjm_ahReIMNT0utSecV04ZOUPs7Fz-4IaL4LoxSsE8YLw1SinGt1ycxquupgdKg2M-WUtV_6XpcfeG1X7vtma68DAYfgvIew2qn7bpCFhzb3tr4g8IhSuFXL5QmwAaji8gMarIa5vwCFxHCES0QTgdCIH6Sic3vQK3g4b-rY1sNiIUHDrqBIqFx1lCx2Wn-0MXDdCAycx3haAENXEBL1sq6QZEAhog)
-
-A vibrante gastronomia venezuelana está a conquistar os paladares de Quito, Equador. Pratos icónicos como as arepas (especialmente a Reina Pepiada), os tequeños e as cachapas tornaram-se favoritos entre os quiteños, demonstrando como o sabor venezuelano atravessa fronteiras e enriquece a oferta culinária local com o seu sabor único.
-
---- 
-
-## 🇻🇪 Venezuela Brilha no 50 Best Discovery 2026: Valência Estreia na Alta Cozinha (Venezuela)
-**Restaurante:** Dining Room (Valencia) y El Bosque Bistró (Caracas) | **Data:** Maio 2026 | [Link](https://bienmesabe.com/50-best-discovery-destaca-a-6-restaurantes-venezolanos-este-2026/)
-
-A plataforma 50 Best Discovery incluiu seis restaurantes venezuelanos em seu guia global 2026, destacando a primeira aparição de Valência com o Dining Room. Juntamente com o El Bosque Bistró de Caracas, esses estabelecimentos elevam o perfil da alta cozinha venezuelana, celebrando a criatividade e o respeito pelos ingredientes locais.
 
 --- 
 
