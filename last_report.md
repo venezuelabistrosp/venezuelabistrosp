@@ -1,4 +1,18 @@
-# Relatório de Pesquisa de Tendências (Nuvem) - 2026-09-02 19:41:15
+# Relatório de Pesquisa de Tendências (Nuvem) - 2026-09-03 19:42:25
+
+## 🇺🇸 Pa' Paraguana: O Santuário das Empanadas Venezuelanas na Flórida (Estados Unidos)
+**Restaurante:** Pa' Paraguana (Condado de Osceola) | **Data:** Maio 2026 | [Link](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE9VWY5rvgoR5P9ls4-ym7R6mRWeztTCuL1mGRxIMsNXsjDsmS3b21Dr3dotP0pbb9Isko7PRln073viUR0k9EiSChxCK79zBl0lymKZQyK_SkvAMDLssuBmFvlUoL3tL9xW_E_oWUYm1vWbMLRuwLkibisYsDptanL-VEP9zpUb77oHvBkumisA49WZwFMw8Mdq1WrAoRHA999VxIjCD5vA8ZGMSj2PshnG3jyIrjTG23a-_N-AXOUXWBt_WCC5Fp9HD4x24DIrUpxqSb51gALlv9zhkvm5r8L2RFpIf33Dbr6eUYllMJBaL-ePmN0RNEXbrBxFCLR0eanuy8=)
+
+Pa' Paraguana no Condado de Osceola, Flórida, foi reconhecido pela Experience Kissimmee por sua excepcional oferta de empanadas venezuelanas. Com mais de 59 variedades, este restaurante tornou-se um destino culinário essencial para quem busca a autêntica cozinha venezuelana, oferecendo uma imersão completa nos sabores tradicionais do país.
+
+--- 
+
+## 🇻🇪 Dining Room em Valência: A Alta Cozinha Venezuelana Brilha no 50 Best Discovery (Venezuela)
+**Restaurante:** Dining Room (Valencia) | **Data:** Maio 2026 | [Link](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG8BBV1RMV5QtI5XzZ2WXuwe5HmC-xmq8k_yXte9d37xHxkqwrdXxfgGxEvAiafUVikKTvFvY8e6R96GoO5mAYCHZVQO-hVYMirkLjbsg-Om3zpkPbeRdTidkntOwZPOoEgmyBkTPIiYurmpCzjFjnykb4EVlZBUdqIzkGzL0Cb9mKVZ8rE2s03TenkNlCM7ESys_mAkSCAjGlKg1vYLWOvR3zPo6nJ-Vg_Ga82tpiY4oBfrLU=)
+
+Dining Room em Valência, Venezuela, foi reconhecido na prestigiada lista "50 Best Discovery 2026", destacando a "cozinha heroica" do chef Frank Parada. Esta conquista sublinha a inovação e qualidade da gastronomia venezuelana para além de Caracas, posicionando-a no cenário culinário internacional apesar dos desafios locais.
+
+--- 
 
 ## 🇻🇪 Projeto Ubre: A Revolução Sustentável da Gastronomia Venezuelana com Sabor a Cordeiro (Venezuela)
 **Restaurante:** Proyecto Ubre (Caracas) | **Data:** Maio 2026 | [Link](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHgtDgfTKr7fsUZ3bTkznQe9G4aYt65BZjaXKmHZpNFBOuW_tPQ9h_Qmd7FDyMqAa7MRuFZpTQgIdRJIeg8L5uDb1S5UAfaMBrXPE-lqbHyX_vJAIUHQHAkNozmy6QPc_OX-rnEPZc_PJmn-DUEoPEFNXClumzSWb8m2Jf3PCzHqLF8FHzAm-rJw8Dpixm5UgYOzS4zJEwe8XhApgSgVKsjA==)
@@ -39,20 +53,6 @@ Vito's Trattoria Caffe em Lima se apresenta como o primeiro restaurante italiano
 **Restaurante:** La Cachapera (Madrid) | **Data:** Maio 2026 | [Link](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF695F7nWzZppDLDnd9sFlSoYv61SpPBfcn8LPum3gDzY56prRIHqCNVeagrdV83Lyt1gi98Vijsm3j-eD68jRrw4H8YwyuCVm9FQ_ItggAS4Mk3gaCI4--Y5jtb4DVWCM2wgGJg2WgjPA1uqA0YNd4cTnSumx999kVwWf9ycmQ5GZRNuz-Cng5_4ZCDoiRkIj2rmp0yJfiAd7EKz8bfsUm9zwNvj6PYvurmatuNyC1PJT9YDYdthmq81Xpjd3JW58czAyR0js=)
 
 La Cachapera, referência da culinária venezuelana, celebra a abertura de sua sexta unidade na Espanha, a segunda em Madrid. Com faturamento de 6,5 milhões de euros em 2025, esta rede, que começou como food truck, leva a cachapa, arepas e os inovadores "cachinachos" a um público europeu cada vez maior.
-
---- 
-
-## 🇨🇦 Arepa Birria em Toronto: a fusão latino-americana que está revolucionando o Canadá. (Canadá)
-**Restaurante:** Heartbroken Cantina (Toronto) | **Data:** Maio 2026 | [Link](https://www.facebook.com/TheBridgeLatinos/videos/arepa-birria-en-toronto-la-mejor-fusi%C3%B3n-latinoamericana-y-la-probamos-en-heartbr/785081156557613/)
-
-Heartbroken Cantina em Toronto apresenta a "arepa birria", uma ousada fusão de sabores mexicanos, venezuelanos e colombianos. Este prato inovador, servido com queijo derretido e consomê, tornou-se viral, destacando a crescente popularidade da comida latina no Canadá e a criatividade culinária da região.
-
---- 
-
-## 🇺🇸 Panitas Bakery em Miami: o sabor autêntico da Venezuela pronto para a Copa do Mundo 2026. (Estados Unidos)
-**Restaurante:** Panitas Bakery (Miami) | **Data:** Maio 2026 | [Link](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEmeVHdasmGRm4b8Nb08tRtUF5sk2A1L9oYEFKpJaIjFn93WDcd_LZu8rjNg83bCnRZOn6WczADbznQravkDwVTBWvVmE__BCIQjcdjsCJdUnT6lMSHyOi-IL3tgjLSc5SOTJKFrd0M3HQYzZyJ0zJZEhpNWKCv1rGcMFRSkRRVnB8--2cJB1mFfKZVCzLq-1q9vqkIbPGpocw80IvoCE3SofcKqZ0EPp1bix3f-cuRDx1ekDW0_Q6hGq68veSeNL7XIEfnhmkXElwiQQjsGIJmWWIID1mwu-Ykui8arLY-BQ==)
-
-Panitas Bakery em Miami, fundada por Vanessa Chacón, especializa-se em panificação venezuelana tradicional. Com localização estratégica perto do Hard Rock Stadium, a padaria se prepara para a Copa do Mundo de 2026, oferecendo delivery e um menu especial para capitalizar o fluxo de visitantes e preservar os sabores autênticos da Venezuela.
 
 --- 
 
