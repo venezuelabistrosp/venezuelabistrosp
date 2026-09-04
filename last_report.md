@@ -1,4 +1,25 @@
-# Relatório de Pesquisa de Tendências (Nuvem) - 2026-09-03 19:42:25
+# Relatório de Pesquisa de Tendências (Nuvem) - 2026-09-04 19:22:52
+
+## 🇻🇪 Venezuela Brilha: Quatro Joias Gastronômicas Reconhecidas pelo 50 Best Discovery 2026 (Venezuela)
+**Restaurante:** Dining Room, El Bosque Bistró y Robusto Bar (Caracas y Valencia) | **Data:** Maio 2026 | [Link](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQELgzmXkOVPLdNTB4UHljmp1heoCArDCkbP51kzblyt9Ebjp8OVARorBabLLbjhpyjj2Cq_A7sDW8zsSGnu-Q5mpPLqK0edKZ9VCOBOg-iEF9aAAfQYh61frXaYBs0D75tqKIpD_j1s62Z4akegxsQ6TYaVdKEUL7UP2TFNUtsLw47rQ4pcIyqNnaJ7E0kcrSN_2ZV8elPysmwuEoamdbjtETt9w5wAcn3i1nEuG5tGDacR-MvI)
+
+O guia 50 Best Discovery 2026 incluiu quatro estabelecimentos venezuelanos, destacando a evolução e qualidade de sua gastronomia. Dining Room em Valência, El Bosque Bistró e Robusto Bar em Caracas fazem parte deste prestigioso reconhecimento, consolidando a presença culinária do país globalmente e mostrando sua diversidade.
+
+--- 
+
+## 🇨🇦 The Arepa Republic: A Arepa Venezuelana Conquista o Canadá com Sabor e Tradição (Canadá)
+**Restaurante:** The Arepa Republic (Toronto) | **Data:** Maio 2026 | [Link](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGuN_ZaKGbqLb_CY0Ryx5oJwVDtwuCQdzjOEEuMCnVZHS4Yvry_8wBhwvlKisCt64k52gH6MGAKALhrdRPkJ7dUp-hI5c5h1mgVP_fs8BK061hSWxV5FY3zrnzk42ENC3Lzc95qesLvg5LjFRlXZhAs_52sE7PlLh0sf7tSrupO)
+
+The Arepa Republic em Toronto está revolucionando o mercado canadense, posicionando a arepa venezuelana como um prato saudável e sem glúten. Com planos de expansão para Quebec e Montreal, este restaurante busca se tornar a primeira franquia de arepas no Canadá, destacando a arepa de pabellón como a favorita local.
+
+--- 
+
+## 🇻🇪 Doce Inovação: A Confeitaria Venezuelana se Transforma com Sofisticação e Saúde (Venezuela)
+**Restaurante:** Baking Love y Pop Your Fitness (Venezuela) | **Data:** Maio 2026 | [Link](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGLuOUpjcX-vuxvdjhQYe5IOQnJiQ96hkK3NqBRLxtDM_XDdHcljHPzxJ505fj7qAIwOAveEkVU4FUmsA0OAYL8lv4I5a99-i-Lx7mGkmFYPW3byETm4U4uXygdSuSyKQiQO8iB-on_WV08g64KocLBsg50Lnox88oq-dyRiL0xw4d88pY=)
+
+A confeitaria venezuelana experimenta uma notável renovação, fundindo a sofisticação de sobremesas tradicionais para celebrações com opções saudáveis. Empreendimentos como Baking Love, que eleva os doces clássicos, e Pop Your Fitness, que oferece alternativas fitness, demonstram a versatilidade e criatividade do setor, adaptando-se às novas demandas do consumidor.
+
+--- 
 
 ## 🇺🇸 Pa' Paraguana: O Santuário das Empanadas Venezuelanas na Flórida (Estados Unidos)
 **Restaurante:** Pa' Paraguana (Condado de Osceola) | **Data:** Maio 2026 | [Link](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE9VWY5rvgoR5P9ls4-ym7R6mRWeztTCuL1mGRxIMsNXsjDsmS3b21Dr3dotP0pbb9Isko7PRln073viUR0k9EiSChxCK79zBl0lymKZQyK_SkvAMDLssuBmFvlUoL3tL9xW_E_oWUYm1vWbMLRuwLkibisYsDptanL-VEP9zpUb77oHvBkumisA49WZwFMw8Mdq1WrAoRHA999VxIjCD5vA8ZGMSj2PshnG3jyIrjTG23a-_N-AXOUXWBt_WCC5Fp9HD4x24DIrUpxqSb51gALlv9zhkvm5r8L2RFpIf33Dbr6eUYllMJBaL-ePmN0RNEXbrBxFCLR0eanuy8=)
@@ -32,27 +53,6 @@ Apartaco em Madrid se reinventa como um inovador buffet livre de comida venezuel
 **Restaurante:** Mérito y Demo (Lima) | **Data:** Maio 2026 | [Link](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFIv_OtvUIm1F275HmSK5jhSn43ZNdfLFIOeB7wtelX-qouP18rfgS3dOqC_YWa1VsfH45PuAzurQTr_AMQCDCbyHbZb2Ghf5Utxry25EoZwMxjZesRM_DwXeVXjq6ogRXGGCq86DGJ77943YSscGTf_P4yFwZaJwXJhv_bp0ro_L0esSHFy-mZ1imOQpNetmlJYg0LdcJbV03EjGrC3vtOMqu4XXA==)
 
 O chef venezuelano Juan Luis Martínez eleva a gastronomia de seu país em Lima com Mérito e Demo. Mérito funde magistralmente sabores peruanos e venezuelanos, enquanto Demo oferece clássicos reinventados como tequeños de banana sem glúten. Sua proposta inovadora posicionou a cozinha venezuelana na elite mundial.
-
---- 
-
-## 🇵🇪 Mérito em Lima: A Alta Cozinha Venezuelana-Peruana que Conquista o Mundo Gastronômico (Perú)
-**Restaurante:** Mérito (Lima) | **Data:** Maio 2026 | [Link](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHzmASh9rP0204X0sUP-Son42vkE6rIODRCUBH_xzD6cNigIS8rkciZntQCWSv946TN29a-OtubL_6oaXJzQON9r6jj1scMUTSmo4XdZQUseBwxIHETajftkeaJ_BXZB6IUlVfrlFCYrrrlbaOxg-3XFGgI8V1a077Ak7S1nBj9UsHEPstBu67iclUhcWcuOPNz-js=)
-
-Mérito, liderado pelo chef venezuelano Juan Luis Martínez em Lima, redefine a fusão culinária peruana-venezuelana. Reconhecido como o 26º melhor restaurante do mundo e 4º na América Latina, oferece arepas e cachapas elevadas à alta cozinha. Uma experiência gastronômica que celebra a riqueza de ambas as culturas com inovação e maestria.
-
---- 
-
-## 🇵🇪 Vito's Trattoria Caffe: A Audaciosa Fusão Italiano-Venezuelana que Surpreende em Lima (Perú)
-**Restaurante:** Vito's Trattoria Caffe (Lima) | **Data:** Maio 2026 | [Link](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHB5MJk8PllbTB_Qod0hRp5QHDa38pdQP-boPgJBy9oF6FvObXtBJ2ExOR_fuiUmpYJg1qryS3u_tIw5h3cNRs2u85aD_V30lrgTkX8POoMk3sNAcEkcp86evKD8Q2jnTwAf0yYln4AvakAlJc6KtpL_uOF_w74iHzrr0nK2xITpw2xApsVEZYvY0KAwH_Yc8rfNxg6jQByEGycja98WwC43uXon_F9awk51tU0fftP-qS4C3D0hKRfmqsNcOb0Qw_bOr9Hiyf_YZq7zxjRABjrCw==)
-
-Vito's Trattoria Caffe em Lima se apresenta como o primeiro restaurante italiano-venezuelano do Peru, oferecendo uma fusão culinária única. Inspirado em receitas italianas tradicionais, surpreende com combinações ousadas como massa com feijão preto, maionese, ketchup e queijo branco. Uma proposta inovadora que celebra a herança de ambas as culturas em cada prato.
-
---- 
-
-## 🇪🇸 La Cachapera conquista Espanha: a autêntica cachapa venezuelana se expande pela Europa. (España)
-**Restaurante:** La Cachapera (Madrid) | **Data:** Maio 2026 | [Link](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF695F7nWzZppDLDnd9sFlSoYv61SpPBfcn8LPum3gDzY56prRIHqCNVeagrdV83Lyt1gi98Vijsm3j-eD68jRrw4H8YwyuCVm9FQ_ItggAS4Mk3gaCI4--Y5jtb4DVWCM2wgGJg2WgjPA1uqA0YNd4cTnSumx999kVwWf9ycmQ5GZRNuz-Cng5_4ZCDoiRkIj2rmp0yJfiAd7EKz8bfsUm9zwNvj6PYvurmatuNyC1PJT9YDYdthmq81Xpjd3JW58czAyR0js=)
-
-La Cachapera, referência da culinária venezuelana, celebra a abertura de sua sexta unidade na Espanha, a segunda em Madrid. Com faturamento de 6,5 milhões de euros em 2025, esta rede, que começou como food truck, leva a cachapa, arepas e os inovadores "cachinachos" a um público europeu cada vez maior.
 
 --- 
 
