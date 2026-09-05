@@ -1,4 +1,18 @@
-# Relatório de Pesquisa de Tendências (Nuvem) - 2026-09-04 19:22:52
+# Relatório de Pesquisa de Tendências (Nuvem) - 2026-09-05 18:52:08
+
+## 🇪🇸 La Cachapera conquista Espanha: Sabor venezuelano autêntico e cachinachos inovadores em Madrid. (España)
+**Restaurante:** La Cachapera (Madrid) | **Data:** Maio 2026 | [Link](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFa_eMybVriQ6muLoM8l06pJLCqmz4Lxx-m7OTiWBJlI8X3a7YcyBzM5RzfpijHBKOgB2_-bGf1rZLMhJwvCIOm32mj7Dgq0USent7l6pNWj2ANN5m8o67P3D-MYM6ZpOCszOet0Wb6DwK_woiiC8Bq3YpLpkcLmPbaPH3MPstZErZtqzT85H4y1FvcSmICwA0W70jMdOlnz6pOy0tdlQN0PidNfT3m7RqrZtTWrEDvvTJti9Z8UtRVIoOjKPMQyPlPtsHtz1g)
+
+La Cachapera expande seu sucesso na Espanha com seis locais, incluindo um segundo em Madrid. Oferece cachapas, arepas, empanadas e o inovador "cachinacho", uma fusão de cachapa e nachos. A marca combina gastronomia, música e estética caribenha para uma experiência sensorial completa, consolidando-se como referência da culinária venezuelana na Europa.
+
+--- 
+
+## 🇻🇪 Venezuela brilha: Nomeada Destino Culinário Líder da América do Sul no World Travel Awards. (Venezuela)
+**Restaurante:** World Travel Awards 2026 (Venezuela como Principal Destino Culinario) | **Data:** Maio 2026 | [Link](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFr9Qwf4LO9UoR_aVN1g3FjC2b5kCXqbcKnyIUo4BBTFzMKA9Im39pJkISBbrM75IeV8Q7hSVW7PK4v9yuRaEOuHAYYP9drGhUoMS1idC_8FFVWfPs0T43svWZNiwmFYkjeFtC6nndlK4qJHZwWm8d7xoL5BmACH0R1n2X1BYRY4JgSiOt2TYIAog8jgqjMhA4ioXr-xfPLK-iRuRqnchMR99Tiu6gHIJadZclf)
+
+A Venezuela foi nomeada Principal Destino Culinário da América do Sul nos prestigiados World Travel Awards 2026. Este reconhecimento celebra a rica herança mestiça de sua culinária, seus contrastes de sabores e texturas, e sua profunda história. A nomeação impulsiona o turismo gastronômico e apoia produtores locais, destacando a diversidade e riqueza da culinária venezuelana em nível global.
+
+--- 
 
 ## 🇻🇪 Venezuela Brilha: Quatro Joias Gastronômicas Reconhecidas pelo 50 Best Discovery 2026 (Venezuela)
 **Restaurante:** Dining Room, El Bosque Bistró y Robusto Bar (Caracas y Valencia) | **Data:** Maio 2026 | [Link](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQELgzmXkOVPLdNTB4UHljmp1heoCArDCkbP51kzblyt9Ebjp8OVARorBabLLbjhpyjj2Cq_A7sDW8zsSGnu-Q5mpPLqK0edKZ9VCOBOg-iEF9aAAfQYh61frXaYBs0D75tqKIpD_j1s62Z4akegxsQ6TYaVdKEUL7UP2TFNUtsLw47rQ4pcIyqNnaJ7E0kcrSN_2ZV8elPysmwuEoamdbjtETt9w5wAcn3i1nEuG5tGDacR-MvI)
@@ -39,20 +53,6 @@ Dining Room em Valência, Venezuela, foi reconhecido na prestigiada lista "50 Be
 **Restaurante:** Proyecto Ubre (Caracas) | **Data:** Maio 2026 | [Link](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHgtDgfTKr7fsUZ3bTkznQe9G4aYt65BZjaXKmHZpNFBOuW_tPQ9h_Qmd7FDyMqAa7MRuFZpTQgIdRJIeg8L5uDb1S5UAfaMBrXPE-lqbHyX_vJAIUHQHAkNozmy6QPc_OX-rnEPZc_PJmn-DUEoPEFNXClumzSWb8m2Jf3PCzHqLF8FHzAm-rJw8Dpixm5UgYOzS4zJEwe8XhApgSgVKsjA==)
 
 Projeto Ubre, liderado pelo chef Issam Koteich, redefine a cozinha venezuelana a partir de Caracas. Com foco na sustentabilidade e produção própria de cordeiro, este projeto inovador integra fazenda e restaurante, oferecendo uma experiência culinária única que foi premiada internacionalmente pelo seu impacto e autenticidade.
-
---- 
-
-## 🇪🇸 Apartaco Madrid: O Buffet Livre Venezuelano que Alimenta a Alma e a Solidariedade (España)
-**Restaurante:** Apartaco (Madrid) | **Data:** Maio 2026 | [Link](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFnmM47IjUwFaDxWTH6HSU97f9PZ4pfNU1WgkJwtUODmnvxjIh9pSrjay-yO1tX-KDpnbVw8s5xq4f2bszerlN0b-SeFhGDjpDWCQFbkx_vZVaNQgC47L4MTxu5RyAqTnUfIoCuXCR6r9SMVZS27TSX4hlXcOTCYMBgSmbaW74i0krItqDsq4bcjWiAVIBpqlpY1OqL2_dsWDJWCxl3SmXzl7oYoAk787BrQN02Hf5bphEkT3xeL2ZCpwfIJkQyr7wf49VeJqSIWTOn9ozaLajM1kAGrTaDx7AAHvIFhzGjoIyOyxLA-PmHVMZroUC3U5o=)
-
-Apartaco em Madrid se reinventa como um inovador buffet livre de comida venezuelana, oferecendo arepas, patacones e muito mais. Por um preço fixo, os clientes desfrutam de uma experiência culinária autêntica, enquanto contribuem para uma causa social vital: 1€ de cada menu é doado à Fundação Meals4Hope para vítimas do terremoto na Venezuela.
-
---- 
-
-## 🇵🇪 Juan Luis Martínez: A Fusão Venezuelana que Conquista Lima e o Mundo Gastronômico (Perú)
-**Restaurante:** Mérito y Demo (Lima) | **Data:** Maio 2026 | [Link](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFIv_OtvUIm1F275HmSK5jhSn43ZNdfLFIOeB7wtelX-qouP18rfgS3dOqC_YWa1VsfH45PuAzurQTr_AMQCDCbyHbZb2Ghf5Utxry25EoZwMxjZesRM_DwXeVXjq6ogRXGGCq86DGJ77943YSscGTf_P4yFwZaJwXJhv_bp0ro_L0esSHFy-mZ1imOQpNetmlJYg0LdcJbV03EjGrC3vtOMqu4XXA==)
-
-O chef venezuelano Juan Luis Martínez eleva a gastronomia de seu país em Lima com Mérito e Demo. Mérito funde magistralmente sabores peruanos e venezuelanos, enquanto Demo oferece clássicos reinventados como tequeños de banana sem glúten. Sua proposta inovadora posicionou a cozinha venezuelana na elite mundial.
 
 --- 
 
