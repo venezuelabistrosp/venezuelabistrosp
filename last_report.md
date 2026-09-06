@@ -1,4 +1,18 @@
-# Relatório de Pesquisa de Tendências (Nuvem) - 2026-09-05 18:52:08
+# Relatório de Pesquisa de Tendências (Nuvem) - 2026-09-06 18:56:48
+
+## 🇪🇸 Madrid Celebra a Riqueza Culinária Venezuelana com os Gastro-Festivais do Ecocentro (España)
+**Restaurante:** Gastro-Festivales Venezolanos en Ecocentro (Madrid) | **Data:** Maio 2026 | [Link](https://ecocentro.es/vuelven-gastro-festivales-venezuela/)
+
+Madrid prepara-se para receber os Gastro-Festivais Venezuelanos no Ecocentro em outubro de 2026. Este evento promete uma imersão nos aromas e sabores da Venezuela, oferecendo um menu exclusivo com propostas que exploram a diversidade e riqueza de uma das cozinhas mais vibrantes da América Latina.
+
+--- 
+
+## 🇻🇪 O Tequeño: De Patrimônio Cultural a Ícone Global da Inovação Gastronômica (Venezuela)
+**Restaurante:** El Tequeño: Patrimonio Cultural (Global) | **Data:** Maio 2026 | [Link](https://www.infobae.com/recetas/2025/10/20/dia-internacional-del-tequeno-seis-recetas-para-disfrutar-este-clasico-de-la-gastronomia-global/)
+
+O tequeño, declarado patrimônio cultural, consolida-se como uma tendência global de inovação gastronômica para 2025-2026. Além do queijo, exploram-se recheios fusão como pesto, banana madura ou chocolate, e massas coloridas, adaptando-se a paladares internacionais e reafirmando sua versatilidade culinária.
+
+--- 
 
 ## 🇪🇸 La Cachapera conquista Espanha: Sabor venezuelano autêntico e cachinachos inovadores em Madrid. (España)
 **Restaurante:** La Cachapera (Madrid) | **Data:** Maio 2026 | [Link](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFa_eMybVriQ6muLoM8l06pJLCqmz4Lxx-m7OTiWBJlI8X3a7YcyBzM5RzfpijHBKOgB2_-bGf1rZLMhJwvCIOm32mj7Dgq0USent7l6pNWj2ANN5m8o67P3D-MYM6ZpOCszOet0Wb6DwK_woiiC8Bq3YpLpkcLmPbaPH3MPstZErZtqzT85H4y1FvcSmICwA0W70jMdOlnz6pOy0tdlQN0PidNfT3m7RqrZtTWrEDvvTJti9Z8UtRVIoOjKPMQyPlPtsHtz1g)
@@ -39,20 +53,6 @@ A confeitaria venezuelana experimenta uma notável renovação, fundindo a sofis
 **Restaurante:** Pa' Paraguana (Condado de Osceola) | **Data:** Maio 2026 | [Link](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE9VWY5rvgoR5P9ls4-ym7R6mRWeztTCuL1mGRxIMsNXsjDsmS3b21Dr3dotP0pbb9Isko7PRln073viUR0k9EiSChxCK79zBl0lymKZQyK_SkvAMDLssuBmFvlUoL3tL9xW_E_oWUYm1vWbMLRuwLkibisYsDptanL-VEP9zpUb77oHvBkumisA49WZwFMw8Mdq1WrAoRHA999VxIjCD5vA8ZGMSj2PshnG3jyIrjTG23a-_N-AXOUXWBt_WCC5Fp9HD4x24DIrUpxqSb51gALlv9zhkvm5r8L2RFpIf33Dbr6eUYllMJBaL-ePmN0RNEXbrBxFCLR0eanuy8=)
 
 Pa' Paraguana no Condado de Osceola, Flórida, foi reconhecido pela Experience Kissimmee por sua excepcional oferta de empanadas venezuelanas. Com mais de 59 variedades, este restaurante tornou-se um destino culinário essencial para quem busca a autêntica cozinha venezuelana, oferecendo uma imersão completa nos sabores tradicionais do país.
-
---- 
-
-## 🇻🇪 Dining Room em Valência: A Alta Cozinha Venezuelana Brilha no 50 Best Discovery (Venezuela)
-**Restaurante:** Dining Room (Valencia) | **Data:** Maio 2026 | [Link](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG8BBV1RMV5QtI5XzZ2WXuwe5HmC-xmq8k_yXte9d37xHxkqwrdXxfgGxEvAiafUVikKTvFvY8e6R96GoO5mAYCHZVQO-hVYMirkLjbsg-Om3zpkPbeRdTidkntOwZPOoEgmyBkTPIiYurmpCzjFjnykb4EVlZBUdqIzkGzL0Cb9mKVZ8rE2s03TenkNlCM7ESys_mAkSCAjGlKg1vYLWOvR3zPo6nJ-Vg_Ga82tpiY4oBfrLU=)
-
-Dining Room em Valência, Venezuela, foi reconhecido na prestigiada lista "50 Best Discovery 2026", destacando a "cozinha heroica" do chef Frank Parada. Esta conquista sublinha a inovação e qualidade da gastronomia venezuelana para além de Caracas, posicionando-a no cenário culinário internacional apesar dos desafios locais.
-
---- 
-
-## 🇻🇪 Projeto Ubre: A Revolução Sustentável da Gastronomia Venezuelana com Sabor a Cordeiro (Venezuela)
-**Restaurante:** Proyecto Ubre (Caracas) | **Data:** Maio 2026 | [Link](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHgtDgfTKr7fsUZ3bTkznQe9G4aYt65BZjaXKmHZpNFBOuW_tPQ9h_Qmd7FDyMqAa7MRuFZpTQgIdRJIeg8L5uDb1S5UAfaMBrXPE-lqbHyX_vJAIUHQHAkNozmy6QPc_OX-rnEPZc_PJmn-DUEoPEFNXClumzSWb8m2Jf3PCzHqLF8FHzAm-rJw8Dpixm5UgYOzS4zJEwe8XhApgSgVKsjA==)
-
-Projeto Ubre, liderado pelo chef Issam Koteich, redefine a cozinha venezuelana a partir de Caracas. Com foco na sustentabilidade e produção própria de cordeiro, este projeto inovador integra fazenda e restaurante, oferecendo uma experiência culinária única que foi premiada internacionalmente pelo seu impacto e autenticidade.
 
 --- 
 
