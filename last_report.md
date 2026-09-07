@@ -1,4 +1,25 @@
-# Relatório de Pesquisa de Tendências (Nuvem) - 2026-09-06 18:56:48
+# Relatório de Pesquisa de Tendências (Nuvem) - 2026-09-07 20:24:35
+
+## 🇵🇪 Mérito em Lima: A Fusão Venezuelana-Peruana que Conquista o Paladar Mundial (Perú)
+**Restaurante:** Mérito (Lima) | **Data:** Maio 2026 | [Link](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF7quXI4dB0IsdLELgWw7huDYvzE5WD5zxxijlWVVpu6RxHq76FqKRDSFF9VdUS_H2kX8sSVM97_n1WDCkVFY8nHqOECPocRDjLDHDIEYC3rIOB-3cEUz_q83Jnz4AKx511Z6vn-MM=)
+
+Mérito, em Lima, destaca-se como o restaurante venezuelano mais bem posicionado globalmente. Sua proposta culinária funde magistralmente técnicas e produtos da Venezuela, Peru, Amazônia e Europa, criando uma linguagem gastronômica única. Não busca replicar, mas integrar elementos como arepas e tubérculos andinos com coerência, consolidando seu sucesso na cena gastronômica de Lima.
+
+--- 
+
+## 🇻🇪 Dining Room: A Vanguarda Gastronômica Venezuelana Floresce em Valência com Reconhecimento Global (Venezuela)
+**Restaurante:** Dining Room (Valencia) | **Data:** Maio 2026 | [Link](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHHJZNZhZ6uDGOIt61IzXi98-22RdQjdSXM8ZRbkLAs7EZNAjZjUGGQTFUWiHsfJRlQjNok4RQYYV-FfLYZ3GM5Z9tpMqsLtbRQv_EZym-AxIHdfPVHgJU6XcJ46BOtIq54hCO8EU7y5OFQkZyMKP2kmA7-x26skKkrAaq3edGb5ASe9bY1sdDDM301LHfncq0HzCLo-TGsm6uT2FDRg91wcQsiaJhYdrG3eO7djAKve5ROdaW9)
+
+Dining Room, em Valência, Venezuela, liderado pelo chef Frank Parada, redefine a alta cozinha com um menu degustação que exalta o produto local. Sua inclusão no guia 50 Best Discovery marca um marco, demonstrando que a vanguarda culinária venezuelana transcende Caracas. Parada foi premiado com o Tenedor de Oro 2025, consolidando seu impacto.
+
+--- 
+
+## 🇳🇮 Venezuela Brilha na Nicarágua: Sabores Ancestrais e Alegria Criolla em Festival Gastronômico (Nicaragua)
+**Restaurante:** XV Festival Internacional de las Artes, Cultura y Gastronomía de Nicaragua (Managua) | **Data:** Maio 2026 | [Link](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFfSfTsjuSsm5P-iWNaYSh9OcgCbbDPSFz64pY3-8SK45kbKtYglRKVdtcpVydPe3E8g2OtlWNh6vPMklvucovsijc6NEa08FVlvygYu6PaG0G5U4s7avGt_6izcjUyT-ZDOySpTPxw_LKnsnMwRyRfscJ-tQhYacgM3YbUDm7_tbbIboTamfiCM1h1BKC63YBCjb3E1LQr3vpNRAWAjRZZ0PlaL2bevDLLRkPSbtntS6p6wXd6pwAUa91NcfgsKvZvRg==)
+
+No XV Festival Internacional das Artes, Cultura e Gastronomia da Nicarágua (agosto 2026), a Venezuela brilhou com um estande que exibiu seus sabores ancestrais e o calor crioulo. A arepa foi a estrela, destacando a riqueza folclórica e regional do país. O evento promoveu a irmandade e o intercâmbio cultural através de sua vibrante gastronomia.
+
+--- 
 
 ## 🇪🇸 Madrid Celebra a Riqueza Culinária Venezuelana com os Gastro-Festivais do Ecocentro (España)
 **Restaurante:** Gastro-Festivales Venezolanos en Ecocentro (Madrid) | **Data:** Maio 2026 | [Link](https://ecocentro.es/vuelven-gastro-festivales-venezuela/)
@@ -32,27 +53,6 @@ A Venezuela foi nomeada Principal Destino Culinário da América do Sul nos pres
 **Restaurante:** Dining Room, El Bosque Bistró y Robusto Bar (Caracas y Valencia) | **Data:** Maio 2026 | [Link](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQELgzmXkOVPLdNTB4UHljmp1heoCArDCkbP51kzblyt9Ebjp8OVARorBabLLbjhpyjj2Cq_A7sDW8zsSGnu-Q5mpPLqK0edKZ9VCOBOg-iEF9aAAfQYh61frXaYBs0D75tqKIpD_j1s62Z4akegxsQ6TYaVdKEUL7UP2TFNUtsLw47rQ4pcIyqNnaJ7E0kcrSN_2ZV8elPysmwuEoamdbjtETt9w5wAcn3i1nEuG5tGDacR-MvI)
 
 O guia 50 Best Discovery 2026 incluiu quatro estabelecimentos venezuelanos, destacando a evolução e qualidade de sua gastronomia. Dining Room em Valência, El Bosque Bistró e Robusto Bar em Caracas fazem parte deste prestigioso reconhecimento, consolidando a presença culinária do país globalmente e mostrando sua diversidade.
-
---- 
-
-## 🇨🇦 The Arepa Republic: A Arepa Venezuelana Conquista o Canadá com Sabor e Tradição (Canadá)
-**Restaurante:** The Arepa Republic (Toronto) | **Data:** Maio 2026 | [Link](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGuN_ZaKGbqLb_CY0Ryx5oJwVDtwuCQdzjOEEuMCnVZHS4Yvry_8wBhwvlKisCt64k52gH6MGAKALhrdRPkJ7dUp-hI5c5h1mgVP_fs8BK061hSWxV5FY3zrnzk42ENC3Lzc95qesLvg5LjFRlXZhAs_52sE7PlLh0sf7tSrupO)
-
-The Arepa Republic em Toronto está revolucionando o mercado canadense, posicionando a arepa venezuelana como um prato saudável e sem glúten. Com planos de expansão para Quebec e Montreal, este restaurante busca se tornar a primeira franquia de arepas no Canadá, destacando a arepa de pabellón como a favorita local.
-
---- 
-
-## 🇻🇪 Doce Inovação: A Confeitaria Venezuelana se Transforma com Sofisticação e Saúde (Venezuela)
-**Restaurante:** Baking Love y Pop Your Fitness (Venezuela) | **Data:** Maio 2026 | [Link](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGLuOUpjcX-vuxvdjhQYe5IOQnJiQ96hkK3NqBRLxtDM_XDdHcljHPzxJ505fj7qAIwOAveEkVU4FUmsA0OAYL8lv4I5a99-i-Lx7mGkmFYPW3byETm4U4uXygdSuSyKQiQO8iB-on_WV08g64KocLBsg50Lnox88oq-dyRiL0xw4d88pY=)
-
-A confeitaria venezuelana experimenta uma notável renovação, fundindo a sofisticação de sobremesas tradicionais para celebrações com opções saudáveis. Empreendimentos como Baking Love, que eleva os doces clássicos, e Pop Your Fitness, que oferece alternativas fitness, demonstram a versatilidade e criatividade do setor, adaptando-se às novas demandas do consumidor.
-
---- 
-
-## 🇺🇸 Pa' Paraguana: O Santuário das Empanadas Venezuelanas na Flórida (Estados Unidos)
-**Restaurante:** Pa' Paraguana (Condado de Osceola) | **Data:** Maio 2026 | [Link](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE9VWY5rvgoR5P9ls4-ym7R6mRWeztTCuL1mGRxIMsNXsjDsmS3b21Dr3dotP0pbb9Isko7PRln073viUR0k9EiSChxCK79zBl0lymKZQyK_SkvAMDLssuBmFvlUoL3tL9xW_E_oWUYm1vWbMLRuwLkibisYsDptanL-VEP9zpUb77oHvBkumisA49WZwFMw8Mdq1WrAoRHA999VxIjCD5vA8ZGMSj2PshnG3jyIrjTG23a-_N-AXOUXWBt_WCC5Fp9HD4x24DIrUpxqSb51gALlv9zhkvm5r8L2RFpIf33Dbr6eUYllMJBaL-ePmN0RNEXbrBxFCLR0eanuy8=)
-
-Pa' Paraguana no Condado de Osceola, Flórida, foi reconhecido pela Experience Kissimmee por sua excepcional oferta de empanadas venezuelanas. Com mais de 59 variedades, este restaurante tornou-se um destino culinário essencial para quem busca a autêntica cozinha venezuelana, oferecendo uma imersão completa nos sabores tradicionais do país.
 
 --- 
 
