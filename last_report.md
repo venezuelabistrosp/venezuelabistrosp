@@ -1,4 +1,18 @@
-# Relatório de Pesquisa de Tendências (Nuvem) - 2026-09-07 20:24:35
+# Relatório de Pesquisa de Tendências (Nuvem) - 2026-09-09 19:38:29
+
+## 🇻🇪 El Bosque Bistró: Vanguarda Culinária Venezuelana Brilha no 50 Best Discovery. (Venezuela)
+**Restaurante:** El Bosque Bistró (Caracas) | **Data:** Maio 2026 | [Link](https://bienmesabe.com/50-best-discovery-destaca-a-6-restaurantes-venezolanos-este-2026/)
+
+O El Bosque Bistró em Caracas foi reconhecido pelo 50 Best Discovery, destacando sua cozinha criativa inspirada nas raízes indígenas, africanas e europeias. Sob a direção do chef Iván García, este bistrô oferece uma proposta vanguardista que honra os ingredientes locais e a rica despensa venezuelana.
+
+--- 
+
+## 🇻🇪 Gastromanía 2026: Maturín se Torna o Epicentro dos Sabores Venezuelanos. (Venezuela)
+**Restaurante:** Gastromanía 2026 (Maturín) | **Data:** Maio 2026 | [Link](https://monagas.gob.ve/gastromania-2026-colocara-a-monagas-en-la-cuspide-de-la-cocina/)
+
+A VI edição da Gastromanía 2026 transformará Maturín no epicentro da cozinha venezuelana, priorizando produtos autóctones de Monagas. Este festival de três dias oferecerá cozinha ao vivo, degustações e conversas, reunindo chefs e estudantes para celebrar a riqueza culinária regional.
+
+--- 
 
 ## 🇵🇪 Mérito em Lima: A Fusão Venezuelana-Peruana que Conquista o Paladar Mundial (Perú)
 **Restaurante:** Mérito (Lima) | **Data:** Maio 2026 | [Link](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF7quXI4dB0IsdLELgWw7huDYvzE5WD5zxxijlWVVpu6RxHq76FqKRDSFF9VdUS_H2kX8sSVM97_n1WDCkVFY8nHqOECPocRDjLDHDIEYC3rIOB-3cEUz_q83Jnz4AKx511Z6vn-MM=)
@@ -39,20 +53,6 @@ O tequeño, declarado patrimônio cultural, consolida-se como uma tendência glo
 **Restaurante:** La Cachapera (Madrid) | **Data:** Maio 2026 | [Link](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFa_eMybVriQ6muLoM8l06pJLCqmz4Lxx-m7OTiWBJlI8X3a7YcyBzM5RzfpijHBKOgB2_-bGf1rZLMhJwvCIOm32mj7Dgq0USent7l6pNWj2ANN5m8o67P3D-MYM6ZpOCszOet0Wb6DwK_woiiC8Bq3YpLpkcLmPbaPH3MPstZErZtqzT85H4y1FvcSmICwA0W70jMdOlnz6pOy0tdlQN0PidNfT3m7RqrZtTWrEDvvTJti9Z8UtRVIoOjKPMQyPlPtsHtz1g)
 
 La Cachapera expande seu sucesso na Espanha com seis locais, incluindo um segundo em Madrid. Oferece cachapas, arepas, empanadas e o inovador "cachinacho", uma fusão de cachapa e nachos. A marca combina gastronomia, música e estética caribenha para uma experiência sensorial completa, consolidando-se como referência da culinária venezuelana na Europa.
-
---- 
-
-## 🇻🇪 Venezuela brilha: Nomeada Destino Culinário Líder da América do Sul no World Travel Awards. (Venezuela)
-**Restaurante:** World Travel Awards 2026 (Venezuela como Principal Destino Culinario) | **Data:** Maio 2026 | [Link](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFr9Qwf4LO9UoR_aVN1g3FjC2b5kCXqbcKnyIUo4BBTFzMKA9Im39pJkISBbrM75IeV8Q7hSVW7PK4v9yuRaEOuHAYYP9drGhUoMS1idC_8FFVWfPs0T43svWZNiwmFYkjeFtC6nndlK4qJHZwWm8d7xoL5BmACH0R1n2X1BYRY4JgSiOt2TYIAog8jgqjMhA4ioXr-xfPLK-iRuRqnchMR99Tiu6gHIJadZclf)
-
-A Venezuela foi nomeada Principal Destino Culinário da América do Sul nos prestigiados World Travel Awards 2026. Este reconhecimento celebra a rica herança mestiça de sua culinária, seus contrastes de sabores e texturas, e sua profunda história. A nomeação impulsiona o turismo gastronômico e apoia produtores locais, destacando a diversidade e riqueza da culinária venezuelana em nível global.
-
---- 
-
-## 🇻🇪 Venezuela Brilha: Quatro Joias Gastronômicas Reconhecidas pelo 50 Best Discovery 2026 (Venezuela)
-**Restaurante:** Dining Room, El Bosque Bistró y Robusto Bar (Caracas y Valencia) | **Data:** Maio 2026 | [Link](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQELgzmXkOVPLdNTB4UHljmp1heoCArDCkbP51kzblyt9Ebjp8OVARorBabLLbjhpyjj2Cq_A7sDW8zsSGnu-Q5mpPLqK0edKZ9VCOBOg-iEF9aAAfQYh61frXaYBs0D75tqKIpD_j1s62Z4akegxsQ6TYaVdKEUL7UP2TFNUtsLw47rQ4pcIyqNnaJ7E0kcrSN_2ZV8elPysmwuEoamdbjtETt9w5wAcn3i1nEuG5tGDacR-MvI)
-
-O guia 50 Best Discovery 2026 incluiu quatro estabelecimentos venezuelanos, destacando a evolução e qualidade de sua gastronomia. Dining Room em Valência, El Bosque Bistró e Robusto Bar em Caracas fazem parte deste prestigioso reconhecimento, consolidando a presença culinária do país globalmente e mostrando sua diversidade.
 
 --- 
 
