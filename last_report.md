@@ -1,4 +1,18 @@
-# Relatório de Pesquisa de Tendências (Nuvem) - 2026-09-09 19:38:29
+# Relatório de Pesquisa de Tendências (Nuvem) - 2026-09-10 19:30:27
+
+## 🇻🇪 Venezuela Brilha: Alta Cozinha Reconhecida Globalmente no 50 Best Discovery 2026 (Venezuela)
+**Restaurante:** Varios restaurantes (Caracas y Valencia) | **Data:** Maio 2026 | [Link](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEAIf77hdy73r3Ehi-Gjq0DSnyDIZNTbl0y-FfQVqZk9gSUALraZ9NYzZwAUE8NrnPrSvI2bM-1Q4UrMvqIolG3yPFKGifcMRuCGKLiDLrhLogy4d5K2A==)
+
+Vários restaurantes venezuelanos, como Cordero e El Bosque Bistró, foram incluídos na prestigiada lista 50 Best Discovery 2026. Este reconhecimento global destaca a alta cozinha do país, com propostas inovadoras que celebram ingredientes locais e técnicas vanguardistas, consolidando Caracas e Valência como destinos culinários de primeira linha.
+
+--- 
+
+## 🇻🇪 Rompeolas: Experiência Gastronômica Imersiva que Celebra o Mar em Puerto Ordaz (Venezuela)
+**Restaurante:** Rompeolas (Puerto Ordaz) | **Data:** Maio 2026 | [Link](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFThaAuIEP5M6fjIjXVjAunFqxvTEx9XZ0v69qjMujpjI3K-Or20APw_PvFlTWRe73Pi7DVfDS2RfkdDdGUfpFMTPHaj1ZVKRYKZssnfbqWzaULrqapbE3jxx9qOjrnSljHOWAjpt9GhaLs6XEK62a1oLkr1QozjdwzitRR5jzgJ-MrVZCc6ZDINsAe_2wrMAOvNEoZ4DQZ63WEYSMFceCRZC6FvUsJMzCv8NSR4ZyM-5lKr1SHoFAMGmhyYOpyal2XyJ2Xmunu4m448iWhdsrTu0S57yW-RG0xi38pA_jI1rAor9KSZRPcKUo5)
+
+Rompeolas, em Puerto Ordaz, oferece uma experiência culinária imersiva centrada na gastronomia marítima venezuelana. Fundindo natureza, arte e tradição com técnicas ancestrais, o restaurante destaca-se pela sua decoração única com óxidos naturais do Delta, prometendo uma viagem multissensorial que celebra os sabores do mar.
+
+--- 
 
 ## 🇻🇪 El Bosque Bistró: Vanguarda Culinária Venezuelana Brilha no 50 Best Discovery. (Venezuela)
 **Restaurante:** El Bosque Bistró (Caracas) | **Data:** Maio 2026 | [Link](https://bienmesabe.com/50-best-discovery-destaca-a-6-restaurantes-venezolanos-este-2026/)
@@ -39,20 +53,6 @@ No XV Festival Internacional das Artes, Cultura e Gastronomia da Nicarágua (ago
 **Restaurante:** Gastro-Festivales Venezolanos en Ecocentro (Madrid) | **Data:** Maio 2026 | [Link](https://ecocentro.es/vuelven-gastro-festivales-venezuela/)
 
 Madrid prepara-se para receber os Gastro-Festivais Venezuelanos no Ecocentro em outubro de 2026. Este evento promete uma imersão nos aromas e sabores da Venezuela, oferecendo um menu exclusivo com propostas que exploram a diversidade e riqueza de uma das cozinhas mais vibrantes da América Latina.
-
---- 
-
-## 🇻🇪 O Tequeño: De Patrimônio Cultural a Ícone Global da Inovação Gastronômica (Venezuela)
-**Restaurante:** El Tequeño: Patrimonio Cultural (Global) | **Data:** Maio 2026 | [Link](https://www.infobae.com/recetas/2025/10/20/dia-internacional-del-tequeno-seis-recetas-para-disfrutar-este-clasico-de-la-gastronomia-global/)
-
-O tequeño, declarado patrimônio cultural, consolida-se como uma tendência global de inovação gastronômica para 2025-2026. Além do queijo, exploram-se recheios fusão como pesto, banana madura ou chocolate, e massas coloridas, adaptando-se a paladares internacionais e reafirmando sua versatilidade culinária.
-
---- 
-
-## 🇪🇸 La Cachapera conquista Espanha: Sabor venezuelano autêntico e cachinachos inovadores em Madrid. (España)
-**Restaurante:** La Cachapera (Madrid) | **Data:** Maio 2026 | [Link](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFa_eMybVriQ6muLoM8l06pJLCqmz4Lxx-m7OTiWBJlI8X3a7YcyBzM5RzfpijHBKOgB2_-bGf1rZLMhJwvCIOm32mj7Dgq0USent7l6pNWj2ANN5m8o67P3D-MYM6ZpOCszOet0Wb6DwK_woiiC8Bq3YpLpkcLmPbaPH3MPstZErZtqzT85H4y1FvcSmICwA0W70jMdOlnz6pOy0tdlQN0PidNfT3m7RqrZtTWrEDvvTJti9Z8UtRVIoOjKPMQyPlPtsHtz1g)
-
-La Cachapera expande seu sucesso na Espanha com seis locais, incluindo um segundo em Madrid. Oferece cachapas, arepas, empanadas e o inovador "cachinacho", uma fusão de cachapa e nachos. A marca combina gastronomia, música e estética caribenha para uma experiência sensorial completa, consolidando-se como referência da culinária venezuelana na Europa.
 
 --- 
 
