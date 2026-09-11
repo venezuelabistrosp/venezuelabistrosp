@@ -1,4 +1,25 @@
-# Relatório de Pesquisa de Tendências (Nuvem) - 2026-09-10 19:30:27
+# Relatório de Pesquisa de Tendências (Nuvem) - 2026-09-11 19:31:13
+
+## 🇪🇸 La Cachapera revoluciona Madrid com seus cachinachos e expansão venezuelana na Espanha (España)
+**Restaurante:** La Cachapera (Madrid) | **Data:** Maio 2026 | [Link](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHOIAFeYbJXYYwYb1RUS9J1IfsHyJXdyQJL34AxMFfeQVHQ504YBziWSb8uu1D0N-WQqj6OYEa_xgKlkpIkJRDlGE6cfbecYc_GynzQvorV_9DyLaTEQJkMZKyLB7ouyKOBG8RkV4pR6lDArdjJrHsbr3MN-s4PMkpzsabmZURuhLu5ISoomc-k)
+
+La Cachapera, a bem-sucedida rede venezuelana, celebra a abertura de seu sexto restaurante na Espanha, o segundo em Madrid, em maio de 2026. Com um faturamento de 6,5 milhões de euros em 2025, consolidam-se como líderes em cachapas e seus inovadores "cachinachos", uma fusão única que delicia paladares e projeta uma ambiciosa expansão europeia.
+
+--- 
+
+## 🇺🇸 Casa Ora: O primeiro restaurante venezuelano em Nova York com distinção Michelin (Estados Unidos)
+**Restaurante:** Casa Ora (Nueva York) | **Data:** Maio 2026 | [Link](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGQg-i29WTGZVCHr2BT27a__QaSUOEo9eS4hsqZfA-VBhZEJuTo3CLsgxSQkt9fi-c-AycSuVZJW-xhhySqBlEySA6btVQI7OJEKBYtGsccH1ETXPuHjfCW4S_fKYkEw01fje-inKY1NAE05qpblpTpCZLSHR3jYW1degvvipWGQ8sDLSminvpVjejQKMvrfM4WU89a25rnFQsVKZi197ys4IUawLPe0xfpotj2_HjsXcwWIRf937lj5zCgNEpqy3HR5i-TD3R85ovr7hohJIRYF8yh4ldqfei1L2LxgBSRyd5gBolo1e-BvYOP8c1VFkdBYn13siUxLn5D)
+
+Casa Ora em Nova York fez história ao se tornar o primeiro restaurante venezuelano a receber uma distinção do prestigiado Guia Michelin. Este reconhecimento eleva a gastronomia venezuelana a um novo patamar de excelência internacional, destacando sua alta qualidade e autenticidade. Além disso, Casa Ora demonstra um forte compromisso social, apoiando imigrantes em sua busca por asilo.
+
+--- 
+
+## 🇻🇪 Venezuela brilha: Reconhecimento global para sua gastronomia no 50 Best Discovery e WTA (Venezuela)
+**Restaurante:** Dining Room (Valencia) y Gastronomía Venezolana | **Data:** Maio 2026 | [Link](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGYdYMBzrAjdP2WCNLM9tCxUtPGrcYUVFDfI0DUS3ecLNsqz9Sb39ouTRKLmsgbhJgT41RpANRUF_-MstaZv9fCPV_aGq5aGMxjNrK_-yWuuO5uyauqSnHuxsyGL9lD1Io3afv0yBQfDDhrUodACP91-vGX3zX3f0fMCm_lUdANMGr3rlEd7o2I64dktQehRbTObCvZKVgnIds8coRxN2lz-3iuMcnwP4Asf5v0JzU05qzhLmJp)
+
+A gastronomia venezuelana brilha com a inclusão de estabelecimentos no 50 Best Discovery 2026, destacando o Dining Room em Valência. Além disso, a Venezuela foi nomeada como "Principal Destino Culinário da América do Sul" nos World Travel Awards 2026. Esses reconhecimentos celebram a riqueza, fusão de sabores e vanguarda de sua culinária, consolidando sua posição global.
+
+--- 
 
 ## 🇻🇪 Venezuela Brilha: Alta Cozinha Reconhecida Globalmente no 50 Best Discovery 2026 (Venezuela)
 **Restaurante:** Varios restaurantes (Caracas y Valencia) | **Data:** Maio 2026 | [Link](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEAIf77hdy73r3Ehi-Gjq0DSnyDIZNTbl0y-FfQVqZk9gSUALraZ9NYzZwAUE8NrnPrSvI2bM-1Q4UrMvqIolG3yPFKGifcMRuCGKLiDLrhLogy4d5K2A==)
@@ -32,27 +53,6 @@ A VI edição da Gastromanía 2026 transformará Maturín no epicentro da cozinh
 **Restaurante:** Mérito (Lima) | **Data:** Maio 2026 | [Link](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF7quXI4dB0IsdLELgWw7huDYvzE5WD5zxxijlWVVpu6RxHq76FqKRDSFF9VdUS_H2kX8sSVM97_n1WDCkVFY8nHqOECPocRDjLDHDIEYC3rIOB-3cEUz_q83Jnz4AKx511Z6vn-MM=)
 
 Mérito, em Lima, destaca-se como o restaurante venezuelano mais bem posicionado globalmente. Sua proposta culinária funde magistralmente técnicas e produtos da Venezuela, Peru, Amazônia e Europa, criando uma linguagem gastronômica única. Não busca replicar, mas integrar elementos como arepas e tubérculos andinos com coerência, consolidando seu sucesso na cena gastronômica de Lima.
-
---- 
-
-## 🇻🇪 Dining Room: A Vanguarda Gastronômica Venezuelana Floresce em Valência com Reconhecimento Global (Venezuela)
-**Restaurante:** Dining Room (Valencia) | **Data:** Maio 2026 | [Link](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHHJZNZhZ6uDGOIt61IzXi98-22RdQjdSXM8ZRbkLAs7EZNAjZjUGGQTFUWiHsfJRlQjNok4RQYYV-FfLYZ3GM5Z9tpMqsLtbRQv_EZym-AxIHdfPVHgJU6XcJ46BOtIq54hCO8EU7y5OFQkZyMKP2kmA7-x26skKkrAaq3edGb5ASe9bY1sdDDM301LHfncq0HzCLo-TGsm6uT2FDRg91wcQsiaJhYdrG3eO7djAKve5ROdaW9)
-
-Dining Room, em Valência, Venezuela, liderado pelo chef Frank Parada, redefine a alta cozinha com um menu degustação que exalta o produto local. Sua inclusão no guia 50 Best Discovery marca um marco, demonstrando que a vanguarda culinária venezuelana transcende Caracas. Parada foi premiado com o Tenedor de Oro 2025, consolidando seu impacto.
-
---- 
-
-## 🇳🇮 Venezuela Brilha na Nicarágua: Sabores Ancestrais e Alegria Criolla em Festival Gastronômico (Nicaragua)
-**Restaurante:** XV Festival Internacional de las Artes, Cultura y Gastronomía de Nicaragua (Managua) | **Data:** Maio 2026 | [Link](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFfSfTsjuSsm5P-iWNaYSh9OcgCbbDPSFz64pY3-8SK45kbKtYglRKVdtcpVydPe3E8g2OtlWNh6vPMklvucovsijc6NEa08FVlvygYu6PaG0G5U4s7avGt_6izcjUyT-ZDOySpTPxw_LKnsnMwRyRfscJ-tQhYacgM3YbUDm7_tbbIboTamfiCM1h1BKC63YBCjb3E1LQr3vpNRAWAjRZZ0PlaL2bevDLLRkPSbtntS6p6wXd6pwAUa91NcfgsKvZvRg==)
-
-No XV Festival Internacional das Artes, Cultura e Gastronomia da Nicarágua (agosto 2026), a Venezuela brilhou com um estande que exibiu seus sabores ancestrais e o calor crioulo. A arepa foi a estrela, destacando a riqueza folclórica e regional do país. O evento promoveu a irmandade e o intercâmbio cultural através de sua vibrante gastronomia.
-
---- 
-
-## 🇪🇸 Madrid Celebra a Riqueza Culinária Venezuelana com os Gastro-Festivais do Ecocentro (España)
-**Restaurante:** Gastro-Festivales Venezolanos en Ecocentro (Madrid) | **Data:** Maio 2026 | [Link](https://ecocentro.es/vuelven-gastro-festivales-venezuela/)
-
-Madrid prepara-se para receber os Gastro-Festivais Venezuelanos no Ecocentro em outubro de 2026. Este evento promete uma imersão nos aromas e sabores da Venezuela, oferecendo um menu exclusivo com propostas que exploram a diversidade e riqueza de uma das cozinhas mais vibrantes da América Latina.
 
 --- 
 
