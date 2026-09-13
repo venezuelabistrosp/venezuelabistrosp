@@ -1,4 +1,25 @@
-# Relatório de Pesquisa de Tendências (Nuvem) - 2026-09-11 19:31:13
+# Relatório de Pesquisa de Tendências (Nuvem) - 2026-09-13 19:15:04
+
+## 🇻🇪 Venezuela brilha no 50 Best Discovery 2026: Alta cozinha venezuelana conquista o mundo (Venezuela)
+**Restaurante:** Dining Room (Valencia) y El Bosque Bistró (Caracas) | **Data:** Maio 2026 | [Link](https://www.bienmesabe.com/noticia/50-best-discovery-destaca-a-6-restaurantes-venezolanos-este-2026/)
+
+Seis restaurantes venezuelanos, incluindo Dining Room e El Bosque Bistró, foram reconhecidos pelo 50 Best Discovery em 2026. Este marco destaca a crescente influência da gastronomia venezuelana, com propostas inovadoras que fundem raízes indígenas, africanas e europeias, consolidando sua presença internacional e expandindo para novas cidades como Valência.
+
+--- 
+
+## 🇵🇪 Lima rende-se à fusão venezuelana: Mérito e Demo elevam a culinária latina (Perú)
+**Restaurante:** Mérito y Demo (Lima) | **Data:** Maio 2026 | [Link](https://eldiariony.com/2026/03/13/la-nueva-era-de-la-gastronomia-en-lima-el-exito-de-la-fusion-venezolana/)
+
+Lima, capital gastronómica, celebra o sucesso da fusão venezuelana graças aos restaurantes Mérito e Demo do chef Juan Luis Martínez. Mérito, no 26º lugar mundial, combina Peru e Venezuela, enquanto Demo oferece cachapas, arepas e tequeños inovadores de banana madura, consolidando a alta cozinha venezuelana na cena internacional.
+
+--- 
+
+## 🇻🇪 Arepa Fest 2026: A arepa venezuelana celebra sua criatividade global e raízes (Venezuela)
+**Restaurante:** Arepa Fest 2026 (Parque Cerroverde, Venezuela) | **Data:** Maio 2026 | [Link](https://www.youtube.com/watch?v=k5lq_7_7Q-0)
+
+O Arepa Fest 2026, celebrado em setembro, homenageou a arepa venezuelana, um ícone gastronômico global. O evento destacou a conexão com suas raízes e a inovação em seus recheios, apresentando criações surpreendentes como a "arepa de pera" com abacate, rúcula e queijo de cabra, demonstrando a versatilidade deste prato tradicional.
+
+--- 
 
 ## 🇪🇸 La Cachapera revoluciona Madrid com seus cachinachos e expansão venezuelana na Espanha (España)
 **Restaurante:** La Cachapera (Madrid) | **Data:** Maio 2026 | [Link](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHOIAFeYbJXYYwYb1RUS9J1IfsHyJXdyQJL34AxMFfeQVHQ504YBziWSb8uu1D0N-WQqj6OYEa_xgKlkpIkJRDlGE6cfbecYc_GynzQvorV_9DyLaTEQJkMZKyLB7ouyKOBG8RkV4pR6lDArdjJrHsbr3MN-s4PMkpzsabmZURuhLu5ISoomc-k)
@@ -32,27 +53,6 @@ Vários restaurantes venezuelanos, como Cordero e El Bosque Bistró, foram inclu
 **Restaurante:** Rompeolas (Puerto Ordaz) | **Data:** Maio 2026 | [Link](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFThaAuIEP5M6fjIjXVjAunFqxvTEx9XZ0v69qjMujpjI3K-Or20APw_PvFlTWRe73Pi7DVfDS2RfkdDdGUfpFMTPHaj1ZVKRYKZssnfbqWzaULrqapbE3jxx9qOjrnSljHOWAjpt9GhaLs6XEK62a1oLkr1QozjdwzitRR5jzgJ-MrVZCc6ZDINsAe_2wrMAOvNEoZ4DQZ63WEYSMFceCRZC6FvUsJMzCv8NSR4ZyM-5lKr1SHoFAMGmhyYOpyal2XyJ2Xmunu4m448iWhdsrTu0S57yW-RG0xi38pA_jI1rAor9KSZRPcKUo5)
 
 Rompeolas, em Puerto Ordaz, oferece uma experiência culinária imersiva centrada na gastronomia marítima venezuelana. Fundindo natureza, arte e tradição com técnicas ancestrais, o restaurante destaca-se pela sua decoração única com óxidos naturais do Delta, prometendo uma viagem multissensorial que celebra os sabores do mar.
-
---- 
-
-## 🇻🇪 El Bosque Bistró: Vanguarda Culinária Venezuelana Brilha no 50 Best Discovery. (Venezuela)
-**Restaurante:** El Bosque Bistró (Caracas) | **Data:** Maio 2026 | [Link](https://bienmesabe.com/50-best-discovery-destaca-a-6-restaurantes-venezolanos-este-2026/)
-
-O El Bosque Bistró em Caracas foi reconhecido pelo 50 Best Discovery, destacando sua cozinha criativa inspirada nas raízes indígenas, africanas e europeias. Sob a direção do chef Iván García, este bistrô oferece uma proposta vanguardista que honra os ingredientes locais e a rica despensa venezuelana.
-
---- 
-
-## 🇻🇪 Gastromanía 2026: Maturín se Torna o Epicentro dos Sabores Venezuelanos. (Venezuela)
-**Restaurante:** Gastromanía 2026 (Maturín) | **Data:** Maio 2026 | [Link](https://monagas.gob.ve/gastromania-2026-colocara-a-monagas-en-la-cuspide-de-la-cocina/)
-
-A VI edição da Gastromanía 2026 transformará Maturín no epicentro da cozinha venezuelana, priorizando produtos autóctones de Monagas. Este festival de três dias oferecerá cozinha ao vivo, degustações e conversas, reunindo chefs e estudantes para celebrar a riqueza culinária regional.
-
---- 
-
-## 🇵🇪 Mérito em Lima: A Fusão Venezuelana-Peruana que Conquista o Paladar Mundial (Perú)
-**Restaurante:** Mérito (Lima) | **Data:** Maio 2026 | [Link](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF7quXI4dB0IsdLELgWw7huDYvzE5WD5zxxijlWVVpu6RxHq76FqKRDSFF9VdUS_H2kX8sSVM97_n1WDCkVFY8nHqOECPocRDjLDHDIEYC3rIOB-3cEUz_q83Jnz4AKx511Z6vn-MM=)
-
-Mérito, em Lima, destaca-se como o restaurante venezuelano mais bem posicionado globalmente. Sua proposta culinária funde magistralmente técnicas e produtos da Venezuela, Peru, Amazônia e Europa, criando uma linguagem gastronômica única. Não busca replicar, mas integrar elementos como arepas e tubérculos andinos com coerência, consolidando seu sucesso na cena gastronômica de Lima.
 
 --- 
 
