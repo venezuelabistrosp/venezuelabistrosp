@@ -1,4 +1,18 @@
-# Relatório de Pesquisa de Tendências (Nuvem) - 2026-09-13 19:15:04
+# Relatório de Pesquisa de Tendências (Nuvem) - 2026-09-16 19:55:30
+
+## 🇺🇸 DC Al Toque: A Revolução Culinária Venezuelana Chega a Washington D.C. com Sabor Autêntico (Estados Unidos)
+**Restaurante:** DC Al Toque (Washington D.C.) | **Data:** Maio 2026 | [Link](https://eltiempolatino.com/2026/04/29/noticias/dc-al-toque-abre-en-washington-como-el-primer-restaurante-venezolano-a-la-carta-en-la-ciudad/)
+
+DC Al Toque é o primeiro restaurante venezuelano à la carte em Washington D.C., oferecendo uma experiência culinária completa. Do icónico pavilhão criollo a pratos de fusão inovadores como o 'pepito de um metro' e o 'shawarma arabezolano', este local celebra a diversidade gastronómica da Venezuela, complementado por uma padaria artesanal.
+
+--- 
+
+## 🇻🇪 Projeto Ubre: Gastronomia Sustentável e de Autor na Venezuela, Galardoado Ibero-americano 2026 (Venezuela)
+**Restaurante:** Proyecto Ubre (Caracas) | **Data:** Maio 2026 | [Link](https://expresoinfo.com/venezuela-rompe-barreras-a-traves-de-la-gastronomia/)
+
+Projeto Ubre, liderado pelo chef Issam Koteich, foi reconhecido com o Galardão Ibero-americano de Gastronomia 2026 pela sua abordagem sustentável. Localizado nos arredores de Caracas, este projeto integra uma quinta e um restaurante, focando-se na produção própria e no cordeiro como eixo central, reivindicando a identidade venezuelana através de uma cozinha consciente e de alto impacto.
+
+--- 
 
 ## 🇻🇪 Venezuela brilha no 50 Best Discovery 2026: Alta cozinha venezuelana conquista o mundo (Venezuela)
 **Restaurante:** Dining Room (Valencia) y El Bosque Bistró (Caracas) | **Data:** Maio 2026 | [Link](https://www.bienmesabe.com/noticia/50-best-discovery-destaca-a-6-restaurantes-venezolanos-este-2026/)
@@ -39,20 +53,6 @@ Casa Ora em Nova York fez história ao se tornar o primeiro restaurante venezuel
 **Restaurante:** Dining Room (Valencia) y Gastronomía Venezolana | **Data:** Maio 2026 | [Link](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGYdYMBzrAjdP2WCNLM9tCxUtPGrcYUVFDfI0DUS3ecLNsqz9Sb39ouTRKLmsgbhJgT41RpANRUF_-MstaZv9fCPV_aGq5aGMxjNrK_-yWuuO5uyauqSnHuxsyGL9lD1Io3afv0yBQfDDhrUodACP91-vGX3zX3f0fMCm_lUdANMGr3rlEd7o2I64dktQehRbTObCvZKVgnIds8coRxN2lz-3iuMcnwP4Asf5v0JzU05qzhLmJp)
 
 A gastronomia venezuelana brilha com a inclusão de estabelecimentos no 50 Best Discovery 2026, destacando o Dining Room em Valência. Além disso, a Venezuela foi nomeada como "Principal Destino Culinário da América do Sul" nos World Travel Awards 2026. Esses reconhecimentos celebram a riqueza, fusão de sabores e vanguarda de sua culinária, consolidando sua posição global.
-
---- 
-
-## 🇻🇪 Venezuela Brilha: Alta Cozinha Reconhecida Globalmente no 50 Best Discovery 2026 (Venezuela)
-**Restaurante:** Varios restaurantes (Caracas y Valencia) | **Data:** Maio 2026 | [Link](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEAIf77hdy73r3Ehi-Gjq0DSnyDIZNTbl0y-FfQVqZk9gSUALraZ9NYzZwAUE8NrnPrSvI2bM-1Q4UrMvqIolG3yPFKGifcMRuCGKLiDLrhLogy4d5K2A==)
-
-Vários restaurantes venezuelanos, como Cordero e El Bosque Bistró, foram incluídos na prestigiada lista 50 Best Discovery 2026. Este reconhecimento global destaca a alta cozinha do país, com propostas inovadoras que celebram ingredientes locais e técnicas vanguardistas, consolidando Caracas e Valência como destinos culinários de primeira linha.
-
---- 
-
-## 🇻🇪 Rompeolas: Experiência Gastronômica Imersiva que Celebra o Mar em Puerto Ordaz (Venezuela)
-**Restaurante:** Rompeolas (Puerto Ordaz) | **Data:** Maio 2026 | [Link](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFThaAuIEP5M6fjIjXVjAunFqxvTEx9XZ0v69qjMujpjI3K-Or20APw_PvFlTWRe73Pi7DVfDS2RfkdDdGUfpFMTPHaj1ZVKRYKZssnfbqWzaULrqapbE3jxx9qOjrnSljHOWAjpt9GhaLs6XEK62a1oLkr1QozjdwzitRR5jzgJ-MrVZCc6ZDINsAe_2wrMAOvNEoZ4DQZ63WEYSMFceCRZC6FvUsJMzCv8NSR4ZyM-5lKr1SHoFAMGmhyYOpyal2XyJ2Xmunu4m448iWhdsrTu0S57yW-RG0xi38pA_jI1rAor9KSZRPcKUo5)
-
-Rompeolas, em Puerto Ordaz, oferece uma experiência culinária imersiva centrada na gastronomia marítima venezuelana. Fundindo natureza, arte e tradição com técnicas ancestrais, o restaurante destaca-se pela sua decoração única com óxidos naturais do Delta, prometendo uma viagem multissensorial que celebra os sabores do mar.
 
 --- 
 
