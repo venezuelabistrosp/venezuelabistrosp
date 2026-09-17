@@ -1,4 +1,18 @@
-# Relatório de Pesquisa de Tendências (Nuvem) - 2026-09-16 19:55:30
+# Relatório de Pesquisa de Tendências (Nuvem) - 2026-09-17 20:08:43
+
+## 🇪🇸 A Rota da Arepa 2025 em Madrid: Uma Viagem Gastronômica de Fusão e Diversidade (España)
+**Restaurante:** La Ruta de la Arepa 2025 (Madrid) | **Data:** Maio 2026 | [Link](https://www.timeout.es/madrid/es/noticias/la-ruta-de-la-arepa-vuelve-a-mas-de-20-restaurantes-de-madrid-el-mejor-bocado-de-la-cocina-venezolana-protagoniza-este-recorrido-gastronomico-091525)
+
+A oitava edição da Rota da Arepa em Madrid, realizada em 2025, revolucionou o paladar com propostas inovadoras. Mais de 20 restaurantes ofereceram arepas de fusão com toques japoneses, equatorianos, espanhóis e italianos, destacando a "Japo-Caribenha" vegana e a "Arepa Negra" de pato asiático. Um evento que consolidou a arepa como ícone da diversidade culinária.
+
+--- 
+
+## 🇲🇽 MexVen: Um Coração Venezuelano no México, Apoiando Migrantes com Sabor e Esperança (México)
+**Restaurante:** MexVen (Juchitán de Zaragoza) | **Data:** Maio 2026 | [Link](https://eldiariony.com/2024/06/25/abren-un-restaurante-exclusivo-para-los-migrantes-que-se-dirigen-a-estados-unidos/)
+
+MexVen, em Juchitán de Zaragoza, México, é mais que um restaurante; é um projeto social que emprega migrantes venezuelanos de passagem. Oferece comida tradicional venezuelana a preços acessíveis, como arroz, lentilhas e frango. Seu modelo único permite aos funcionários economizar para sua viagem, cedendo depois seu lugar a outros compatriotas, oferecendo um lar temporário e esperança.
+
+--- 
 
 ## 🇺🇸 DC Al Toque: A Revolução Culinária Venezuelana Chega a Washington D.C. com Sabor Autêntico (Estados Unidos)
 **Restaurante:** DC Al Toque (Washington D.C.) | **Data:** Maio 2026 | [Link](https://eltiempolatino.com/2026/04/29/noticias/dc-al-toque-abre-en-washington-como-el-primer-restaurante-venezolano-a-la-carta-en-la-ciudad/)
@@ -39,20 +53,6 @@ O Arepa Fest 2026, celebrado em setembro, homenageou a arepa venezuelana, um íc
 **Restaurante:** La Cachapera (Madrid) | **Data:** Maio 2026 | [Link](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHOIAFeYbJXYYwYb1RUS9J1IfsHyJXdyQJL34AxMFfeQVHQ504YBziWSb8uu1D0N-WQqj6OYEa_xgKlkpIkJRDlGE6cfbecYc_GynzQvorV_9DyLaTEQJkMZKyLB7ouyKOBG8RkV4pR6lDArdjJrHsbr3MN-s4PMkpzsabmZURuhLu5ISoomc-k)
 
 La Cachapera, a bem-sucedida rede venezuelana, celebra a abertura de seu sexto restaurante na Espanha, o segundo em Madrid, em maio de 2026. Com um faturamento de 6,5 milhões de euros em 2025, consolidam-se como líderes em cachapas e seus inovadores "cachinachos", uma fusão única que delicia paladares e projeta uma ambiciosa expansão europeia.
-
---- 
-
-## 🇺🇸 Casa Ora: O primeiro restaurante venezuelano em Nova York com distinção Michelin (Estados Unidos)
-**Restaurante:** Casa Ora (Nueva York) | **Data:** Maio 2026 | [Link](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGQg-i29WTGZVCHr2BT27a__QaSUOEo9eS4hsqZfA-VBhZEJuTo3CLsgxSQkt9fi-c-AycSuVZJW-xhhySqBlEySA6btVQI7OJEKBYtGsccH1ETXPuHjfCW4S_fKYkEw01fje-inKY1NAE05qpblpTpCZLSHR3jYW1degvvipWGQ8sDLSminvpVjejQKMvrfM4WU89a25rnFQsVKZi197ys4IUawLPe0xfpotj2_HjsXcwWIRf937lj5zCgNEpqy3HR5i-TD3R85ovr7hohJIRYF8yh4ldqfei1L2LxgBSRyd5gBolo1e-BvYOP8c1VFkdBYn13siUxLn5D)
-
-Casa Ora em Nova York fez história ao se tornar o primeiro restaurante venezuelano a receber uma distinção do prestigiado Guia Michelin. Este reconhecimento eleva a gastronomia venezuelana a um novo patamar de excelência internacional, destacando sua alta qualidade e autenticidade. Além disso, Casa Ora demonstra um forte compromisso social, apoiando imigrantes em sua busca por asilo.
-
---- 
-
-## 🇻🇪 Venezuela brilha: Reconhecimento global para sua gastronomia no 50 Best Discovery e WTA (Venezuela)
-**Restaurante:** Dining Room (Valencia) y Gastronomía Venezolana | **Data:** Maio 2026 | [Link](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGYdYMBzrAjdP2WCNLM9tCxUtPGrcYUVFDfI0DUS3ecLNsqz9Sb39ouTRKLmsgbhJgT41RpANRUF_-MstaZv9fCPV_aGq5aGMxjNrK_-yWuuO5uyauqSnHuxsyGL9lD1Io3afv0yBQfDDhrUodACP91-vGX3zX3f0fMCm_lUdANMGr3rlEd7o2I64dktQehRbTObCvZKVgnIds8coRxN2lz-3iuMcnwP4Asf5v0JzU05qzhLmJp)
-
-A gastronomia venezuelana brilha com a inclusão de estabelecimentos no 50 Best Discovery 2026, destacando o Dining Room em Valência. Além disso, a Venezuela foi nomeada como "Principal Destino Culinário da América do Sul" nos World Travel Awards 2026. Esses reconhecimentos celebram a riqueza, fusão de sabores e vanguarda de sua culinária, consolidando sua posição global.
 
 --- 
 
