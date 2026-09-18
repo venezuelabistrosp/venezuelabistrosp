@@ -1,4 +1,25 @@
-# Relatório de Pesquisa de Tendências (Nuvem) - 2026-09-17 20:08:43
+# Relatório de Pesquisa de Tendências (Nuvem) - 2026-09-18 19:30:25
+
+## 🇺🇸 García Nevett Chocolatier: A Arte Venezuelana Transformada em Bombom em South Miami (Estados Unidos)
+**Restaurante:** García Nevett Chocolatier (South Miami) | **Data:** Maio 2026 | [Link](https://www.elnacional.com/estilo-de-vida/venezuela-cabe-en-un-bombon-con-sello-garcia-nevett-chocolatier/)
+
+As irmãs García Nevett elevam o cacau venezuelano em South Miami com bombons artesanais. Elas fundem sabores de sua infância com técnicas refinadas, criando uma experiência única que celebra a riqueza culinária da Venezuela em cada delicada peça de chocolate.
+
+--- 
+
+## 🇺🇸 Tequeñomania: A Revolução Gourmet do Clássico Tequeño Venezuelano em Miami (Estados Unidos)
+**Restaurante:** Tequeñomania (Kendall, Miami) | **Data:** Maio 2026 | [Link](https://www.tequenomania.com/)
+
+Tequeñomania em Miami redefine o tequeño venezuelano com inovações gourmet e opções saudáveis. Oferecem variedades sem glúten de mandioca e banana, além de cachitos e empanadas, consolidando-se como líderes na expansão deste icônico petisco.
+
+--- 
+
+## 🇻🇪 Dining Room em Valência: A Alta Cozinha Venezuelana Brilha no 50 Best Discovery 2026 (Venezuela)
+**Restaurante:** Dining Room (Valencia) | **Data:** Maio 2026 | [Link](https://www.elnacional.com/estilo-de-vida/venezuela-suma-cuatro-locales-en-la-lista-gastronomica-50-best-discovery-2026/)
+
+Dining Room em Valência, liderado pelo Chef Frank Parada, foi reconhecido no 50 Best Discovery 2026. Com técnicas elevadas e respeito pelos ingredientes venezuelanos, este restaurante marca um marco para a gastronomia de Carabobo e do país.
+
+--- 
 
 ## 🇪🇸 A Rota da Arepa 2025 em Madrid: Uma Viagem Gastronômica de Fusão e Diversidade (España)
 **Restaurante:** La Ruta de la Arepa 2025 (Madrid) | **Data:** Maio 2026 | [Link](https://www.timeout.es/madrid/es/noticias/la-ruta-de-la-arepa-vuelve-a-mas-de-20-restaurantes-de-madrid-el-mejor-bocado-de-la-cocina-venezolana-protagoniza-este-recorrido-gastronomico-091525)
@@ -32,27 +53,6 @@ Projeto Ubre, liderado pelo chef Issam Koteich, foi reconhecido com o Galardão 
 **Restaurante:** Dining Room (Valencia) y El Bosque Bistró (Caracas) | **Data:** Maio 2026 | [Link](https://www.bienmesabe.com/noticia/50-best-discovery-destaca-a-6-restaurantes-venezolanos-este-2026/)
 
 Seis restaurantes venezuelanos, incluindo Dining Room e El Bosque Bistró, foram reconhecidos pelo 50 Best Discovery em 2026. Este marco destaca a crescente influência da gastronomia venezuelana, com propostas inovadoras que fundem raízes indígenas, africanas e europeias, consolidando sua presença internacional e expandindo para novas cidades como Valência.
-
---- 
-
-## 🇵🇪 Lima rende-se à fusão venezuelana: Mérito e Demo elevam a culinária latina (Perú)
-**Restaurante:** Mérito y Demo (Lima) | **Data:** Maio 2026 | [Link](https://eldiariony.com/2026/03/13/la-nueva-era-de-la-gastronomia-en-lima-el-exito-de-la-fusion-venezolana/)
-
-Lima, capital gastronómica, celebra o sucesso da fusão venezuelana graças aos restaurantes Mérito e Demo do chef Juan Luis Martínez. Mérito, no 26º lugar mundial, combina Peru e Venezuela, enquanto Demo oferece cachapas, arepas e tequeños inovadores de banana madura, consolidando a alta cozinha venezuelana na cena internacional.
-
---- 
-
-## 🇻🇪 Arepa Fest 2026: A arepa venezuelana celebra sua criatividade global e raízes (Venezuela)
-**Restaurante:** Arepa Fest 2026 (Parque Cerroverde, Venezuela) | **Data:** Maio 2026 | [Link](https://www.youtube.com/watch?v=k5lq_7_7Q-0)
-
-O Arepa Fest 2026, celebrado em setembro, homenageou a arepa venezuelana, um ícone gastronômico global. O evento destacou a conexão com suas raízes e a inovação em seus recheios, apresentando criações surpreendentes como a "arepa de pera" com abacate, rúcula e queijo de cabra, demonstrando a versatilidade deste prato tradicional.
-
---- 
-
-## 🇪🇸 La Cachapera revoluciona Madrid com seus cachinachos e expansão venezuelana na Espanha (España)
-**Restaurante:** La Cachapera (Madrid) | **Data:** Maio 2026 | [Link](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHOIAFeYbJXYYwYb1RUS9J1IfsHyJXdyQJL34AxMFfeQVHQ504YBziWSb8uu1D0N-WQqj6OYEa_xgKlkpIkJRDlGE6cfbecYc_GynzQvorV_9DyLaTEQJkMZKyLB7ouyKOBG8RkV4pR6lDArdjJrHsbr3MN-s4PMkpzsabmZURuhLu5ISoomc-k)
-
-La Cachapera, a bem-sucedida rede venezuelana, celebra a abertura de seu sexto restaurante na Espanha, o segundo em Madrid, em maio de 2026. Com um faturamento de 6,5 milhões de euros em 2025, consolidam-se como líderes em cachapas e seus inovadores "cachinachos", uma fusão única que delicia paladares e projeta uma ambiciosa expansão europeia.
 
 --- 
 
