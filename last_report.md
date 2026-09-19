@@ -1,4 +1,18 @@
-# Relatório de Pesquisa de Tendências (Nuvem) - 2026-09-18 19:30:25
+# Relatório de Pesquisa de Tendências (Nuvem) - 2026-09-19 19:15:12
+
+## 🇪🇸 La Cachapera: O Sabor Venezuelano Conquista a Europa com Inovação e Expansão (España)
+**Restaurante:** La Cachapera (Madrid) | **Data:** Maio 2026 | [Link](https://www.profesionalhoreca.com/la-cachapera-abre-su-sexto-restaurante-en-espana/)
+
+La Cachapera, a bem-sucedida cadeia venezuelana, expande sua presença na Espanha e Europa. Com cachapas autênticas e os inovadores "cachinachos", faturou 6,5 milhões de euros em 2025, demonstrando o potencial da gastronomia venezuelana no mercado internacional.
+
+--- 
+
+## 🇺🇸 Lulla's Bakery & Cocktails: A Padaria Venezuelana que Adoça o Brooklyn com Tradição (Estados Unidos)
+**Restaurante:** Lulla's Bakery & Cocktails (Brooklyn) | **Data:** Maio 2026 | [Link](https://www.lanacion.com.ar/estados-unidos/venezolano-fundio-su-primer-restaurante-en-nueva-york-pero-no-se-rindio-y-ahora-usa-su-exito-para-nid18042025/)
+
+Lulla's Bakery & Cocktails é a primeira padaria venezuelana no Brooklyn, oferecendo autênticos cachitos, golfeados e pão canilla. Inaugurada em janeiro de 2025 pelo chef Ivo Díaz, este lugar não só celebra a gastronomia, mas também apoia causas humanitárias, fundindo sabor e solidariedade.
+
+--- 
 
 ## 🇺🇸 García Nevett Chocolatier: A Arte Venezuelana Transformada em Bombom em South Miami (Estados Unidos)
 **Restaurante:** García Nevett Chocolatier (South Miami) | **Data:** Maio 2026 | [Link](https://www.elnacional.com/estilo-de-vida/venezuela-cabe-en-un-bombon-con-sello-garcia-nevett-chocolatier/)
@@ -39,20 +53,6 @@ MexVen, em Juchitán de Zaragoza, México, é mais que um restaurante; é um pro
 **Restaurante:** DC Al Toque (Washington D.C.) | **Data:** Maio 2026 | [Link](https://eltiempolatino.com/2026/04/29/noticias/dc-al-toque-abre-en-washington-como-el-primer-restaurante-venezolano-a-la-carta-en-la-ciudad/)
 
 DC Al Toque é o primeiro restaurante venezuelano à la carte em Washington D.C., oferecendo uma experiência culinária completa. Do icónico pavilhão criollo a pratos de fusão inovadores como o 'pepito de um metro' e o 'shawarma arabezolano', este local celebra a diversidade gastronómica da Venezuela, complementado por uma padaria artesanal.
-
---- 
-
-## 🇻🇪 Projeto Ubre: Gastronomia Sustentável e de Autor na Venezuela, Galardoado Ibero-americano 2026 (Venezuela)
-**Restaurante:** Proyecto Ubre (Caracas) | **Data:** Maio 2026 | [Link](https://expresoinfo.com/venezuela-rompe-barreras-a-traves-de-la-gastronomia/)
-
-Projeto Ubre, liderado pelo chef Issam Koteich, foi reconhecido com o Galardão Ibero-americano de Gastronomia 2026 pela sua abordagem sustentável. Localizado nos arredores de Caracas, este projeto integra uma quinta e um restaurante, focando-se na produção própria e no cordeiro como eixo central, reivindicando a identidade venezuelana através de uma cozinha consciente e de alto impacto.
-
---- 
-
-## 🇻🇪 Venezuela brilha no 50 Best Discovery 2026: Alta cozinha venezuelana conquista o mundo (Venezuela)
-**Restaurante:** Dining Room (Valencia) y El Bosque Bistró (Caracas) | **Data:** Maio 2026 | [Link](https://www.bienmesabe.com/noticia/50-best-discovery-destaca-a-6-restaurantes-venezolanos-este-2026/)
-
-Seis restaurantes venezuelanos, incluindo Dining Room e El Bosque Bistró, foram reconhecidos pelo 50 Best Discovery em 2026. Este marco destaca a crescente influência da gastronomia venezuelana, com propostas inovadoras que fundem raízes indígenas, africanas e europeias, consolidando sua presença internacional e expandindo para novas cidades como Valência.
 
 --- 
 
