@@ -1,4 +1,18 @@
-# Relatório de Pesquisa de Tendências (Nuvem) - 2026-09-19 19:15:12
+# Relatório de Pesquisa de Tendências (Nuvem) - 2026-09-20 19:19:19
+
+## 🇵🇪 Mérito em Lima: A Fusão Venezuelana-Peruana que Conquista o Paladar Global (Perú)
+**Restaurante:** Mérito (Lima) | **Data:** Maio 2026 | [Link](https://buenazo.pe/noticia/este-es-el-restaurante-en-lima-de-un-chef-venezolano-que-figura-en-la-lista-de-los-50-mejores-del-mundo-24449)
+
+O restaurante Mérito em Lima, liderado pelo chef venezuelano Juan Luis Martínez, consolida-se como referência da alta cozinha de fusão. Sua proposta entrelaça magistralmente as raízes culinárias da Venezuela e do Peru, criando pratos que evocam a irmandade latino-americana e geram uma experiência gastronômica inesquecível, reconhecida entre os melhores do mundo.
+
+--- 
+
+## 🇺🇸 Pa' Paraguana na Flórida: O Sabor Autêntico da Venezuela com 59 Variedades de Empanadas (Estados Unidos)
+**Restaurante:** Pa' Paraguana (Kissimmee) | **Data:** Maio 2026 | [Link](https://www.ntn24.com/noticias/america/comida-de-colombia-y-venezuela-fue-elegida-por-autoridad-de-florida-dentro-de-prestigiosa-seleccion-gastronomica-para-revista-internacional-24449)
+
+Pa' Paraguana em Kissimmee, Flórida, foi destaque na "Rota de Sabores Latinos" da Atlas Obscura por sua impressionante oferta de mais de 59 variedades de empanadas venezuelanas. Este restaurante não só celebra um prato clássico, mas o eleva a uma experiência culinária diversa e autêntica, complementada com sobremesas tradicionais.
+
+--- 
 
 ## 🇪🇸 La Cachapera: O Sabor Venezuelano Conquista a Europa com Inovação e Expansão (España)
 **Restaurante:** La Cachapera (Madrid) | **Data:** Maio 2026 | [Link](https://www.profesionalhoreca.com/la-cachapera-abre-su-sexto-restaurante-en-espana/)
@@ -39,20 +53,6 @@ Dining Room em Valência, liderado pelo Chef Frank Parada, foi reconhecido no 50
 **Restaurante:** La Ruta de la Arepa 2025 (Madrid) | **Data:** Maio 2026 | [Link](https://www.timeout.es/madrid/es/noticias/la-ruta-de-la-arepa-vuelve-a-mas-de-20-restaurantes-de-madrid-el-mejor-bocado-de-la-cocina-venezolana-protagoniza-este-recorrido-gastronomico-091525)
 
 A oitava edição da Rota da Arepa em Madrid, realizada em 2025, revolucionou o paladar com propostas inovadoras. Mais de 20 restaurantes ofereceram arepas de fusão com toques japoneses, equatorianos, espanhóis e italianos, destacando a "Japo-Caribenha" vegana e a "Arepa Negra" de pato asiático. Um evento que consolidou a arepa como ícone da diversidade culinária.
-
---- 
-
-## 🇲🇽 MexVen: Um Coração Venezuelano no México, Apoiando Migrantes com Sabor e Esperança (México)
-**Restaurante:** MexVen (Juchitán de Zaragoza) | **Data:** Maio 2026 | [Link](https://eldiariony.com/2024/06/25/abren-un-restaurante-exclusivo-para-los-migrantes-que-se-dirigen-a-estados-unidos/)
-
-MexVen, em Juchitán de Zaragoza, México, é mais que um restaurante; é um projeto social que emprega migrantes venezuelanos de passagem. Oferece comida tradicional venezuelana a preços acessíveis, como arroz, lentilhas e frango. Seu modelo único permite aos funcionários economizar para sua viagem, cedendo depois seu lugar a outros compatriotas, oferecendo um lar temporário e esperança.
-
---- 
-
-## 🇺🇸 DC Al Toque: A Revolução Culinária Venezuelana Chega a Washington D.C. com Sabor Autêntico (Estados Unidos)
-**Restaurante:** DC Al Toque (Washington D.C.) | **Data:** Maio 2026 | [Link](https://eltiempolatino.com/2026/04/29/noticias/dc-al-toque-abre-en-washington-como-el-primer-restaurante-venezolano-a-la-carta-en-la-ciudad/)
-
-DC Al Toque é o primeiro restaurante venezuelano à la carte em Washington D.C., oferecendo uma experiência culinária completa. Do icónico pavilhão criollo a pratos de fusão inovadores como o 'pepito de um metro' e o 'shawarma arabezolano', este local celebra a diversidade gastronómica da Venezuela, complementado por uma padaria artesanal.
 
 --- 
 
