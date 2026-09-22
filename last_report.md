@@ -1,4 +1,25 @@
-# Relatório de Pesquisa de Tendências (Nuvem) - 2026-09-20 19:19:19
+# Relatório de Pesquisa de Tendências (Nuvem) - 2026-09-22 20:04:03
+
+## 🇵🇹 Funchal prepara-se para a Festa Gastronómica Venezuelana 2026: Sabor e Cultura na Madeira (Portugal)
+**Restaurante:** Fiesta Gastronómica Venezolana 2026 (Funchal) | **Data:** Maio 2026 | [Link](https://correiodosvenezuelanos.com/funchal-albergara-la-fiesta-gastronomica-venezolana-2026-del-18-al-20-de-septiembre/)
+
+Funchal, Madeira, será o epicentro da cultura e gastronomia venezuelana de 18 a 20 de setembro de 2026. A Festa Gastronómica Venezuelana promete uma imersão total nos sabores autênticos e nas vibrantes tradições do país caribenho, com barracas de comida e espetáculos culturais.
+
+--- 
+
+## 🇻🇪 El Bosque Bistró de Caracas: Uma Joia Culinária Venezuelana no 50 Best Discovery 2026 (Venezuela)
+**Restaurante:** El Bosque Bistró (Caracas) | **Data:** Maio 2026 | [Link](https://clx.com.ve/clx-icons/4-restaurantes-de-venezuela-conquistan-la-guia-mundial-50-best-discovery/)
+
+El Bosque Bistró em Caracas foi destaque no prestigiado guia 50 Best Discovery 2026, consolidando-se como um referente da alta cozinha venezuelana. Sua proposta baseia-se na fusão de raízes indígenas, africanas e europeias, utilizando ingredientes locais para criar pratos inovadores e respeitosos com a tradição.
+
+--- 
+
+## 🇪🇸 Majo's Fusión em Madrid: A Arepa Vencedora que Conquista Paladares com Inovação (España)
+**Restaurante:** Majo's Fusión (Madrid) | **Data:** Maio 2026 | [Link](https://diariodegastronomia.com/arepas-que-son-de-premio/)
+
+Majo's Fusión em Madrid venceu o Campeonato de Arepas da Comunidade de Madrid 2025, graças à sua inovadora arepa de mandioca, farinha e fermento. Esta criação funde sabores colombianos e italianos, oferecendo uma experiência culinária única que redefine o conceito tradicional da arepa.
+
+--- 
 
 ## 🇵🇪 Mérito em Lima: A Fusão Venezuelana-Peruana que Conquista o Paladar Global (Perú)
 **Restaurante:** Mérito (Lima) | **Data:** Maio 2026 | [Link](https://buenazo.pe/noticia/este-es-el-restaurante-en-lima-de-un-chef-venezolano-que-figura-en-la-lista-de-los-50-mejores-del-mundo-24449)
@@ -32,27 +53,6 @@ Lulla's Bakery & Cocktails é a primeira padaria venezuelana no Brooklyn, oferec
 **Restaurante:** García Nevett Chocolatier (South Miami) | **Data:** Maio 2026 | [Link](https://www.elnacional.com/estilo-de-vida/venezuela-cabe-en-un-bombon-con-sello-garcia-nevett-chocolatier/)
 
 As irmãs García Nevett elevam o cacau venezuelano em South Miami com bombons artesanais. Elas fundem sabores de sua infância com técnicas refinadas, criando uma experiência única que celebra a riqueza culinária da Venezuela em cada delicada peça de chocolate.
-
---- 
-
-## 🇺🇸 Tequeñomania: A Revolução Gourmet do Clássico Tequeño Venezuelano em Miami (Estados Unidos)
-**Restaurante:** Tequeñomania (Kendall, Miami) | **Data:** Maio 2026 | [Link](https://www.tequenomania.com/)
-
-Tequeñomania em Miami redefine o tequeño venezuelano com inovações gourmet e opções saudáveis. Oferecem variedades sem glúten de mandioca e banana, além de cachitos e empanadas, consolidando-se como líderes na expansão deste icônico petisco.
-
---- 
-
-## 🇻🇪 Dining Room em Valência: A Alta Cozinha Venezuelana Brilha no 50 Best Discovery 2026 (Venezuela)
-**Restaurante:** Dining Room (Valencia) | **Data:** Maio 2026 | [Link](https://www.elnacional.com/estilo-de-vida/venezuela-suma-cuatro-locales-en-la-lista-gastronomica-50-best-discovery-2026/)
-
-Dining Room em Valência, liderado pelo Chef Frank Parada, foi reconhecido no 50 Best Discovery 2026. Com técnicas elevadas e respeito pelos ingredientes venezuelanos, este restaurante marca um marco para a gastronomia de Carabobo e do país.
-
---- 
-
-## 🇪🇸 A Rota da Arepa 2025 em Madrid: Uma Viagem Gastronômica de Fusão e Diversidade (España)
-**Restaurante:** La Ruta de la Arepa 2025 (Madrid) | **Data:** Maio 2026 | [Link](https://www.timeout.es/madrid/es/noticias/la-ruta-de-la-arepa-vuelve-a-mas-de-20-restaurantes-de-madrid-el-mejor-bocado-de-la-cocina-venezolana-protagoniza-este-recorrido-gastronomico-091525)
-
-A oitava edição da Rota da Arepa em Madrid, realizada em 2025, revolucionou o paladar com propostas inovadoras. Mais de 20 restaurantes ofereceram arepas de fusão com toques japoneses, equatorianos, espanhóis e italianos, destacando a "Japo-Caribenha" vegana e a "Arepa Negra" de pato asiático. Um evento que consolidou a arepa como ícone da diversidade culinária.
 
 --- 
 
