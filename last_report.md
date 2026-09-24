@@ -1,4 +1,25 @@
-# Relatório de Pesquisa de Tendências (Nuvem) - 2026-09-22 20:04:03
+# Relatório de Pesquisa de Tendências (Nuvem) - 2026-09-24 20:19:22
+
+## 🇪🇸 Zaperoco Fest: Uma Ponte Gastronômica e Cultural entre Canárias e Venezuela em 2026 (España)
+**Restaurante:** Zaperoco Fest (La Laguna) | **Data:** Maio 2026 | [Link](https://elburgadodigital.es/la-laguna-convierte-zaperoco-en-un-gran-encuentro-entre-canarias-y-venezuela-en-la-cuesta/)
+
+O Zaperoco Fest em La Laguna, Tenerife, consolida-se como um vibrante encontro cultural e gastronômico. Celebrando os laços entre Canárias e Venezuela, este festival de setembro de 2026 ofereceu uma imersão na gastronomia tradicional venezuelana com múltiplos estandes, food trucks e chicha, promovendo a convivência e o intercâmbio cultural.
+
+--- 
+
+## 🇺🇸 Tequeño Mania: A Revolução Gourmet do Tequeño Venezuelano em Miami (Estados Unidos)
+**Restaurante:** Tequeño Mania (Miami) | **Data:** Maio 2026 | [Link](https://tequenomania.com/)
+
+Tequeño Mania em Miami tornou-se uma referência em inovação de tequeños gourmet. Oferecendo uma vasta gama de recheios e opções saudáveis sem glúten à base de mandioca e banana, este estabelecimento redefine o clássico venezuelano. Seu compromisso com a qualidade e a adaptação às novas tendências culinárias o posiciona como líder no mercado.
+
+--- 
+
+## 🇻🇪 Dining Room: A Vanguarda Gastronômica Venezuelana Brilha no Cenário Mundial (Venezuela)
+**Restaurante:** Dining Room (Valencia) | **Data:** Maio 2026 | [Link](https://correodelcaroni.com/destacado/venezuela-suma-cuatro-locales-en-la-lista-gastronomica-50-best-discovery-2026/)
+
+Dining Room em Valência, Venezuela, consolidou-se como uma referência da alta cozinha de vanguarda. Reconhecido na prestigiada lista 50 Best Discovery 2026, e com seu chef Frank Parada premiado com o Tenedor de Oro, este restaurante eleva a gastronomia venezuelana. Suas técnicas inovadoras e o respeito pelos ingredientes locais o tornam uma visita obrigatória.
+
+--- 
 
 ## 🇵🇹 Funchal prepara-se para a Festa Gastronómica Venezuelana 2026: Sabor e Cultura na Madeira (Portugal)
 **Restaurante:** Fiesta Gastronómica Venezolana 2026 (Funchal) | **Data:** Maio 2026 | [Link](https://correiodosvenezuelanos.com/funchal-albergara-la-fiesta-gastronomica-venezolana-2026-del-18-al-20-de-septiembre/)
@@ -32,27 +53,6 @@ O restaurante Mérito em Lima, liderado pelo chef venezuelano Juan Luis Martíne
 **Restaurante:** Pa' Paraguana (Kissimmee) | **Data:** Maio 2026 | [Link](https://www.ntn24.com/noticias/america/comida-de-colombia-y-venezuela-fue-elegida-por-autoridad-de-florida-dentro-de-prestigiosa-seleccion-gastronomica-para-revista-internacional-24449)
 
 Pa' Paraguana em Kissimmee, Flórida, foi destaque na "Rota de Sabores Latinos" da Atlas Obscura por sua impressionante oferta de mais de 59 variedades de empanadas venezuelanas. Este restaurante não só celebra um prato clássico, mas o eleva a uma experiência culinária diversa e autêntica, complementada com sobremesas tradicionais.
-
---- 
-
-## 🇪🇸 La Cachapera: O Sabor Venezuelano Conquista a Europa com Inovação e Expansão (España)
-**Restaurante:** La Cachapera (Madrid) | **Data:** Maio 2026 | [Link](https://www.profesionalhoreca.com/la-cachapera-abre-su-sexto-restaurante-en-espana/)
-
-La Cachapera, a bem-sucedida cadeia venezuelana, expande sua presença na Espanha e Europa. Com cachapas autênticas e os inovadores "cachinachos", faturou 6,5 milhões de euros em 2025, demonstrando o potencial da gastronomia venezuelana no mercado internacional.
-
---- 
-
-## 🇺🇸 Lulla's Bakery & Cocktails: A Padaria Venezuelana que Adoça o Brooklyn com Tradição (Estados Unidos)
-**Restaurante:** Lulla's Bakery & Cocktails (Brooklyn) | **Data:** Maio 2026 | [Link](https://www.lanacion.com.ar/estados-unidos/venezolano-fundio-su-primer-restaurante-en-nueva-york-pero-no-se-rindio-y-ahora-usa-su-exito-para-nid18042025/)
-
-Lulla's Bakery & Cocktails é a primeira padaria venezuelana no Brooklyn, oferecendo autênticos cachitos, golfeados e pão canilla. Inaugurada em janeiro de 2025 pelo chef Ivo Díaz, este lugar não só celebra a gastronomia, mas também apoia causas humanitárias, fundindo sabor e solidariedade.
-
---- 
-
-## 🇺🇸 García Nevett Chocolatier: A Arte Venezuelana Transformada em Bombom em South Miami (Estados Unidos)
-**Restaurante:** García Nevett Chocolatier (South Miami) | **Data:** Maio 2026 | [Link](https://www.elnacional.com/estilo-de-vida/venezuela-cabe-en-un-bombon-con-sello-garcia-nevett-chocolatier/)
-
-As irmãs García Nevett elevam o cacau venezuelano em South Miami com bombons artesanais. Elas fundem sabores de sua infância com técnicas refinadas, criando uma experiência única que celebra a riqueza culinária da Venezuela em cada delicada peça de chocolate.
 
 --- 
 
