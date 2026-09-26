@@ -1,4 +1,18 @@
-# Relatório de Pesquisa de Tendências (Nuvem) - 2026-09-25 20:19:15
+# Relatório de Pesquisa de Tendências (Nuvem) - 2026-09-26 19:36:33
+
+## 🇺🇸 Mordisco em Orlando: A Experiência Definitiva de Churrascaria com Fusão Venezuelana e Caribenha (Estados Unidos)
+**Restaurante:** Mordisco (Orlando) | **Data:** Maio 2026 | [Link](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHIbphx5JOMUKoDJCxfCFU8EdRqtK1T6C6p59dUhkphYMQOVscFH1zYhAqrnysyld-66oexA3Ju4Ekf5_RzRZJ0mVpYFMLNVToU9p9BmtDbV4C_8TCtClN3fJF992ybHlyQ_EbVednNTeG5)
+
+Mordisco, a nova churrascaria em Orlando, redefine a culinária com uma ousada fusão venezuelana e caribenha. Oferece cortes de carne premium assados na lenha, complementados com bananas maduras e arepas, criando uma experiência culinária única que eleva os sabores tradicionais a um nível inovador e exótico. Um destino imperdível para os amantes da boa comida.
+
+--- 
+
+## 🇺🇸 DC Al Toque: Uma Viagem Gastronômica pela Diversidade Culinária Venezuelana em Washington D.C. (Estados Unidos)
+**Restaurante:** DC Al Toque (Washington D.C.) | **Data:** Maio 2026 | [Link](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEc5fClzLONRemhNiwkGyWjujWdDeCKHRFVQWsFVhFSWkXCM9J4XLiGgkd2PnpqjnZ7TF1oQbCchLDjdzHDqJHl-_6HoBYi1j1mqj62di2EJ8M2ZyoZYC8FuSB1nd7AUvxVcXZZ3OpvFnI4PsE96qEKEGK11XXVMsFxioItLzVGtuFA7uIjj4fSOE6WHBSwEtGY7Zzk5O_h08JCMPiqTXamJWBFfkNkRg==)
+
+DC Al Toque em Washington D.C. vai além das arepas, oferecendo uma ampla gama de autênticos pratos venezuelanos. Desde a "parrillada" e o "pabellón criollo" até o impressionante "pepito de um metro" e o inovador shawarma "arabezolano", este restaurante e padaria promete uma imersão completa na rica e variada gastronomia da Venezuela.
+
+--- 
 
 ## 🇪🇸 La Cachapera: O Sabor Venezuelano Conquista a Espanha com seus Inovadores "Cachinachos" (España)
 **Restaurante:** La Cachapera (Madrid) | **Data:** Maio 2026 | [Link](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHhDddsA3dq4D0GBRZtruIYKZUyclL6isJDWqLvI71CCko28BtP7350DcDffrF9qYnootQIrBrDiBx3Sblru1HfQGtiXKkByT6Shx8wRPWjEEqDj8_y2OMqvfXYKYLlhfQsHXzeAa48gAJuT9BTjpLDBoiaU8_Jt7PJCu7a5sukhP0T6FmoIM9-23QplnUM1mXw3d09yvuAk-55BnpaH-uHjYCSH1fsvEn2M6lJ747bJFOCLaFPufMqWfh2epfq-tTmZuxLRwP4)
@@ -39,20 +53,6 @@ Funchal, Madeira, será o epicentro da cultura e gastronomia venezuelana de 18 a
 **Restaurante:** El Bosque Bistró (Caracas) | **Data:** Maio 2026 | [Link](https://clx.com.ve/clx-icons/4-restaurantes-de-venezuela-conquistan-la-guia-mundial-50-best-discovery/)
 
 El Bosque Bistró em Caracas foi destaque no prestigiado guia 50 Best Discovery 2026, consolidando-se como um referente da alta cozinha venezuelana. Sua proposta baseia-se na fusão de raízes indígenas, africanas e europeias, utilizando ingredientes locais para criar pratos inovadores e respeitosos com a tradição.
-
---- 
-
-## 🇪🇸 Majo's Fusión em Madrid: A Arepa Vencedora que Conquista Paladares com Inovação (España)
-**Restaurante:** Majo's Fusión (Madrid) | **Data:** Maio 2026 | [Link](https://diariodegastronomia.com/arepas-que-son-de-premio/)
-
-Majo's Fusión em Madrid venceu o Campeonato de Arepas da Comunidade de Madrid 2025, graças à sua inovadora arepa de mandioca, farinha e fermento. Esta criação funde sabores colombianos e italianos, oferecendo uma experiência culinária única que redefine o conceito tradicional da arepa.
-
---- 
-
-## 🇵🇪 Mérito em Lima: A Fusão Venezuelana-Peruana que Conquista o Paladar Global (Perú)
-**Restaurante:** Mérito (Lima) | **Data:** Maio 2026 | [Link](https://buenazo.pe/noticia/este-es-el-restaurante-en-lima-de-un-chef-venezolano-que-figura-en-la-lista-de-los-50-mejores-del-mundo-24449)
-
-O restaurante Mérito em Lima, liderado pelo chef venezuelano Juan Luis Martínez, consolida-se como referência da alta cozinha de fusão. Sua proposta entrelaça magistralmente as raízes culinárias da Venezuela e do Peru, criando pratos que evocam a irmandade latino-americana e geram uma experiência gastronômica inesquecível, reconhecida entre os melhores do mundo.
 
 --- 
 
