@@ -1,4 +1,11 @@
-# Relatório de Pesquisa de Tendências (Nuvem) - 2026-09-26 19:36:33
+# Relatório de Pesquisa de Tendências (Nuvem) - 2026-09-27 19:59:17
+
+## 🇵🇪 Mérito em Lima: A Fusão Venezuelana-Peruana que Conquista o Paladar Mundial (Perú)
+**Restaurante:** Mérito (Lima) | **Data:** Maio 2026 | [Link](https://www.facebook.com/AlejandraOraaOficial/videos/este-es-el-restaurante-venezolano-mejor-posicionado-del-mundo-se-llama-m%C3%A9rito-es-u/1013446863260756/)
+
+Mérito, em Lima, Peru, é um farol global da alta gastronomia. Sob a liderança do chef venezuelano Juan Luis Martínez, este restaurante funde magistralmente ingredientes peruanos e venezuelanos com técnicas inovadoras, criando uma experiência culinária única que o levou a ser reconhecido entre os 50 melhores do mundo.
+
+--- 
 
 ## 🇺🇸 Mordisco em Orlando: A Experiência Definitiva de Churrascaria com Fusão Venezuelana e Caribenha (Estados Unidos)
 **Restaurante:** Mordisco (Orlando) | **Data:** Maio 2026 | [Link](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHIbphx5JOMUKoDJCxfCFU8EdRqtK1T6C6p59dUhkphYMQOVscFH1zYhAqrnysyld-66oexA3Ju4Ekf5_RzRZJ0mVpYFMLNVToU9p9BmtDbV4C_8TCtClN3fJF992ybHlyQ_EbVednNTeG5)
@@ -46,13 +53,6 @@ Dining Room em Valência, Venezuela, consolidou-se como uma referência da alta 
 **Restaurante:** Fiesta Gastronómica Venezolana 2026 (Funchal) | **Data:** Maio 2026 | [Link](https://correiodosvenezuelanos.com/funchal-albergara-la-fiesta-gastronomica-venezolana-2026-del-18-al-20-de-septiembre/)
 
 Funchal, Madeira, será o epicentro da cultura e gastronomia venezuelana de 18 a 20 de setembro de 2026. A Festa Gastronómica Venezuelana promete uma imersão total nos sabores autênticos e nas vibrantes tradições do país caribenho, com barracas de comida e espetáculos culturais.
-
---- 
-
-## 🇻🇪 El Bosque Bistró de Caracas: Uma Joia Culinária Venezuelana no 50 Best Discovery 2026 (Venezuela)
-**Restaurante:** El Bosque Bistró (Caracas) | **Data:** Maio 2026 | [Link](https://clx.com.ve/clx-icons/4-restaurantes-de-venezuela-conquistan-la-guia-mundial-50-best-discovery/)
-
-El Bosque Bistró em Caracas foi destaque no prestigiado guia 50 Best Discovery 2026, consolidando-se como um referente da alta cozinha venezuelana. Sua proposta baseia-se na fusão de raízes indígenas, africanas e europeias, utilizando ingredientes locais para criar pratos inovadores e respeitosos com a tradição.
 
 --- 
 
