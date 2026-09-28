@@ -1,4 +1,11 @@
-# Relatório de Pesquisa de Tendências (Nuvem) - 2026-09-27 19:59:17
+# Relatório de Pesquisa de Tendências (Nuvem) - 2026-09-28 22:28:14
+
+## 🇻🇪 Venezuela Campeã: Pabellón Criollo Conquista Mundial de Comidas de Ibai Llanos (Venezuela)
+**Restaurante:** Mundial de Comidas 2026 de Ibai Llanos (Evento Digital) | **Data:** Maio 2026 | [Link](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFKCS1cU0y-N2v7lRqzeEGCm81pnSI2IWDuUdmBpPD-3DtqV04eEVcs0f9xqqrl1cmC5Ec6mRXZthFAzyk0z5XgPhM241C_4OTHA8TqucqMsIbyK9nP9bAMXhcGO-k_WJM-zFRkaNSi9n7qdGDaU8vha0wQCvC0lGfaHOI00UPQObA9nkTuQCNEYb2UqLZT)
+
+A gastronomia venezuelana celebra uma vitória histórica no "Mundial de Comidas 2026" de Ibai Llanos. O emblemático Pabellón Criollo venceu com milhões de votos, superando o ceviche peruano e levando a riqueza culinária da Venezuela a uma audiência global massiva, destacando seu sabor e tradição.
+
+--- 
 
 ## 🇵🇪 Mérito em Lima: A Fusão Venezuelana-Peruana que Conquista o Paladar Mundial (Perú)
 **Restaurante:** Mérito (Lima) | **Data:** Maio 2026 | [Link](https://www.facebook.com/AlejandraOraaOficial/videos/este-es-el-restaurante-venezolano-mejor-posicionado-del-mundo-se-llama-m%C3%A9rito-es-u/1013446863260756/)
@@ -46,13 +53,6 @@ Tequeño Mania em Miami tornou-se uma referência em inovação de tequeños gou
 **Restaurante:** Dining Room (Valencia) | **Data:** Maio 2026 | [Link](https://correodelcaroni.com/destacado/venezuela-suma-cuatro-locales-en-la-lista-gastronomica-50-best-discovery-2026/)
 
 Dining Room em Valência, Venezuela, consolidou-se como uma referência da alta cozinha de vanguarda. Reconhecido na prestigiada lista 50 Best Discovery 2026, e com seu chef Frank Parada premiado com o Tenedor de Oro, este restaurante eleva a gastronomia venezuelana. Suas técnicas inovadoras e o respeito pelos ingredientes locais o tornam uma visita obrigatória.
-
---- 
-
-## 🇵🇹 Funchal prepara-se para a Festa Gastronómica Venezuelana 2026: Sabor e Cultura na Madeira (Portugal)
-**Restaurante:** Fiesta Gastronómica Venezolana 2026 (Funchal) | **Data:** Maio 2026 | [Link](https://correiodosvenezuelanos.com/funchal-albergara-la-fiesta-gastronomica-venezolana-2026-del-18-al-20-de-septiembre/)
-
-Funchal, Madeira, será o epicentro da cultura e gastronomia venezuelana de 18 a 20 de setembro de 2026. A Festa Gastronómica Venezuelana promete uma imersão total nos sabores autênticos e nas vibrantes tradições do país caribenho, com barracas de comida e espetáculos culturais.
 
 --- 
 
