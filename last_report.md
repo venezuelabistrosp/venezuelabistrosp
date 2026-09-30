@@ -1,4 +1,18 @@
-# Relatório de Pesquisa de Tendências (Nuvem) - 2026-09-28 22:28:14
+# Relatório de Pesquisa de Tendências (Nuvem) - 2026-09-30 21:19:13
+
+## 🇻🇪 Projeto Ubre: A Gastronomia Sustentável Venezuelana que Brilha com o Cordeiro em 2026 (Venezuela)
+**Restaurante:** Proyecto Ubre (Restaurante Cordero) (Caracas) | **Data:** Maio 2026 | [Link](https://cordero.com.ve/)
+
+Projeto Ubre, reconhecido em 2026 com o Prêmio Ibero-Americano de Gastronomia Sustentável, redefine a culinária venezuelana. Liderado por Issam Koteich, este restaurante "da fazenda à mesa" em Caracas foca no cordeiro orgânico, demonstrando como a sustentabilidade e a identidade culinária podem gerar impacto social positivo.
+
+--- 
+
+## 🇺🇸 Tequenomania em Miami: Elevando o Tequeño Venezuelano a Nível Gourmet e Saudável em 2026 (Estados Unidos)
+**Restaurante:** Tequenomania (Miami) | **Data:** Maio 2026 | [Link](https://tequenomania.com/)
+
+Tequenomania em Miami lidera a inovação do tequeño venezuelano em 2026, oferecendo versões gourmet e saudáveis, incluindo opções sem glúten de mandioca e banana. Com duas lojas e uma fábrica, esta empresa demonstra como um snack tradicional pode escalar e diversificar, conquistando paladares com criatividade.
+
+--- 
 
 ## 🇻🇪 Venezuela Campeã: Pabellón Criollo Conquista Mundial de Comidas de Ibai Llanos (Venezuela)
 **Restaurante:** Mundial de Comidas 2026 de Ibai Llanos (Evento Digital) | **Data:** Maio 2026 | [Link](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFKCS1cU0y-N2v7lRqzeEGCm81pnSI2IWDuUdmBpPD-3DtqV04eEVcs0f9xqqrl1cmC5Ec6mRXZthFAzyk0z5XgPhM241C_4OTHA8TqucqMsIbyK9nP9bAMXhcGO-k_WJM-zFRkaNSi9n7qdGDaU8vha0wQCvC0lGfaHOI00UPQObA9nkTuQCNEYb2UqLZT)
@@ -39,20 +53,6 @@ La Cachapera consolida-se na Espanha com sua expansão e a popularidade de suas 
 **Restaurante:** Zaperoco Fest (La Laguna) | **Data:** Maio 2026 | [Link](https://elburgadodigital.es/la-laguna-convierte-zaperoco-en-un-gran-encuentro-entre-canarias-y-venezuela-en-la-cuesta/)
 
 O Zaperoco Fest em La Laguna, Tenerife, consolida-se como um vibrante encontro cultural e gastronômico. Celebrando os laços entre Canárias e Venezuela, este festival de setembro de 2026 ofereceu uma imersão na gastronomia tradicional venezuelana com múltiplos estandes, food trucks e chicha, promovendo a convivência e o intercâmbio cultural.
-
---- 
-
-## 🇺🇸 Tequeño Mania: A Revolução Gourmet do Tequeño Venezuelano em Miami (Estados Unidos)
-**Restaurante:** Tequeño Mania (Miami) | **Data:** Maio 2026 | [Link](https://tequenomania.com/)
-
-Tequeño Mania em Miami tornou-se uma referência em inovação de tequeños gourmet. Oferecendo uma vasta gama de recheios e opções saudáveis sem glúten à base de mandioca e banana, este estabelecimento redefine o clássico venezuelano. Seu compromisso com a qualidade e a adaptação às novas tendências culinárias o posiciona como líder no mercado.
-
---- 
-
-## 🇻🇪 Dining Room: A Vanguarda Gastronômica Venezuelana Brilha no Cenário Mundial (Venezuela)
-**Restaurante:** Dining Room (Valencia) | **Data:** Maio 2026 | [Link](https://correodelcaroni.com/destacado/venezuela-suma-cuatro-locales-en-la-lista-gastronomica-50-best-discovery-2026/)
-
-Dining Room em Valência, Venezuela, consolidou-se como uma referência da alta cozinha de vanguarda. Reconhecido na prestigiada lista 50 Best Discovery 2026, e com seu chef Frank Parada premiado com o Tenedor de Oro, este restaurante eleva a gastronomia venezuelana. Suas técnicas inovadoras e o respeito pelos ingredientes locais o tornam uma visita obrigatória.
 
 --- 
 
