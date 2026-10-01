@@ -1,4 +1,25 @@
-# Relatório de Pesquisa de Tendências (Nuvem) - 2026-09-30 21:19:13
+# Relatório de Pesquisa de Tendências (Nuvem) - 2026-10-01 21:38:04
+
+## 🇻🇪 Quatro Joias Venezuelanas Brilham na Prestigiosa Lista 50 Best Discovery 2026 (Venezuela)
+**Restaurante:** 50 Best Discovery (Caracas y Valencia) | **Data:** Maio 2026 | [Link](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHrWAAXguslUgprxuGORlnCpT-L0nWxZ3cZJ7GbmhdpJLaGDjgGa1b0_6f_GwpUckcFegZFNFid7OEJNeeYooD3kG0vIg_tBrnYVmyQiTqqi4ocxSggYT5FQm6Va5Ig8COXmLVmFXUsLMMIfccZzmKBbZyOnXh64dAJDX0BWMhVP37wth7ADWNbFBYbs8ddeB1zO5S3DExpaAM--RqNM9gF55GL9jzMVm71jMPS1suhR2GLHaE=)
+
+A plataforma 50 Best Discovery reconheceu quatro restaurantes venezuelanos em seu guia global 2026: Cordero, La Casa Bistró, La Posada de Cervantes e El Bosque Bistró em Caracas, e Dining Room em Valência. Esta conquista destaca a alta gastronomia do país e o compromisso cívico de suas equipes, consolidando a culinária venezuelana internacionalmente.
+
+--- 
+
+## 🇪🇸 Arepa&Co Conquista Gran Canaria: Inovação e Sabor Venezuelano em Expansão (España)
+**Restaurante:** Arepa&Co (Las Palmas de Gran Canaria) | **Data:** Maio 2026 | [Link](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEvwGZUtWuYwKpQJLbscvqfVBLG1MqwTVI7vLjVheKpu8cLnR2fg-2mC4PDUI3S5qUqmBXaZYQIC_V1ZPVQVcENNGeGAcoMSk6vSZ17Lng3BtpVxmaDFtUGqxZcszEbv87paJ9nDOl_tgMMRO0f01XCFpBDR1D87rTb8CBjtFG0F9dk1Rwfowt92s7Z7iqYZu0nEOUBZeyzyoOfYEsyT4iXPC34I6Q=)
+
+Arepa&Co celebra a abertura de sua terceira unidade em Las Palmas de Gran Canaria, consolidando seu sucesso com uma proposta que funde a tradição venezuelana com toques inovadores. Oferecem desde arepas clássicas até os criativos "tostones Drag Queen", atraindo um público diverso com autênticos sabores caribenhos.
+
+--- 
+
+## 🇨🇦 The Arepa Republic: Levando o Sabor Venezuelano Autêntico a Toronto com Sucesso (Canadá)
+**Restaurante:** The Arepa Republic (Toronto) | **Data:** Maio 2026 | [Link](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHKZMqR8w88SjUVpOaRaqHoAzn4ETDx_jeKl_FRF4nNX3nFhGku87HNT4x_E5GaIJauaeOacrd_t_oVWNLguRXHbqk7h9jYFsvLLRI1SBEFUFolw9JvMMPgL5WRCA6W_7_Jgwg_Mwk1YS9tOhFMS9SKnF1izdoiVimFHoInA_Q=)
+
+The Arepa Republic conseguiu popularizar a arepa venezuelana em Toronto, Canadá, desde 2024. Localizado no movimentado mercado Waterworks, sua arepa de pabellón é a favorita, introduzindo com sucesso a rica gastronomia venezuelana a um novo público que se delicia com seus sabores autênticos.
+
+--- 
 
 ## 🇻🇪 Projeto Ubre: A Gastronomia Sustentável Venezuelana que Brilha com o Cordeiro em 2026 (Venezuela)
 **Restaurante:** Proyecto Ubre (Restaurante Cordero) (Caracas) | **Data:** Maio 2026 | [Link](https://cordero.com.ve/)
@@ -32,27 +53,6 @@ Mérito, em Lima, Peru, é um farol global da alta gastronomia. Sob a liderança
 **Restaurante:** Mordisco (Orlando) | **Data:** Maio 2026 | [Link](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHIbphx5JOMUKoDJCxfCFU8EdRqtK1T6C6p59dUhkphYMQOVscFH1zYhAqrnysyld-66oexA3Ju4Ekf5_RzRZJ0mVpYFMLNVToU9p9BmtDbV4C_8TCtClN3fJF992ybHlyQ_EbVednNTeG5)
 
 Mordisco, a nova churrascaria em Orlando, redefine a culinária com uma ousada fusão venezuelana e caribenha. Oferece cortes de carne premium assados na lenha, complementados com bananas maduras e arepas, criando uma experiência culinária única que eleva os sabores tradicionais a um nível inovador e exótico. Um destino imperdível para os amantes da boa comida.
-
---- 
-
-## 🇺🇸 DC Al Toque: Uma Viagem Gastronômica pela Diversidade Culinária Venezuelana em Washington D.C. (Estados Unidos)
-**Restaurante:** DC Al Toque (Washington D.C.) | **Data:** Maio 2026 | [Link](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEc5fClzLONRemhNiwkGyWjujWdDeCKHRFVQWsFVhFSWkXCM9J4XLiGgkd2PnpqjnZ7TF1oQbCchLDjdzHDqJHl-_6HoBYi1j1mqj62di2EJ8M2ZyoZYC8FuSB1nd7AUvxVcXZZ3OpvFnI4PsE96qEKEGK11XXVMsFxioItLzVGtuFA7uIjj4fSOE6WHBSwEtGY7Zzk5O_h08JCMPiqTXamJWBFfkNkRg==)
-
-DC Al Toque em Washington D.C. vai além das arepas, oferecendo uma ampla gama de autênticos pratos venezuelanos. Desde a "parrillada" e o "pabellón criollo" até o impressionante "pepito de um metro" e o inovador shawarma "arabezolano", este restaurante e padaria promete uma imersão completa na rica e variada gastronomia da Venezuela.
-
---- 
-
-## 🇪🇸 La Cachapera: O Sabor Venezuelano Conquista a Espanha com seus Inovadores "Cachinachos" (España)
-**Restaurante:** La Cachapera (Madrid) | **Data:** Maio 2026 | [Link](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHhDddsA3dq4D0GBRZtruIYKZUyclL6isJDWqLvI71CCko28BtP7350DcDffrF9qYnootQIrBrDiBx3Sblru1HfQGtiXKkByT6Shx8wRPWjEEqDj8_y2OMqvfXYKYLlhfQsHXzeAa48gAJuT9BTjpLDBoiaU8_Jt7PJCu7a5sukhP0T6FmoIM9-23QplnUM1mXw3d09yvuAk-55BnpaH-uHjYCSH1fsvEn2M6lJ747bJFOCLaFPufMqWfh2epfq-tTmZuxLRwP4)
-
-La Cachapera consolida-se na Espanha com sua expansão e a popularidade de suas cachapas e os criativos "cachinachos". Com seis unidades e planos de crescimento, esta rede leva a autêntica gastronomia venezuelana a novos paladares, demonstrando o sucesso de sua proposta culinária e seu impacto no mercado europeu.
-
---- 
-
-## 🇪🇸 Zaperoco Fest: Uma Ponte Gastronômica e Cultural entre Canárias e Venezuela em 2026 (España)
-**Restaurante:** Zaperoco Fest (La Laguna) | **Data:** Maio 2026 | [Link](https://elburgadodigital.es/la-laguna-convierte-zaperoco-en-un-gran-encuentro-entre-canarias-y-venezuela-en-la-cuesta/)
-
-O Zaperoco Fest em La Laguna, Tenerife, consolida-se como um vibrante encontro cultural e gastronômico. Celebrando os laços entre Canárias e Venezuela, este festival de setembro de 2026 ofereceu uma imersão na gastronomia tradicional venezuelana com múltiplos estandes, food trucks e chicha, promovendo a convivência e o intercâmbio cultural.
 
 --- 
 
