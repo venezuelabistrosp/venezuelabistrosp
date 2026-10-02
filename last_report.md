@@ -1,4 +1,11 @@
-# Relatório de Pesquisa de Tendências (Nuvem) - 2026-10-01 21:38:04
+# Relatório de Pesquisa de Tendências (Nuvem) - 2026-10-02 21:13:01
+
+## 🇺🇸 DC Al Toque: A Revolução Culinária Venezuelana de Serviço Completo em Washington D.C. (Estados Unidos)
+**Restaurante:** DC Al Toque (Washington D.C.) | **Data:** Maio 2026 | [Link](https://eltiempolatino.com/2026/04/29/locales/dc-al-toque-abre-en-washington-como-el-primer-restaurante-venezolano-a-la-carta-en-la-ciudad/)
+
+DC Al Toque estabelece-se como o primeiro restaurante venezuelano à la carte em Washington D.C., oferecendo uma experiência gastronômica completa. Do clássico pavilhão criollo a fusões inovadoras como o shawarma 'arabezolano' e o arroz chinês venezuelano, este lugar redefine a culinária venezuelana com um toque moderno e uma padaria artesanal que complementa sua diversa oferta.
+
+--- 
 
 ## 🇻🇪 Quatro Joias Venezuelanas Brilham na Prestigiosa Lista 50 Best Discovery 2026 (Venezuela)
 **Restaurante:** 50 Best Discovery (Caracas y Valencia) | **Data:** Maio 2026 | [Link](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHrWAAXguslUgprxuGORlnCpT-L0nWxZ3cZJ7GbmhdpJLaGDjgGa1b0_6f_GwpUckcFegZFNFid7OEJNeeYooD3kG0vIg_tBrnYVmyQiTqqi4ocxSggYT5FQm6Va5Ig8COXmLVmFXUsLMMIfccZzmKBbZyOnXh64dAJDX0BWMhVP37wth7ADWNbFBYbs8ddeB1zO5S3DExpaAM--RqNM9gF55GL9jzMVm71jMPS1suhR2GLHaE=)
@@ -46,13 +53,6 @@ A gastronomia venezuelana celebra uma vitória histórica no "Mundial de Comidas
 **Restaurante:** Mérito (Lima) | **Data:** Maio 2026 | [Link](https://www.facebook.com/AlejandraOraaOficial/videos/este-es-el-restaurante-venezolano-mejor-posicionado-del-mundo-se-llama-m%C3%A9rito-es-u/1013446863260756/)
 
 Mérito, em Lima, Peru, é um farol global da alta gastronomia. Sob a liderança do chef venezuelano Juan Luis Martínez, este restaurante funde magistralmente ingredientes peruanos e venezuelanos com técnicas inovadoras, criando uma experiência culinária única que o levou a ser reconhecido entre os 50 melhores do mundo.
-
---- 
-
-## 🇺🇸 Mordisco em Orlando: A Experiência Definitiva de Churrascaria com Fusão Venezuelana e Caribenha (Estados Unidos)
-**Restaurante:** Mordisco (Orlando) | **Data:** Maio 2026 | [Link](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHIbphx5JOMUKoDJCxfCFU8EdRqtK1T6C6p59dUhkphYMQOVscFH1zYhAqrnysyld-66oexA3Ju4Ekf5_RzRZJ0mVpYFMLNVToU9p9BmtDbV4C_8TCtClN3fJF992ybHlyQ_EbVednNTeG5)
-
-Mordisco, a nova churrascaria em Orlando, redefine a culinária com uma ousada fusão venezuelana e caribenha. Oferece cortes de carne premium assados na lenha, complementados com bananas maduras e arepas, criando uma experiência culinária única que eleva os sabores tradicionais a um nível inovador e exótico. Um destino imperdível para os amantes da boa comida.
 
 --- 
 
