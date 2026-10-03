@@ -1,4 +1,18 @@
-# Relatório de Pesquisa de Tendências (Nuvem) - 2026-10-02 21:13:01
+# Relatório de Pesquisa de Tendências (Nuvem) - 2026-10-03 19:42:52
+
+## 🇻🇪 Dining Room: A Joia Gastronômica de Valência Brilha no Cenário Mundial (Venezuela)
+**Restaurante:** Dining Room (Valencia) | **Data:** Maio 2026 | [Link](https://www.el-nacional.com/estilo-de-vida/gala-del-tenedor-de-oro-celebro-la-descentralizacion-del-sabor-venezolano/)
+
+Dining Room em Valência, Venezuela, foi reconhecido globalmente ao ser incluído no 50 Best Discovery 2026. Seu chef, Frank Parada, recebeu o Tenedor de Oro 2025, o maior prêmio da gastronomia venezuelana. O restaurante se destaca por seu menu degustação de alta cozinha com ingredientes nacionais e técnica minuciosa, celebrando a "cozinha heroica" fora da capital.
+
+--- 
+
+## 🇻🇪 Arepa Fest 2026: Caracas Celebra a Arepa como Símbolo de União e Sabor (Venezuela)
+**Restaurante:** Arepa Fest (Caracas) | **Data:** Maio 2026 | [Link](https://www.youtube.com/watch?v=R9jJ2703t4Y)
+
+O Arepa Fest 2026 em Caracas celebrou o Dia Mundial da Arepa, reunindo 25 marcas numa experiência imersiva. Sob o lema "Minha arepa é sua arepa", promoveu solidariedade e união. Simultaneamente, o "AS da Arepa" ocorreu em sete cidades com mais de 70 areperas, mostrando a diversidade e inovação deste prato icônico venezuelano.
+
+--- 
 
 ## 🇺🇸 DC Al Toque: A Revolução Culinária Venezuelana de Serviço Completo em Washington D.C. (Estados Unidos)
 **Restaurante:** DC Al Toque (Washington D.C.) | **Data:** Maio 2026 | [Link](https://eltiempolatino.com/2026/04/29/locales/dc-al-toque-abre-en-washington-como-el-primer-restaurante-venezolano-a-la-carta-en-la-ciudad/)
@@ -39,20 +53,6 @@ Projeto Ubre, reconhecido em 2026 com o Prêmio Ibero-Americano de Gastronomia S
 **Restaurante:** Tequenomania (Miami) | **Data:** Maio 2026 | [Link](https://tequenomania.com/)
 
 Tequenomania em Miami lidera a inovação do tequeño venezuelano em 2026, oferecendo versões gourmet e saudáveis, incluindo opções sem glúten de mandioca e banana. Com duas lojas e uma fábrica, esta empresa demonstra como um snack tradicional pode escalar e diversificar, conquistando paladares com criatividade.
-
---- 
-
-## 🇻🇪 Venezuela Campeã: Pabellón Criollo Conquista Mundial de Comidas de Ibai Llanos (Venezuela)
-**Restaurante:** Mundial de Comidas 2026 de Ibai Llanos (Evento Digital) | **Data:** Maio 2026 | [Link](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFKCS1cU0y-N2v7lRqzeEGCm81pnSI2IWDuUdmBpPD-3DtqV04eEVcs0f9xqqrl1cmC5Ec6mRXZthFAzyk0z5XgPhM241C_4OTHA8TqucqMsIbyK9nP9bAMXhcGO-k_WJM-zFRkaNSi9n7qdGDaU8vha0wQCvC0lGfaHOI00UPQObA9nkTuQCNEYb2UqLZT)
-
-A gastronomia venezuelana celebra uma vitória histórica no "Mundial de Comidas 2026" de Ibai Llanos. O emblemático Pabellón Criollo venceu com milhões de votos, superando o ceviche peruano e levando a riqueza culinária da Venezuela a uma audiência global massiva, destacando seu sabor e tradição.
-
---- 
-
-## 🇵🇪 Mérito em Lima: A Fusão Venezuelana-Peruana que Conquista o Paladar Mundial (Perú)
-**Restaurante:** Mérito (Lima) | **Data:** Maio 2026 | [Link](https://www.facebook.com/AlejandraOraaOficial/videos/este-es-el-restaurante-venezolano-mejor-posicionado-del-mundo-se-llama-m%C3%A9rito-es-u/1013446863260756/)
-
-Mérito, em Lima, Peru, é um farol global da alta gastronomia. Sob a liderança do chef venezuelano Juan Luis Martínez, este restaurante funde magistralmente ingredientes peruanos e venezuelanos com técnicas inovadoras, criando uma experiência culinária única que o levou a ser reconhecido entre os 50 melhores do mundo.
 
 --- 
 
