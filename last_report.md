@@ -1,4 +1,25 @@
-# Relatório de Pesquisa de Tendências (Nuvem) - 2026-10-03 19:42:52
+# Relatório de Pesquisa de Tendências (Nuvem) - 2026-10-04 19:56:04
+
+## 🇵🇪 Mérito em Lima: O Restaurante Venezuelano que Conquista o Top Mundial da Gastronomia (Perú)
+**Restaurante:** Mérito (Lima) | **Data:** Maio 2026 | [Link](https://www.youtube.com/watch?v=F07l320-v0A)
+
+Mérito, do chef venezuelano Juan Luis Martínez em Lima, alcançou a 26ª posição nos 50 Melhores Restaurantes do Mundo 2026. Sua fusão inovadora da gastronomia venezuelana e peruana demonstra como a união cultural cria alta cozinha excepcional, consolidando sua posição como o restaurante venezuelano mais bem classificado globalmente.
+
+--- 
+
+## 🇻🇪 Venezuela Campeã! O Pabellón Criollo Conquista o Mundial de Comidas de Ibai 2026 (Venezuela)
+**Restaurante:** Mundial de Comidas 2026 (Ibai Llanos) | **Data:** Maio 2026 | [Link](https://primicia.com.ve/virales/venezuela-gana-el-mundial-de-comidas-2026-de-ibai/)
+
+A Venezuela sagrou-se campeã do Mundial de Comidas 2026 de Ibai Llanos, com seu emblemático Pabellón Criollo. Esta vitória, impulsionada por votação popular massiva, destacou a riqueza e popularidade da gastronomia venezuelana, incluindo pratos como a arepa reina pepiada e o menu natalino, reafirmando seu enraizamento cultural global.
+
+--- 
+
+## 🇻🇪 Venezuela Brilha: Seis Joias Gastronômicas Reconhecidas pelo 50 Best Discovery 2026 (Venezuela)
+**Restaurante:** 50 Best Discovery (Venezuela) | **Data:** Maio 2026 | [Link](https://bienmesabe.com/noticia/50-best-discovery-destaca-a-6-restaurantes-venezolanos-este-2026/)
+
+A plataforma 50 Best Discovery incluiu seis estabelecimentos venezuelanos em seu guia 2026, quatro deles estreantes. Este reconhecimento global destaca o florescimento da cena culinária local, com menções especiais para o Dining Room em Valência, cujo chef Frank Parada ganhou o Tenedor de Oro, e o Robusto Bar em Caracas, o único bar venezuelano na seleção.
+
+--- 
 
 ## 🇻🇪 Dining Room: A Joia Gastronômica de Valência Brilha no Cenário Mundial (Venezuela)
 **Restaurante:** Dining Room (Valencia) | **Data:** Maio 2026 | [Link](https://www.el-nacional.com/estilo-de-vida/gala-del-tenedor-de-oro-celebro-la-descentralizacion-del-sabor-venezolano/)
@@ -32,27 +53,6 @@ A plataforma 50 Best Discovery reconheceu quatro restaurantes venezuelanos em se
 **Restaurante:** Arepa&Co (Las Palmas de Gran Canaria) | **Data:** Maio 2026 | [Link](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEvwGZUtWuYwKpQJLbscvqfVBLG1MqwTVI7vLjVheKpu8cLnR2fg-2mC4PDUI3S5qUqmBXaZYQIC_V1ZPVQVcENNGeGAcoMSk6vSZ17Lng3BtpVxmaDFtUGqxZcszEbv87paJ9nDOl_tgMMRO0f01XCFpBDR1D87rTb8CBjtFG0F9dk1Rwfowt92s7Z7iqYZu0nEOUBZeyzyoOfYEsyT4iXPC34I6Q=)
 
 Arepa&Co celebra a abertura de sua terceira unidade em Las Palmas de Gran Canaria, consolidando seu sucesso com uma proposta que funde a tradição venezuelana com toques inovadores. Oferecem desde arepas clássicas até os criativos "tostones Drag Queen", atraindo um público diverso com autênticos sabores caribenhos.
-
---- 
-
-## 🇨🇦 The Arepa Republic: Levando o Sabor Venezuelano Autêntico a Toronto com Sucesso (Canadá)
-**Restaurante:** The Arepa Republic (Toronto) | **Data:** Maio 2026 | [Link](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHKZMqR8w88SjUVpOaRaqHoAzn4ETDx_jeKl_FRF4nNX3nFhGku87HNT4x_E5GaIJauaeOacrd_t_oVWNLguRXHbqk7h9jYFsvLLRI1SBEFUFolw9JvMMPgL5WRCA6W_7_Jgwg_Mwk1YS9tOhFMS9SKnF1izdoiVimFHoInA_Q=)
-
-The Arepa Republic conseguiu popularizar a arepa venezuelana em Toronto, Canadá, desde 2024. Localizado no movimentado mercado Waterworks, sua arepa de pabellón é a favorita, introduzindo com sucesso a rica gastronomia venezuelana a um novo público que se delicia com seus sabores autênticos.
-
---- 
-
-## 🇻🇪 Projeto Ubre: A Gastronomia Sustentável Venezuelana que Brilha com o Cordeiro em 2026 (Venezuela)
-**Restaurante:** Proyecto Ubre (Restaurante Cordero) (Caracas) | **Data:** Maio 2026 | [Link](https://cordero.com.ve/)
-
-Projeto Ubre, reconhecido em 2026 com o Prêmio Ibero-Americano de Gastronomia Sustentável, redefine a culinária venezuelana. Liderado por Issam Koteich, este restaurante "da fazenda à mesa" em Caracas foca no cordeiro orgânico, demonstrando como a sustentabilidade e a identidade culinária podem gerar impacto social positivo.
-
---- 
-
-## 🇺🇸 Tequenomania em Miami: Elevando o Tequeño Venezuelano a Nível Gourmet e Saudável em 2026 (Estados Unidos)
-**Restaurante:** Tequenomania (Miami) | **Data:** Maio 2026 | [Link](https://tequenomania.com/)
-
-Tequenomania em Miami lidera a inovação do tequeño venezuelano em 2026, oferecendo versões gourmet e saudáveis, incluindo opções sem glúten de mandioca e banana. Com duas lojas e uma fábrica, esta empresa demonstra como um snack tradicional pode escalar e diversificar, conquistando paladares com criatividade.
 
 --- 
 
