@@ -1,4 +1,18 @@
-# Relatório de Pesquisa de Tendências (Nuvem) - 2026-10-07 21:49:53
+# Relatório de Pesquisa de Tendências (Nuvem) - 2026-10-08 21:52:24
+
+## 🇪🇸 La Cachapera: O Sabor Venezuelano Conquista Madrid com seu Sexto Restaurante na Espanha (España)
+**Restaurante:** La Cachapera (Madrid) | **Data:** Maio 2026 | [Link](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGt8XwyG_XgTVZnnbSSXKRN0GKy4slw26NH3G4eRMVDoruEkJnTLnBc11YIFnIIVWu1gpntClWMtSIuTmYgA406910JbMipGap30EcQSA7m1YP1AdLdUjHtlIhw7hFLeWvwyi7Q4B4gRS3qtI2Hyn_eaAgrQC4_o2babt3Fk9gIxbUHsjIf7raqjysB_4M-PMRegVCyLXMp5-3ncwMbkLC5SjvPW2ypojYsZf7QKudfjj-4iFGGi9vHZaRMcU0jYJytp2uiScSo)
+
+La Cachapera, referência da gastronomia venezuelana na Europa, inaugurou sua sexta unidade na Espanha, a segunda em Madrid. Famosa por suas cachapas, arepas e os inovadores "cachinachos", a marca expande seu conceito caribenho, oferecendo uma experiência culinária e cultural completa que celebra os sabores autênticos da Venezuela.
+
+--- 
+
+## 🇻🇪 Venezuela Campeã! O Pabellón Criollo Vence o Mundial de Comidas de Ibai Llanos 2026 (Venezuela)
+**Restaurante:** Mundial de Comidas de Ibai Llanos (Evento Virtual) | **Data:** Maio 2026 | [Link](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHL4yWd6zZRXITlna9SNmCNZt_RYEiWoaYD_MeevIla26BrZI1QBXN7KUZJmCXgwzq3XIhGtXwqhOpfChPFqZqm1p6-WVpbKFVJGT-PEbsT78OGI_rJKbZrRQSeX26B0ouLcSJ1nA-x2g7UwHIco26LUmF7I0XJf8wnurRpYMZfFhJY6JRqAAir5R5olyDxcO0FMhVrvOcVmVNMVULgrI6uAHGDrevsKdGTYBtxtz3M)
+
+O pabellón criollo venezuelano foi coroado campeão do Mundial de Comidas de Ibai Llanos 2026, um evento virtual massivo. Superando o ceviche peruano na final com milhões de votos, esta vitória destaca a paixão e o orgulho da comunidade venezuelana por sua gastronomia, consolidando-a como um fenômeno cultural global.
+
+--- 
 
 ## 🇻🇪 El Bosque Bistró de Caracas: Um Tesouro Gastronômico Venezuelano no 50 Best Discovery (Venezuela)
 **Restaurante:** El Bosque Bistró (Caracas) | **Data:** Maio 2026 | [Link](https://clx.com.ve/4-restaurantes-de-venezuela-conquistan-la-guia-mundial-50-best-discovery/)
@@ -39,20 +53,6 @@ A Venezuela sagrou-se campeã do Mundial de Comidas 2026 de Ibai Llanos, com seu
 **Restaurante:** 50 Best Discovery (Venezuela) | **Data:** Maio 2026 | [Link](https://bienmesabe.com/noticia/50-best-discovery-destaca-a-6-restaurantes-venezolanos-este-2026/)
 
 A plataforma 50 Best Discovery incluiu seis estabelecimentos venezuelanos em seu guia 2026, quatro deles estreantes. Este reconhecimento global destaca o florescimento da cena culinária local, com menções especiais para o Dining Room em Valência, cujo chef Frank Parada ganhou o Tenedor de Oro, e o Robusto Bar em Caracas, o único bar venezuelano na seleção.
-
---- 
-
-## 🇻🇪 Dining Room: A Joia Gastronômica de Valência Brilha no Cenário Mundial (Venezuela)
-**Restaurante:** Dining Room (Valencia) | **Data:** Maio 2026 | [Link](https://www.el-nacional.com/estilo-de-vida/gala-del-tenedor-de-oro-celebro-la-descentralizacion-del-sabor-venezolano/)
-
-Dining Room em Valência, Venezuela, foi reconhecido globalmente ao ser incluído no 50 Best Discovery 2026. Seu chef, Frank Parada, recebeu o Tenedor de Oro 2025, o maior prêmio da gastronomia venezuelana. O restaurante se destaca por seu menu degustação de alta cozinha com ingredientes nacionais e técnica minuciosa, celebrando a "cozinha heroica" fora da capital.
-
---- 
-
-## 🇻🇪 Arepa Fest 2026: Caracas Celebra a Arepa como Símbolo de União e Sabor (Venezuela)
-**Restaurante:** Arepa Fest (Caracas) | **Data:** Maio 2026 | [Link](https://www.youtube.com/watch?v=R9jJ2703t4Y)
-
-O Arepa Fest 2026 em Caracas celebrou o Dia Mundial da Arepa, reunindo 25 marcas numa experiência imersiva. Sob o lema "Minha arepa é sua arepa", promoveu solidariedade e união. Simultaneamente, o "AS da Arepa" ocorreu em sete cidades com mais de 70 areperas, mostrando a diversidade e inovação deste prato icônico venezuelano.
 
 --- 
 
