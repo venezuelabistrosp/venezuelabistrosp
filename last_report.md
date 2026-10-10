@@ -1,4 +1,18 @@
-# Relatório de Pesquisa de Tendências (Nuvem) - 2026-10-09 21:30:54
+# Relatório de Pesquisa de Tendências (Nuvem) - 2026-10-10 20:31:21
+
+## 🇺🇸 DC Al Toque: A Revolução Culinária Venezuelana À La Carte em Washington D.C. (Estados Unidos)
+**Restaurante:** DC Al Toque (Washington D.C.) | **Data:** Maio 2026 | [Link](https://eltiempolatino.com/2026/04/29/locales/dc-al-toque-abre-en-washington-como-el-primer-restaurante-venezolano-a-la-carta-en-la-ciudad/)
+
+DC Al Toque se estabelece como o primeiro restaurante venezuelano à la carte em Washington D.C., oferecendo uma fusão cultural única. Do "shawarma arabezolano" ao icônico "pepito de um metro", este lugar redefine a gastronomia venezuelana, convidando a uma experiência culinária inovadora e compartilhada na capital americana.
+
+--- 
+
+## 🇺🇸 Casa Ora: A Culinária Venezuelana Atinge o Topo com sua Inclusão no Guia Michelin (Estados Unidos)
+**Restaurante:** Casa Ora (Brooklyn, Nueva York) | **Data:** Maio 2026 | [Link](https://www.instagram.com/p/C7u1N_uS8Q/?hl=es)
+
+Casa Ora no Brooklyn, Nova York, faz história em junho de 2026 ao ser o primeiro restaurante venezuelano no Guia Michelin dos EUA. Seu "Asado Negro" de 48 horas e clássicos elevados como hallacas e arepitas demonstram que a alta culinária venezuelana mantém sua autenticidade e sabor, celebrando sua rica herança.
+
+--- 
 
 ## 🇪🇸 Hipocampo: A Fusão Culinária Venezuelana-Espanhola que Revive Memórias em Madrid (España)
 **Restaurante:** Hipocampo (Madrid) | **Data:** Maio 2026 | [Link](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGNztanfcOpvdfFl7_rvUu58PL3YaQNYtlD7Pg5lcrBHr_m8-Uz6mBz3byK77qIEijmrT7nCoellsPAUvqyo4WdJDEYkZ23MWP78oPwAaI_4Ph3zaFv6F66c90BzkdzNFFOvXmfrlaijEkLgYeoR5FG6B3SGMDKPizxreTw1p70QwyZWiPXovREEVYCEvdIQTg=)
@@ -39,20 +53,6 @@ El Bosque Bistró em Caracas foi reconhecido pelo prestigiado guia 50 Best Disco
 **Restaurante:** Festival Gastronómico y Cultural de América Latina y el Caribe (Berna) | **Data:** Maio 2026 | [Link](https://mppre.gob.ve/2025/05/25/venezuela-cultura-gastronomica-festival-suiza/)
 
 Em maio de 2025, Berna, Suíça, sediou o Festival Gastronômico e Cultural da América Latina e Caribe, onde a Venezuela se destacou com o empreendimento 'Los Andes Bern'. Liderado por José Avero, este projeto apresentou a riqueza culinária venezuelana, mostrando a diversidade de seus sabores e patrimônio cultural a um público internacional.
-
---- 
-
-## 🇦🇷 Solidariedade em Buenos Aires: A Cozinha Venezuelana Une Forças por uma Causa Nobre (Argentina)
-**Restaurante:** Jornada solidaria 'Venezuela nos necesita. La cocina nos une' (Buenos Aires) | **Data:** Maio 2026 | [Link](https://soloporgusto.com/una-jornada-solidaria-para-ayudar-a-venezuela-desde-la-cocina/)
-
-Buenos Aires foi palco de uma jornada solidária em julho de 2026, 'Venezuela nos necesita. La cocina nos une', onde restaurantes como Fukuro Noodle Bar, Gran Dabbang e Diez Treinta se uniram. O evento arrecadou fundos para a World Central Kitchen, apoiando as vítimas de terremotos na Venezuela, demonstrando o poder da gastronomia para gerar impacto social.
-
---- 
-
-## 🇵🇪 Mérito em Lima: O Restaurante Venezuelano que Conquista o Top Mundial da Gastronomia (Perú)
-**Restaurante:** Mérito (Lima) | **Data:** Maio 2026 | [Link](https://www.youtube.com/watch?v=F07l320-v0A)
-
-Mérito, do chef venezuelano Juan Luis Martínez em Lima, alcançou a 26ª posição nos 50 Melhores Restaurantes do Mundo 2026. Sua fusão inovadora da gastronomia venezuelana e peruana demonstra como a união cultural cria alta cozinha excepcional, consolidando sua posição como o restaurante venezuelano mais bem classificado globalmente.
 
 --- 
 
