@@ -1,4 +1,25 @@
-# Relatório de Pesquisa de Tendências (Nuvem) - 2026-10-10 20:31:21
+# Relatório de Pesquisa de Tendências (Nuvem) - 2026-10-11 20:50:40
+
+## 🇺🇸 Casa Ora: A Joia Venezuelana do Brooklyn que Conquista o Guia Michelin (Estados Unidos)
+**Restaurante:** Casa Ora (Brooklyn) | **Data:** Maio 2026 | [Link](https://www.instagram.com/p/C7u1P-rL37G/)
+
+Casa Ora no Brooklyn alcançou um marco histórico ao ser o primeiro restaurante venezuelano a ser reconhecido pelo prestigiado Guia Michelin nos Estados Unidos. Sua proposta eleva a gastronomia venezuelana, oferecendo pratos tradicionais como Asado Negro e Hallacas com um toque sofisticado, sem perder a essência de suas raízes culinárias. Uma visita obrigatória para os amantes da boa comida.
+
+--- 
+
+## 🇦🇷 Buenos Aires se Une: Cozinha Solidária pela Venezuela em um Evento Inesquecível (Argentina)
+**Restaurante:** "Venezuela nos necesita. La cocina nos une." (Buenos Aires) | **Data:** Maio 2026 | [Link](https://soloporgusto.com/jornada-solidaria-ayudar-venezuela-desde-la-cocina/)
+
+Buenos Aires foi palco de uma emocionante jornada solidária, "Venezuela nos necesita. La cocina nos une.", em julho de 2026. Restaurantes como Fukuro Noodle Bar, Gran Dabbang e Diez Treinta uniram forças para oferecer uma proposta gastronômica especial. Todos os fundos arrecadados foram destinados à World Central Kitchen, apoiando as vítimas dos recentes terremotos na Venezuela, demonstrando o poder da gastronomia para a causa humanitária.
+
+--- 
+
+## 🇲🇽 Órale Arepa Brilha no Food & Wine Festival do México com Sabor Venezuelano (México)
+**Restaurante:** Órale Arepa (Ciudad de México) | **Data:** Maio 2026 | [Link](https://www.milenio.com/estilo/food-and-wine-festival-2026-fechas-chefs-y-sedes-del-evento)
+
+Órale Arepa levou o autêntico sabor venezuelano ao prestigiado Food & Wine Festival 2026 na Cidade do México. Sua participação neste evento internacional, sob o tema "Olhando para o Sul", destacou a crescente influência da gastronomia venezuelana. Com mais de 80 chefs da América Latina, o festival foi uma plataforma perfeita para as arepas conquistarem novos paladares e consolidarem sua presença global.
+
+--- 
 
 ## 🇺🇸 DC Al Toque: A Revolução Culinária Venezuelana À La Carte em Washington D.C. (Estados Unidos)
 **Restaurante:** DC Al Toque (Washington D.C.) | **Data:** Maio 2026 | [Link](https://eltiempolatino.com/2026/04/29/locales/dc-al-toque-abre-en-washington-como-el-primer-restaurante-venezolano-a-la-carta-en-la-ciudad/)
@@ -32,27 +53,6 @@ The Arepa Republic, que começou como food truck, expande-se como franquia em To
 **Restaurante:** La Cachapera (Madrid) | **Data:** Maio 2026 | [Link](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGt8XwyG_XgTVZnnbSSXKRN0GKy4slw26NH3G4eRMVDoruEkJnTLnBc11YIFnIIVWu1gpntClWMtSIuTmYgA406910JbMipGap30EcQSA7m1YP1AdLdUjHtlIhw7hFLeWvwyi7Q4B4gRS3qtI2Hyn_eaAgrQC4_o2babt3Fk9gIxbUHsjIf7raqjysB_4M-PMRegVCyLXMp5-3ncwMbkLC5SjvPW2ypojYsZf7QKudfjj-4iFGGi9vHZaRMcU0jYJytp2uiScSo)
 
 La Cachapera, referência da gastronomia venezuelana na Europa, inaugurou sua sexta unidade na Espanha, a segunda em Madrid. Famosa por suas cachapas, arepas e os inovadores "cachinachos", a marca expande seu conceito caribenho, oferecendo uma experiência culinária e cultural completa que celebra os sabores autênticos da Venezuela.
-
---- 
-
-## 🇻🇪 Venezuela Campeã! O Pabellón Criollo Vence o Mundial de Comidas de Ibai Llanos 2026 (Venezuela)
-**Restaurante:** Mundial de Comidas de Ibai Llanos (Evento Virtual) | **Data:** Maio 2026 | [Link](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHL4yWd6zZRXITlna9SNmCNZt_RYEiWoaYD_MeevIla26BrZI1QBXN7KUZJmCXgwzq3XIhGtXwqhOpfChPFqZqm1p6-WVpbKFVJGT-PEbsT78OGI_rJKbZrRQSeX26B0ouLcSJ1nA-x2g7UwHIco26LUmF7I0XJf8wnurRpYMZfFhJY6JRqAAir5R5olyDxcO0FMhVrvOcVmVNMVULgrI6uAHGDrevsKdGTYBtxtz3M)
-
-O pabellón criollo venezuelano foi coroado campeão do Mundial de Comidas de Ibai Llanos 2026, um evento virtual massivo. Superando o ceviche peruano na final com milhões de votos, esta vitória destaca a paixão e o orgulho da comunidade venezuelana por sua gastronomia, consolidando-a como um fenômeno cultural global.
-
---- 
-
-## 🇻🇪 El Bosque Bistró de Caracas: Um Tesouro Gastronômico Venezuelano no 50 Best Discovery (Venezuela)
-**Restaurante:** El Bosque Bistró (Caracas) | **Data:** Maio 2026 | [Link](https://clx.com.ve/4-restaurantes-de-venezuela-conquistan-la-guia-mundial-50-best-discovery/)
-
-El Bosque Bistró em Caracas foi reconhecido pelo prestigiado guia 50 Best Discovery 2026, destacando-se pela sua cozinha criativa e uso de ingredientes locais. Este bistrô celebra as raízes indígenas, africanas e europeias da Venezuela, oferecendo uma experiência culinária única em Los Palos Grandes.
-
---- 
-
-## 🇨🇭 Venezuela Brilha na Suíça: Sabores Andinos Conquistam o Festival Latino-Americano em Berna (Suiza)
-**Restaurante:** Festival Gastronómico y Cultural de América Latina y el Caribe (Berna) | **Data:** Maio 2026 | [Link](https://mppre.gob.ve/2025/05/25/venezuela-cultura-gastronomica-festival-suiza/)
-
-Em maio de 2025, Berna, Suíça, sediou o Festival Gastronômico e Cultural da América Latina e Caribe, onde a Venezuela se destacou com o empreendimento 'Los Andes Bern'. Liderado por José Avero, este projeto apresentou a riqueza culinária venezuelana, mostrando a diversidade de seus sabores e patrimônio cultural a um público internacional.
 
 --- 
 
