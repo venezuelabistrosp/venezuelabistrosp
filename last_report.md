@@ -1,4 +1,25 @@
-# Relatório de Pesquisa de Tendências (Nuvem) - 2026-10-11 20:50:40
+# Relatório de Pesquisa de Tendências (Nuvem) - 2026-10-12 23:32:45
+
+## 🇺🇸 Mellow Conquista Miami: A Confeitaria Venezuelana que Redefine a Sobremesa com Estilo (Estados Unidos)
+**Restaurante:** Mellow (Miami) | **Data:** Maio 2026 | [Link](https://caigaquiencaiga.net/mellow-llega-a-miami-la-reposteria-venezolana-que-conquisto-las-redes-y-ahora-cruza-fronteras/)
+
+Mellow, a aclamada confeitaria venezuelana, chegou a Miami, trazendo sua proposta inovadora de sobremesas que funde criatividade, qualidade e design. Com suas irresistíveis 'Cake Box' de sabores como Chocolate, Tiramisu e Lemon Pie, Mellow transforma cada mordida em uma experiência especial, consolidando seu sucesso internacional e deliciando paladares nos Estados Unidos.
+
+--- 
+
+## 🇵🇪 Mérito em Lima: A Alta Cozinha Venezuelana que Funde Sabores e Conquista o Mundo (Perú)
+**Restaurante:** Mérito (Lima) | **Data:** Maio 2026 | [Link](https://eldiariony.com/2026/03/13/la-nueva-era-de-la-gastronomia-en-lima-el-exito-de-la-fusion-venezolana/)
+
+Mérito em Lima se consolida como o melhor restaurante venezuelano do mundo, destacando-se por sua cozinha experimental que funde ingredientes peruanos como milho e chirimoia com a essência venezuelana. Com propostas inovadoras como arepas e cachapas benedictinas, e a influência de seu chef no restaurante Clon com arepas de pejerrey, Mérito redefine a gastronomia, criando uma ponte culinária entre ambas as culturas.
+
+--- 
+
+## 🇲🇽 MexVen em Oaxaca: Um Oásis Gastronômico e Social para Migrantes Venezuelanos no México (México)
+**Restaurante:** MexVen (Juchitán de Zaragoza) | **Data:** Maio 2026 | [Link](https://elcomercio.pe/mundo/mexico/mexven-la-familia-mexicana-que-abrio-un-restaurante-venezolano-para-apoyar-a-los-migrantes-que-van-camino-a-estados-unidos-mexico-venezuela-noticia/)
+
+MexVen, em Juchitán de Zaragoza, Oaxaca, é mais que um restaurante; é um farol de esperança para migrantes venezuelanos. Aberto por uma família mexicana, oferece emprego e comida caseira venezuelana a bom preço, tornando-se um oásis onde os migrantes recuperam forças e encontram apoio em seu trânsito para os Estados Unidos. Um verdadeiro exemplo de solidariedade através da gastronomia.
+
+--- 
 
 ## 🇺🇸 Casa Ora: A Joia Venezuelana do Brooklyn que Conquista o Guia Michelin (Estados Unidos)
 **Restaurante:** Casa Ora (Brooklyn) | **Data:** Maio 2026 | [Link](https://www.instagram.com/p/C7u1P-rL37G/)
@@ -32,27 +53,6 @@ DC Al Toque se estabelece como o primeiro restaurante venezuelano à la carte em
 **Restaurante:** Casa Ora (Brooklyn, Nueva York) | **Data:** Maio 2026 | [Link](https://www.instagram.com/p/C7u1N_uS8Q/?hl=es)
 
 Casa Ora no Brooklyn, Nova York, faz história em junho de 2026 ao ser o primeiro restaurante venezuelano no Guia Michelin dos EUA. Seu "Asado Negro" de 48 horas e clássicos elevados como hallacas e arepitas demonstram que a alta culinária venezuelana mantém sua autenticidade e sabor, celebrando sua rica herança.
-
---- 
-
-## 🇪🇸 Hipocampo: A Fusão Culinária Venezuelana-Espanhola que Revive Memórias em Madrid (España)
-**Restaurante:** Hipocampo (Madrid) | **Data:** Maio 2026 | [Link](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGNztanfcOpvdfFl7_rvUu58PL3YaQNYtlD7Pg5lcrBHr_m8-Uz6mBz3byK77qIEijmrT7nCoellsPAUvqyo4WdJDEYkZ23MWP78oPwAaI_4Ph3zaFv6F66c90BzkdzNFFOvXmfrlaijEkLgYeoR5FG6B3SGMDKPizxreTw1p70QwyZWiPXovREEVYCEvdIQTg=)
-
-Hipocampo, a nova proposta em Madrid de Manuel Araya e Daniel Cegarra, funde a culinária das avós venezuelanas e espanholas. Pratos como arepas e asado negro convivem com sopa de cebola, oferecendo uma experiência culinária de memória e sabor, destacando-se na cena gastronômica madrilenha.
-
---- 
-
-## 🇨🇦 The Arepa Republic: A Arepa Venezuelana Conquista Paladares em Toronto, Canadá (Canadá)
-**Restaurante:** The Arepa Republic (Toronto) | **Data:** Maio 2026 | [Link](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGTyoOK6zjAb5HryWdjIYwV-3LUEVf8nCV3dPARv39guvIqJC2eWesAMDM0oLetiXuclpIV8H7HxKZpC2hWCjOS0JrSDmw2QDf76062VVfy1aHz9Eznqoe90D_IT6HOKWyKcuciUabdWiny_TSim6m_tFG2yrEi_Sxwa4OhMKlO)
-
-The Arepa Republic, que começou como food truck, expande-se como franquia em Toronto, Canadá, popularizando a arepa de pabellón. Este restaurante aproxima os sabores venezuelanos de locais e turistas, demonstrando o sucesso da gastronomia venezuelana em um mercado em crescimento desde 2024.
-
---- 
-
-## 🇪🇸 La Cachapera: O Sabor Venezuelano Conquista Madrid com seu Sexto Restaurante na Espanha (España)
-**Restaurante:** La Cachapera (Madrid) | **Data:** Maio 2026 | [Link](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGt8XwyG_XgTVZnnbSSXKRN0GKy4slw26NH3G4eRMVDoruEkJnTLnBc11YIFnIIVWu1gpntClWMtSIuTmYgA406910JbMipGap30EcQSA7m1YP1AdLdUjHtlIhw7hFLeWvwyi7Q4B4gRS3qtI2Hyn_eaAgrQC4_o2babt3Fk9gIxbUHsjIf7raqjysB_4M-PMRegVCyLXMp5-3ncwMbkLC5SjvPW2ypojYsZf7QKudfjj-4iFGGi9vHZaRMcU0jYJytp2uiScSo)
-
-La Cachapera, referência da gastronomia venezuelana na Europa, inaugurou sua sexta unidade na Espanha, a segunda em Madrid. Famosa por suas cachapas, arepas e os inovadores "cachinachos", a marca expande seu conceito caribenho, oferecendo uma experiência culinária e cultural completa que celebra os sabores autênticos da Venezuela.
 
 --- 
 
