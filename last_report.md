@@ -1,4 +1,18 @@
-# Relatório de Pesquisa de Tendências (Nuvem) - 2026-10-12 23:32:45
+# Relatório de Pesquisa de Tendências (Nuvem) - 2026-10-13 21:46:37
+
+## 🇪🇸 La Cachapera conquista Espanha: Inovação venezuelana com "Cachinachos" e expansão europeia. (España)
+**Restaurante:** La Cachapera (Madrid) | **Data:** Junho 2026 | [Link](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFvRxc_q-8rN04D0zmdcb0-ZWn8TqOoRziSIEb0WPWNP80-k3Gc5P-vYR7n7uSCzzCp1ZKAROrRVquVpJomLMw70-Kjmp7nkn6lIAn45wIRPbxvwN8ChOIvZD2LAjYQ3VrxhBIo4qePYsjld-O7T9wdZyNKAHvaA33nk6ankvmEoxoZKv8q3vWz)
+
+La Cachapera, rede venezuelana, abre sua segunda loja em Madrid, totalizando seis na Espanha. Destaca-se pelas cachapas e pelos inovadores "cachinachos", uma fusão de cachapa e nachos. Planeja expansão para Portugal e França, consolidando a gastronomia venezuelana na Europa.
+
+--- 
+
+## 🇻🇪 Dining Room de Valência brilha no 50 Best Discovery 2026: Venezuela na elite global. (Venezuela)
+**Restaurante:** Dining Room (Valencia) | **Data:** Julho 2026 | [Link](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGdaB6iCxP5SiJLigTjRKLcVjylaMZ9azddQpIfIdpZiLahbLKSRFn2PRtU_qGax06PMP6nl6HCpermVsubbdC90nPUQmNTXn0LKcNPaTNH1_EwI8I1h0BUu7W2tLIXgsIR52CxY-uNDFafbFzMlmHYIl7MFlkxxcvaACaQkActkpsSpwnDEllJoXxWgXzJm_IDzC85_A==)
+
+Em julho de 2026, o Dining Room (Valência), liderado pelo chef Frank Parada, foi incluído no 50 Best Discovery, marcando a primeira vez que uma cidade venezuelana fora de Caracas recebe este prestigiado reconhecimento. Este marco consolida a vanguarda gastronômica venezuelana a nível global.
+
+--- 
 
 ## 🇺🇸 Mellow Conquista Miami: A Confeitaria Venezuelana que Redefine a Sobremesa com Estilo (Estados Unidos)
 **Restaurante:** Mellow (Miami) | **Data:** Maio 2026 | [Link](https://caigaquiencaiga.net/mellow-llega-a-miami-la-reposteria-venezolana-que-conquisto-las-redes-y-ahora-cruza-fronteras/)
@@ -39,20 +53,6 @@ Buenos Aires foi palco de uma emocionante jornada solidária, "Venezuela nos nec
 **Restaurante:** Órale Arepa (Ciudad de México) | **Data:** Maio 2026 | [Link](https://www.milenio.com/estilo/food-and-wine-festival-2026-fechas-chefs-y-sedes-del-evento)
 
 Órale Arepa levou o autêntico sabor venezuelano ao prestigiado Food & Wine Festival 2026 na Cidade do México. Sua participação neste evento internacional, sob o tema "Olhando para o Sul", destacou a crescente influência da gastronomia venezuelana. Com mais de 80 chefs da América Latina, o festival foi uma plataforma perfeita para as arepas conquistarem novos paladares e consolidarem sua presença global.
-
---- 
-
-## 🇺🇸 DC Al Toque: A Revolução Culinária Venezuelana À La Carte em Washington D.C. (Estados Unidos)
-**Restaurante:** DC Al Toque (Washington D.C.) | **Data:** Maio 2026 | [Link](https://eltiempolatino.com/2026/04/29/locales/dc-al-toque-abre-en-washington-como-el-primer-restaurante-venezolano-a-la-carta-en-la-ciudad/)
-
-DC Al Toque se estabelece como o primeiro restaurante venezuelano à la carte em Washington D.C., oferecendo uma fusão cultural única. Do "shawarma arabezolano" ao icônico "pepito de um metro", este lugar redefine a gastronomia venezuelana, convidando a uma experiência culinária inovadora e compartilhada na capital americana.
-
---- 
-
-## 🇺🇸 Casa Ora: A Culinária Venezuelana Atinge o Topo com sua Inclusão no Guia Michelin (Estados Unidos)
-**Restaurante:** Casa Ora (Brooklyn, Nueva York) | **Data:** Maio 2026 | [Link](https://www.instagram.com/p/C7u1N_uS8Q/?hl=es)
-
-Casa Ora no Brooklyn, Nova York, faz história em junho de 2026 ao ser o primeiro restaurante venezuelano no Guia Michelin dos EUA. Seu "Asado Negro" de 48 horas e clássicos elevados como hallacas e arepitas demonstram que a alta culinária venezuelana mantém sua autenticidade e sabor, celebrando sua rica herança.
 
 --- 
 
