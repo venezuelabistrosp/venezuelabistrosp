@@ -1,4 +1,11 @@
-# Relatório de Pesquisa de Tendências (Nuvem) - 2026-10-13 21:46:37
+# Relatório de Pesquisa de Tendências (Nuvem) - 2026-10-14 20:30:51
+
+## 🇵🇹 Restaurante Barrinhos: A Fusão Culinária Venezuelana-Portuguesa que Conquista o Algarve (Portugal)
+**Restaurante:** Restaurante Barrinhos (Algarve) | **Data:** Maio 2026 | [Link](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF6P_pY-d3BJZnDbQuK_g2bMHGjpa_WqcsTYWlmV-ueyMrSv1lMpo107W_txrt4ZWBzgdIsnh4EmIgLVzy99cfw9ExUoFlYEM5l1g4WljSx8LygEhzmbTTsliuaQgpcJoJ7E7nj0VQ=)
+
+O Restaurante Barrinhos no Algarve, Portugal, destaca-se pela sua inovadora fusão de sabores venezuelanos e portugueses. Oferecendo uma experiência gastronómica única com pratos caseiros e frescos, este estabelecimento tornou-se um ponto de encontro cultural, celebrando a riqueza de ambas as tradições culinárias num único menu diverso e autêntico.
+
+--- 
 
 ## 🇪🇸 La Cachapera conquista Espanha: Inovação venezuelana com "Cachinachos" e expansão europeia. (España)
 **Restaurante:** La Cachapera (Madrid) | **Data:** Junho 2026 | [Link](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFvRxc_q-8rN04D0zmdcb0-ZWn8TqOoRziSIEb0WPWNP80-k3Gc5P-vYR7n7uSCzzCp1ZKAROrRVquVpJomLMw70-Kjmp7nkn6lIAn45wIRPbxvwN8ChOIvZD2LAjYQ3VrxhBIo4qePYsjld-O7T9wdZyNKAHvaA33nk6ankvmEoxoZKv8q3vWz)
@@ -46,13 +53,6 @@ Casa Ora no Brooklyn alcançou um marco histórico ao ser o primeiro restaurante
 **Restaurante:** "Venezuela nos necesita. La cocina nos une." (Buenos Aires) | **Data:** Maio 2026 | [Link](https://soloporgusto.com/jornada-solidaria-ayudar-venezuela-desde-la-cocina/)
 
 Buenos Aires foi palco de uma emocionante jornada solidária, "Venezuela nos necesita. La cocina nos une.", em julho de 2026. Restaurantes como Fukuro Noodle Bar, Gran Dabbang e Diez Treinta uniram forças para oferecer uma proposta gastronômica especial. Todos os fundos arrecadados foram destinados à World Central Kitchen, apoiando as vítimas dos recentes terremotos na Venezuela, demonstrando o poder da gastronomia para a causa humanitária.
-
---- 
-
-## 🇲🇽 Órale Arepa Brilha no Food & Wine Festival do México com Sabor Venezuelano (México)
-**Restaurante:** Órale Arepa (Ciudad de México) | **Data:** Maio 2026 | [Link](https://www.milenio.com/estilo/food-and-wine-festival-2026-fechas-chefs-y-sedes-del-evento)
-
-Órale Arepa levou o autêntico sabor venezuelano ao prestigiado Food & Wine Festival 2026 na Cidade do México. Sua participação neste evento internacional, sob o tema "Olhando para o Sul", destacou a crescente influência da gastronomia venezuelana. Com mais de 80 chefs da América Latina, o festival foi uma plataforma perfeita para as arepas conquistarem novos paladares e consolidarem sua presença global.
 
 --- 
 
