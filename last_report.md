@@ -1,4 +1,11 @@
-# Relatório de Pesquisa de Tendências (Nuvem) - 2026-10-14 20:30:51
+# Relatório de Pesquisa de Tendências (Nuvem) - 2026-10-15 20:12:58
+
+## 🇮🇹 Venezuela Brilha em Roma: Tradição e Soberania Alimentar na Expo Mundial (Italia)
+**Restaurante:** Expo "De la Semilla al Alimento" (Roma) | **Data:** Maio 2026 | [Link](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEyz5zUUQDdlStQD5xKWt75SFfA_Va_Oz0QVXmBI9fW4Ct_Rcu2IieVA7Wqt8hVN0zuzK1hv-TcPgH63bHzP-dgxhtZh3ob1GbVkQHOhzy1-kSAyMepZ4Na96YeCczbuEt0BvOEjva6deD_xwrVTFGHTCmKReOY63Ft-cxth5sMy4li1IWPP0dSJJjbf1zhQGpdHXd1b0OuaOS3iHYBI8AE5KEjZOlftebYcV8ZYJq6ALkjd7iZtcVL)
+
+Venezuela se destacou na Expo "Da Semente ao Alimento" em Roma, mostrando seus avanços em soberania agroalimentar e a riqueza de seus saberes ancestrais. Com demonstrações do processamento da mandioca e a preparação do pavilhão crioulo, o país reafirmou seu compromisso com a tradição e inovação alimentar global.
+
+--- 
 
 ## 🇵🇹 Restaurante Barrinhos: A Fusão Culinária Venezuelana-Portuguesa que Conquista o Algarve (Portugal)
 **Restaurante:** Restaurante Barrinhos (Algarve) | **Data:** Maio 2026 | [Link](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF6P_pY-d3BJZnDbQuK_g2bMHGjpa_WqcsTYWlmV-ueyMrSv1lMpo107W_txrt4ZWBzgdIsnh4EmIgLVzy99cfw9ExUoFlYEM5l1g4WljSx8LygEhzmbTTsliuaQgpcJoJ7E7nj0VQ=)
@@ -46,13 +53,6 @@ MexVen, em Juchitán de Zaragoza, Oaxaca, é mais que um restaurante; é um faro
 **Restaurante:** Casa Ora (Brooklyn) | **Data:** Maio 2026 | [Link](https://www.instagram.com/p/C7u1P-rL37G/)
 
 Casa Ora no Brooklyn alcançou um marco histórico ao ser o primeiro restaurante venezuelano a ser reconhecido pelo prestigiado Guia Michelin nos Estados Unidos. Sua proposta eleva a gastronomia venezuelana, oferecendo pratos tradicionais como Asado Negro e Hallacas com um toque sofisticado, sem perder a essência de suas raízes culinárias. Uma visita obrigatória para os amantes da boa comida.
-
---- 
-
-## 🇦🇷 Buenos Aires se Une: Cozinha Solidária pela Venezuela em um Evento Inesquecível (Argentina)
-**Restaurante:** "Venezuela nos necesita. La cocina nos une." (Buenos Aires) | **Data:** Maio 2026 | [Link](https://soloporgusto.com/jornada-solidaria-ayudar-venezuela-desde-la-cocina/)
-
-Buenos Aires foi palco de uma emocionante jornada solidária, "Venezuela nos necesita. La cocina nos une.", em julho de 2026. Restaurantes como Fukuro Noodle Bar, Gran Dabbang e Diez Treinta uniram forças para oferecer uma proposta gastronômica especial. Todos os fundos arrecadados foram destinados à World Central Kitchen, apoiando as vítimas dos recentes terremotos na Venezuela, demonstrando o poder da gastronomia para a causa humanitária.
 
 --- 
 
