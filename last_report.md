@@ -1,4 +1,11 @@
-# Relatório de Pesquisa de Tendências (Nuvem) - 2026-10-15 20:12:58
+# Relatório de Pesquisa de Tendências (Nuvem) - 2026-10-16 19:50:23
+
+## 🇪🇸 Hipocampo em Malasaña: Um Novo Canto Madrileno com Alma Venezuelana (España)
+**Restaurante:** Hipocampo (Madrid) | **Data:** Maio 2026 | [Link](https://www.larazon.es/madrid/mas-mas-aperturas-gastronomicas-madrid-siempre-apetecen_202609286720e972982d6b00018a1005.html)
+
+Hipocampo, a nova joia gastronômica em Malasaña, Madrid, traz a essência venezuelana para a capital espanhola. Inaugurado por Manuel Araya e Daniel Cegarra, oferece clássicos reinventados como mexilhões tigre com toque venezuelano e um frango braseado que evoca as polleras caraquenhas. Uma proposta fresca e autêntica que celebra a diversidade culinária.
+
+--- 
 
 ## 🇮🇹 Venezuela Brilha em Roma: Tradição e Soberania Alimentar na Expo Mundial (Italia)
 **Restaurante:** Expo "De la Semilla al Alimento" (Roma) | **Data:** Maio 2026 | [Link](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEyz5zUUQDdlStQD5xKWt75SFfA_Va_Oz0QVXmBI9fW4Ct_Rcu2IieVA7Wqt8hVN0zuzK1hv-TcPgH63bHzP-dgxhtZh3ob1GbVkQHOhzy1-kSAyMepZ4Na96YeCczbuEt0BvOEjva6deD_xwrVTFGHTCmKReOY63Ft-cxth5sMy4li1IWPP0dSJJjbf1zhQGpdHXd1b0OuaOS3iHYBI8AE5KEjZOlftebYcV8ZYJq6ALkjd7iZtcVL)
@@ -46,13 +53,6 @@ Mérito em Lima se consolida como o melhor restaurante venezuelano do mundo, des
 **Restaurante:** MexVen (Juchitán de Zaragoza) | **Data:** Maio 2026 | [Link](https://elcomercio.pe/mundo/mexico/mexven-la-familia-mexicana-que-abrio-un-restaurante-venezolano-para-apoyar-a-los-migrantes-que-van-camino-a-estados-unidos-mexico-venezuela-noticia/)
 
 MexVen, em Juchitán de Zaragoza, Oaxaca, é mais que um restaurante; é um farol de esperança para migrantes venezuelanos. Aberto por uma família mexicana, oferece emprego e comida caseira venezuelana a bom preço, tornando-se um oásis onde os migrantes recuperam forças e encontram apoio em seu trânsito para os Estados Unidos. Um verdadeiro exemplo de solidariedade através da gastronomia.
-
---- 
-
-## 🇺🇸 Casa Ora: A Joia Venezuelana do Brooklyn que Conquista o Guia Michelin (Estados Unidos)
-**Restaurante:** Casa Ora (Brooklyn) | **Data:** Maio 2026 | [Link](https://www.instagram.com/p/C7u1P-rL37G/)
-
-Casa Ora no Brooklyn alcançou um marco histórico ao ser o primeiro restaurante venezuelano a ser reconhecido pelo prestigiado Guia Michelin nos Estados Unidos. Sua proposta eleva a gastronomia venezuelana, oferecendo pratos tradicionais como Asado Negro e Hallacas com um toque sofisticado, sem perder a essência de suas raízes culinárias. Uma visita obrigatória para os amantes da boa comida.
 
 --- 
 
