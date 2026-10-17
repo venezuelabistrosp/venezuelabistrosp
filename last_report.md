@@ -1,4 +1,18 @@
-# Relatório de Pesquisa de Tendências (Nuvem) - 2026-10-16 19:50:23
+# Relatório de Pesquisa de Tendências (Nuvem) - 2026-10-17 19:05:01
+
+## 🇨🇦 Tia Flor Toronto: A Explosiva Fusão Venezuelana-Mexicana que Conquista o Canadá (Canadá)
+**Restaurante:** Tia Flor Toronto (Toronto) | **Data:** Maio 2026 | [Link](https://www.instagram.com/p/C47D871OTKk/)
+
+Tia Flor Toronto se destaca como um ícone da gastronomia de fusão, unindo o melhor da Venezuela e do México. Com arepas personalizáveis, tacos, tequeños e o famoso "Pepito Naguará", este restaurante oferece uma experiência culinária vibrante. Seus aguachiles e coquetéis de camarão, junto a sucos tropicais, convidam a uma viagem de sabores autênticos no Canadá.
+
+--- 
+
+## 🇵🇪 Demo e "Por la Cachapa": A Gastronomia Venezuelana Conquista Lima com Sabor e Solidariedade (Perú)
+**Restaurante:** Demo y "Por la Cachapa" (Lima) | **Data:** Maio 2026 | [Link](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFMcAYS4JHWHWdsWMdTHWXS6dvZDaTuZp4ZgeYhMeXx2WMh2FTBxCsoMBpEzMPV9peAuRdN6hizBkr16vOGL8ON942gx37ZabjHVRDuZTNZhmp_royFpvhZF-G4Fs0rF_jIaUgvRAsdr_bjZmANh071UABZxADS9AUUMiF2JnGaumiAm111Tz4=)
+
+Demo, uma cafeteria da moda em Lima, integra com sucesso a comida venezuelana, oferecendo cachapas e arepas. Liderado pelo chef Juan Luis Martínez, o restaurante impulsionou "Por la Cachapa" em julho de 2026, um evento solidário onde mais de 30 restaurantes criaram cachapas inovadoras para arrecadar fundos para comunidades venezuelanas afetadas por um terremoto.
+
+--- 
 
 ## 🇪🇸 Hipocampo em Malasaña: Um Novo Canto Madrileno com Alma Venezuelana (España)
 **Restaurante:** Hipocampo (Madrid) | **Data:** Maio 2026 | [Link](https://www.larazon.es/madrid/mas-mas-aperturas-gastronomicas-madrid-siempre-apetecen_202609286720e972982d6b00018a1005.html)
@@ -39,20 +53,6 @@ Em julho de 2026, o Dining Room (Valência), liderado pelo chef Frank Parada, fo
 **Restaurante:** Mellow (Miami) | **Data:** Maio 2026 | [Link](https://caigaquiencaiga.net/mellow-llega-a-miami-la-reposteria-venezolana-que-conquisto-las-redes-y-ahora-cruza-fronteras/)
 
 Mellow, a aclamada confeitaria venezuelana, chegou a Miami, trazendo sua proposta inovadora de sobremesas que funde criatividade, qualidade e design. Com suas irresistíveis 'Cake Box' de sabores como Chocolate, Tiramisu e Lemon Pie, Mellow transforma cada mordida em uma experiência especial, consolidando seu sucesso internacional e deliciando paladares nos Estados Unidos.
-
---- 
-
-## 🇵🇪 Mérito em Lima: A Alta Cozinha Venezuelana que Funde Sabores e Conquista o Mundo (Perú)
-**Restaurante:** Mérito (Lima) | **Data:** Maio 2026 | [Link](https://eldiariony.com/2026/03/13/la-nueva-era-de-la-gastronomia-en-lima-el-exito-de-la-fusion-venezolana/)
-
-Mérito em Lima se consolida como o melhor restaurante venezuelano do mundo, destacando-se por sua cozinha experimental que funde ingredientes peruanos como milho e chirimoia com a essência venezuelana. Com propostas inovadoras como arepas e cachapas benedictinas, e a influência de seu chef no restaurante Clon com arepas de pejerrey, Mérito redefine a gastronomia, criando uma ponte culinária entre ambas as culturas.
-
---- 
-
-## 🇲🇽 MexVen em Oaxaca: Um Oásis Gastronômico e Social para Migrantes Venezuelanos no México (México)
-**Restaurante:** MexVen (Juchitán de Zaragoza) | **Data:** Maio 2026 | [Link](https://elcomercio.pe/mundo/mexico/mexven-la-familia-mexicana-que-abrio-un-restaurante-venezolano-para-apoyar-a-los-migrantes-que-van-camino-a-estados-unidos-mexico-venezuela-noticia/)
-
-MexVen, em Juchitán de Zaragoza, Oaxaca, é mais que um restaurante; é um farol de esperança para migrantes venezuelanos. Aberto por uma família mexicana, oferece emprego e comida caseira venezuelana a bom preço, tornando-se um oásis onde os migrantes recuperam forças e encontram apoio em seu trânsito para os Estados Unidos. Um verdadeiro exemplo de solidariedade através da gastronomia.
 
 --- 
 
