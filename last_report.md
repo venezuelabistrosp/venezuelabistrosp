@@ -1,4 +1,25 @@
-# Relatório de Pesquisa de Tendências (Nuvem) - 2026-10-18 19:17:27
+# Relatório de Pesquisa de Tendências (Nuvem) - 2026-10-19 21:22:59
+
+## 🇻🇪 Dining Room em Valência: A Alta Cozinha Venezuelana Redefinida por Frank Parada (Venezuela)
+**Restaurante:** Dining Room (Valencia) | **Data:** Maio 2026 | [Link](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQExQ2kK8FqEGKFIMxyRUkxk3Af95ECNhiLf_SFeIQZXC9G1MJCsZDM3y2X2LTWIdAEoknTQvHHBtGMUEVBiOmOkl5kIDVcNG5jMKu2Hr8w6I0sUBoqscB3-X_9m4vpfzu1p4koCDXGmCjCZAJAuo96SOsNKPnMpLfJq39XzrOmWkcXtlZiwYfL-plMylICCWkqt_7idwwinShSuGiwYWPU)
+
+O chef Frank Parada regressa à Venezuela para liderar o Dining Room em Valência, um restaurante que eleva a gastronomia local com técnicas de vanguarda e apresentações sofisticadas. O seu menu celebra os ingredientes venezuelanos, oferecendo uma experiência culinária contemporânea que o posiciona como uma referência nacional.
+
+--- 
+
+## 🇵🇹 Funchal Celebra a Cultura Venezuelana: Uma Festa Gastronómica Inesquecível em 2026 (Portugal)
+**Restaurante:** Fiesta Gastronómica Venezolana 2026 (Funchal) | **Data:** Maio 2026 | [Link](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFGqgg0ZakeHiNZdD7TBZ3S_URmY1IL3_YCfuQHt5Y4dUvNd44pHsfU1uUh4av_xrGhm0ZE6BCkNf_fgHkH5RIRISuL2965yXYM7kUvd1ekw5NErjfX194FNLAkUzRHhWB1_sczNOpO-_9dOVlOL3ocNbYR3JmywCs0R_APXkXpUzvGswdy2hJqnBwlaUcQ0t6ryNP-mUJtw2b-8AegL4NIi43hUOyPQyv4GJDXpDuQhCxwPxzdcw==)
+
+A Associação AADEM organiza a Festa Gastronómica Venezuelana 2026 no Funchal, Madeira. Este evento promete uma imersão cultural com música, arte e, acima de tudo, uma vasta oferta de pratos tradicionais venezuelanos, consolidando a presença da sua rica gastronomia em Portugal.
+
+--- 
+
+## 🇺🇸 Jhoanes Bakery: A Arte da Pastelaria Venezuelana Conquista Nova Iorque (Estados Unidos)
+**Restaurante:** Jhoanes Bakery (Astoria) | **Data:** Maio 2026 | [Link](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFnVuqKGIQT5Cf2QWHmfDQj_IMKRWO3pZTLTl7d0zK9f5pf4GlDe5dWdpt9tk4AbQChfaxozlyr9rci2ZNExhCveXWyACEFdq7WkZ0tcGtO4IZnPEPS9XwZUChHKJzt_zPXdevevdF_N_uah8zejD9iDpkkTtKRpFRlghGvC6DaW84TVaaSNnzRz7g4mlKty3u2Gf22YdojxT7-3sNFVqX0hU9LMurnhz7wGhu8ZLniBA==)
+
+Jhoanes Estupiñan, pasteleiro venezuelano, brilha em Astoria, Nova Iorque, com a Jhoanes Bakery. As suas criações são "obras de arte" que combinam ingredientes de luxo como ouro de 24 quilates e chocolates exóticos, redefinindo a pastelaria e destacando o talento venezuelano na cena internacional.
+
+--- 
 
 ## 🇻🇪 El Rincón de la Arepa: A Tradição Venezuelana que Conquista Paladares em Caracas (Venezuela)
 **Restaurante:** El Rincón de la Arepa (Caracas) | **Data:** Junho 2024 | [Link](https://www.gastronomiavenezolana.com/el-rincon-de-la-arepa-caracas-review)
@@ -32,27 +53,6 @@ Tia Flor Toronto se destaca como um ícone da gastronomia de fusão, unindo o me
 **Restaurante:** Demo y "Por la Cachapa" (Lima) | **Data:** Maio 2026 | [Link](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFMcAYS4JHWHWdsWMdTHWXS6dvZDaTuZp4ZgeYhMeXx2WMh2FTBxCsoMBpEzMPV9peAuRdN6hizBkr16vOGL8ON942gx37ZabjHVRDuZTNZhmp_royFpvhZF-G4Fs0rF_jIaUgvRAsdr_bjZmANh071UABZxADS9AUUMiF2JnGaumiAm111Tz4=)
 
 Demo, uma cafeteria da moda em Lima, integra com sucesso a comida venezuelana, oferecendo cachapas e arepas. Liderado pelo chef Juan Luis Martínez, o restaurante impulsionou "Por la Cachapa" em julho de 2026, um evento solidário onde mais de 30 restaurantes criaram cachapas inovadoras para arrecadar fundos para comunidades venezuelanas afetadas por um terremoto.
-
---- 
-
-## 🇪🇸 Hipocampo em Malasaña: Um Novo Canto Madrileno com Alma Venezuelana (España)
-**Restaurante:** Hipocampo (Madrid) | **Data:** Maio 2026 | [Link](https://www.larazon.es/madrid/mas-mas-aperturas-gastronomicas-madrid-siempre-apetecen_202609286720e972982d6b00018a1005.html)
-
-Hipocampo, a nova joia gastronômica em Malasaña, Madrid, traz a essência venezuelana para a capital espanhola. Inaugurado por Manuel Araya e Daniel Cegarra, oferece clássicos reinventados como mexilhões tigre com toque venezuelano e um frango braseado que evoca as polleras caraquenhas. Uma proposta fresca e autêntica que celebra a diversidade culinária.
-
---- 
-
-## 🇮🇹 Venezuela Brilha em Roma: Tradição e Soberania Alimentar na Expo Mundial (Italia)
-**Restaurante:** Expo "De la Semilla al Alimento" (Roma) | **Data:** Maio 2026 | [Link](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEyz5zUUQDdlStQD5xKWt75SFfA_Va_Oz0QVXmBI9fW4Ct_Rcu2IieVA7Wqt8hVN0zuzK1hv-TcPgH63bHzP-dgxhtZh3ob1GbVkQHOhzy1-kSAyMepZ4Na96YeCczbuEt0BvOEjva6deD_xwrVTFGHTCmKReOY63Ft-cxth5sMy4li1IWPP0dSJJjbf1zhQGpdHXd1b0OuaOS3iHYBI8AE5KEjZOlftebYcV8ZYJq6ALkjd7iZtcVL)
-
-Venezuela se destacou na Expo "Da Semente ao Alimento" em Roma, mostrando seus avanços em soberania agroalimentar e a riqueza de seus saberes ancestrais. Com demonstrações do processamento da mandioca e a preparação do pavilhão crioulo, o país reafirmou seu compromisso com a tradição e inovação alimentar global.
-
---- 
-
-## 🇵🇹 Restaurante Barrinhos: A Fusão Culinária Venezuelana-Portuguesa que Conquista o Algarve (Portugal)
-**Restaurante:** Restaurante Barrinhos (Algarve) | **Data:** Maio 2026 | [Link](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF6P_pY-d3BJZnDbQuK_g2bMHGjpa_WqcsTYWlmV-ueyMrSv1lMpo107W_txrt4ZWBzgdIsnh4EmIgLVzy99cfw9ExUoFlYEM5l1g4WljSx8LygEhzmbTTsliuaQgpcJoJ7E7nj0VQ=)
-
-O Restaurante Barrinhos no Algarve, Portugal, destaca-se pela sua inovadora fusão de sabores venezuelanos e portugueses. Oferecendo uma experiência gastronómica única com pratos caseiros e frescos, este estabelecimento tornou-se um ponto de encontro cultural, celebrando a riqueza de ambas as tradições culinárias num único menu diverso e autêntico.
 
 --- 
 
