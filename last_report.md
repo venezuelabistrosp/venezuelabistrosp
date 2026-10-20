@@ -1,4 +1,25 @@
-# Relatório de Pesquisa de Tendências (Nuvem) - 2026-10-19 21:22:59
+# Relatório de Pesquisa de Tendências (Nuvem) - 2026-10-20 20:20:29
+
+## 🇻🇪 Venezuela Conquista o Mundo! O Pabellón Criollo Vence o Mundial de Comidas 2026 (Venezuela)
+**Restaurante:** Mundial de Comidas 2026 (Evento Virtual) | **Data:** Maio 2026 | [Link](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHaCvwweHM7Z4A4wPnBHiqYQvf-Pjm2ZkU-9rYl7SYBPkcRuz37StenRDPcveWQf8SAK1rGJORTylqAOcoZh1oAfeslh9h_7xIuYbLhoD8orGit_nwcVy7J6PFBi3TOi5H4w_6piU3l_ASebesn54BMzTv53jmn0z4XdVoobIDHaNe5nfKYynw_7jCqQ==)
+
+A gastronomia venezuelana celebra uma vitória histórica no Mundial de Comidas 2026, organizado por Ibai Llanos. O icónico Pabellón Criollo superou o ceviche peruano com milhões de votos, consolidando o seu lugar no paladar global e destacando a riqueza culinária do país.
+
+--- 
+
+## 🇻🇪 Excelência Venezuelana: Restaurantes Destacam-se no Prestigiado Guia 50 Best Discovery 2026 (Venezuela)
+**Restaurante:** Mérito (Lima) | **Data:** Maio 2026 | [Link](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGip9PZF4Ml0GiCjGhzaRJfh8zRdvT_8JxVdhOgUB2hbvWEXZnv-XTo3-LmZrKotN0QRvawLyY4IhHaZ4pNuVrrvupBNnnR06CVzhjNe0CUDsOrujAFRBjP6g9NIl85Rva6OZdJFGzekc1ddJiiio5RHbqpT8roqRylwCSENe3HsR4=)
+
+Vários restaurantes venezuelanos foram reconhecidos na atualização de 2026 do 50 Best Discovery, incluindo El Bosque Bistro em Caracas, Dining Room em Valência e Mérito em Lima, este último como o melhor posicionado globalmente, celebrando a alta cozinha venezuelana.
+
+--- 
+
+## 🇵🇹 Sabor e Alegria: A Festa Gastronómica Venezuelana Chega a Funchal, Madeira em 2026 (Portugal)
+**Restaurante:** Fiesta Gastronómica Venezolana (Funchal) | **Data:** Maio 2026 | [Link](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEy1-7S8l6NeBH3bRtzXYhOGtSCkS1iXRtFHiq8EkcBHkVEnbumnYK9RXUGTiBFxtRvulQZ0m2nYUIdQJmb6uJe21-tVtz81OUCyZXROMn8WOrU7k1c0IeB5Sq_8zYZ1tmVxK9FUsssX01BtZ9XCgl1oqWE0qo8h2t9Gm_Ffvd-XtWpMXFuLua2e0LCQKfSRjJZXneyp_QMwA8uQtpc8SUpgyts8xJDWtwC6N4gYR4VfmpMqbhI)
+
+Funchal, Madeira, prepara-se para a Festa Gastronómica Venezuelana 2026, um evento que celebrará a rica cozinha tradicional e a vibrante cultura da Venezuela. Haverá bancas de comida, música e manifestações culturais, promovendo um intercâmbio único.
+
+--- 
 
 ## 🇻🇪 Dining Room em Valência: A Alta Cozinha Venezuelana Redefinida por Frank Parada (Venezuela)
 **Restaurante:** Dining Room (Valencia) | **Data:** Maio 2026 | [Link](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQExQ2kK8FqEGKFIMxyRUkxk3Af95ECNhiLf_SFeIQZXC9G1MJCsZDM3y2X2LTWIdAEoknTQvHHBtGMUEVBiOmOkl5kIDVcNG5jMKu2Hr8w6I0sUBoqscB3-X_9m4vpfzu1p4koCDXGmCjCZAJAuo96SOsNKPnMpLfJq39XzrOmWkcXtlZiwYfL-plMylICCWkqt_7idwwinShSuGiwYWPU)
@@ -32,27 +53,6 @@ Descubra El Rincón de la Arepa em Caracas, um santuário culinário onde a arep
 **Restaurante:** Sabor Zuliano (Maracaibo) | **Data:** Junho 2024 | [Link](https://www.maracaibocome.com/sabor-zuliano-pabellon-criollo-autentico)
 
 Sabor Zuliano em Maracaibo é o destino definitivo para experimentar o autêntico Pabellón Criollo. Este restaurante celebra a rica herança culinária do Zulia, oferecendo uma versão magistral do prato nacional, juntamente com outras delícias regionais que capturam a essência da gastronomia venezuelana em cada mordida.
-
---- 
-
-## 🇻🇪 La Casa del Tequeño: A Revolução do Petisco Venezuelano em Valência (Venezuela)
-**Restaurante:** La Casa del Tequeño (Valencia) | **Data:** Junho 2024 | [Link](https://www.valenciafoodie.com/la-casa-del-tequeno-innovacion-y-tradicion)
-
-La Casa del Tequeño em Valência está redefinindo o conceito do petisco venezuelano. Com uma variedade impressionante de tequeños, dos clássicos às fusões inovadoras, este lugar tornou-se um fenômeno gastronômico, celebrando a versatilidade deste amado petisco e atraindo todos que buscam um sabor autêntico e criativo.
-
---- 
-
-## 🇨🇦 Tia Flor Toronto: A Explosiva Fusão Venezuelana-Mexicana que Conquista o Canadá (Canadá)
-**Restaurante:** Tia Flor Toronto (Toronto) | **Data:** Maio 2026 | [Link](https://www.instagram.com/p/C47D871OTKk/)
-
-Tia Flor Toronto se destaca como um ícone da gastronomia de fusão, unindo o melhor da Venezuela e do México. Com arepas personalizáveis, tacos, tequeños e o famoso "Pepito Naguará", este restaurante oferece uma experiência culinária vibrante. Seus aguachiles e coquetéis de camarão, junto a sucos tropicais, convidam a uma viagem de sabores autênticos no Canadá.
-
---- 
-
-## 🇵🇪 Demo e "Por la Cachapa": A Gastronomia Venezuelana Conquista Lima com Sabor e Solidariedade (Perú)
-**Restaurante:** Demo y "Por la Cachapa" (Lima) | **Data:** Maio 2026 | [Link](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFMcAYS4JHWHWdsWMdTHWXS6dvZDaTuZp4ZgeYhMeXx2WMh2FTBxCsoMBpEzMPV9peAuRdN6hizBkr16vOGL8ON942gx37ZabjHVRDuZTNZhmp_royFpvhZF-G4Fs0rF_jIaUgvRAsdr_bjZmANh071UABZxADS9AUUMiF2JnGaumiAm111Tz4=)
-
-Demo, uma cafeteria da moda em Lima, integra com sucesso a comida venezuelana, oferecendo cachapas e arepas. Liderado pelo chef Juan Luis Martínez, o restaurante impulsionou "Por la Cachapa" em julho de 2026, um evento solidário onde mais de 30 restaurantes criaram cachapas inovadoras para arrecadar fundos para comunidades venezuelanas afetadas por um terremoto.
 
 --- 
 
