@@ -1,4 +1,18 @@
-# Relatório de Pesquisa de Tendências (Nuvem) - 2026-10-20 20:20:29
+# Relatório de Pesquisa de Tendências (Nuvem) - 2026-10-21 20:29:20
+
+## 🇪🇸 P.A.N. Revoluciona o Mercado Global com suas Novas Arepas Congeladas Pré-Cozidas (España)
+**Restaurante:** Lanzamiento de Arepas Congeladas P.A.N. (España y Global) | **Data:** Maio 2026 | [Link](https://www.empresaspolar.com/alimentos-polar-venezuela/noticias/lanzamiento-nuevas-arepas-congeladas)
+
+P.A.N. lança arepas congeladas pré-cozidas na Espanha e no mundo, um marco para a marca. Prontas em 9 minutos, este produto inovador busca democratizar o consumo de arepas, facilitando sua preparação e aproximando este ícone venezuelano de novos públicos, marcando um antes e um depois em sua expansão internacional.
+
+--- 
+
+## 🇻🇪 Sabe a Venezuela Expo Feria 2026: Celebrando a Riqueza Gastronômica Nacional (Venezuela)
+**Restaurante:** Sabe a Venezuela Expo Feria 2026 (Carabobo) | **Data:** Maio 2026 | [Link](https://www.youtube.com/watch?v=2-y0aJkLw8I)
+
+A Expo Feria Sabe a Venezuela 2026 em Carabobo impulsiona produtos emblemáticos como cacau, café e destilados. Com a "Cacaoteca", concursos de chocolate e barismo, este evento fortalece a identidade gastronômica venezuelana, promovendo a profissionalização e o reconhecimento de seus sabores autóctones a nível nacional.
+
+--- 
 
 ## 🇻🇪 Venezuela Conquista o Mundo! O Pabellón Criollo Vence o Mundial de Comidas 2026 (Venezuela)
 **Restaurante:** Mundial de Comidas 2026 (Evento Virtual) | **Data:** Maio 2026 | [Link](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHaCvwweHM7Z4A4wPnBHiqYQvf-Pjm2ZkU-9rYl7SYBPkcRuz37StenRDPcveWQf8SAK1rGJORTylqAOcoZh1oAfeslh9h_7xIuYbLhoD8orGit_nwcVy7J6PFBi3TOi5H4w_6piU3l_ASebesn54BMzTv53jmn0z4XdVoobIDHaNe5nfKYynw_7jCqQ==)
@@ -39,20 +53,6 @@ A Associação AADEM organiza a Festa Gastronómica Venezuelana 2026 no Funchal,
 **Restaurante:** Jhoanes Bakery (Astoria) | **Data:** Maio 2026 | [Link](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFnVuqKGIQT5Cf2QWHmfDQj_IMKRWO3pZTLTl7d0zK9f5pf4GlDe5dWdpt9tk4AbQChfaxozlyr9rci2ZNExhCveXWyACEFdq7WkZ0tcGtO4IZnPEPS9XwZUChHKJzt_zPXdevevdF_N_uah8zejD9iDpkkTtKRpFRlghGvC6DaW84TVaaSNnzRz7g4mlKty3u2Gf22YdojxT7-3sNFVqX0hU9LMurnhz7wGhu8ZLniBA==)
 
 Jhoanes Estupiñan, pasteleiro venezuelano, brilha em Astoria, Nova Iorque, com a Jhoanes Bakery. As suas criações são "obras de arte" que combinam ingredientes de luxo como ouro de 24 quilates e chocolates exóticos, redefinindo a pastelaria e destacando o talento venezuelano na cena internacional.
-
---- 
-
-## 🇻🇪 El Rincón de la Arepa: A Tradição Venezuelana que Conquista Paladares em Caracas (Venezuela)
-**Restaurante:** El Rincón de la Arepa (Caracas) | **Data:** Junho 2024 | [Link](https://www.gastronomiavenezolana.com/el-rincon-de-la-arepa-caracas-review)
-
-Descubra El Rincón de la Arepa em Caracas, um santuário culinário onde a arepa venezuelana é elevada à arte. Com recheios inovadores e clássicos, este lugar tornou-se um ponto de referência para os amantes da gastronomia local, oferecendo uma experiência autêntica e deliciosa que celebra a riqueza da Venezuela.
-
---- 
-
-## 🇻🇪 Sabor Zuliano: Onde o Pabellón Criollo de Maracaibo é uma Lenda Viva (Venezuela)
-**Restaurante:** Sabor Zuliano (Maracaibo) | **Data:** Junho 2024 | [Link](https://www.maracaibocome.com/sabor-zuliano-pabellon-criollo-autentico)
-
-Sabor Zuliano em Maracaibo é o destino definitivo para experimentar o autêntico Pabellón Criollo. Este restaurante celebra a rica herança culinária do Zulia, oferecendo uma versão magistral do prato nacional, juntamente com outras delícias regionais que capturam a essência da gastronomia venezuelana em cada mordida.
 
 --- 
 
