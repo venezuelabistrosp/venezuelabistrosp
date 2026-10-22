@@ -1,4 +1,11 @@
-# Relatório de Pesquisa de Tendências (Nuvem) - 2026-10-21 20:29:20
+# Relatório de Pesquisa de Tendências (Nuvem) - 2026-10-22 20:27:13
+
+## 🇪🇸 La Cachapera: Sabor Venezuelano Conquista Madrid com Nova Abertura e Cachinachos Inovadores (España)
+**Restaurante:** La Cachapera (Madrid) | **Data:** Maio 2026 | [Link](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGql-DVISqzHwGRTUUvVuQGstKYs6eTjbf2oC8DlCWAyYrMmcZUb8wwRbZP1AUNYUxt-slfKIo_hUImNp5Mi7uw6vqpdsTw1JayAphwC92dyftcCn-EDhtR7-MEiPhuZHSZVqlHUviQo-KWJBsZ84i-KczaMoatSZ9pnvNsZlwUuCfHgqq9qGSJ)
+
+La Cachapera consolida sua expansão na Espanha com a abertura de sua segunda unidade em Madrid, totalizando seis restaurantes no país. Famosa por suas cachapas e os inovadores "cachinachos", a marca projeta um crescimento ambicioso para outras cidades espanholas e mercados europeus, reafirmando seu sucesso e a popularidade da gastronomia venezuelana.
+
+--- 
 
 ## 🇪🇸 P.A.N. Revoluciona o Mercado Global com suas Novas Arepas Congeladas Pré-Cozidas (España)
 **Restaurante:** Lanzamiento de Arepas Congeladas P.A.N. (España y Global) | **Data:** Maio 2026 | [Link](https://www.empresaspolar.com/alimentos-polar-venezuela/noticias/lanzamiento-nuevas-arepas-congeladas)
@@ -46,13 +53,6 @@ O chef Frank Parada regressa à Venezuela para liderar o Dining Room em Valênci
 **Restaurante:** Fiesta Gastronómica Venezolana 2026 (Funchal) | **Data:** Maio 2026 | [Link](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFGqgg0ZakeHiNZdD7TBZ3S_URmY1IL3_YCfuQHt5Y4dUvNd44pHsfU1uUh4av_xrGhm0ZE6BCkNf_fgHkH5RIRISuL2965yXYM7kUvd1ekw5NErjfX194FNLAkUzRHhWB1_sczNOpO-_9dOVlOL3ocNbYR3JmywCs0R_APXkXpUzvGswdy2hJqnBwlaUcQ0t6ryNP-mUJtw2b-8AegL4NIi43hUOyPQyv4GJDXpDuQhCxwPxzdcw==)
 
 A Associação AADEM organiza a Festa Gastronómica Venezuelana 2026 no Funchal, Madeira. Este evento promete uma imersão cultural com música, arte e, acima de tudo, uma vasta oferta de pratos tradicionais venezuelanos, consolidando a presença da sua rica gastronomia em Portugal.
-
---- 
-
-## 🇺🇸 Jhoanes Bakery: A Arte da Pastelaria Venezuelana Conquista Nova Iorque (Estados Unidos)
-**Restaurante:** Jhoanes Bakery (Astoria) | **Data:** Maio 2026 | [Link](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFnVuqKGIQT5Cf2QWHmfDQj_IMKRWO3pZTLTl7d0zK9f5pf4GlDe5dWdpt9tk4AbQChfaxozlyr9rci2ZNExhCveXWyACEFdq7WkZ0tcGtO4IZnPEPS9XwZUChHKJzt_zPXdevevdF_N_uah8zejD9iDpkkTtKRpFRlghGvC6DaW84TVaaSNnzRz7g4mlKty3u2Gf22YdojxT7-3sNFVqX0hU9LMurnhz7wGhu8ZLniBA==)
-
-Jhoanes Estupiñan, pasteleiro venezuelano, brilha em Astoria, Nova Iorque, com a Jhoanes Bakery. As suas criações são "obras de arte" que combinam ingredientes de luxo como ouro de 24 quilates e chocolates exóticos, redefinindo a pastelaria e destacando o talento venezuelano na cena internacional.
 
 --- 
 
