@@ -1,4 +1,11 @@
-# Relatório de Pesquisa de Tendências (Nuvem) - 2026-10-22 20:27:13
+# Relatório de Pesquisa de Tendências (Nuvem) - 2026-10-23 20:15:18
+
+## 🇺🇸 Tequeñomania: A Revolução Gourmet do Tequeño Venezuelano em Miami (Estados Unidos)
+**Restaurante:** Tequeñomania (Miami) | **Data:** Maio 2026 | [Link](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEG7UKVb17xJfCs6ibiguuWGKoGBadGDoNJRSAKtx6kUZOEBMlXHJ2xPtptEDIbCGCje5ERi8N_TZ-LVzjDQSeZxo45itYCT85FLN2axwYDeJ3vpFE=)
+
+A Tequeñomania está redefinindo o tequeño venezuelano em Miami com uma oferta gourmet e saudável. Com duas lojas e uma fábrica, oferecem desde os clássicos até opções sem glúten de mandioca e banana verde. Seu compromisso com a qualidade e inovação os torna uma referência da gastronomia venezuelana nos Estados Unidos, expandindo o sabor tradicional com um toque moderno.
+
+--- 
 
 ## 🇪🇸 La Cachapera: Sabor Venezuelano Conquista Madrid com Nova Abertura e Cachinachos Inovadores (España)
 **Restaurante:** La Cachapera (Madrid) | **Data:** Maio 2026 | [Link](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGql-DVISqzHwGRTUUvVuQGstKYs6eTjbf2oC8DlCWAyYrMmcZUb8wwRbZP1AUNYUxt-slfKIo_hUImNp5Mi7uw6vqpdsTw1JayAphwC92dyftcCn-EDhtR7-MEiPhuZHSZVqlHUviQo-KWJBsZ84i-KczaMoatSZ9pnvNsZlwUuCfHgqq9qGSJ)
@@ -46,13 +53,6 @@ Funchal, Madeira, prepara-se para a Festa Gastronómica Venezuelana 2026, um eve
 **Restaurante:** Dining Room (Valencia) | **Data:** Maio 2026 | [Link](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQExQ2kK8FqEGKFIMxyRUkxk3Af95ECNhiLf_SFeIQZXC9G1MJCsZDM3y2X2LTWIdAEoknTQvHHBtGMUEVBiOmOkl5kIDVcNG5jMKu2Hr8w6I0sUBoqscB3-X_9m4vpfzu1p4koCDXGmCjCZAJAuo96SOsNKPnMpLfJq39XzrOmWkcXtlZiwYfL-plMylICCWkqt_7idwwinShSuGiwYWPU)
 
 O chef Frank Parada regressa à Venezuela para liderar o Dining Room em Valência, um restaurante que eleva a gastronomia local com técnicas de vanguarda e apresentações sofisticadas. O seu menu celebra os ingredientes venezuelanos, oferecendo uma experiência culinária contemporânea que o posiciona como uma referência nacional.
-
---- 
-
-## 🇵🇹 Funchal Celebra a Cultura Venezuelana: Uma Festa Gastronómica Inesquecível em 2026 (Portugal)
-**Restaurante:** Fiesta Gastronómica Venezolana 2026 (Funchal) | **Data:** Maio 2026 | [Link](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFGqgg0ZakeHiNZdD7TBZ3S_URmY1IL3_YCfuQHt5Y4dUvNd44pHsfU1uUh4av_xrGhm0ZE6BCkNf_fgHkH5RIRISuL2965yXYM7kUvd1ekw5NErjfX194FNLAkUzRHhWB1_sczNOpO-_9dOVlOL3ocNbYR3JmywCs0R_APXkXpUzvGswdy2hJqnBwlaUcQ0t6ryNP-mUJtw2b-8AegL4NIi43hUOyPQyv4GJDXpDuQhCxwPxzdcw==)
-
-A Associação AADEM organiza a Festa Gastronómica Venezuelana 2026 no Funchal, Madeira. Este evento promete uma imersão cultural com música, arte e, acima de tudo, uma vasta oferta de pratos tradicionais venezuelanos, consolidando a presença da sua rica gastronomia em Portugal.
 
 --- 
 
