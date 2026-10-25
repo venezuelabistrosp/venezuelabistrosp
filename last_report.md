@@ -1,4 +1,11 @@
-# Relatório de Pesquisa de Tendências (Nuvem) - 2026-10-23 20:15:18
+# Relatório de Pesquisa de Tendências (Nuvem) - 2026-10-25 19:28:48
+
+## 🇻🇪 Arepa Food Fest 2026: A Arepa Venezuelana Reinventa seu Sabor em Caracas (Venezuela)
+**Restaurante:** Arepa Food Fest 2026 (Caracas) | **Data:** Maio 2026 | [Link](https://elestimulo.com/bienmesabe/gastronomia/2026/06/19/el-arepa-food-fest-2026-se-celebrara-del-19-al-28-de-junio-en-12-restaurantes/)
+
+O Arepa Food Fest 2026 em Caracas celebra a arepa venezuelana com propostas inovadoras de 12 restaurantes. Desde "La Mundial" com costela de porco asiática até "10:80 Signature" com bacon e banana, o festival impulsiona a criatividade culinária e conecta o público com a evolução deste prato icônico, destacando recheios e apresentações ousadas.
+
+--- 
 
 ## 🇺🇸 Tequeñomania: A Revolução Gourmet do Tequeño Venezuelano em Miami (Estados Unidos)
 **Restaurante:** Tequeñomania (Miami) | **Data:** Maio 2026 | [Link](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEG7UKVb17xJfCs6ibiguuWGKoGBadGDoNJRSAKtx6kUZOEBMlXHJ2xPtptEDIbCGCje5ERi8N_TZ-LVzjDQSeZxo45itYCT85FLN2axwYDeJ3vpFE=)
@@ -46,13 +53,6 @@ Vários restaurantes venezuelanos foram reconhecidos na atualização de 2026 do
 **Restaurante:** Fiesta Gastronómica Venezolana (Funchal) | **Data:** Maio 2026 | [Link](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEy1-7S8l6NeBH3bRtzXYhOGtSCkS1iXRtFHiq8EkcBHkVEnbumnYK9RXUGTiBFxtRvulQZ0m2nYUIdQJmb6uJe21-tVtz81OUCyZXROMn8WOrU7k1c0IeB5Sq_8zYZ1tmVxK9FUsssX01BtZ9XCgl1oqWE0qo8h2t9Gm_Ffvd-XtWpMXFuLua2e0LCQKfSRjJZXneyp_QMwA8uQtpc8SUpgyts8xJDWtwC6N4gYR4VfmpMqbhI)
 
 Funchal, Madeira, prepara-se para a Festa Gastronómica Venezuelana 2026, um evento que celebrará a rica cozinha tradicional e a vibrante cultura da Venezuela. Haverá bancas de comida, música e manifestações culturais, promovendo um intercâmbio único.
-
---- 
-
-## 🇻🇪 Dining Room em Valência: A Alta Cozinha Venezuelana Redefinida por Frank Parada (Venezuela)
-**Restaurante:** Dining Room (Valencia) | **Data:** Maio 2026 | [Link](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQExQ2kK8FqEGKFIMxyRUkxk3Af95ECNhiLf_SFeIQZXC9G1MJCsZDM3y2X2LTWIdAEoknTQvHHBtGMUEVBiOmOkl5kIDVcNG5jMKu2Hr8w6I0sUBoqscB3-X_9m4vpfzu1p4koCDXGmCjCZAJAuo96SOsNKPnMpLfJq39XzrOmWkcXtlZiwYfL-plMylICCWkqt_7idwwinShSuGiwYWPU)
-
-O chef Frank Parada regressa à Venezuela para liderar o Dining Room em Valência, um restaurante que eleva a gastronomia local com técnicas de vanguarda e apresentações sofisticadas. O seu menu celebra os ingredientes venezuelanos, oferecendo uma experiência culinária contemporânea que o posiciona como uma referência nacional.
 
 --- 
 
