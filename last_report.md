@@ -1,4 +1,11 @@
-# Relatório de Pesquisa de Tendências (Nuvem) - 2026-10-25 19:28:48
+# Relatório de Pesquisa de Tendências (Nuvem) - 2026-10-26 21:27:28
+
+## 🇻🇪 Venezuela Brilha no 50 Best Discovery 2026: Seis Restaurantes Elevam sua Gastronomia (Venezuela)
+**Restaurante:** Varios Restaurantes (Caracas y Valencia) | **Data:** Maio 2026 | [Link](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEWgBpxCwAojf96rNZPh5FyezF5stlG795Rk43rTUQkDKGrWF7CZSsCB0ZN3Nv2EuXbc1oC4wZxePcNtCRhzS4gsaFY_QTiv_mlVvUxguEk7pRjWknUXSEPws0_2I-x58mAs4kmyjJrCqDIdMRYAehe5-_NQidDEDYZ73hiIwsETvDDwfLBO9eDXVpw89Uzdp3U33hL)
+
+A plataforma 50 Best Discovery reconheceu seis restaurantes venezuelanos em seu guia global de 2026, destacando a excelência culinária do país. Quatro deles estreiam na lista, incluindo Dining Room de Valência e El Bosque Bistró de Caracas, consolidando a gastronomia venezuelana no cenário internacional com propostas inovadoras e respeito pelos ingredientes locais.
+
+--- 
 
 ## 🇻🇪 Arepa Food Fest 2026: A Arepa Venezuelana Reinventa seu Sabor em Caracas (Venezuela)
 **Restaurante:** Arepa Food Fest 2026 (Caracas) | **Data:** Maio 2026 | [Link](https://elestimulo.com/bienmesabe/gastronomia/2026/06/19/el-arepa-food-fest-2026-se-celebrara-del-19-al-28-de-junio-en-12-restaurantes/)
@@ -46,13 +53,6 @@ A gastronomia venezuelana celebra uma vitória histórica no Mundial de Comidas 
 **Restaurante:** Mérito (Lima) | **Data:** Maio 2026 | [Link](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGip9PZF4Ml0GiCjGhzaRJfh8zRdvT_8JxVdhOgUB2hbvWEXZnv-XTo3-LmZrKotN0QRvawLyY4IhHaZ4pNuVrrvupBNnnR06CVzhjNe0CUDsOrujAFRBjP6g9NIl85Rva6OZdJFGzekc1ddJiiio5RHbqpT8roqRylwCSENe3HsR4=)
 
 Vários restaurantes venezuelanos foram reconhecidos na atualização de 2026 do 50 Best Discovery, incluindo El Bosque Bistro em Caracas, Dining Room em Valência e Mérito em Lima, este último como o melhor posicionado globalmente, celebrando a alta cozinha venezuelana.
-
---- 
-
-## 🇵🇹 Sabor e Alegria: A Festa Gastronómica Venezuelana Chega a Funchal, Madeira em 2026 (Portugal)
-**Restaurante:** Fiesta Gastronómica Venezolana (Funchal) | **Data:** Maio 2026 | [Link](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEy1-7S8l6NeBH3bRtzXYhOGtSCkS1iXRtFHiq8EkcBHkVEnbumnYK9RXUGTiBFxtRvulQZ0m2nYUIdQJmb6uJe21-tVtz81OUCyZXROMn8WOrU7k1c0IeB5Sq_8zYZ1tmVxK9FUsssX01BtZ9XCgl1oqWE0qo8h2t9Gm_Ffvd-XtWpMXFuLua2e0LCQKfSRjJZXneyp_QMwA8uQtpc8SUpgyts8xJDWtwC6N4gYR4VfmpMqbhI)
-
-Funchal, Madeira, prepara-se para a Festa Gastronómica Venezuelana 2026, um evento que celebrará a rica cozinha tradicional e a vibrante cultura da Venezuela. Haverá bancas de comida, música e manifestações culturais, promovendo um intercâmbio único.
 
 --- 
 
