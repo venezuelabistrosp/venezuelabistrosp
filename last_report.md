@@ -1,4 +1,11 @@
-# Relatório de Pesquisa de Tendências (Nuvem) - 2026-10-26 21:27:28
+# Relatório de Pesquisa de Tendências (Nuvem) - 2026-10-27 21:09:09
+
+## 🇵🇹 Funchal celebra a vibrante Festa Gastronómica Venezuelana 2026: Sabor e Cultura na Madeira (Portugal)
+**Restaurante:** Fiesta Gastronómica Venezolana 2026 (Funchal) | **Data:** Maio 2026 | [Link](https://correiodelvenezuela.com/funchal-albergara-la-fiesta-gastronomica-venezolana-2026-del-18-al-20-de-septiembre/)
+
+Funchal, Madeira, prepara-se para acolher a Festa Gastronómica Venezuelana 2026, um evento de três dias que funde a rica cozinha tradicional, música e expressões culturais da Venezuela. Este encontro promete ser um vibrante espaço de intercâmbio para a comunidade luso-venezuelana, locais e visitantes, celebrando a diversidade culinária e o espírito venezuelano.
+
+--- 
 
 ## 🇻🇪 Venezuela Brilha no 50 Best Discovery 2026: Seis Restaurantes Elevam sua Gastronomia (Venezuela)
 **Restaurante:** Varios Restaurantes (Caracas y Valencia) | **Data:** Maio 2026 | [Link](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEWgBpxCwAojf96rNZPh5FyezF5stlG795Rk43rTUQkDKGrWF7CZSsCB0ZN3Nv2EuXbc1oC4wZxePcNtCRhzS4gsaFY_QTiv_mlVvUxguEk7pRjWknUXSEPws0_2I-x58mAs4kmyjJrCqDIdMRYAehe5-_NQidDEDYZ73hiIwsETvDDwfLBO9eDXVpw89Uzdp3U33hL)
@@ -46,13 +53,6 @@ A Expo Feria Sabe a Venezuela 2026 em Carabobo impulsiona produtos emblemáticos
 **Restaurante:** Mundial de Comidas 2026 (Evento Virtual) | **Data:** Maio 2026 | [Link](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHaCvwweHM7Z4A4wPnBHiqYQvf-Pjm2ZkU-9rYl7SYBPkcRuz37StenRDPcveWQf8SAK1rGJORTylqAOcoZh1oAfeslh9h_7xIuYbLhoD8orGit_nwcVy7J6PFBi3TOi5H4w_6piU3l_ASebesn54BMzTv53jmn0z4XdVoobIDHaNe5nfKYynw_7jCqQ==)
 
 A gastronomia venezuelana celebra uma vitória histórica no Mundial de Comidas 2026, organizado por Ibai Llanos. O icónico Pabellón Criollo superou o ceviche peruano com milhões de votos, consolidando o seu lugar no paladar global e destacando a riqueza culinária do país.
-
---- 
-
-## 🇻🇪 Excelência Venezuelana: Restaurantes Destacam-se no Prestigiado Guia 50 Best Discovery 2026 (Venezuela)
-**Restaurante:** Mérito (Lima) | **Data:** Maio 2026 | [Link](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGip9PZF4Ml0GiCjGhzaRJfh8zRdvT_8JxVdhOgUB2hbvWEXZnv-XTo3-LmZrKotN0QRvawLyY4IhHaZ4pNuVrrvupBNnnR06CVzhjNe0CUDsOrujAFRBjP6g9NIl85Rva6OZdJFGzekc1ddJiiio5RHbqpT8roqRylwCSENe3HsR4=)
-
-Vários restaurantes venezuelanos foram reconhecidos na atualização de 2026 do 50 Best Discovery, incluindo El Bosque Bistro em Caracas, Dining Room em Valência e Mérito em Lima, este último como o melhor posicionado globalmente, celebrando a alta cozinha venezuelana.
 
 --- 
 
