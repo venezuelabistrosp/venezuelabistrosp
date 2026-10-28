@@ -1,4 +1,18 @@
-# Relatório de Pesquisa de Tendências (Nuvem) - 2026-10-27 21:09:09
+# Relatório de Pesquisa de Tendências (Nuvem) - 2026-10-28 21:32:38
+
+## 🇪🇸 La Cachapera: O Sabor Venezuelano Conquista a Espanha com um Conceito Inovador e Escalável (España)
+**Restaurante:** La Cachapera (España) | **Data:** Maio 2026 | [Link](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGdQIUjzBn74nrH16jwy0kxvltvJdbA833eb6nwBpLmmCgxJBl6YYXWMi4fDEiO2VITI8N__Ziw1CqAPERnFhGnnT9uoBN-aS8te_13QrV0OIxSkY_gBaBxR_8ZiCCVKeZKgxT3dw5q_XORiyMElB9XO4bEuK_GvqeVGLhlRc0ug5eBvMwOmkg_BLkfQl2fK9_h7Tfcgl1D7LekUBEFrgjM3thuCAombeZbmKKyJnVc3FIvSjipOXPPqtbss9tK2mtHbWe27xf)
+
+La Cachapera consolida-se como líder da gastronomia venezuelana em Espanha, expandindo-se para cidades como Saragoça e Málaga. Com um conceito experiencial focado nas cachapas, a marca fechou 2025 com 6,5 milhões de euros, demonstrando o sucesso do seu modelo de restauração organizado e escalável na Europa.
+
+--- 
+
+## 🇻🇪 Enrique Limardo Regressa à Venezuela: Uma Homenagem Michelin aos Sabores Autênticos do País (Venezuela)
+**Restaurante:** Evento Culinario Enrique Limardo (Caracas) | **Data:** Maio 2026 | [Link](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFo4OsLVS0MkjJZoO3Wn_OVAtA6nlSxC3IJVmkRD3ngqcfyXs185aHydCDtI3aAQhuITsr80avKZQ9xUXeiHD5N_USNRYBWincM6MTqjI0Lf4Tae6-ircKXhjPL_CAhNbly_bmVzqR7WL1ifAgC7LHWNUCEAB8yuOzww==)
+
+O aclamado chef Enrique Limardo, galardoado com uma estrela Michelin, regressou a Caracas em outubro de 2026 para um evento culinário exclusivo. Este encontro foi uma emotiva homenagem à gastronomia venezuelana e à sua rica despensa local, fundindo técnicas de alta cozinha com os sabores da sua memória.
+
+--- 
 
 ## 🇵🇹 Funchal celebra a vibrante Festa Gastronómica Venezuelana 2026: Sabor e Cultura na Madeira (Portugal)
 **Restaurante:** Fiesta Gastronómica Venezolana 2026 (Funchal) | **Data:** Maio 2026 | [Link](https://correiodelvenezuela.com/funchal-albergara-la-fiesta-gastronomica-venezolana-2026-del-18-al-20-de-septiembre/)
@@ -39,20 +53,6 @@ La Cachapera consolida sua expansão na Espanha com a abertura de sua segunda un
 **Restaurante:** Lanzamiento de Arepas Congeladas P.A.N. (España y Global) | **Data:** Maio 2026 | [Link](https://www.empresaspolar.com/alimentos-polar-venezuela/noticias/lanzamiento-nuevas-arepas-congeladas)
 
 P.A.N. lança arepas congeladas pré-cozidas na Espanha e no mundo, um marco para a marca. Prontas em 9 minutos, este produto inovador busca democratizar o consumo de arepas, facilitando sua preparação e aproximando este ícone venezuelano de novos públicos, marcando um antes e um depois em sua expansão internacional.
-
---- 
-
-## 🇻🇪 Sabe a Venezuela Expo Feria 2026: Celebrando a Riqueza Gastronômica Nacional (Venezuela)
-**Restaurante:** Sabe a Venezuela Expo Feria 2026 (Carabobo) | **Data:** Maio 2026 | [Link](https://www.youtube.com/watch?v=2-y0aJkLw8I)
-
-A Expo Feria Sabe a Venezuela 2026 em Carabobo impulsiona produtos emblemáticos como cacau, café e destilados. Com a "Cacaoteca", concursos de chocolate e barismo, este evento fortalece a identidade gastronômica venezuelana, promovendo a profissionalização e o reconhecimento de seus sabores autóctones a nível nacional.
-
---- 
-
-## 🇻🇪 Venezuela Conquista o Mundo! O Pabellón Criollo Vence o Mundial de Comidas 2026 (Venezuela)
-**Restaurante:** Mundial de Comidas 2026 (Evento Virtual) | **Data:** Maio 2026 | [Link](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHaCvwweHM7Z4A4wPnBHiqYQvf-Pjm2ZkU-9rYl7SYBPkcRuz37StenRDPcveWQf8SAK1rGJORTylqAOcoZh1oAfeslh9h_7xIuYbLhoD8orGit_nwcVy7J6PFBi3TOi5H4w_6piU3l_ASebesn54BMzTv53jmn0z4XdVoobIDHaNe5nfKYynw_7jCqQ==)
-
-A gastronomia venezuelana celebra uma vitória histórica no Mundial de Comidas 2026, organizado por Ibai Llanos. O icónico Pabellón Criollo superou o ceviche peruano com milhões de votos, consolidando o seu lugar no paladar global e destacando a riqueza culinária do país.
 
 --- 
 
