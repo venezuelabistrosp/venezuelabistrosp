@@ -1,4 +1,18 @@
-# Relatório de Pesquisa de Tendências (Nuvem) - 2026-10-28 21:32:38
+# Relatório de Pesquisa de Tendências (Nuvem) - 2026-10-29 21:37:45
+
+## 🇺🇸 MELLOW chega a Miami: A confeitaria venezuelana que revoluciona o paladar internacional. (Estados Unidos)
+**Restaurante:** MELLOW (Miami) | **Data:** Maio 2026 | [Link](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEdZGG51zwANsFrdZv-eURFK1xAO79eh-Pn62kClDJGU57Yv7RhVG4inDZ7dVFSNnCUHjZeLVeUCOv3l9lQJTir4oeewmjT_05BfO6joABjGjGCu7MK9ws6U-lzuHiH9b5w-4kEgCRkcZl9XR3oeQFmQv8JNngRkXJf_rQONNRkN0g-22wlwgEecXgtTKyBabZxJPRIIvwD2wW98VctiFSweUZzlwdT5T7ta9IUMPFEVJo5JASL)
+
+Mellow, a aclamada marca de confeitaria venezuelana, expande seu sucesso para Miami em agosto de 2026. Com suas inovadoras "Cake Box" e uma fusão de criatividade e design, busca oferecer uma experiência premium, mantendo sua essência venezuelana e adaptando-se ao exigente mercado internacional.
+
+--- 
+
+## 🇻🇪 El Bosque Bistró: A joia culinária de Caracas reconhecida pelo 50 Best Discovery 2026. (Venezuela)
+**Restaurante:** El Bosque Bistró (Caracas) | **Data:** Maio 2026 | [Link](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFts1r7j0wBGcTclI8ePbCZF55Jgz84RhMktFlWxQQ-tJDGCFTrEe0aryoBOyxKCz3cqrSUy6H0q6M6AlKcNZgYABtHP5BuqVV-0K5-J5HpJoa2v11eD-iKAM1olxwY8A1nlZCOmcuf-TWsu5p05-TdxpEfG6aYVbMJZM04cT9XDgY)
+
+El Bosque Bistró de Caracas foi incluído no prestigiado guia 50 Best Discovery 2026, um reconhecimento global à gastronomia venezuelana. Este bistrô destaca-se pelo ambiente relaxado, respeito pelos ingredientes locais e uma cozinha criativa inspirada nas raízes culturais do país.
+
+--- 
 
 ## 🇪🇸 La Cachapera: O Sabor Venezuelano Conquista a Espanha com um Conceito Inovador e Escalável (España)
 **Restaurante:** La Cachapera (España) | **Data:** Maio 2026 | [Link](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGdQIUjzBn74nrH16jwy0kxvltvJdbA833eb6nwBpLmmCgxJBl6YYXWMi4fDEiO2VITI8N__Ziw1CqAPERnFhGnnT9uoBN-aS8te_13QrV0OIxSkY_gBaBxR_8ZiCCVKeZKgxT3dw5q_XORiyMElB9XO4bEuK_GvqeVGLhlRc0ug5eBvMwOmkg_BLkfQl2fK9_h7Tfcgl1D7LekUBEFrgjM3thuCAombeZbmKKyJnVc3FIvSjipOXPPqtbss9tK2mtHbWe27xf)
@@ -39,20 +53,6 @@ O Arepa Food Fest 2026 em Caracas celebra a arepa venezuelana com propostas inov
 **Restaurante:** Tequeñomania (Miami) | **Data:** Maio 2026 | [Link](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEG7UKVb17xJfCs6ibiguuWGKoGBadGDoNJRSAKtx6kUZOEBMlXHJ2xPtptEDIbCGCje5ERi8N_TZ-LVzjDQSeZxo45itYCT85FLN2axwYDeJ3vpFE=)
 
 A Tequeñomania está redefinindo o tequeño venezuelano em Miami com uma oferta gourmet e saudável. Com duas lojas e uma fábrica, oferecem desde os clássicos até opções sem glúten de mandioca e banana verde. Seu compromisso com a qualidade e inovação os torna uma referência da gastronomia venezuelana nos Estados Unidos, expandindo o sabor tradicional com um toque moderno.
-
---- 
-
-## 🇪🇸 La Cachapera: Sabor Venezuelano Conquista Madrid com Nova Abertura e Cachinachos Inovadores (España)
-**Restaurante:** La Cachapera (Madrid) | **Data:** Maio 2026 | [Link](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGql-DVISqzHwGRTUUvVuQGstKYs6eTjbf2oC8DlCWAyYrMmcZUb8wwRbZP1AUNYUxt-slfKIo_hUImNp5Mi7uw6vqpdsTw1JayAphwC92dyftcCn-EDhtR7-MEiPhuZHSZVqlHUviQo-KWJBsZ84i-KczaMoatSZ9pnvNsZlwUuCfHgqq9qGSJ)
-
-La Cachapera consolida sua expansão na Espanha com a abertura de sua segunda unidade em Madrid, totalizando seis restaurantes no país. Famosa por suas cachapas e os inovadores "cachinachos", a marca projeta um crescimento ambicioso para outras cidades espanholas e mercados europeus, reafirmando seu sucesso e a popularidade da gastronomia venezuelana.
-
---- 
-
-## 🇪🇸 P.A.N. Revoluciona o Mercado Global com suas Novas Arepas Congeladas Pré-Cozidas (España)
-**Restaurante:** Lanzamiento de Arepas Congeladas P.A.N. (España y Global) | **Data:** Maio 2026 | [Link](https://www.empresaspolar.com/alimentos-polar-venezuela/noticias/lanzamiento-nuevas-arepas-congeladas)
-
-P.A.N. lança arepas congeladas pré-cozidas na Espanha e no mundo, um marco para a marca. Prontas em 9 minutos, este produto inovador busca democratizar o consumo de arepas, facilitando sua preparação e aproximando este ícone venezuelano de novos públicos, marcando um antes e um depois em sua expansão internacional.
 
 --- 
 
