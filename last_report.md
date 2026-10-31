@@ -1,4 +1,18 @@
-# Relatório de Pesquisa de Tendências (Nuvem) - 2026-10-30 21:24:21
+# Relatório de Pesquisa de Tendências (Nuvem) - 2026-10-31 20:25:39
+
+## 🇨🇦 Canaima Cafe: A Comida de Rua Venezuelana Conquista Toronto com Sabores Inovadores (Canadá)
+**Restaurante:** Canaima Cafe (Toronto) | **Data:** Maio 2026 | [Link](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH_b6EfYXVXuCShrrWrV3WzkhWZM9mG4tqgP_aPkrT_1hO6mRiY09m_Bn57uBeFvfTtuIJ5rdrWgCVCfXyvyZxB2l17S5eEEzcnjs0NPNXr393Oz9_5ZVjGU8jsycGgHLH3g_pjQjMgns-t1QR-SxzmN3LpkBALI5iXr7cAlS-xBoQdKY92NRAPi_TC3JfIWB1iDqHTqhEaoQrIvfSl1-LBhtfWAG6hPspMLTEGqg==)
+
+Canaima Cafe em Toronto revoluciona a comida de rua venezuelana com arepas e empanadas de recheios criativos como a 'Aladdin' e a vegetariana 'Green-Tentation'. Aberto por três amigos no World Food Market, também oferece tequeños e chicha caseira, levando os autênticos sabores da Venezuela ao Canadá.
+
+--- 
+
+## 🇻🇪 Robusto Bar: A Coquetelaria de Autor de Caracas Brilha na Cena Gastronômica Mundial (Venezuela)
+**Restaurante:** Robusto Bar (Caracas) | **Data:** Maio 2026 | [Link](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEOlcQaZ7iA6m1pJuneGJwLJBOqOetUq0GnISwUPShG_imHQJHeY5lczlwwy509npK09EgU2GxJx3juVyIByyB-5BWIVyZufWiZ6-X9yMu2qC82Rg9LG3QzOO5qM69QjLlTq4KRXUYd0nZNtfPYgQFaTqjhVdb-e4hTU8a92SaS4OhTWXeR_GR7lZoGyCrLKq28ffTUfE3J2fs5EAwBZiBw8AWhLVeNOsSV_plpG68L14LrUc=)
+
+Robusto Bar em Caracas foi reconhecido na lista 50 Best Discovery 2026, marcando a primeira entrada da Venezuela na categoria de bares. Este elegante estabelecimento fusiona coquetelaria de autor, cozinha internacional e uma exclusiva cultura do charuto, destacando a sofisticação e diversidade da oferta gastronômica venezuelana.
+
+--- 
 
 ## 🇻🇪 Histórico! Venezuela Conquista o Mundial de Comidas 2026 com seu Pavilhão Crioulo (Venezuela)
 **Restaurante:** Mundial de Comidas 2026 (Evento Global) | **Data:** Maio 2026 | [Link](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGcHtjjS6dWJh6EDixg4iDFK81_OPpHvf7LaG6TwOJCMRTAO6NJzxb2EPdoBkEtM0-tSB9W-qNL3-WotO4rqfsRKfAe_itxsCwVf4eGhs2dgYr_XEKy4eUYHg_PV3uboOhBoz9EMrjnulRW0-GiybVZQ1y80ioCbV6FNRFF-5K23u7b6ekD5mNsGOg1iBapA-oQaPX_D44cHOF06j03M8gpzHw0O2FA5ZSjuCJVitth)
@@ -39,20 +53,6 @@ La Cachapera consolida-se como líder da gastronomia venezuelana em Espanha, exp
 **Restaurante:** Evento Culinario Enrique Limardo (Caracas) | **Data:** Maio 2026 | [Link](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFo4OsLVS0MkjJZoO3Wn_OVAtA6nlSxC3IJVmkRD3ngqcfyXs185aHydCDtI3aAQhuITsr80avKZQ9xUXeiHD5N_USNRYBWincM6MTqjI0Lf4Tae6-ircKXhjPL_CAhNbly_bmVzqR7WL1ifAgC7LHWNUCEAB8yuOzww==)
 
 O aclamado chef Enrique Limardo, galardoado com uma estrela Michelin, regressou a Caracas em outubro de 2026 para um evento culinário exclusivo. Este encontro foi uma emotiva homenagem à gastronomia venezuelana e à sua rica despensa local, fundindo técnicas de alta cozinha com os sabores da sua memória.
-
---- 
-
-## 🇵🇹 Funchal celebra a vibrante Festa Gastronómica Venezuelana 2026: Sabor e Cultura na Madeira (Portugal)
-**Restaurante:** Fiesta Gastronómica Venezolana 2026 (Funchal) | **Data:** Maio 2026 | [Link](https://correiodelvenezuela.com/funchal-albergara-la-fiesta-gastronomica-venezolana-2026-del-18-al-20-de-septiembre/)
-
-Funchal, Madeira, prepara-se para acolher a Festa Gastronómica Venezuelana 2026, um evento de três dias que funde a rica cozinha tradicional, música e expressões culturais da Venezuela. Este encontro promete ser um vibrante espaço de intercâmbio para a comunidade luso-venezuelana, locais e visitantes, celebrando a diversidade culinária e o espírito venezuelano.
-
---- 
-
-## 🇻🇪 Venezuela Brilha no 50 Best Discovery 2026: Seis Restaurantes Elevam sua Gastronomia (Venezuela)
-**Restaurante:** Varios Restaurantes (Caracas y Valencia) | **Data:** Maio 2026 | [Link](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEWgBpxCwAojf96rNZPh5FyezF5stlG795Rk43rTUQkDKGrWF7CZSsCB0ZN3Nv2EuXbc1oC4wZxePcNtCRhzS4gsaFY_QTiv_mlVvUxguEk7pRjWknUXSEPws0_2I-x58mAs4kmyjJrCqDIdMRYAehe5-_NQidDEDYZ73hiIwsETvDDwfLBO9eDXVpw89Uzdp3U33hL)
-
-A plataforma 50 Best Discovery reconheceu seis restaurantes venezuelanos em seu guia global de 2026, destacando a excelência culinária do país. Quatro deles estreiam na lista, incluindo Dining Room de Valência e El Bosque Bistró de Caracas, consolidando a gastronomia venezuelana no cenário internacional com propostas inovadoras e respeito pelos ingredientes locais.
 
 --- 
 
