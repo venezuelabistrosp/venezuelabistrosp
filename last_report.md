@@ -1,4 +1,11 @@
-# Relatório de Pesquisa de Tendências (Nuvem) - 2026-10-31 20:25:39
+# Relatório de Pesquisa de Tendências (Nuvem) - 2026-11-01 20:59:11
+
+## 🇦🇷 A Cozinha Une: Chefs em Buenos Aires se Solidarizam com a Venezuela em Evento Beneficente (Argentina)
+**Restaurante:** "Venezuela nos necesita. La cocina nos une." (Buenos Aires) | **Data:** Maio 2026 | [Link](https://www.soloporgusto.com/una-jornada-solidaria-para-ayudar-a-venezuela-desde-la-cocina/)
+
+Em julho de 2026, Buenos Aires foi palco de "Venezuela nos necesita. La cocina nos une.", um evento solidário onde Fukuro Noodle Bar, Gran Dabbang e Diez Treinta uniram forças. Arrecadaram fundos para a World Central Kitchen, demonstrando o poder da gastronomia venezuelana na diáspora para causas humanitárias.
+
+--- 
 
 ## 🇨🇦 Canaima Cafe: A Comida de Rua Venezuelana Conquista Toronto com Sabores Inovadores (Canadá)
 **Restaurante:** Canaima Cafe (Toronto) | **Data:** Maio 2026 | [Link](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH_b6EfYXVXuCShrrWrV3WzkhWZM9mG4tqgP_aPkrT_1hO6mRiY09m_Bn57uBeFvfTtuIJ5rdrWgCVCfXyvyZxB2l17S5eEEzcnjs0NPNXr393Oz9_5ZVjGU8jsycGgHLH3g_pjQjMgns-t1QR-SxzmN3LpkBALI5iXr7cAlS-xBoQdKY92NRAPi_TC3JfIWB1iDqHTqhEaoQrIvfSl1-LBhtfWAG6hPspMLTEGqg==)
@@ -46,13 +53,6 @@ El Bosque Bistró de Caracas foi incluído no prestigiado guia 50 Best Discovery
 **Restaurante:** La Cachapera (España) | **Data:** Maio 2026 | [Link](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGdQIUjzBn74nrH16jwy0kxvltvJdbA833eb6nwBpLmmCgxJBl6YYXWMi4fDEiO2VITI8N__Ziw1CqAPERnFhGnnT9uoBN-aS8te_13QrV0OIxSkY_gBaBxR_8ZiCCVKeZKgxT3dw5q_XORiyMElB9XO4bEuK_GvqeVGLhlRc0ug5eBvMwOmkg_BLkfQl2fK9_h7Tfcgl1D7LekUBEFrgjM3thuCAombeZbmKKyJnVc3FIvSjipOXPPqtbss9tK2mtHbWe27xf)
 
 La Cachapera consolida-se como líder da gastronomia venezuelana em Espanha, expandindo-se para cidades como Saragoça e Málaga. Com um conceito experiencial focado nas cachapas, a marca fechou 2025 com 6,5 milhões de euros, demonstrando o sucesso do seu modelo de restauração organizado e escalável na Europa.
-
---- 
-
-## 🇻🇪 Enrique Limardo Regressa à Venezuela: Uma Homenagem Michelin aos Sabores Autênticos do País (Venezuela)
-**Restaurante:** Evento Culinario Enrique Limardo (Caracas) | **Data:** Maio 2026 | [Link](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFo4OsLVS0MkjJZoO3Wn_OVAtA6nlSxC3IJVmkRD3ngqcfyXs185aHydCDtI3aAQhuITsr80avKZQ9xUXeiHD5N_USNRYBWincM6MTqjI0Lf4Tae6-ircKXhjPL_CAhNbly_bmVzqR7WL1ifAgC7LHWNUCEAB8yuOzww==)
-
-O aclamado chef Enrique Limardo, galardoado com uma estrela Michelin, regressou a Caracas em outubro de 2026 para um evento culinário exclusivo. Este encontro foi uma emotiva homenagem à gastronomia venezuelana e à sua rica despensa local, fundindo técnicas de alta cozinha com os sabores da sua memória.
 
 --- 
 
