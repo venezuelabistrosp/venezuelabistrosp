@@ -1,4 +1,18 @@
-# Relatório de Pesquisa de Tendências (Nuvem) - 2026-11-01 20:59:11
+# Relatório de Pesquisa de Tendências (Nuvem) - 2026-11-02 23:48:59
+
+## 🇵🇪 Mérito em Lima: A Alta Cozinha Venezuelana Conquista o Top Mundial de Restaurantes (Perú)
+**Restaurante:** Mérito Restaurante (Lima) | **Data:** Maio 2026 | [Link](https://www.merito.com.pe)
+
+Mérito Restaurante, liderado pelo chef Juan Luis Martínez em Lima, posiciona-se como o 26º melhor do mundo. Sua cozinha funde a tradição venezuelana com ingredientes peruanos, oferecendo um menu degustação inovador que reinterpreta pratos clássicos e celebra a despensa local. Uma experiência culinária única e de vanguarda.
+
+--- 
+
+## 🇵🇹 Funchal Celebra a Riqueza Culinária Venezuelana em sua Festa Gastronômica Anual (Portugal)
+**Restaurante:** Fiesta Gastronómica Venezolana 2026 (Funchal) | **Data:** Maio 2026 | [Link](https://correiodelvenezuela.com/funchal-albergara-la-fiesta-gastronomica-venezolana-2026-del-18-al-20-de-septiembre/)
+
+A Festa Gastronômica Venezuelana 2026 em Funchal, Madeira, reuniu de 18 a 20 de setembro a tradição culinária, música e cultura da Venezuela. Organizado pela AADEM, o evento foi um ponto de encontro para a comunidade luso-venezolana, oferecendo pratos típicos e fortalecendo os laços culturais no arquipélago.
+
+--- 
 
 ## 🇦🇷 A Cozinha Une: Chefs em Buenos Aires se Solidarizam com a Venezuela em Evento Beneficente (Argentina)
 **Restaurante:** "Venezuela nos necesita. La cocina nos une." (Buenos Aires) | **Data:** Maio 2026 | [Link](https://www.soloporgusto.com/una-jornada-solidaria-para-ayudar-a-venezuela-desde-la-cocina/)
@@ -39,20 +53,6 @@ Dining Room, sob a direção do chef Frank Parada, fez história ao se tornar o 
 **Restaurante:** MELLOW (Miami) | **Data:** Maio 2026 | [Link](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEdZGG51zwANsFrdZv-eURFK1xAO79eh-Pn62kClDJGU57Yv7RhVG4inDZ7dVFSNnCUHjZeLVeUCOv3l9lQJTir4oeewmjT_05BfO6joABjGjGCu7MK9ws6U-lzuHiH9b5w-4kEgCRkcZl9XR3oeQFmQv8JNngRkXJf_rQONNRkN0g-22wlwgEecXgtTKyBabZxJPRIIvwD2wW98VctiFSweUZzlwdT5T7ta9IUMPFEVJo5JASL)
 
 Mellow, a aclamada marca de confeitaria venezuelana, expande seu sucesso para Miami em agosto de 2026. Com suas inovadoras "Cake Box" e uma fusão de criatividade e design, busca oferecer uma experiência premium, mantendo sua essência venezuelana e adaptando-se ao exigente mercado internacional.
-
---- 
-
-## 🇻🇪 El Bosque Bistró: A joia culinária de Caracas reconhecida pelo 50 Best Discovery 2026. (Venezuela)
-**Restaurante:** El Bosque Bistró (Caracas) | **Data:** Maio 2026 | [Link](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFts1r7j0wBGcTclI8ePbCZF55Jgz84RhMktFlWxQQ-tJDGCFTrEe0aryoBOyxKCz3cqrSUy6H0q6M6AlKcNZgYABtHP5BuqVV-0K5-J5HpJoa2v11eD-iKAM1olxwY8A1nlZCOmcuf-TWsu5p05-TdxpEfG6aYVbMJZM04cT9XDgY)
-
-El Bosque Bistró de Caracas foi incluído no prestigiado guia 50 Best Discovery 2026, um reconhecimento global à gastronomia venezuelana. Este bistrô destaca-se pelo ambiente relaxado, respeito pelos ingredientes locais e uma cozinha criativa inspirada nas raízes culturais do país.
-
---- 
-
-## 🇪🇸 La Cachapera: O Sabor Venezuelano Conquista a Espanha com um Conceito Inovador e Escalável (España)
-**Restaurante:** La Cachapera (España) | **Data:** Maio 2026 | [Link](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGdQIUjzBn74nrH16jwy0kxvltvJdbA833eb6nwBpLmmCgxJBl6YYXWMi4fDEiO2VITI8N__Ziw1CqAPERnFhGnnT9uoBN-aS8te_13QrV0OIxSkY_gBaBxR_8ZiCCVKeZKgxT3dw5q_XORiyMElB9XO4bEuK_GvqeVGLhlRc0ug5eBvMwOmkg_BLkfQl2fK9_h7Tfcgl1D7LekUBEFrgjM3thuCAombeZbmKKyJnVc3FIvSjipOXPPqtbss9tK2mtHbWe27xf)
-
-La Cachapera consolida-se como líder da gastronomia venezuelana em Espanha, expandindo-se para cidades como Saragoça e Málaga. Com um conceito experiencial focado nas cachapas, a marca fechou 2025 com 6,5 milhões de euros, demonstrando o sucesso do seu modelo de restauração organizado e escalável na Europa.
 
 --- 
 
