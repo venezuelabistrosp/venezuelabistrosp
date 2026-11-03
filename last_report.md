@@ -1,4 +1,18 @@
-# Relatório de Pesquisa de Tendências (Nuvem) - 2026-11-02 23:48:59
+# Relatório de Pesquisa de Tendências (Nuvem) - 2026-11-03 22:14:11
+
+## 🇵🇪 Mérito em Lima: A Alta Cozinha Venezuelana que Conquista o Mundo Culinário (Perú)
+**Restaurante:** Mérito (Lima) | **Data:** Maio 2026 | [Link](https://www.youtube.com/watch?v=k_lP0c6f5d8)
+
+Mérito, o aclamado restaurante em Barranco, Lima, liderado por um chef venezuelano, subiu para a 26ª posição entre os 50 melhores restaurantes do mundo em 2026. Sua proposta inovadora funde identidades culinárias, elevando a gastronomia venezuelana a um nível internacional e consolidando seu prestígio na cena peruana.
+
+--- 
+
+## 🇪🇸 La Cachapera: Liderando a Expansão e Profissionalização da Gastronomia Venezuelana na Europa (España)
+**Restaurante:** La Cachapera (España) | **Data:** Maio 2026 | [Link](https://www.profesionalhoreca.com/la-cachapera-abre-su-sexto-restaurante-en-espana/)
+
+La Cachapera consolida seu sucesso na Espanha com a abertura de seu sexto restaurante em junho de 2026, marcando um marco na profissionalização da gastronomia venezuelana na Europa. Com planos de expansão nacional e internacional, esta marca se especializa em cachapas, oferecendo um modelo de restauração organizado e escalável que redefine a presença culinária venezuelana.
+
+--- 
 
 ## 🇵🇪 Mérito em Lima: A Alta Cozinha Venezuelana Conquista o Top Mundial de Restaurantes (Perú)
 **Restaurante:** Mérito Restaurante (Lima) | **Data:** Maio 2026 | [Link](https://www.merito.com.pe)
@@ -39,20 +53,6 @@ Robusto Bar em Caracas foi reconhecido na lista 50 Best Discovery 2026, marcando
 **Restaurante:** Mundial de Comidas 2026 (Evento Global) | **Data:** Maio 2026 | [Link](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGcHtjjS6dWJh6EDixg4iDFK81_OPpHvf7LaG6TwOJCMRTAO6NJzxb2EPdoBkEtM0-tSB9W-qNL3-WotO4rqfsRKfAe_itxsCwVf4eGhs2dgYr_XEKy4eUYHg_PV3uboOhBoz9EMrjnulRW0-GiybVZQ1y80ioCbV6FNRFF-5K23u7b6ekD5mNsGOg1iBapA-oQaPX_D44cHOF06j03M8gpzHw0O2FA5ZSjuCJVitth)
 
 O Pavilhão Crioulo da Venezuela foi coroado campeão do Mundial de Comidas 2026, um evento global organizado por Ibai Llanos. Superando o ceviche peruano numa final acirrada, este prato tradicional venezuelano mobilizou milhões de votantes nas redes sociais, alcançando um reconhecimento internacional sem precedentes para a gastronomia do país.
-
---- 
-
-## 🇻🇪 Dining Room: Valência Brilha na Cena Global com sua Entrada no 50 Best Discovery 2026 (Venezuela)
-**Restaurante:** Dining Room (Valencia) | **Data:** Maio 2026 | [Link](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFKr7G3UsNZoXx3kUNBGRsPfCQKlz8BQjxKZ0tyP1QM3FHDzJXC4TdZKU4zranqLjx7-JesJ6Gpc8gwwpt5NyA2dkPQLAqRWNV9i2H3B5hTCWjsNT1KOQ-9WGrLo5e5jYvXuPtTTyyeTw4CH5ecQDX4ElcicOkzBMSZwu2uOIz0_iVC7U_lBvJiPff6eJv8HT-up6iZBw)
-
-Dining Room, sob a direção do chef Frank Parada, fez história ao se tornar o primeiro restaurante de Valência, Venezuela, a ser incluído na prestigiada lista 50 Best Discovery 2026. Reconhecido por suas técnicas elevadas, empratamentos de vanguarda e o uso respeitoso de ingredientes venezuelanos, este marco representa um antes e um depois para a alta gastronomia na região.
-
---- 
-
-## 🇺🇸 MELLOW chega a Miami: A confeitaria venezuelana que revoluciona o paladar internacional. (Estados Unidos)
-**Restaurante:** MELLOW (Miami) | **Data:** Maio 2026 | [Link](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEdZGG51zwANsFrdZv-eURFK1xAO79eh-Pn62kClDJGU57Yv7RhVG4inDZ7dVFSNnCUHjZeLVeUCOv3l9lQJTir4oeewmjT_05BfO6joABjGjGCu7MK9ws6U-lzuHiH9b5w-4kEgCRkcZl9XR3oeQFmQv8JNngRkXJf_rQONNRkN0g-22wlwgEecXgtTKyBabZxJPRIIvwD2wW98VctiFSweUZzlwdT5T7ta9IUMPFEVJo5JASL)
-
-Mellow, a aclamada marca de confeitaria venezuelana, expande seu sucesso para Miami em agosto de 2026. Com suas inovadoras "Cake Box" e uma fusão de criatividade e design, busca oferecer uma experiência premium, mantendo sua essência venezuelana e adaptando-se ao exigente mercado internacional.
 
 --- 
 
