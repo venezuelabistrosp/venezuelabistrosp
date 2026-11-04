@@ -1,4 +1,25 @@
-# Relatório de Pesquisa de Tendências (Nuvem) - 2026-11-03 22:14:11
+# Relatório de Pesquisa de Tendências (Nuvem) - 2026-11-04 22:29:23
+
+## 🇺🇸 Mordisco em Orlando: A Fusão Venezuelana e Caribenha Redefine o Steakhouse de Luxo (Estados Unidos)
+**Restaurante:** Mordisco (Orlando) | **Data:** Maio 2026 | [Link](https://www.fox35orlando.com/news/new-venezuelan-and-caribbean-fusion-steakhouse-opens-in-orlando)
+
+Mordisco, o novo steakhouse de luxo em Orlando, Flórida, está a fazer sucesso ao fundir magistralmente os sabores venezuelanos e caribenhos com cortes de carne premium grelhados na lenha. Oferece uma experiência culinária exótica e sofisticada, combinando o melhor de dois mundos gastronómicos num só lugar.
+
+--- 
+
+## 🇵🇪 Mérito e Demo em Lima: A Alta Cozinha Peruano-Venezuelana Conquista o Mundo (Perú)
+**Restaurante:** Mérito y Demo (Lima) | **Data:** Maio 2026 | [Link](https://eldiariony.com/2026/03/13/la-nueva-era-de-la-gastronomia-en-lima-el-exito-de-la-fusion-venezolana/)
+
+Em Lima, os restaurantes Mérito e Demo do chef Juan Luis Martínez estão a redefinir a alta cozinha com uma brilhante fusão peruano-venezuelana. Mérito, reconhecido globalmente, integra ingredientes de ambos os países, enquanto Demo populariza pratos venezuelanos como as cachapas, atraindo uma clientela diversa e global.
+
+--- 
+
+## 🇪🇸 La Cachapera: A Revolução da Cachapa Venezuelana na Espanha e Europa (España)
+**Restaurante:** La Cachapera (Madrid) | **Data:** Maio 2026 | [Link](https://profesionalhoreca.com/la-cachapera-abre-su-sexto-restaurante-en-espana/)
+
+La Cachapera expande o seu sucesso em Espanha com a abertura do seu sexto local em Madrid, consolidando a cachapa como protagonista. Além de clássicos venezuelanos, inovam com os 'cachinachos', uma fusão de cachapa crocante e nachos, projetando o seu sabor autêntico para outras cidades europeias.
+
+--- 
 
 ## 🇵🇪 Mérito em Lima: A Alta Cozinha Venezuelana que Conquista o Mundo Culinário (Perú)
 **Restaurante:** Mérito (Lima) | **Data:** Maio 2026 | [Link](https://www.youtube.com/watch?v=k_lP0c6f5d8)
@@ -32,27 +53,6 @@ A Festa Gastronômica Venezuelana 2026 em Funchal, Madeira, reuniu de 18 a 20 de
 **Restaurante:** "Venezuela nos necesita. La cocina nos une." (Buenos Aires) | **Data:** Maio 2026 | [Link](https://www.soloporgusto.com/una-jornada-solidaria-para-ayudar-a-venezuela-desde-la-cocina/)
 
 Em julho de 2026, Buenos Aires foi palco de "Venezuela nos necesita. La cocina nos une.", um evento solidário onde Fukuro Noodle Bar, Gran Dabbang e Diez Treinta uniram forças. Arrecadaram fundos para a World Central Kitchen, demonstrando o poder da gastronomia venezuelana na diáspora para causas humanitárias.
-
---- 
-
-## 🇨🇦 Canaima Cafe: A Comida de Rua Venezuelana Conquista Toronto com Sabores Inovadores (Canadá)
-**Restaurante:** Canaima Cafe (Toronto) | **Data:** Maio 2026 | [Link](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH_b6EfYXVXuCShrrWrV3WzkhWZM9mG4tqgP_aPkrT_1hO6mRiY09m_Bn57uBeFvfTtuIJ5rdrWgCVCfXyvyZxB2l17S5eEEzcnjs0NPNXr393Oz9_5ZVjGU8jsycGgHLH3g_pjQjMgns-t1QR-SxzmN3LpkBALI5iXr7cAlS-xBoQdKY92NRAPi_TC3JfIWB1iDqHTqhEaoQrIvfSl1-LBhtfWAG6hPspMLTEGqg==)
-
-Canaima Cafe em Toronto revoluciona a comida de rua venezuelana com arepas e empanadas de recheios criativos como a 'Aladdin' e a vegetariana 'Green-Tentation'. Aberto por três amigos no World Food Market, também oferece tequeños e chicha caseira, levando os autênticos sabores da Venezuela ao Canadá.
-
---- 
-
-## 🇻🇪 Robusto Bar: A Coquetelaria de Autor de Caracas Brilha na Cena Gastronômica Mundial (Venezuela)
-**Restaurante:** Robusto Bar (Caracas) | **Data:** Maio 2026 | [Link](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEOlcQaZ7iA6m1pJuneGJwLJBOqOetUq0GnISwUPShG_imHQJHeY5lczlwwy509npK09EgU2GxJx3juVyIByyB-5BWIVyZufWiZ6-X9yMu2qC82Rg9LG3QzOO5qM69QjLlTq4KRXUYd0nZNtfPYgQFaTqjhVdb-e4hTU8a92SaS4OhTWXeR_GR7lZoGyCrLKq28ffTUfE3J2fs5EAwBZiBw8AWhLVeNOsSV_plpG68L14LrUc=)
-
-Robusto Bar em Caracas foi reconhecido na lista 50 Best Discovery 2026, marcando a primeira entrada da Venezuela na categoria de bares. Este elegante estabelecimento fusiona coquetelaria de autor, cozinha internacional e uma exclusiva cultura do charuto, destacando a sofisticação e diversidade da oferta gastronômica venezuelana.
-
---- 
-
-## 🇻🇪 Histórico! Venezuela Conquista o Mundial de Comidas 2026 com seu Pavilhão Crioulo (Venezuela)
-**Restaurante:** Mundial de Comidas 2026 (Evento Global) | **Data:** Maio 2026 | [Link](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGcHtjjS6dWJh6EDixg4iDFK81_OPpHvf7LaG6TwOJCMRTAO6NJzxb2EPdoBkEtM0-tSB9W-qNL3-WotO4rqfsRKfAe_itxsCwVf4eGhs2dgYr_XEKy4eUYHg_PV3uboOhBoz9EMrjnulRW0-GiybVZQ1y80ioCbV6FNRFF-5K23u7b6ekD5mNsGOg1iBapA-oQaPX_D44cHOF06j03M8gpzHw0O2FA5ZSjuCJVitth)
-
-O Pavilhão Crioulo da Venezuela foi coroado campeão do Mundial de Comidas 2026, um evento global organizado por Ibai Llanos. Superando o ceviche peruano numa final acirrada, este prato tradicional venezuelano mobilizou milhões de votantes nas redes sociais, alcançando um reconhecimento internacional sem precedentes para a gastronomia do país.
 
 --- 
 
