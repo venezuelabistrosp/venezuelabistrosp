@@ -1,4 +1,25 @@
-# Relatório de Pesquisa de Tendências (Nuvem) - 2026-11-04 22:29:23
+# Relatório de Pesquisa de Tendências (Nuvem) - 2026-11-05 22:36:30
+
+## 🇻🇪 Sabores del Alma: A Alta Cozinha Venezuelana Brilha nos "Óscares" Gastronómicos 2026 (Venezuela)
+**Restaurante:** Sabores del Alma (Impacto Global) | **Data:** Maio 2026 | [Link](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEFlXqsPlxERxNou1vWGv6shhylUpC9VKWdfnBhxuasWR8GR_4CBVjDTPWJkFBVkxS_Fab5Vtt7JEMS3IVMBGMWo7tayroEDut3hU0lixkAu2n9SEVRJJvjVIk3R7i8fyQmRVBQBqLL0G6MNRh-uZ_8opmClFX_5W2w_4uvv4lmVr-ovuTnvPAE3RCL6xCf7IJGwWQeyfxF_t2D2Ojz5YdPb4Poq6OYjpoVSpWh4r9QmQ1-H_NK9Voj_IZdIdY=)
+
+O livro "Sabores del Alma" foi nomeado para os prestigiados Prémios Gourmand 2026, os "Óscares" da gastronomia. Esta obra editorial documenta a evolução da alta cozinha venezuelana, destacando o talento local e internacional e a vitalidade do setor. É um testemunho histórico que celebra a identidade culinária do país, transcendendo o livro de receitas tradicional.
+
+--- 
+
+## 🇻🇪 Dining Room de Valência: A Alta Cozinha Venezuelana Conquista 50 Best Discovery 2026 (Venezuela)
+**Restaurante:** Dining Room (Valencia) | **Data:** Maio 2026 | [Link](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHZFzxv7C1s7MTrnARdANE0mhTCylnhxQqpgVgENPeIVY9uSY4EEdkpCBdCrSdnxkYP1-DjvUfwU2DeSEJ_fC4xjjn857B2LQ0yZdLOVbrb78LFgB8Bkmzgd56Gv8NkpHF-h2O8utyGPb1tPp2zdmnSUbBYqJQkCzo2AN1oho73Qnh02Ev6uq-wT-aS0mtXhxfmvdKxwA==)
+
+O restaurante Dining Room em Valência, Venezuela, foi incluído na prestigiada plataforma 50 Best Discovery 2026, marcando um marco como o primeiro estabelecimento da cidade a conseguir tal feito. Sob a direção do chef Frank Parada, premiado com o Tenedor de Oro 2025, este local redefine a alta cozinha venezuelana com propostas inovadoras como o pão de mapuey roxo.
+
+--- 
+
+## 🇺🇸 DC Al Toque: A Autêntica Gastronomia Venezuelana Conquista Washington D.C. (Estados Unidos)
+**Restaurante:** DC Al Toque (Washington D.C.) | **Data:** Maio 2026 | [Link](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFbiFzVDYeSjHD-aPja84i2PH1YPuegdO4lVuyKeg0izEKxL8oRsxxKNzCHoVLu-xRO2ShHhu4zAk7F0zushhdea5ZYVp63RD_es8Tw3KHc0gxYzQuWYrnHvIULbqtHv8Ia60EV64StjUqT75xebIxPMNoL86OL7knv-robQ_WMABNU4zCZn-VdgV7gMZ3Ajal6KQNsHMaL0UjArCL5zmqegq0iCdIM3g==)
+
+DC Al Toque, um novo restaurante e padaria venezuelana, abriu as suas portas em Washington D.C. em abril de 2026. Este estabelecimento promete uma imersão profunda na rica gastronomia venezuelana, oferecendo um menu diverso que vai além das tradicionais arepas, incluindo uma ampla variedade de pratos salgados e produtos de padaria autênticos.
+
+--- 
 
 ## 🇺🇸 Mordisco em Orlando: A Fusão Venezuelana e Caribenha Redefine o Steakhouse de Luxo (Estados Unidos)
 **Restaurante:** Mordisco (Orlando) | **Data:** Maio 2026 | [Link](https://www.fox35orlando.com/news/new-venezuelan-and-caribbean-fusion-steakhouse-opens-in-orlando)
@@ -32,27 +53,6 @@ Mérito, o aclamado restaurante em Barranco, Lima, liderado por um chef venezuel
 **Restaurante:** La Cachapera (España) | **Data:** Maio 2026 | [Link](https://www.profesionalhoreca.com/la-cachapera-abre-su-sexto-restaurante-en-espana/)
 
 La Cachapera consolida seu sucesso na Espanha com a abertura de seu sexto restaurante em junho de 2026, marcando um marco na profissionalização da gastronomia venezuelana na Europa. Com planos de expansão nacional e internacional, esta marca se especializa em cachapas, oferecendo um modelo de restauração organizado e escalável que redefine a presença culinária venezuelana.
-
---- 
-
-## 🇵🇪 Mérito em Lima: A Alta Cozinha Venezuelana Conquista o Top Mundial de Restaurantes (Perú)
-**Restaurante:** Mérito Restaurante (Lima) | **Data:** Maio 2026 | [Link](https://www.merito.com.pe)
-
-Mérito Restaurante, liderado pelo chef Juan Luis Martínez em Lima, posiciona-se como o 26º melhor do mundo. Sua cozinha funde a tradição venezuelana com ingredientes peruanos, oferecendo um menu degustação inovador que reinterpreta pratos clássicos e celebra a despensa local. Uma experiência culinária única e de vanguarda.
-
---- 
-
-## 🇵🇹 Funchal Celebra a Riqueza Culinária Venezuelana em sua Festa Gastronômica Anual (Portugal)
-**Restaurante:** Fiesta Gastronómica Venezolana 2026 (Funchal) | **Data:** Maio 2026 | [Link](https://correiodelvenezuela.com/funchal-albergara-la-fiesta-gastronomica-venezolana-2026-del-18-al-20-de-septiembre/)
-
-A Festa Gastronômica Venezuelana 2026 em Funchal, Madeira, reuniu de 18 a 20 de setembro a tradição culinária, música e cultura da Venezuela. Organizado pela AADEM, o evento foi um ponto de encontro para a comunidade luso-venezolana, oferecendo pratos típicos e fortalecendo os laços culturais no arquipélago.
-
---- 
-
-## 🇦🇷 A Cozinha Une: Chefs em Buenos Aires se Solidarizam com a Venezuela em Evento Beneficente (Argentina)
-**Restaurante:** "Venezuela nos necesita. La cocina nos une." (Buenos Aires) | **Data:** Maio 2026 | [Link](https://www.soloporgusto.com/una-jornada-solidaria-para-ayudar-a-venezuela-desde-la-cocina/)
-
-Em julho de 2026, Buenos Aires foi palco de "Venezuela nos necesita. La cocina nos une.", um evento solidário onde Fukuro Noodle Bar, Gran Dabbang e Diez Treinta uniram forças. Arrecadaram fundos para a World Central Kitchen, demonstrando o poder da gastronomia venezuelana na diáspora para causas humanitárias.
 
 --- 
 
