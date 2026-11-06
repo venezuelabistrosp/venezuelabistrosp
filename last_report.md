@@ -1,4 +1,11 @@
-# Relatório de Pesquisa de Tendências (Nuvem) - 2026-11-05 22:36:30
+# Relatório de Pesquisa de Tendências (Nuvem) - 2026-11-06 21:58:47
+
+## 🇨🇦 The Arepa Republic: A Arepa Venezuelana Conquista Toronto e Busca Franquear no Canadá (Canadá)
+**Restaurante:** The Arepa Republic (Toronto) | **Data:** Maio 2026 | [Link](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFKWRpd74aGwI_M_SfrjKeBerXvZCM_k_Hmy6rGqKERhUFOpT7MzSdspR5t2dKM3gyGw7wVmS5FK_ow017YcLiKFLUFpaymOjGZ6EpuhLuz9u_VrWODIquBs4PghkBLjFss-oYoYxmo0QH8ovqMJAFLZA7NLEWEFUZFD8WUtYc=)
+
+The Arepa Republic em Toronto, Canadá, evoluiu de food truck para restaurante, popularizando a arepa venezuelana. Com planos de franquia para 2025 e expansão para Quebec e Montreal, este estabelecimento apresenta aos canadenses sabores autênticos como a arepa de pavilhão, tequeños e patacones.
+
+--- 
 
 ## 🇻🇪 Sabores del Alma: A Alta Cozinha Venezuelana Brilha nos "Óscares" Gastronómicos 2026 (Venezuela)
 **Restaurante:** Sabores del Alma (Impacto Global) | **Data:** Maio 2026 | [Link](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEFlXqsPlxERxNou1vWGv6shhylUpC9VKWdfnBhxuasWR8GR_4CBVjDTPWJkFBVkxS_Fab5Vtt7JEMS3IVMBGMWo7tayroEDut3hU0lixkAu2n9SEVRJJvjVIk3R7i8fyQmRVBQBqLL0G6MNRh-uZ_8opmClFX_5W2w_4uvv4lmVr-ovuTnvPAE3RCL6xCf7IJGwWQeyfxF_t2D2Ojz5YdPb4Poq6OYjpoVSpWh4r9QmQ1-H_NK9Voj_IZdIdY=)
@@ -46,13 +53,6 @@ La Cachapera expande o seu sucesso em Espanha com a abertura do seu sexto local 
 **Restaurante:** Mérito (Lima) | **Data:** Maio 2026 | [Link](https://www.youtube.com/watch?v=k_lP0c6f5d8)
 
 Mérito, o aclamado restaurante em Barranco, Lima, liderado por um chef venezuelano, subiu para a 26ª posição entre os 50 melhores restaurantes do mundo em 2026. Sua proposta inovadora funde identidades culinárias, elevando a gastronomia venezuelana a um nível internacional e consolidando seu prestígio na cena peruana.
-
---- 
-
-## 🇪🇸 La Cachapera: Liderando a Expansão e Profissionalização da Gastronomia Venezuelana na Europa (España)
-**Restaurante:** La Cachapera (España) | **Data:** Maio 2026 | [Link](https://www.profesionalhoreca.com/la-cachapera-abre-su-sexto-restaurante-en-espana/)
-
-La Cachapera consolida seu sucesso na Espanha com a abertura de seu sexto restaurante em junho de 2026, marcando um marco na profissionalização da gastronomia venezuelana na Europa. Com planos de expansão nacional e internacional, esta marca se especializa em cachapas, oferecendo um modelo de restauração organizado e escalável que redefine a presença culinária venezuelana.
 
 --- 
 
