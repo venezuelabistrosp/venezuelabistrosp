@@ -1,4 +1,11 @@
-# Relatório de Pesquisa de Tendências (Nuvem) - 2026-11-07 20:42:34
+# Relatório de Pesquisa de Tendências (Nuvem) - 2026-11-08 20:59:35
+
+## 🇪🇸 La Cachapera: A Autêntica Cachapa Venezuelana Conquista Espanha e Europa (España)
+**Restaurante:** La Cachapera (Madrid) | **Data:** Maio 2026 | [Link](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH8SsKr_rIHEj8tUU2sOEIZVZ131YAx8T_IrUA_OTuZ9gtzK7XnDYwZZIDDY0_BpQ-c-O1N5nwUUqGdseyrSN1YaVgsD_QH0bh9NEnimYk64hJEj3rBy24_TesDa3GFt4kMcZpvP9oYGwzFCUnIlr4cDKCSP8_21PQMmWseg37EPbrIElMwwYlGY12rO5KW0dQ6mem8CE3dkwSroCizaP88r3uS4YTdUPpgF6AfmiB4HdigDzOTd8gKCljD3ECziKQ5eFjTFlA=)
+
+La Cachapera expande seu sabor venezuelano pela Espanha e Europa, consolidando a cachapa como seu prato estrela. Com uma segunda unidade em Madrid e planos de abertura em várias cidades espanholas, Lisboa e Paris, esta rede demonstra o sucesso da gastronomia tradicional venezuelana no mercado internacional.
+
+--- 
 
 ## 🇻🇪 Venezuela Brilha: Seis Restaurantes Reconhecidos na Prestigiada Lista 50 Best Discovery 2026 (Venezuela)
 **Restaurante:** 50 Best Discovery (Caracas y Valencia) | **Data:** Maio 2026 | [Link](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEZ0Ftv3PHrUovmVR4gBkzencChz8SxvUH8ntweUf0QbGWFJWWQoS8yKTtNotUAExGBNO7_XxSwduvAemdo294LfSDKPQnmpJclR74EPeOWZ7wwV1oGOZI6yWYQZ-Dfp4oFxRNDTpjAA3AJkJVgioqFSaqXS8usFl8OphHw3SpoCNpKoWWItj9-9bDWpDirkWhYhwrlW4pC0o4CUE-oRCCenNTl7e652rTWSbM7g7HeeO6pT9o=)
@@ -46,13 +53,6 @@ DC Al Toque, um novo restaurante e padaria venezuelana, abriu as suas portas em 
 **Restaurante:** Mordisco (Orlando) | **Data:** Maio 2026 | [Link](https://www.fox35orlando.com/news/new-venezuelan-and-caribbean-fusion-steakhouse-opens-in-orlando)
 
 Mordisco, o novo steakhouse de luxo em Orlando, Flórida, está a fazer sucesso ao fundir magistralmente os sabores venezuelanos e caribenhos com cortes de carne premium grelhados na lenha. Oferece uma experiência culinária exótica e sofisticada, combinando o melhor de dois mundos gastronómicos num só lugar.
-
---- 
-
-## 🇵🇪 Mérito e Demo em Lima: A Alta Cozinha Peruano-Venezuelana Conquista o Mundo (Perú)
-**Restaurante:** Mérito y Demo (Lima) | **Data:** Maio 2026 | [Link](https://eldiariony.com/2026/03/13/la-nueva-era-de-la-gastronomia-en-lima-el-exito-de-la-fusion-venezolana/)
-
-Em Lima, os restaurantes Mérito e Demo do chef Juan Luis Martínez estão a redefinir a alta cozinha com uma brilhante fusão peruano-venezuelana. Mérito, reconhecido globalmente, integra ingredientes de ambos os países, enquanto Demo populariza pratos venezuelanos como as cachapas, atraindo uma clientela diversa e global.
 
 --- 
 
