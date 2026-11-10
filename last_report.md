@@ -1,4 +1,18 @@
-# Relatório de Pesquisa de Tendências (Nuvem) - 2026-11-08 20:59:35
+# Relatório de Pesquisa de Tendências (Nuvem) - 2026-11-10 22:10:56
+
+## 🇪🇸 Apartaco: O Buffet Livre Venezuelano que Conquista Madrid com Sabor e Solidariedade (España)
+**Restaurante:** Apartaco (Madrid) | **Data:** Maio 2026 | [Link](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHqpxkW515iog96V8awOEl7OipjH6l2xJPjs2T-tS6Kt5bdrQj228NtC2NJUoXPi-FIVmkT-tIjhn6DnBt6RNHNnesz8SlX5ZnyYo5tpCjzaYL2BmlZ3m-qGd_0IkRCAW5BPc4T1XhUJCaHUytHB548iXDbLWzu3vAkCkgFgSTT8JcS9W_rpcBJ0h5Nn6BmPNhEVZ4OvdcOD9NgGHKpvC-ckmxYrEytm9Gdp8ZPuUkHm9SIjxX4PNBJzcyfZfm4wExsURIg1UEZnoinXI0F5JxRcY54WxW9E8aEuxgKNcYyNAt1x1BgDQh6xtfanCgjACw=)
+
+Apartaco revoluciona Madrid com seu inovador buffet livre de comida venezuelana. Desfrute de arepas, tequeños e pabellón criollo ilimitados por menos de 15€. Além disso, cada menu contribui para a Fundação Meals4Hope, apoiando vítimas de terremotos na Venezuela. Uma proposta gastronômica com coração.
+
+--- 
+
+## 🇻🇪 Venezuela Brilha no 50 Best Discovery 2026: Dining Room e Robusto Bar Elevam a Gastronomia (Venezuela)
+**Restaurante:** Dining Room (Valencia) y Robusto Bar (Caracas) | **Data:** Maio 2026 | [Link](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFvHq5VVMLgw5i3QqbZXmqYDiiskuxZ7Q-ZyIMEpbljJZNxmm_PCHp4128YOX6iY33fMV3BaS2xMMyThxXDNQvxWk8zxzBR7F5GmsSzfpGI_zFH1NGidobww3Trih12tU98qjUiNShycCmmev1Gp_wrx7bj0YcHTShXZdVDjqgSZrSyL8Lu0kTI0DFngBw980-nJSqFaqH0i96rO0D1hPuaeLEndG-TcbgSA==)
+
+Quatro locais venezuelanos, incluindo Dining Room (Valência) e Robusto Bar (Caracas), foram reconhecidos na prestigiada lista 50 Best Discovery 2026. Este marco celebra a alta cozinha venezuelana, destacando a vanguarda do chef Frank Parada e a inovadora coquetelaria do Robusto Bar, consolidando a presença do país no mapa gastronômico mundial.
+
+--- 
 
 ## 🇪🇸 La Cachapera: A Autêntica Cachapa Venezuelana Conquista Espanha e Europa (España)
 **Restaurante:** La Cachapera (Madrid) | **Data:** Maio 2026 | [Link](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH8SsKr_rIHEj8tUU2sOEIZVZ131YAx8T_IrUA_OTuZ9gtzK7XnDYwZZIDDY0_BpQ-c-O1N5nwUUqGdseyrSN1YaVgsD_QH0bh9NEnimYk64hJEj3rBy24_TesDa3GFt4kMcZpvP9oYGwzFCUnIlr4cDKCSP8_21PQMmWseg37EPbrIElMwwYlGY12rO5KW0dQ6mem8CE3dkwSroCizaP88r3uS4YTdUPpgF6AfmiB4HdigDzOTd8gKCljD3ECziKQ5eFjTFlA=)
@@ -39,20 +53,6 @@ O livro "Sabores del Alma" foi nomeado para os prestigiados Prémios Gourmand 20
 **Restaurante:** Dining Room (Valencia) | **Data:** Maio 2026 | [Link](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHZFzxv7C1s7MTrnARdANE0mhTCylnhxQqpgVgENPeIVY9uSY4EEdkpCBdCrSdnxkYP1-DjvUfwU2DeSEJ_fC4xjjn857B2LQ0yZdLOVbrb78LFgB8Bkmzgd56Gv8NkpHF-h2O8utyGPb1tPp2zdmnSUbBYqJQkCzo2AN1oho73Qnh02Ev6uq-wT-aS0mtXhxfmvdKxwA==)
 
 O restaurante Dining Room em Valência, Venezuela, foi incluído na prestigiada plataforma 50 Best Discovery 2026, marcando um marco como o primeiro estabelecimento da cidade a conseguir tal feito. Sob a direção do chef Frank Parada, premiado com o Tenedor de Oro 2025, este local redefine a alta cozinha venezuelana com propostas inovadoras como o pão de mapuey roxo.
-
---- 
-
-## 🇺🇸 DC Al Toque: A Autêntica Gastronomia Venezuelana Conquista Washington D.C. (Estados Unidos)
-**Restaurante:** DC Al Toque (Washington D.C.) | **Data:** Maio 2026 | [Link](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFbiFzVDYeSjHD-aPja84i2PH1YPuegdO4lVuyKeg0izEKxL8oRsxxKNzCHoVLu-xRO2ShHhu4zAk7F0zushhdea5ZYVp63RD_es8Tw3KHc0gxYzQuWYrnHvIULbqtHv8Ia60EV64StjUqT75xebIxPMNoL86OL7knv-robQ_WMABNU4zCZn-VdgV7gMZ3Ajal6KQNsHMaL0UjArCL5zmqegq0iCdIM3g==)
-
-DC Al Toque, um novo restaurante e padaria venezuelana, abriu as suas portas em Washington D.C. em abril de 2026. Este estabelecimento promete uma imersão profunda na rica gastronomia venezuelana, oferecendo um menu diverso que vai além das tradicionais arepas, incluindo uma ampla variedade de pratos salgados e produtos de padaria autênticos.
-
---- 
-
-## 🇺🇸 Mordisco em Orlando: A Fusão Venezuelana e Caribenha Redefine o Steakhouse de Luxo (Estados Unidos)
-**Restaurante:** Mordisco (Orlando) | **Data:** Maio 2026 | [Link](https://www.fox35orlando.com/news/new-venezuelan-and-caribbean-fusion-steakhouse-opens-in-orlando)
-
-Mordisco, o novo steakhouse de luxo em Orlando, Flórida, está a fazer sucesso ao fundir magistralmente os sabores venezuelanos e caribenhos com cortes de carne premium grelhados na lenha. Oferece uma experiência culinária exótica e sofisticada, combinando o melhor de dois mundos gastronómicos num só lugar.
 
 --- 
 
