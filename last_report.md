@@ -1,4 +1,18 @@
-# Relatório de Pesquisa de Tendências (Nuvem) - 2026-11-10 22:10:56
+# Relatório de Pesquisa de Tendências (Nuvem) - 2026-11-11 23:22:15
+
+## 🇵🇹 Funchal celebra a vibrante Festa Gastronómica Venezuelana 2026: Sabor e Cultura na Madeira (Portugal)
+**Restaurante:** Fiesta Gastronómica Venezolana 2026 (Funchal) | **Data:** Maio 2026 | [Link](https://correiodelvenezuela.com/funchal-albergara-la-fiesta-gastronomica-venezolana-2026-del-18-al-20-de-septiembre/)
+
+A Associação AADEM organizou a Festa Gastronómica Venezuelana 2026 no Funchal, Madeira. Este evento de três dias, de 18 a 20 de setembro, reuniu a comunidade luso-venezuelana e visitantes para desfrutar da cozinha tradicional, música e manifestações culturais da Venezuela, destacando a riqueza dos seus pratos típicos.
+
+--- 
+
+## 🇸🇬 Chefs venezuelanos conquistam Singapura no Festival Latinada 2025 com sabores autênticos (Singapur)
+**Restaurante:** Festival Latinada 2025 (Singapur) | **Data:** Maio 2026 | [Link](http://mppre.gob.ve/2025/03/22/venezuela-festival-latinada-singapur/)
+
+O Festival Latinada 2025 em Singapura testemunhou a destacada participação de chefs venezuelanos como Raúl Márquez e Carlos Rodríguez. Apresentaram pratos típicos, incluindo a famosa arepa reina pepiada, elevando a gastronomia venezuelana na Ásia e reafirmando a sua importância no panorama culinário internacional.
+
+--- 
 
 ## 🇪🇸 Apartaco: O Buffet Livre Venezuelano que Conquista Madrid com Sabor e Solidariedade (España)
 **Restaurante:** Apartaco (Madrid) | **Data:** Maio 2026 | [Link](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHqpxkW515iog96V8awOEl7OipjH6l2xJPjs2T-tS6Kt5bdrQj228NtC2NJUoXPi-FIVmkT-tIjhn6DnBt6RNHNnesz8SlX5ZnyYo5tpCjzaYL2BmlZ3m-qGd_0IkRCAW5BPc4T1XhUJCaHUytHB548iXDbLWzu3vAkCkgFgSTT8JcS9W_rpcBJ0h5Nn6BmPNhEVZ4OvdcOD9NgGHKpvC-ckmxYrEytm9Gdp8ZPuUkHm9SIjxX4PNBJzcyfZfm4wExsURIg1UEZnoinXI0F5JxRcY54WxW9E8aEuxgKNcYyNAt1x1BgDQh6xtfanCgjACw=)
@@ -39,20 +53,6 @@ O Arepa Food Fest 2026 em Caracas celebrou a versatilidade da arepa venezuelana 
 **Restaurante:** The Arepa Republic (Toronto) | **Data:** Maio 2026 | [Link](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFKWRpd74aGwI_M_SfrjKeBerXvZCM_k_Hmy6rGqKERhUFOpT7MzSdspR5t2dKM3gyGw7wVmS5FK_ow017YcLiKFLUFpaymOjGZ6EpuhLuz9u_VrWODIquBs4PghkBLjFss-oYoYxmo0QH8ovqMJAFLZA7NLEWEFUZFD8WUtYc=)
 
 The Arepa Republic em Toronto, Canadá, evoluiu de food truck para restaurante, popularizando a arepa venezuelana. Com planos de franquia para 2025 e expansão para Quebec e Montreal, este estabelecimento apresenta aos canadenses sabores autênticos como a arepa de pavilhão, tequeños e patacones.
-
---- 
-
-## 🇻🇪 Sabores del Alma: A Alta Cozinha Venezuelana Brilha nos "Óscares" Gastronómicos 2026 (Venezuela)
-**Restaurante:** Sabores del Alma (Impacto Global) | **Data:** Maio 2026 | [Link](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEFlXqsPlxERxNou1vWGv6shhylUpC9VKWdfnBhxuasWR8GR_4CBVjDTPWJkFBVkxS_Fab5Vtt7JEMS3IVMBGMWo7tayroEDut3hU0lixkAu2n9SEVRJJvjVIk3R7i8fyQmRVBQBqLL0G6MNRh-uZ_8opmClFX_5W2w_4uvv4lmVr-ovuTnvPAE3RCL6xCf7IJGwWQeyfxF_t2D2Ojz5YdPb4Poq6OYjpoVSpWh4r9QmQ1-H_NK9Voj_IZdIdY=)
-
-O livro "Sabores del Alma" foi nomeado para os prestigiados Prémios Gourmand 2026, os "Óscares" da gastronomia. Esta obra editorial documenta a evolução da alta cozinha venezuelana, destacando o talento local e internacional e a vitalidade do setor. É um testemunho histórico que celebra a identidade culinária do país, transcendendo o livro de receitas tradicional.
-
---- 
-
-## 🇻🇪 Dining Room de Valência: A Alta Cozinha Venezuelana Conquista 50 Best Discovery 2026 (Venezuela)
-**Restaurante:** Dining Room (Valencia) | **Data:** Maio 2026 | [Link](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHZFzxv7C1s7MTrnARdANE0mhTCylnhxQqpgVgENPeIVY9uSY4EEdkpCBdCrSdnxkYP1-DjvUfwU2DeSEJ_fC4xjjn857B2LQ0yZdLOVbrb78LFgB8Bkmzgd56Gv8NkpHF-h2O8utyGPb1tPp2zdmnSUbBYqJQkCzo2AN1oho73Qnh02Ev6uq-wT-aS0mtXhxfmvdKxwA==)
-
-O restaurante Dining Room em Valência, Venezuela, foi incluído na prestigiada plataforma 50 Best Discovery 2026, marcando um marco como o primeiro estabelecimento da cidade a conseguir tal feito. Sob a direção do chef Frank Parada, premiado com o Tenedor de Oro 2025, este local redefine a alta cozinha venezuelana com propostas inovadoras como o pão de mapuey roxo.
 
 --- 
 
