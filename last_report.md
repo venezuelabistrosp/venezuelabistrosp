@@ -1,4 +1,18 @@
-# Relatório de Pesquisa de Tendências (Nuvem) - 2026-11-11 23:22:15
+# Relatório de Pesquisa de Tendências (Nuvem) - 2026-11-12 22:38:07
+
+## 🇵🇪 Mérito em Lima: A Alta Cozinha Venezuelana Conquista o Top Mundial de Restaurantes (Perú)
+**Restaurante:** Mérito (Lima) | **Data:** Maio 2026 | [Link](https://www.elnacional.com/cultura/venezuela-no-figura-en-the-worlds-50-best-restaurants-pero-deja-huella-a-traves-de-juan-luis-martinez/)
+
+Mérito, liderado pelo chef Juan Luis Martínez, posiciona-se como o restaurante venezuelano mais bem avaliado globalmente, alcançando o 13º lugar em "The World's 50 Best Restaurants 2026". Sua proposta funde produtos limenhos com a essência venezuelana, criando uma experiência culinária única que celebra a identidade e a transformação gastronômica.
+
+--- 
+
+## 🇻🇪 Dining Room em Valência: Vanguarda Culinária Venezuelana Brilha no 50 Best Discovery (Venezuela)
+**Restaurante:** Dining Room (Valencia) | **Data:** Maio 2026 | [Link](https://correodelcaroni.com/cultura/venezuela-suma-cuatro-locales-en-la-lista-gastronomica-50-best-discovery-2026/)
+
+Dining Room, do chef Frank Parada em Valência, Venezuela, foi galardoado com o Tenedor de Oro 2025 e em julho de 2026 juntou-se ao prestigiado guia "50 Best Discovery". Este reconhecimento celebra sua cozinha de vanguarda, técnicas elevadas e o uso respeitoso de ingredientes venezuelanos, marcando um marco para a gastronomia local.
+
+--- 
 
 ## 🇵🇹 Funchal celebra a vibrante Festa Gastronómica Venezuelana 2026: Sabor e Cultura na Madeira (Portugal)
 **Restaurante:** Fiesta Gastronómica Venezolana 2026 (Funchal) | **Data:** Maio 2026 | [Link](https://correiodelvenezuela.com/funchal-albergara-la-fiesta-gastronomica-venezolana-2026-del-18-al-20-de-septiembre/)
@@ -39,20 +53,6 @@ La Cachapera expande seu sabor venezuelano pela Espanha e Europa, consolidando a
 **Restaurante:** 50 Best Discovery (Caracas y Valencia) | **Data:** Maio 2026 | [Link](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEZ0Ftv3PHrUovmVR4gBkzencChz8SxvUH8ntweUf0QbGWFJWWQoS8yKTtNotUAExGBNO7_XxSwduvAemdo294LfSDKPQnmpJclR74EPeOWZ7wwV1oGOZI6yWYQZ-Dfp4oFxRNDTpjAA3AJkJVgioqFSaqXS8usFl8OphHw3SpoCNpKoWWItj9-9bDWpDirkWhYhwrlW4pC0o4CUE-oRCCenNTl7e652rTWSbM7g7HeeO6pT9o=)
 
 A plataforma 50 Best Discovery 2026 incluiu seis restaurantes venezuelanos, quatro deles estreantes, destacando a alta gastronomia do país. Pela primeira vez, um local fora de Caracas, "Dining Room" em Valência, recebe esta honra, juntamente com "Cordero", "La Casa Bistró", "La Posada de Cervantes" e "El Bosque Bistró" na capital, celebrando sua qualidade e criatividade.
-
---- 
-
-## 🇻🇪 Arepa Food Fest 2026: A Arepa Venezuelana se Reinventa com Propostas Gourmet em Caracas (Venezuela)
-**Restaurante:** Arepa Food Fest (Caracas) | **Data:** Maio 2026 | [Link](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGmmdnK4fayW-1Pf32IF_G5chfqGmcQjDsuOtCT4RHw8WpjJ2idr3QAS5FIlY1AAYo3fvQnbxVHrvll4aoW8sZ6qzTtcnpwKMVmxFhiJz4pERhFd4WS8AZvnkpOoGGCJawq1mh9MezkiXArSqb_m37dKgxgE0OipQFQOJt3KnJfIKfgvggu6g==)
-
-O Arepa Food Fest 2026 em Caracas celebrou a versatilidade da arepa venezuelana com 12 restaurantes apresentando criações inéditas. Desde arepas com costela de porco asiática até recheios de chucho margariteño e pernil estilo cochinita pibil, o festival demonstrou como este prato icônico pode ser reinventado com toques gourmet e sofisticados, mantendo sua essência.
-
---- 
-
-## 🇨🇦 The Arepa Republic: A Arepa Venezuelana Conquista Toronto e Busca Franquear no Canadá (Canadá)
-**Restaurante:** The Arepa Republic (Toronto) | **Data:** Maio 2026 | [Link](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFKWRpd74aGwI_M_SfrjKeBerXvZCM_k_Hmy6rGqKERhUFOpT7MzSdspR5t2dKM3gyGw7wVmS5FK_ow017YcLiKFLUFpaymOjGZ6EpuhLuz9u_VrWODIquBs4PghkBLjFss-oYoYxmo0QH8ovqMJAFLZA7NLEWEFUZFD8WUtYc=)
-
-The Arepa Republic em Toronto, Canadá, evoluiu de food truck para restaurante, popularizando a arepa venezuelana. Com planos de franquia para 2025 e expansão para Quebec e Montreal, este estabelecimento apresenta aos canadenses sabores autênticos como a arepa de pavilhão, tequeños e patacones.
 
 --- 
 
