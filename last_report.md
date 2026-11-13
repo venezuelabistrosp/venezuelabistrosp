@@ -1,4 +1,11 @@
-# Relatório de Pesquisa de Tendências (Nuvem) - 2026-11-12 22:38:07
+# Relatório de Pesquisa de Tendências (Nuvem) - 2026-11-13 22:25:38
+
+## 🇵🇪 Juan Luis Martínez: Fusão Peruano-Venezuelana que Conquista Lima com Sabor e Tradição (Perú)
+**Restaurante:** Mérito, Clon y Demo (Lima) | **Data:** Maio 2026 | [Link](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHKMiiRkaGKmVJLPYF8H63JmUDM2bcSxzzpcOl1ptnqnAaC69eGIEObZcA5SmO3vXJ-QvMgrDYp0_ubDwAvYcxc0H4uLAhE3PP5vnYr40Ae9bRpvRVzo9IZfk-B7kbMIycru4d8y4-sn9f8mzdaEkAB6cQdbZeCzvrHrrfMDM6QBAP-vbZhjKI=)
+
+O chef venezuelano Juan Luis Martínez revoluciona Lima com seus restaurantes Mérito, Clon e Demo, fundindo magistralmente a culinária peruana e venezuelana. De arepas com ceviche a cachapas que são um sucesso retumbante, sua proposta demonstra a versatilidade e o encanto da gastronomia venezuelana, enriquecendo o panorama culinário internacional.
+
+--- 
 
 ## 🇵🇪 Mérito em Lima: A Alta Cozinha Venezuelana Conquista o Top Mundial de Restaurantes (Perú)
 **Restaurante:** Mérito (Lima) | **Data:** Maio 2026 | [Link](https://www.elnacional.com/cultura/venezuela-no-figura-en-the-worlds-50-best-restaurants-pero-deja-huella-a-traves-de-juan-luis-martinez/)
@@ -46,13 +53,6 @@ Quatro locais venezuelanos, incluindo Dining Room (Valência) e Robusto Bar (Car
 **Restaurante:** La Cachapera (Madrid) | **Data:** Maio 2026 | [Link](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH8SsKr_rIHEj8tUU2sOEIZVZ131YAx8T_IrUA_OTuZ9gtzK7XnDYwZZIDDY0_BpQ-c-O1N5nwUUqGdseyrSN1YaVgsD_QH0bh9NEnimYk64hJEj3rBy24_TesDa3GFt4kMcZpvP9oYGwzFCUnIlr4cDKCSP8_21PQMmWseg37EPbrIElMwwYlGY12rO5KW0dQ6mem8CE3dkwSroCizaP88r3uS4YTdUPpgF6AfmiB4HdigDzOTd8gKCljD3ECziKQ5eFjTFlA=)
 
 La Cachapera expande seu sabor venezuelano pela Espanha e Europa, consolidando a cachapa como seu prato estrela. Com uma segunda unidade em Madrid e planos de abertura em várias cidades espanholas, Lisboa e Paris, esta rede demonstra o sucesso da gastronomia tradicional venezuelana no mercado internacional.
-
---- 
-
-## 🇻🇪 Venezuela Brilha: Seis Restaurantes Reconhecidos na Prestigiada Lista 50 Best Discovery 2026 (Venezuela)
-**Restaurante:** 50 Best Discovery (Caracas y Valencia) | **Data:** Maio 2026 | [Link](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEZ0Ftv3PHrUovmVR4gBkzencChz8SxvUH8ntweUf0QbGWFJWWQoS8yKTtNotUAExGBNO7_XxSwduvAemdo294LfSDKPQnmpJclR74EPeOWZ7wwV1oGOZI6yWYQZ-Dfp4oFxRNDTpjAA3AJkJVgioqFSaqXS8usFl8OphHw3SpoCNpKoWWItj9-9bDWpDirkWhYhwrlW4pC0o4CUE-oRCCenNTl7e652rTWSbM7g7HeeO6pT9o=)
-
-A plataforma 50 Best Discovery 2026 incluiu seis restaurantes venezuelanos, quatro deles estreantes, destacando a alta gastronomia do país. Pela primeira vez, um local fora de Caracas, "Dining Room" em Valência, recebe esta honra, juntamente com "Cordero", "La Casa Bistró", "La Posada de Cervantes" e "El Bosque Bistró" na capital, celebrando sua qualidade e criatividade.
 
 --- 
 
