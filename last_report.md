@@ -1,4 +1,25 @@
-# Relatório de Pesquisa de Tendências (Nuvem) - 2026-11-13 22:25:38
+# Relatório de Pesquisa de Tendências (Nuvem) - 2026-11-14 21:09:42
+
+## 🇺🇸 Mita: A Revolução Vegana Venezuelana que Conquista Washington D.C. com uma Estrela Michelin (Estados Unidos)
+**Restaurante:** Mita (Washington D.C.) | **Data:** Maio 2026 | [Link](https://www.lanacion.com.ar/estados-unidos/son-venezolanos-y-crearon-un-restaurante-que-gano-una-estrella-michelin-en-estados-unidos-nid06072025/)
+
+Mita, o restaurante dos chefs venezuelanos Tatiana Mora e Miguel Guerra em Washington D.C., conquistou uma estrela Michelin com sua proposta inovadora 100% baseada em plantas. Reinventando pratos tradicionais latino-americanos, especialmente venezuelanos, Mita demonstra que a alta cozinha vegana pode ser deliciosa e reconhecida mundialmente, destacando suas arepas adaptadas.
+
+--- 
+
+## 🇵🇪 Mérito e Demo: A Fusão Peruano-Venezuelana que Conquista o Top Mundial em Lima (Perú)
+**Restaurante:** Mérito y Demo (Lima) | **Data:** Maio 2026 | [Link](https://www.elnacional.com/venezuela/venezuela-no-figura-en-the-worlds-50-best-restaurants-pero-deja-huella-a-traves-de-juan-luis-martinez/)
+
+O chef venezuelano Juan Luis Martínez eleva a gastronomia de seu país no Peru com o Mérito, posicionado em 13º lugar na lista 'The World's 50 Best Restaurants 2026'. Sua proposta fusiona ingredientes peruanos e venezuelanos, criando uma linguagem culinária única. Além disso, o Demo, sua cafeteria, populariza cachapas e arepas, integrando a culinária venezuelana na prestigiada cena limenha.
+
+--- 
+
+## 🇨🇦 The Arepa Republic: A Arepa Venezuelana Conquista o Canadá e se Prepara para Franquear (Canadá)
+**Restaurante:** The Arepa Republic (Toronto) | **Data:** Maio 2026 | [Link](https://elvenezolanonews.com/2025/08/20/un-restaurante-venezolano-populariza-la-arepa-en-el-mercado-canadiense/)
+
+The Arepa Republic em Toronto está popularizando a arepa venezuelana no Canadá, com 90% de clientes não venezuelanos. Oferecem arepas clássicas como a pabellón e a reina pepiada, além de outros pratos típicos. Com planos de expansão para Quebec e Montreal, buscam se tornar a primeira franquia de arepas venezuelanas no mercado canadense até 2025, consolidando sua presença.
+
+--- 
 
 ## 🇵🇪 Juan Luis Martínez: Fusão Peruano-Venezuelana que Conquista Lima com Sabor e Tradição (Perú)
 **Restaurante:** Mérito, Clon y Demo (Lima) | **Data:** Maio 2026 | [Link](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHKMiiRkaGKmVJLPYF8H63JmUDM2bcSxzzpcOl1ptnqnAaC69eGIEObZcA5SmO3vXJ-QvMgrDYp0_ubDwAvYcxc0H4uLAhE3PP5vnYr40Ae9bRpvRVzo9IZfk-B7kbMIycru4d8y4-sn9f8mzdaEkAB6cQdbZeCzvrHrrfMDM6QBAP-vbZhjKI=)
@@ -32,27 +53,6 @@ A Associação AADEM organizou a Festa Gastronómica Venezuelana 2026 no Funchal
 **Restaurante:** Festival Latinada 2025 (Singapur) | **Data:** Maio 2026 | [Link](http://mppre.gob.ve/2025/03/22/venezuela-festival-latinada-singapur/)
 
 O Festival Latinada 2025 em Singapura testemunhou a destacada participação de chefs venezuelanos como Raúl Márquez e Carlos Rodríguez. Apresentaram pratos típicos, incluindo a famosa arepa reina pepiada, elevando a gastronomia venezuelana na Ásia e reafirmando a sua importância no panorama culinário internacional.
-
---- 
-
-## 🇪🇸 Apartaco: O Buffet Livre Venezuelano que Conquista Madrid com Sabor e Solidariedade (España)
-**Restaurante:** Apartaco (Madrid) | **Data:** Maio 2026 | [Link](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHqpxkW515iog96V8awOEl7OipjH6l2xJPjs2T-tS6Kt5bdrQj228NtC2NJUoXPi-FIVmkT-tIjhn6DnBt6RNHNnesz8SlX5ZnyYo5tpCjzaYL2BmlZ3m-qGd_0IkRCAW5BPc4T1XhUJCaHUytHB548iXDbLWzu3vAkCkgFgSTT8JcS9W_rpcBJ0h5Nn6BmPNhEVZ4OvdcOD9NgGHKpvC-ckmxYrEytm9Gdp8ZPuUkHm9SIjxX4PNBJzcyfZfm4wExsURIg1UEZnoinXI0F5JxRcY54WxW9E8aEuxgKNcYyNAt1x1BgDQh6xtfanCgjACw=)
-
-Apartaco revoluciona Madrid com seu inovador buffet livre de comida venezuelana. Desfrute de arepas, tequeños e pabellón criollo ilimitados por menos de 15€. Além disso, cada menu contribui para a Fundação Meals4Hope, apoiando vítimas de terremotos na Venezuela. Uma proposta gastronômica com coração.
-
---- 
-
-## 🇻🇪 Venezuela Brilha no 50 Best Discovery 2026: Dining Room e Robusto Bar Elevam a Gastronomia (Venezuela)
-**Restaurante:** Dining Room (Valencia) y Robusto Bar (Caracas) | **Data:** Maio 2026 | [Link](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFvHq5VVMLgw5i3QqbZXmqYDiiskuxZ7Q-ZyIMEpbljJZNxmm_PCHp4128YOX6iY33fMV3BaS2xMMyThxXDNQvxWk8zxzBR7F5GmsSzfpGI_zFH1NGidobww3Trih12tU98qjUiNShycCmmev1Gp_wrx7bj0YcHTShXZdVDjqgSZrSyL8Lu0kTI0DFngBw980-nJSqFaqH0i96rO0D1hPuaeLEndG-TcbgSA==)
-
-Quatro locais venezuelanos, incluindo Dining Room (Valência) e Robusto Bar (Caracas), foram reconhecidos na prestigiada lista 50 Best Discovery 2026. Este marco celebra a alta cozinha venezuelana, destacando a vanguarda do chef Frank Parada e a inovadora coquetelaria do Robusto Bar, consolidando a presença do país no mapa gastronômico mundial.
-
---- 
-
-## 🇪🇸 La Cachapera: A Autêntica Cachapa Venezuelana Conquista Espanha e Europa (España)
-**Restaurante:** La Cachapera (Madrid) | **Data:** Maio 2026 | [Link](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH8SsKr_rIHEj8tUU2sOEIZVZ131YAx8T_IrUA_OTuZ9gtzK7XnDYwZZIDDY0_BpQ-c-O1N5nwUUqGdseyrSN1YaVgsD_QH0bh9NEnimYk64hJEj3rBy24_TesDa3GFt4kMcZpvP9oYGwzFCUnIlr4cDKCSP8_21PQMmWseg37EPbrIElMwwYlGY12rO5KW0dQ6mem8CE3dkwSroCizaP88r3uS4YTdUPpgF6AfmiB4HdigDzOTd8gKCljD3ECziKQ5eFjTFlA=)
-
-La Cachapera expande seu sabor venezuelano pela Espanha e Europa, consolidando a cachapa como seu prato estrela. Com uma segunda unidade em Madrid e planos de abertura em várias cidades espanholas, Lisboa e Paris, esta rede demonstra o sucesso da gastronomia tradicional venezuelana no mercado internacional.
 
 --- 
 
