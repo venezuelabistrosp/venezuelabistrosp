@@ -1,4 +1,11 @@
-# Relatório de Pesquisa de Tendências (Nuvem) - 2026-11-14 21:09:42
+# Relatório de Pesquisa de Tendências (Nuvem) - 2026-11-15 21:30:36
+
+## 🇪🇸 La Cachapera Expande seu Sabor Venezuelano na Espanha com sua Sexta Abertura em Madrid (España)
+**Restaurante:** La Cachapera (Madrid) | **Data:** Maio 2026 | [Link](https://profesionalhoreca.com/la-cachapera-abre-su-sexto-restaurante-en-espana/)
+
+La Cachapera celebra a abertura de sua sexta unidade em Madrid, consolidando seu sucesso na Espanha. Este restaurante especializado em culinária venezuelana destaca-se por suas cachapas tradicionais e pela inovadora criação dos "cachinachos", uma fusão de nachos com triângulos de cachapa crocante, demonstrando a evolução dos pratos tradicionais no mercado europeu.
+
+--- 
 
 ## 🇺🇸 Mita: A Revolução Vegana Venezuelana que Conquista Washington D.C. com uma Estrela Michelin (Estados Unidos)
 **Restaurante:** Mita (Washington D.C.) | **Data:** Maio 2026 | [Link](https://www.lanacion.com.ar/estados-unidos/son-venezolanos-y-crearon-un-restaurante-que-gano-una-estrella-michelin-en-estados-unidos-nid06072025/)
@@ -46,13 +53,6 @@ Dining Room, do chef Frank Parada em Valência, Venezuela, foi galardoado com o 
 **Restaurante:** Fiesta Gastronómica Venezolana 2026 (Funchal) | **Data:** Maio 2026 | [Link](https://correiodelvenezuela.com/funchal-albergara-la-fiesta-gastronomica-venezolana-2026-del-18-al-20-de-septiembre/)
 
 A Associação AADEM organizou a Festa Gastronómica Venezuelana 2026 no Funchal, Madeira. Este evento de três dias, de 18 a 20 de setembro, reuniu a comunidade luso-venezuelana e visitantes para desfrutar da cozinha tradicional, música e manifestações culturais da Venezuela, destacando a riqueza dos seus pratos típicos.
-
---- 
-
-## 🇸🇬 Chefs venezuelanos conquistam Singapura no Festival Latinada 2025 com sabores autênticos (Singapur)
-**Restaurante:** Festival Latinada 2025 (Singapur) | **Data:** Maio 2026 | [Link](http://mppre.gob.ve/2025/03/22/venezuela-festival-latinada-singapur/)
-
-O Festival Latinada 2025 em Singapura testemunhou a destacada participação de chefs venezuelanos como Raúl Márquez e Carlos Rodríguez. Apresentaram pratos típicos, incluindo a famosa arepa reina pepiada, elevando a gastronomia venezuelana na Ásia e reafirmando a sua importância no panorama culinário internacional.
 
 --- 
 
