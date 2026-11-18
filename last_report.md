@@ -1,4 +1,11 @@
-# Relatório de Pesquisa de Tendências (Nuvem) - 2026-11-15 21:30:36
+# Relatório de Pesquisa de Tendências (Nuvem) - 2026-11-18 23:18:59
+
+## 🇵🇪 "Por la Cachapa": Um Evento Solidário Latino-Americano que Celebra a Gastronomia Venezuelana (Perú)
+**Restaurante:** "Por la Cachapa" (Lima) | **Data:** Maio 2026 | [Link](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFPoJUHLbVAeSr82TkLhqyo1F45nSh_syerjqzlRF5ITKGaZxblD8sKRwMhgXf9KUc7rLhybJ7qZ8vDIbmDFDW2A9s0GpqLC_51xCF6sKCvLuNh5LwBCQVsqqjqtMChydDZ0eujIWmQbxJu5ukdV6r1_1JGbO9NEFxMmsGDSVElpHJNTM92v0ZVrDj-YHZfC82MDoIZ0J14UMP6E7N0v2YqOaUuSDb9sjLVwlfTI3mVX9NlFseYNMGcCUG2EiZTNWRmE5Ht6CGA5Lx7ylJ-mlUB2dVGPIBj3jh4Fw==)
+
+O evento "Por la Cachapa", impulsionado por Demo em Lima, uniu mais de 30 restaurantes latino-americanos para arrecadar fundos para a World Central Kitchen. Celebrando a versatilidade da cachapa, desde versões marinhas até fusões indianas, demonstrou o poder da gastronomia venezuelana para a solidariedade.
+
+--- 
 
 ## 🇪🇸 La Cachapera Expande seu Sabor Venezuelano na Espanha com sua Sexta Abertura em Madrid (España)
 **Restaurante:** La Cachapera (Madrid) | **Data:** Maio 2026 | [Link](https://profesionalhoreca.com/la-cachapera-abre-su-sexto-restaurante-en-espana/)
@@ -46,13 +53,6 @@ Mérito, liderado pelo chef Juan Luis Martínez, posiciona-se como o restaurante
 **Restaurante:** Dining Room (Valencia) | **Data:** Maio 2026 | [Link](https://correodelcaroni.com/cultura/venezuela-suma-cuatro-locales-en-la-lista-gastronomica-50-best-discovery-2026/)
 
 Dining Room, do chef Frank Parada em Valência, Venezuela, foi galardoado com o Tenedor de Oro 2025 e em julho de 2026 juntou-se ao prestigiado guia "50 Best Discovery". Este reconhecimento celebra sua cozinha de vanguarda, técnicas elevadas e o uso respeitoso de ingredientes venezuelanos, marcando um marco para a gastronomia local.
-
---- 
-
-## 🇵🇹 Funchal celebra a vibrante Festa Gastronómica Venezuelana 2026: Sabor e Cultura na Madeira (Portugal)
-**Restaurante:** Fiesta Gastronómica Venezolana 2026 (Funchal) | **Data:** Maio 2026 | [Link](https://correiodelvenezuela.com/funchal-albergara-la-fiesta-gastronomica-venezolana-2026-del-18-al-20-de-septiembre/)
-
-A Associação AADEM organizou a Festa Gastronómica Venezuelana 2026 no Funchal, Madeira. Este evento de três dias, de 18 a 20 de setembro, reuniu a comunidade luso-venezuelana e visitantes para desfrutar da cozinha tradicional, música e manifestações culturais da Venezuela, destacando a riqueza dos seus pratos típicos.
 
 --- 
 
