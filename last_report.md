@@ -1,4 +1,11 @@
-# Relatório de Pesquisa de Tendências (Nuvem) - 2026-11-18 23:18:59
+# Relatório de Pesquisa de Tendências (Nuvem) - 2026-11-19 23:27:19
+
+## 🇵🇹 Funchal Celebra a Cultura Venezuelana: Uma Festa Gastronômica Inesquecível na Madeira (Portugal)
+**Restaurante:** Fiesta Gastronómica Venezolana 2026 (Funchal) | **Data:** Maio 2026 | [Link](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE4s1acd_JDZnBURp5P0ceIvIEwuRexhc_ja8FOmKMuleslRAGKp8IHCb7BHsoq5344l2lIVXTwoi8UcBdqwZdcO3nVohSOhD96_CbtFlMgswo7ugD1OUD45iRTRX9UM--857zqVHWsSLtixFxK_8mlUJ1fnvTTgs6zKzAR6fV0Uncx-gx1jkrBmkytLoxT5OBxu17oA-0UCceAms2UWwkywdYRkLi-nbUusteoh7N_BhsQRyGMhA==)
+
+Funchal, Madeira, prepara-se para acolher a "Festa Gastronômica Venezuelana 2026" de 18 a 20 de setembro. Este evento cultural e culinário oferecerá uma imersão na tradição venezuelana com pratos típicos, música e diversas manifestações artísticas, promovendo o intercâmbio entre a comunidade luso-venezolana e os habitantes locais.
+
+--- 
 
 ## 🇵🇪 "Por la Cachapa": Um Evento Solidário Latino-Americano que Celebra a Gastronomia Venezuelana (Perú)
 **Restaurante:** "Por la Cachapa" (Lima) | **Data:** Maio 2026 | [Link](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFPoJUHLbVAeSr82TkLhqyo1F45nSh_syerjqzlRF5ITKGaZxblD8sKRwMhgXf9KUc7rLhybJ7qZ8vDIbmDFDW2A9s0GpqLC_51xCF6sKCvLuNh5LwBCQVsqqjqtMChydDZ0eujIWmQbxJu5ukdV6r1_1JGbO9NEFxMmsGDSVElpHJNTM92v0ZVrDj-YHZfC82MDoIZ0J14UMP6E7N0v2YqOaUuSDb9sjLVwlfTI3mVX9NlFseYNMGcCUG2EiZTNWRmE5Ht6CGA5Lx7ylJ-mlUB2dVGPIBj3jh4Fw==)
@@ -46,13 +53,6 @@ O chef venezuelano Juan Luis Martínez revoluciona Lima com seus restaurantes M�
 **Restaurante:** Mérito (Lima) | **Data:** Maio 2026 | [Link](https://www.elnacional.com/cultura/venezuela-no-figura-en-the-worlds-50-best-restaurants-pero-deja-huella-a-traves-de-juan-luis-martinez/)
 
 Mérito, liderado pelo chef Juan Luis Martínez, posiciona-se como o restaurante venezuelano mais bem avaliado globalmente, alcançando o 13º lugar em "The World's 50 Best Restaurants 2026". Sua proposta funde produtos limenhos com a essência venezuelana, criando uma experiência culinária única que celebra a identidade e a transformação gastronômica.
-
---- 
-
-## 🇻🇪 Dining Room em Valência: Vanguarda Culinária Venezuelana Brilha no 50 Best Discovery (Venezuela)
-**Restaurante:** Dining Room (Valencia) | **Data:** Maio 2026 | [Link](https://correodelcaroni.com/cultura/venezuela-suma-cuatro-locales-en-la-lista-gastronomica-50-best-discovery-2026/)
-
-Dining Room, do chef Frank Parada em Valência, Venezuela, foi galardoado com o Tenedor de Oro 2025 e em julho de 2026 juntou-se ao prestigiado guia "50 Best Discovery". Este reconhecimento celebra sua cozinha de vanguarda, técnicas elevadas e o uso respeitoso de ingredientes venezuelanos, marcando um marco para a gastronomia local.
 
 --- 
 
