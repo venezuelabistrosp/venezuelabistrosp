@@ -1,4 +1,11 @@
-# Relatório de Pesquisa de Tendências (Nuvem) - 2026-11-19 23:27:19
+# Relatório de Pesquisa de Tendências (Nuvem) - 2026-11-20 22:59:36
+
+## 🇪🇸 La Cachapera: A Revolução da Gastronomia Venezuelana Organizada na Espanha (España)
+**Restaurante:** La Cachapera (España) | **Data:** Maio 2026 | [Link](https://profesionalhoreca.com/la-cachapera-abre-su-sexto-restaurante-en-espana-junio-2026/)
+
+La Cachapera consolida-se como líder da restauração venezuelana na Espanha, abrindo sua sexta unidade. Com um modelo escalável e faturamento de 6,5 milhões de euros em 2025, planeja expandir-se pela Europa, levando suas autênticas cachapas e delícias venezuelanas a novos mercados.
+
+--- 
 
 ## 🇵🇹 Funchal Celebra a Cultura Venezuelana: Uma Festa Gastronômica Inesquecível na Madeira (Portugal)
 **Restaurante:** Fiesta Gastronómica Venezolana 2026 (Funchal) | **Data:** Maio 2026 | [Link](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE4s1acd_JDZnBURp5P0ceIvIEwuRexhc_ja8FOmKMuleslRAGKp8IHCb7BHsoq5344l2lIVXTwoi8UcBdqwZdcO3nVohSOhD96_CbtFlMgswo7ugD1OUD45iRTRX9UM--857zqVHWsSLtixFxK_8mlUJ1fnvTTgs6zKzAR6fV0Uncx-gx1jkrBmkytLoxT5OBxu17oA-0UCceAms2UWwkywdYRkLi-nbUusteoh7N_BhsQRyGMhA==)
@@ -46,13 +53,6 @@ The Arepa Republic em Toronto está popularizando a arepa venezuelana no Canadá
 **Restaurante:** Mérito, Clon y Demo (Lima) | **Data:** Maio 2026 | [Link](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHKMiiRkaGKmVJLPYF8H63JmUDM2bcSxzzpcOl1ptnqnAaC69eGIEObZcA5SmO3vXJ-QvMgrDYp0_ubDwAvYcxc0H4uLAhE3PP5vnYr40Ae9bRpvRVzo9IZfk-B7kbMIycru4d8y4-sn9f8mzdaEkAB6cQdbZeCzvrHrrfMDM6QBAP-vbZhjKI=)
 
 O chef venezuelano Juan Luis Martínez revoluciona Lima com seus restaurantes Mérito, Clon e Demo, fundindo magistralmente a culinária peruana e venezuelana. De arepas com ceviche a cachapas que são um sucesso retumbante, sua proposta demonstra a versatilidade e o encanto da gastronomia venezuelana, enriquecendo o panorama culinário internacional.
-
---- 
-
-## 🇵🇪 Mérito em Lima: A Alta Cozinha Venezuelana Conquista o Top Mundial de Restaurantes (Perú)
-**Restaurante:** Mérito (Lima) | **Data:** Maio 2026 | [Link](https://www.elnacional.com/cultura/venezuela-no-figura-en-the-worlds-50-best-restaurants-pero-deja-huella-a-traves-de-juan-luis-martinez/)
-
-Mérito, liderado pelo chef Juan Luis Martínez, posiciona-se como o restaurante venezuelano mais bem avaliado globalmente, alcançando o 13º lugar em "The World's 50 Best Restaurants 2026". Sua proposta funde produtos limenhos com a essência venezuelana, criando uma experiência culinária única que celebra a identidade e a transformação gastronômica.
 
 --- 
 
