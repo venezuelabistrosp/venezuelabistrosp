@@ -1,4 +1,11 @@
-# Relatório de Pesquisa de Tendências (Nuvem) - 2026-11-20 22:59:36
+# Relatório de Pesquisa de Tendências (Nuvem) - 2026-11-21 22:04:54
+
+## 🇻🇪 Dining Room: A Vanguarda Culinária Venezuelana Brilha em Valência e Conquista o 50 Best Discovery. (Venezuela)
+**Restaurante:** Dining Room (Valencia) | **Data:** Maio 2026 | [Link](https://www.elnacional.com/venezuela/venezuela-suma-cuatro-locales-en-la-lista-gastronomica-50-best-discovery-2026/)
+
+Dining Room em Valência posiciona-se como referência da culinária venezuelana de vanguarda. Com o chef Frank Parada premiado com o Tenedor de Oro 2025, o restaurante destaca-se pelo seu menu inovador baseado em ingredientes regionais e técnicas elevadas. Sua inclusão no 50 Best Discovery 2026 o consolida como um destino gastronômico imperdível na Venezuela.
+
+--- 
 
 ## 🇪🇸 La Cachapera: A Revolução da Gastronomia Venezuelana Organizada na Espanha (España)
 **Restaurante:** La Cachapera (España) | **Data:** Maio 2026 | [Link](https://profesionalhoreca.com/la-cachapera-abre-su-sexto-restaurante-en-espana-junio-2026/)
@@ -46,13 +53,6 @@ O chef venezuelano Juan Luis Martínez eleva a gastronomia de seu país no Peru 
 **Restaurante:** The Arepa Republic (Toronto) | **Data:** Maio 2026 | [Link](https://elvenezolanonews.com/2025/08/20/un-restaurante-venezolano-populariza-la-arepa-en-el-mercado-canadiense/)
 
 The Arepa Republic em Toronto está popularizando a arepa venezuelana no Canadá, com 90% de clientes não venezuelanos. Oferecem arepas clássicas como a pabellón e a reina pepiada, além de outros pratos típicos. Com planos de expansão para Quebec e Montreal, buscam se tornar a primeira franquia de arepas venezuelanas no mercado canadense até 2025, consolidando sua presença.
-
---- 
-
-## 🇵🇪 Juan Luis Martínez: Fusão Peruano-Venezuelana que Conquista Lima com Sabor e Tradição (Perú)
-**Restaurante:** Mérito, Clon y Demo (Lima) | **Data:** Maio 2026 | [Link](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHKMiiRkaGKmVJLPYF8H63JmUDM2bcSxzzpcOl1ptnqnAaC69eGIEObZcA5SmO3vXJ-QvMgrDYp0_ubDwAvYcxc0H4uLAhE3PP5vnYr40Ae9bRpvRVzo9IZfk-B7kbMIycru4d8y4-sn9f8mzdaEkAB6cQdbZeCzvrHrrfMDM6QBAP-vbZhjKI=)
-
-O chef venezuelano Juan Luis Martínez revoluciona Lima com seus restaurantes Mérito, Clon e Demo, fundindo magistralmente a culinária peruana e venezuelana. De arepas com ceviche a cachapas que são um sucesso retumbante, sua proposta demonstra a versatilidade e o encanto da gastronomia venezuelana, enriquecendo o panorama culinário internacional.
 
 --- 
 
