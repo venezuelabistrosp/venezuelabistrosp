@@ -1,4 +1,11 @@
-# Relatório de Pesquisa de Tendências (Nuvem) - 2026-11-21 22:04:54
+# Relatório de Pesquisa de Tendências (Nuvem) - 2026-11-22 22:20:50
+
+## 🇻🇪 Robusto Bar: Coquetelaria de Autor e Luxo em Caracas, Reconhecido Globalmente (Venezuela)
+**Restaurante:** Robusto Bar (Caracas) | **Data:** Maio 2026 | [Link](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEjbReXl6EzsVYxHDxS3_hqO5jaBxSU_Bn8aDGhac7bJJ7XgSpxGKsDTTAMi8oT-G8xOrXn0vt1oBs7hFB9YM6w4LAbdKvA6Ah_YySO0pKHB2YFNGOKJjIvR01iB2Gal32VTdD4QoXClRzsxxZ1mF-89O8-ImttMKuSX8wAyEjLt5dXTOC8ck5gtc-Oy0HNcHEq9gEET2dLrRhDBKWLZykla_ni6fuy2pQzg96Fp5vDHixj9-k)
+
+Robusto Bar em Caracas se posiciona como um referente de luxo e sofisticação. Sua inclusão no 50 Best Discovery 2026 destaca sua inovadora combinação de coquetelaria de autor, cozinha internacional e cultura do charuto, oferecendo uma experiência integral que eleva a cena de bares venezuelana a um padrão internacional.
+
+--- 
 
 ## 🇻🇪 Dining Room: A Vanguarda Culinária Venezuelana Brilha em Valência e Conquista o 50 Best Discovery. (Venezuela)
 **Restaurante:** Dining Room (Valencia) | **Data:** Maio 2026 | [Link](https://www.elnacional.com/venezuela/venezuela-suma-cuatro-locales-en-la-lista-gastronomica-50-best-discovery-2026/)
@@ -46,13 +53,6 @@ Mita, o restaurante dos chefs venezuelanos Tatiana Mora e Miguel Guerra em Washi
 **Restaurante:** Mérito y Demo (Lima) | **Data:** Maio 2026 | [Link](https://www.elnacional.com/venezuela/venezuela-no-figura-en-the-worlds-50-best-restaurants-pero-deja-huella-a-traves-de-juan-luis-martinez/)
 
 O chef venezuelano Juan Luis Martínez eleva a gastronomia de seu país no Peru com o Mérito, posicionado em 13º lugar na lista 'The World's 50 Best Restaurants 2026'. Sua proposta fusiona ingredientes peruanos e venezuelanos, criando uma linguagem culinária única. Além disso, o Demo, sua cafeteria, populariza cachapas e arepas, integrando a culinária venezuelana na prestigiada cena limenha.
-
---- 
-
-## 🇨🇦 The Arepa Republic: A Arepa Venezuelana Conquista o Canadá e se Prepara para Franquear (Canadá)
-**Restaurante:** The Arepa Republic (Toronto) | **Data:** Maio 2026 | [Link](https://elvenezolanonews.com/2025/08/20/un-restaurante-venezolano-populariza-la-arepa-en-el-mercado-canadiense/)
-
-The Arepa Republic em Toronto está popularizando a arepa venezuelana no Canadá, com 90% de clientes não venezuelanos. Oferecem arepas clássicas como a pabellón e a reina pepiada, além de outros pratos típicos. Com planos de expansão para Quebec e Montreal, buscam se tornar a primeira franquia de arepas venezuelanas no mercado canadense até 2025, consolidando sua presença.
 
 --- 
 
