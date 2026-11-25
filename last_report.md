@@ -1,4 +1,18 @@
-# Relatório de Pesquisa de Tendências (Nuvem) - 2026-11-22 22:20:50
+# Relatório de Pesquisa de Tendências (Nuvem) - 2026-11-25 01:17:54
+
+## 🇵🇪 Mérito (Lima): A Alta Cozinha Venezuelana que Conquista o Top 50 Latino-Americano. (Perú)
+**Restaurante:** Mérito (Lima) | **Data:** Maio 2026 | [Link](https://www.theworlds50best.com/latinamerica/en/merito-lima-peru)
+
+Mérito em Lima posiciona-se como o restaurante venezuelano de alta cozinha mais destacado do mundo, fundindo magistralmente ingredientes venezuelanos e peruanos. Classificado como o #4 no 50 Best LatAm 2025, a sua proposta inovadora eleva os sabores tradicionais a uma experiência gastronómica de vanguarda, celebrando a riqueza culinária da região.
+
+--- 
+
+## 🇨🇦 The Arepa Republic: A Arepa Venezuelana Conquista Toronto e Busca Franquear. (Canadá)
+**Restaurante:** The Arepa Republic (Toronto) | **Data:** Maio 2026 | [Link](https://venezuelanprofiles.com/arepa-republic-toronto-canada)
+
+The Arepa Republic em Toronto propôs-se levar a arepa venezuelana a todos os cantos do Canadá, com a ambição de ser a primeira franquia de arepas no país. O seu sucesso reside em popularizar pratos como a arepa de pavilhão entre 90% da clientela não venezuelana, explicando a riqueza cultural por trás de cada mordida.
+
+--- 
 
 ## 🇻🇪 Robusto Bar: Coquetelaria de Autor e Luxo em Caracas, Reconhecido Globalmente (Venezuela)
 **Restaurante:** Robusto Bar (Caracas) | **Data:** Maio 2026 | [Link](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEjbReXl6EzsVYxHDxS3_hqO5jaBxSU_Bn8aDGhac7bJJ7XgSpxGKsDTTAMi8oT-G8xOrXn0vt1oBs7hFB9YM6w4LAbdKvA6Ah_YySO0pKHB2YFNGOKJjIvR01iB2Gal32VTdD4QoXClRzsxxZ1mF-89O8-ImttMKuSX8wAyEjLt5dXTOC8ck5gtc-Oy0HNcHEq9gEET2dLrRhDBKWLZykla_ni6fuy2pQzg96Fp5vDHixj9-k)
@@ -39,20 +53,6 @@ O evento "Por la Cachapa", impulsionado por Demo em Lima, uniu mais de 30 restau
 **Restaurante:** La Cachapera (Madrid) | **Data:** Maio 2026 | [Link](https://profesionalhoreca.com/la-cachapera-abre-su-sexto-restaurante-en-espana/)
 
 La Cachapera celebra a abertura de sua sexta unidade em Madrid, consolidando seu sucesso na Espanha. Este restaurante especializado em culinária venezuelana destaca-se por suas cachapas tradicionais e pela inovadora criação dos "cachinachos", uma fusão de nachos com triângulos de cachapa crocante, demonstrando a evolução dos pratos tradicionais no mercado europeu.
-
---- 
-
-## 🇺🇸 Mita: A Revolução Vegana Venezuelana que Conquista Washington D.C. com uma Estrela Michelin (Estados Unidos)
-**Restaurante:** Mita (Washington D.C.) | **Data:** Maio 2026 | [Link](https://www.lanacion.com.ar/estados-unidos/son-venezolanos-y-crearon-un-restaurante-que-gano-una-estrella-michelin-en-estados-unidos-nid06072025/)
-
-Mita, o restaurante dos chefs venezuelanos Tatiana Mora e Miguel Guerra em Washington D.C., conquistou uma estrela Michelin com sua proposta inovadora 100% baseada em plantas. Reinventando pratos tradicionais latino-americanos, especialmente venezuelanos, Mita demonstra que a alta cozinha vegana pode ser deliciosa e reconhecida mundialmente, destacando suas arepas adaptadas.
-
---- 
-
-## 🇵🇪 Mérito e Demo: A Fusão Peruano-Venezuelana que Conquista o Top Mundial em Lima (Perú)
-**Restaurante:** Mérito y Demo (Lima) | **Data:** Maio 2026 | [Link](https://www.elnacional.com/venezuela/venezuela-no-figura-en-the-worlds-50-best-restaurants-pero-deja-huella-a-traves-de-juan-luis-martinez/)
-
-O chef venezuelano Juan Luis Martínez eleva a gastronomia de seu país no Peru com o Mérito, posicionado em 13º lugar na lista 'The World's 50 Best Restaurants 2026'. Sua proposta fusiona ingredientes peruanos e venezuelanos, criando uma linguagem culinária única. Além disso, o Demo, sua cafeteria, populariza cachapas e arepas, integrando a culinária venezuelana na prestigiada cena limenha.
 
 --- 
 
