@@ -1,4 +1,18 @@
-# Relatório de Pesquisa de Tendências (Nuvem) - 2026-11-26 00:52:06
+# Relatório de Pesquisa de Tendências (Nuvem) - 2026-11-27 00:58:08
+
+## 🇺🇸 Mita DC: A Estrela Michelin Venezuelana que Redefine a Cozinha Baseada em Plantas (Estados Unidos)
+**Restaurante:** Mita (Washington D.C.) | **Data:** Maio 2026 | [Link](https://www.mita.restaurant/)
+
+Mita em Washington D.C. conquistou uma estrela Michelin com sua inovadora cozinha latino-americana baseada em plantas. Liderado pelos chefs venezuelanos Tatiana Mora e Miguel Guerra, este restaurante é pioneiro ao fundir a tradição venezuelana, destacando suas arepas, com uma abordagem vegetariana de alta cozinha, oferecendo uma experiência culinária sofisticada e consciente.
+
+--- 
+
+## 🇺🇸 Tequeño Mania: A Revolução Gourmet e Saudável do Tequeño em Miami (Estados Unidos)
+**Restaurante:** Tequeño Mania (Miami) | **Data:** Maio 2026 | [Link](https://tequenomania.com/)
+
+Tequeño Mania em Miami está redefinindo o icônico tequeño venezuelano com uma proposta gourmet e saudável. Oferecem uma ampla variedade de recheios inovadores e opções sem glúten elaboradas com mandioca e banana. Seu compromisso com a qualidade e autenticidade, combinado com a inovação, os posiciona como líderes na expansão deste delicioso petisco.
+
+--- 
 
 ## 🇺🇸 DC Al Toque: A Fusão Venezuelana que Conquista Washington D.C. com Sabores Únicos (Estados Unidos)
 **Restaurante:** DC Al Toque (Washington D.C.) | **Data:** Maio 2026 | [Link](https://eltiempolatino.com/2026/04/29/dc-al-toque-abre-en-washington-como-el-primer-restaurante-venezolano-a-la-carta-en-la-ciudad/)
@@ -39,20 +53,6 @@ Robusto Bar em Caracas se posiciona como um referente de luxo e sofisticação. 
 **Restaurante:** Dining Room (Valencia) | **Data:** Maio 2026 | [Link](https://www.elnacional.com/venezuela/venezuela-suma-cuatro-locales-en-la-lista-gastronomica-50-best-discovery-2026/)
 
 Dining Room em Valência posiciona-se como referência da culinária venezuelana de vanguarda. Com o chef Frank Parada premiado com o Tenedor de Oro 2025, o restaurante destaca-se pelo seu menu inovador baseado em ingredientes regionais e técnicas elevadas. Sua inclusão no 50 Best Discovery 2026 o consolida como um destino gastronômico imperdível na Venezuela.
-
---- 
-
-## 🇪🇸 La Cachapera: A Revolução da Gastronomia Venezuelana Organizada na Espanha (España)
-**Restaurante:** La Cachapera (España) | **Data:** Maio 2026 | [Link](https://profesionalhoreca.com/la-cachapera-abre-su-sexto-restaurante-en-espana-junio-2026/)
-
-La Cachapera consolida-se como líder da restauração venezuelana na Espanha, abrindo sua sexta unidade. Com um modelo escalável e faturamento de 6,5 milhões de euros em 2025, planeja expandir-se pela Europa, levando suas autênticas cachapas e delícias venezuelanas a novos mercados.
-
---- 
-
-## 🇵🇹 Funchal Celebra a Cultura Venezuelana: Uma Festa Gastronômica Inesquecível na Madeira (Portugal)
-**Restaurante:** Fiesta Gastronómica Venezolana 2026 (Funchal) | **Data:** Maio 2026 | [Link](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE4s1acd_JDZnBURp5P0ceIvIEwuRexhc_ja8FOmKMuleslRAGKp8IHCb7BHsoq5344l2lIVXTwoi8UcBdqwZdcO3nVohSOhD96_CbtFlMgswo7ugD1OUD45iRTRX9UM--857zqVHWsSLtixFxK_8mlUJ1fnvTTgs6zKzAR6fV0Uncx-gx1jkrBmkytLoxT5OBxu17oA-0UCceAms2UWwkywdYRkLi-nbUusteoh7N_BhsQRyGMhA==)
-
-Funchal, Madeira, prepara-se para acolher a "Festa Gastronômica Venezuelana 2026" de 18 a 20 de setembro. Este evento cultural e culinário oferecerá uma imersão na tradição venezuelana com pratos típicos, música e diversas manifestações artísticas, promovendo o intercâmbio entre a comunidade luso-venezolana e os habitantes locais.
 
 --- 
 
